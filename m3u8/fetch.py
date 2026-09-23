@@ -104,12 +104,13 @@ async def main() -> None:
     kodi_base = base_to_kodi(base_m3u8)
 
     async with async_playwright() as p:
+        hdl_brwsr = None
+        xtrnl_brwsr = None
         try:
             await network.setup_adblock()
 
-            hdl_brwsr = await network.browser(p)
-
-            xtrnl_brwsr = await network.browser(p, external=True)
+            hdl_brwsr = await network.browser(p, "firefox")
+            xtrnl_brwsr = await network.browser(p, "chromium")
 
             pw_tasks = [
                 asyncio.create_task(sportspass.scrape(hdl_brwsr)),
@@ -139,10 +140,10 @@ async def main() -> None:
             await asyncio.gather(*(pw_tasks + httpx_tasks))
 
         finally:
-            await hdl_brwsr.close()
-
-            await xtrnl_brwsr.close()
-
+            if hdl_brwsr:
+                await hdl_brwsr.close()
+            if xtrnl_brwsr:
+                await xtrnl_brwsr.close()
             await network.client.aclose()
 
     additions = (
