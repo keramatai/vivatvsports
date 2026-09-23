@@ -24,6 +24,9 @@ jobs:
       - name: Install deps
         run: uv sync --locked
 
+      - name: Install Playwright browsers
+        run: uv run playwright install --with-deps
+
       - name: Run fetch.py
         run: uv run m3u8/fetch.py
 
