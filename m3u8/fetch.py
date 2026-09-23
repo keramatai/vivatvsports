@@ -33,7 +33,7 @@ log = get_logger(Path(__file__).stem)
 files = [
     Path(__file__).parent / f"{file}.m3u8"
     for file in (
-        "base",
+        "vivatvsports",
         "events",
         "TV",
         "kodi",
