@@ -22,8 +22,10 @@ from scrapers import (
     streamtp,
     streamxhd,
     timstreams,
+    tvf90,
     watchfooty,
     webcast,
+    xyzstreams,
 )
 from scrapers.utils import get_logger, network
 
@@ -58,56 +60,37 @@ async def main() -> None:
 
             hdl_brwsr = await network.browser(p, "firefox")
 
-
-            pw_tasks = [
-                asyncio.create_task(sportspass.scrape(hdl_brwsr)),
-                asyncio.create_task(watchfooty.scrape(hdl_brwsr)),
+            # 1. Define lists of the actual scraper modules
+            pw_scraper_modules = [sportspass, watchfooty]
+            httpx_scraper_modules = [
+                fawa, flyembed, futbolx, istreameast, mainportal,
+                reedstreams, streamcenter, streamfree, streamgate,
+                tvf90, webcast, xyzstreams
             ]
 
-            httpx_tasks = [
-                # asyncio.create_task(dami.scrape()),
-                asyncio.create_task(embedsport.scrape()),
-                asyncio.create_task(fawa.scrape()),
-                asyncio.create_task(flyembed.scrape()),
-                asyncio.create_task(futbolx.scrape()),
-                asyncio.create_task(istreameast.scrape()),
-                asyncio.create_task(mainportal.scrape()),
-                # asyncio.create_task(ovostream.scrape()),
-                # asyncio.create_task(pelotalibre.scrape()),
-                asyncio.create_task(reedstreams.scrape()),
-                asyncio.create_task(streamcenter.scrape()),
-                asyncio.create_task(streamfree.scrape()),
-                asyncio.create_task(streamgate.scrape()),
-                # asyncio.create_task(streamtp.scrape()),
-                # asyncio.create_task(streamxhd.scrape()),
-                # asyncio.create_task(timstreams.scrape()),
-                asyncio.create_task(webcast.scrape()),
-            ]
+            # 2. Create tasks dynamically based on the modules
+            pw_tasks = [asyncio.create_task(m.scrape(hdl_brwsr)) for m in pw_scraper_modules]
+            httpx_tasks = [asyncio.create_task(m.scrape()) for m in httpx_scraper_modules]
 
             # Wait for all tasks to complete, capturing exceptions
             pw_results = await asyncio.gather(*pw_tasks, return_exceptions=True)
             httpx_results = await asyncio.gather(*httpx_tasks, return_exceptions=True)
 
-            # Process results and log exceptions
-            success = {}
-            for (name, _), result in zip(pw_scrapers, pw_results):
-                success[name] = not isinstance(result, Exception)
-                if isinstance(result, Exception):
-                    log.error(f"Scraper {name} failed: {result}")
-
-            for (name, _), result in zip(httpx_scrapers, httpx_results):
-                success[name] = not isinstance(result, Exception)
-                if isinstance(result, Exception):
-                    log.error(f"Scraper {name} failed: {result}")
-
-            # Build additions from scrapers that succeeded
+            # 3. Process results and build additions safely
             additions = {}
-            for name, scraper in pw_scrapers + httpx_scrapers:
-                if success.get(name, False):
-                    # Merge the urls
-                    additions.update(scraper.urls)
+            
+            for module, result in zip(pw_scraper_modules, pw_results):
+                if isinstance(result, Exception):
+                    log.error(f"Scraper {module.__name__} failed: {result}")
+                else:
+                    additions.update(module.urls)
 
-            # Process the combined additions
+            for module, result in zip(httpx_scraper_modules, httpx_results):
+                if isinstance(result, Exception):
+                    log.error(f"Scraper {module.__name__} failed: {result}")
+                else:
+                    additions.update(module.urls)
+
             # Process the combined additions
             live_events: list[str] = []
             combined_channels: list[str] = []
