@@ -107,82 +107,66 @@ async def main() -> None:
                     # Merge the urls
                     additions.update(scraper.urls)
 
-    additions = (
-        dami.urls
-        | embedsport.urls
-        | fawa.urls
-        | flyembed.urls
-        | futbolx.urls
-        | istreameast.urls
-        | mainportal.urls
-        | ovostream.urls
-        | pelotalibre.urls
-        | reedstreams.urls
-        | sportspass.urls
-        | streamcenter.urls
-        | streamfree.urls
-        | streamgate.urls
-        | streamtp.urls
-        | streamxhd.urls
-        | timstreams.urls
-        | watchfooty.urls
-        | webcast.urls
-    )
+            # Process the combined additions
+            # Process the combined additions
+            live_events: list[str] = []
+            combined_channels: list[str] = []
 
-    live_events: list[str] = []
+            for i, (event_name, event_info) in enumerate(
+                sorted(additions.items()),
+                start=1,
+            ):
+                tvg_id, logo, refer, source = (
+                    event_info[x]
+                    for x in (
+                        "tvg-id",
+                        "logo",
+                        "refer",
+                        "source",
+                    )
+                )
 
-    combined_channels: list[str] = []
+                ua: str = event_info.get("user-agent", network.UA)
 
-    for i, (event_name, event_info) in enumerate(
-        sorted(additions.items()),
-        start=1,
-    ):
-        tvg_id, logo, refer, source = (
-            event_info[x]
-            for x in (
-                "tvg-id",
-                "logo",
-                "refer",
-                "source",
+                extinf_all = (
+                    f'#EXTINF:-1 tvg-chno="{tvg_chno + i}" tvg-id="{tvg_id}" '
+                    f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
+                )
+
+                extinf_live = (
+                    f'#EXTINF:-1 tvg-chno="{i}" tvg-id="{tvg_id}" '
+                    f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
+                )
+
+                vlc_block: list[str] = [
+                    f"#EXTVLCOPT:http-referrer={refer}",
+                    f"#EXTVLCOPT:http-user-agent={ua}",
+                    source,
+                ]
+
+                combined_channels.extend(["\n" + extinf_all, *vlc_block])
+
+                live_events.extend(["\n" + extinf_live, *vlc_block])
+
+            COMBINED_FILE.write_text(
+                "\n".join(base_m3u8 + combined_channels),
+                encoding="utf-8",
             )
-        )
 
-        ua: str = event_info.get("user-agent", network.UA)
+            log.info(f"Base + Events saved to {COMBINED_FILE.resolve()}")
 
-        extinf_all = (
-            f'#EXTINF:-1 tvg-chno="{tvg_chno + i}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
-        )
+            EVENTS_FILE.write_text(
+                '#EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/m3u8/tv_epg.xml"\n'
+                + "\n".join(live_events),
+                encoding="utf-8",
+            )
 
-        extinf_live = (
-            f'#EXTINF:-1 tvg-chno="{i}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
-        )
+            log.info(f"Events saved to {EVENTS_FILE.resolve()}")
 
-        vlc_block: list[str] = [
-            f"#EXTVLCOPT:http-referrer={refer}",
-            f"#EXTVLCOPT:http-user-agent={ua}",
-            source,
-        ]
-
-        combined_channels.extend(["\n" + extinf_all, *vlc_block])
-
-        live_events.extend(["\n" + extinf_live, *vlc_block])
-
-    COMBINED_FILE.write_text(
-        "\n".join(base_m3u8 + combined_channels),
-        encoding="utf-8",
-    )
-
-    log.info(f"Base + Events saved to {COMBINED_FILE.resolve()}")
-
-    EVENTS_FILE.write_text(
-        '#EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/m3u8/tv_epg.xml"\n'
-        + "\n".join(live_events),
-        encoding="utf-8",
-    )
-
-    log.info(f"Events saved to {EVENTS_FILE.resolve()}")
+        finally:
+            if hdl_brwsr:
+                await hdl_brwsr.close()
+            await network.client.aclose()
 
 if __name__ == "__main__":
     asyncio.run(main())
