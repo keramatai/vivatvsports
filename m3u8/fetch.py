@@ -58,7 +58,7 @@ async def main() -> None:
         try:
             await network.setup_adblock()
 
-            hdl_brwsr = await network.browser(p, "firefox")
+            hdl_brwsr = await network.browser(p)
 
             # 1. Define lists of the actual scraper modules
             pw_scraper_modules = [sportspass, watchfooty]

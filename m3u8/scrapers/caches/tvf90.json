@@ -1,0 +1,506 @@
+{
+  "[Liga de Naciones de la CONCACAF] República Dominicana vs Nicaragua | Fox Sports 2 USA (TVF90)": {
+    "source": "https://6.ftlly.com:443/foxsports2_usa/mono.m3u8?token=b2b791f3a53269aa4d16f4a8445025eb00dfe890-5a-1790270988-1790252988",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=foxsports2_usa",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] República Dominicana vs Nicaragua | Fox Sports 2 USA | OP2 (TVF90)": {
+    "source": "https://3.ftlly.com:443/foxsports2_usa/mono.m3u8?token=727c325af23de3c00146a79c449566034c325d6c-6-1790270988-1790252988",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=foxsports2_usa",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Primera A] Atlético Nacional vs Millonarios | Win Sports + (TVF90)": {
+    "source": "https://3.ftlly.com:443/winsports2/mono.m3u8?token=ed753e7cdfa69770bb2ebd551f1f3a3d3037409a-58-1790270988-1790252988",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png",
+    "refer": "https://tvf90.com/1.php?stream=winsports2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Primera A] Atlético Nacional vs Millonarios | Win Sports + | OP2 (TVF90)": {
+    "source": "https://8.ftlly.com:443/winsports2/mono.m3u8?token=2e9b0fd5f05c28b9f1911e9d3870b6ed554044a6-56-1790270989-1790252989",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png",
+    "refer": "https://tvf90.com/2.php?stream=winsports2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Primera A] Atlético Nacional vs Millonarios | Win Sports + | OP3 (TVF90)": {
+    "source": "https://10.ftlly.com:443/winsports2/mono.m3u8?token=0276cd74bff8bd5bb31237b6124acc7f1cf6dc4a-2d-1790270989-1790252989",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png",
+    "refer": "https://tvf90.com/3.php?stream=winsports2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Primera A] Atlético Nacional vs Millonarios | Win Sports + | HD (TVF90)": {
+    "source": "https://bmF0aw9u.fubo18.com:443/winsports2/mono.m3u8?token=99a799c989950829f79fa7a49d917c2988b3bdfa-dd-1790270990-1790252990",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png",
+    "refer": "https://tvf90.com/hd.php?stream=winsports2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Clasificación para la Copa Africana de Naciones] Namibia vs Congo | BeIN Sports Ñ (TVF90)": {
+    "source": "https://9.ftlly.com:443/beinsportes/mono.m3u8?token=ed3c97f832abbc97d56690a7a31e67ef1023f1c4-13-1790270990-1790252990",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=beinsportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Clasificación para la Copa Africana de Naciones] Camerún vs Comoras | BeIN Sports Ñ (TVF90)": {
+    "source": "https://6.ftlly.com:443/beinsportes/mono.m3u8?token=8e66aaf371647b7a1968d802484623fdaa39ef03-fe-1790270990-1790252990",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=beinsportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Newell's Old Boys vs Rosario Central | TNT Sports (TVF90)": {
+    "source": "https://8.ftlly.com:443/tntsports/mono.m3u8?token=e364d81c087b60c93b9a5a48fa3d93332b050fb5-ea-1790270991-1790252991",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/3.php?stream=tntsports",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Newell's Old Boys vs Rosario Central | TNT Sports | OP2 (TVF90)": {
+    "source": "https://10.ftlly.com:443/tntsports/mono.m3u8?token=e037c0c90270fae8ba8bf18ab2f6856901aea4d3-85-1790270991-1790252991",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=tntsports",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Newell's Old Boys vs Rosario Central | TNT Sports | OP3 (TVF90)": {
+    "source": "https://10.ftlly.com:443/tntsports/mono.m3u8?token=ce1088b309cdf39848fe07a09c5da98a806e0c6e-7e-1790270991-1790252991",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=tntsports",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Newell's Old Boys vs Rosario Central | TNT Sports USA (TVF90)": {
+    "source": null,
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvtvhd.com/tv/canal.php?stream=even3",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Copa Chile] O'Higgins vs Deportes Santa Cruz | TNT Sports Premiun CL (TVF90)": {
+    "source": "https://2.ftlly.com:443/tntsportschile/mono.m3u8?token=d3ea3698a22adc85ab8c6a2508d017cbddace28a-5f-1790270993-1790252993",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/1.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Chile] O'Higgins vs Deportes Santa Cruz | TNT Sports Premiun CL OP2 (TVF90)": {
+    "source": "https://4.ftlly.com:443/tntsportschile/mono.m3u8?token=d90873f6fcd35ed7362e47ed98e354b323ce670b-60-1790270993-1790252993",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/2.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Chile] O'Higgins vs Deportes Santa Cruz | TNT Sports Premiun CL HD (TVF90)": {
+    "source": "https://dglvz29s.fubo18.com:443/tntsportschile/mono.m3u8?token=d48b211bb8383e908a70274a2888cd327f8d9d22-98-1790270994-1790252994",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/hd.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECDF LigaPro (TVF90)": {
+    "source": "https://6.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=60fe90548824999ebc1c7d39b887354f50c8f625-12-1790270994-1790252994",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECDF LigaPro | OP2 (TVF90)": {
+    "source": "https://9.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=c4d9b52e3ff370b9b76d1cfdec28e2230ec5087b-57-1790270995-1790252995",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECDF LigaPro | OP3 (TVF90)": {
+    "source": "https://4.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=ca07c305ed5ce023c17ac7abbd4e6b674ba4e460-29-1790270995-1790252995",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECDF LigaPRO | HD (TVF90)": {
+    "source": "https://eWVz.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=f527ba80cdb08d8483b9362ed73d3edf2fa4b3d9-c0-1790270995-1790252995",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECUAVISA (TVF90)": {
+    "source": "https://9.ftlly.com:443/ecdf/mono.m3u8?token=f82fad9a455577a6a3da0b4c55f3b925f30c66bd-ee-1790270996-1790252996",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/1.php?stream=ecdf",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECUAVISA | OP2 (TVF90)": {
+    "source": "https://4.ftlly.com:443/ecdf/mono.m3u8?token=10da5b95b300d62a9bbd1d2b89dda19daa7fd635-4e-1790270996-1790252996",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/2.php?stream=ecdf",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Ecuador] Gualaceo vs Independiente del Valle | ECUAVISA | OP3 (TVF90)": {
+    "source": "https://8.ftlly.com:443/ecdf/mono.m3u8?token=b2928f342953fa53195678b341918512a3dfe0ff-b0-1790270997-1790252997",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/86kk7j1753772273.png",
+    "refer": "https://tvf90.com/3.php?stream=ecdf",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[F2 Bakú] Clasificación | ESPN 2 (TVF90)": {
+    "source": "https://9.ftlly.com:443/espn2/mono.m3u8?token=8cc078f7eea4ca99faa8b4aebca6c49fc65c2850-30-1790270997-1790252997",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[F2 Bakú] Clasificación | ESPN 2 | OP2 (TVF90)": {
+    "source": "https://8.ftlly.com:443/espn2/mono.m3u8?token=f11ada134e9a5f3bf6f60b8fa56ca3fd2657d15a-ae-1790270997-1790252997",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[F2 Bakú] Clasificación | ESPN 2 | OP3 (TVF90)": {
+    "source": "https://8.ftlly.com:443/espn2/mono.m3u8?token=dc4ec607317c52bcf83e5576f6e6a31f7a4415b2-18-1790270998-1790252998",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/3.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[F2 Bakú] Clasificación | ESPN 2 | HD (TVF90)": {
+    "source": "https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=be345a81b5de784cefbe35dafb8ea5257a8964cb-f7-1790270998-1790252998",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[UEFA Nations League] Andorra vs Malta | ESPN 2 (TVF90)": {
+    "source": "https://10.ftlly.com:443/espn2/mono.m3u8?token=45e70b374d8b2f564094175ff12d7cac190b4730-3f-1790270998-1790252998",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/1.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Andorra vs Malta | ESPN 2 | OP2 (TVF90)": {
+    "source": "https://8.ftlly.com:443/espn2/mono.m3u8?token=a8002318895dcb64a03939f726019502eed85922-cf-1790270999-1790252999",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/2.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Andorra vs Malta | ESPN 2 | OP3 (TVF90)": {
+    "source": "https://3.ftlly.com:443/espn2/mono.m3u8?token=5e171aee81c64ede606e17a52665c237cee9c75f-1e-1790270999-1790252999",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/3.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Andorra vs Malta | ESPN 2 | HD (TVF90)": {
+    "source": "https://am91cm5leQ.fubo18.com:443/espn2/mono.m3u8?token=a72d1fc04ad92ddb14951e36bebe5f7661438444-dc-1790271000-1790253000",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Noruega vs Dinamarca | FOX Sports 1 USA (TVF90)": {
+    "source": "https://11.ftlly.com:443/foxsports1_usa/mono.m3u8?token=2588a435921b3cbe99868061248aa80b76c5dfa0-e-1790271000-1790253000",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/1.php?stream=foxsports1_usa",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Noruega vs Dinamarca | ESPN 2 (TVF90)": {
+    "source": "https://9.ftlly.com:443/espn2/mono.m3u8?token=3416ebb02acea7cbd10f9323d03533409c1e4034-60-1790271000-1790253000",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/1.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Noruega vs Dinamarca | ESPN 2 | OP2 (TVF90)": {
+    "source": "https://8.ftlly.com:443/espn2/mono.m3u8?token=d23108abf5c4356ca9041e9dd47adecb02bc6b07-2f-1790271001-1790253001",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/2.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Noruega vs Dinamarca | ESPN 2 | OP3 (TVF90)": {
+    "source": "https://6.ftlly.com:443/espn2/mono.m3u8?token=7a75aeade2c80048cae10698e1177d4801968cee-d2-1790271001-1790253001",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/3.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[UEFA Nations League] Noruega vs Dinamarca | ESPN 2 | HD (TVF90)": {
+    "source": "https://Ym9yZQ.fubo18.com:443/espn2/mono.m3u8?token=310d4e00dc6dc121759f9040dba8d668ccd916e0-6-1790271001-1790253001",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[NFL] Green Bay Packers vs. Atlanta Falcons | ESPN 5 (TVF90)": {
+    "source": "https://5.ftlly.com:443/espn5/mono.m3u8?token=590e1f82610ff8d3278123e345406da5ae543de1-55-1790271002-1790253002",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
+    "refer": "https://tvf90.com/1.php?stream=espn5",
+    "timestamp": 1790253840.0,
+    "tvg-id": "NFL.Dummy.us"
+  },
+  "[NFL] Green Bay Packers vs. Atlanta Falcons | ESPN 5 | OP2 (TVF90)": {
+    "source": "https://6.ftlly.com:443/espn5/mono.m3u8?token=a9aae49069250ab9a490d8a63fb658a0b2c477d1-f2-1790271002-1790253002",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
+    "refer": "https://tvf90.com/2.php?stream=espn5",
+    "timestamp": 1790253840.0,
+    "tvg-id": "NFL.Dummy.us"
+  },
+  "[NFL] Green Bay Packers vs. Atlanta Falcons | ESPN 5 | OP3 (TVF90)": {
+    "source": "https://4.ftlly.com:443/espn5/mono.m3u8?token=8de03d133a9e9ef12184271120104f6495881f48-53-1790271002-1790253002",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
+    "refer": "https://tvf90.com/3.php?stream=espn5",
+    "timestamp": 1790253840.0,
+    "tvg-id": "NFL.Dummy.us"
+  },
+  "[NFL] Green Bay Packers vs. Atlanta Falcons | ESPN 5 | HD (TVF90)": {
+    "source": "https://b2ZmaWNpYWw.fubo18.com:443/espn5/mono.m3u8?token=b0631c88ad77d3e85f5238b0ea618e0890aa3048-81-1790271003-1790253003",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn5",
+    "timestamp": 1790253840.0,
+    "tvg-id": "NFL.Dummy.us"
+  },
+  "[WTA] DOBLES - Singapur, dura - Cuartos de final: Costoulas S. / Gibson T. vs Mladenovic K. / Panova A. | Disney+ (TVF90)": {
+    "source": "https://6.ftlly.com:443/disney21/mono.m3u8?token=cb5e7517a8bea336cfd8a9345da8d7ba12b48221-fe-1790271003-1790253003",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/plus1.php?stream=disney21",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[ATP] Hangzhou Open (First Round) | Disney+ (TVF90)": {
+    "source": "https://9.ftlly.com:443/disney23/mono.m3u8?token=a6c604122d5e813613b98ed1198e58fe1bca4447-70-1790271004-1790253004",
+    "logo": "https://files.catbox.moe/q8ljra.png",
+    "refer": "https://tvf90.com/plus1.php?stream=disney23",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Tennis.Dummy.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | Fox Sports 2 USA (TVF90)": {
+    "source": "https://8.ftlly.com:443/foxsports2_usa/mono.m3u8?token=4de5f37ab23374d56f6b214145058fe6e9f10333-81-1790271004-1790253004",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=foxsports2_usa",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | Fox Sports 2 USA | OP2 (TVF90)": {
+    "source": "https://2.ftlly.com:443/foxsports2_usa/mono.m3u8?token=b541296e827b7307bf68e317716f2511195a27b2-b7-1790271004-1790253004",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=foxsports2_usa",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | TUDN USA (TVF90)": {
+    "source": "https://5.ftlly.com:443/tudn/mono.m3u8?token=1eec21a548aa1913cbd9af6c0857b0cd4d712053-b9-1790271005-1790253005",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/3.php?stream=tudn",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | TUDN USA | OP2 (TVF90)": {
+    "source": "https://2.ftlly.com:443/tudn/mono.m3u8?token=b5724af4ef1960d474dfbc4698c94175f13be575-17-1790271005-1790253005",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=tudn",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | TUDN USA | OP3 (TVF90)": {
+    "source": "https://6.ftlly.com:443/tudn/mono.m3u8?token=0c5c312634fecc63fbfe046bebddc962c938508f-d1-1790271006-1790253006",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=tudn",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Naciones de la CONCACAF] Costa Rica vs Curazao | TUDN USA | HD (TVF90)": {
+    "source": "https://b2ZmaWNpYWw.fubo18.com:443/tudn/mono.m3u8?token=5b0159fbd855d058810b4d08a5c25dbabec72b7f-92-1790271006-1790253006",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/hd.php?stream=tudn",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga Nacional] Municipal vs Suchitepéquez | FOX Deportes (TVF90)": {
+    "source": "https://4.ftlly.com:443/foxdeportes/mono.m3u8?token=5b88b66612364b1ef8ba974177585ce77b62a66a-dc-1790271006-1790253006",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2248.png",
+    "refer": "https://tvf90.com/1.php?stream=foxdeportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga Nacional] Municipal vs Suchitepéquez | FOX Deportes | OP2 (TVF90)": {
+    "source": "https://11.ftlly.com:443/foxdeportes/mono.m3u8?token=5fa5476d626d3cd0003ce5db8bed33399d0f524a-53-1790271007-1790253007",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2248.png",
+    "refer": "https://tvf90.com/2.php?stream=foxdeportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga Nacional] Municipal vs Suchitepéquez | FOX Deportes | OP3 (TVF90)": {
+    "source": "https://4.ftlly.com:443/foxdeportes/mono.m3u8?token=cceb7be0f6027e4c5b05adedbe7e79c8473923db-cf-1790271007-1790253007",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2248.png",
+    "refer": "https://tvf90.com/3.php?stream=foxdeportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga Nacional] Municipal vs Suchitepéquez | FOX Deportes | HD (TVF90)": {
+    "source": "https://c2f2zQ.fubo18.com:443/foxdeportes/mono.m3u8?token=8552976eadf5533576856e73e0fcedebc554d4dd-c7-1790271007-1790253007",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2248.png",
+    "refer": "https://tvf90.com/hd.php?stream=foxdeportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Clasificación para la Copa Africana de Naciones] Mauritania vs República Centroafricana | BeIN Sports Ñ (TVF90)": {
+    "source": "https://2.ftlly.com:443/beinsportes/mono.m3u8?token=bd9028cab9877f4a584fbfad053553dc025063d6-a4-1790271008-1790253008",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=beinsportes",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Liga de Expansión MX] Alebrijes de Oaxaca vs CA La Paz | ESPN MX (TVF90)": {
+    "source": "https://9.ftlly.com:443/espnmx/mono.m3u8?token=2a18fbe5631b5f21b431faf77d2fa3afcac956d0-1-1790271008-1790253008",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
+    "refer": "https://tvf90.com/1.php?stream=espnmx",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga de Expansión MX] Alebrijes de Oaxaca vs CA La Paz | ESPN MX | OP2 (TVF90)": {
+    "source": "https://11.ftlly.com:443/espnmx/mono.m3u8?token=c7f40188cb2649a75d790a1c38486a3fca1b3875-45-1790271009-1790253009",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
+    "refer": "https://tvf90.com/2.php?stream=espnmx",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga de Expansión MX] Alebrijes de Oaxaca vs CA La Paz | ESPN MX | OP3 (TVF90)": {
+    "source": "https://2.ftlly.com:443/espnmx/mono.m3u8?token=458ee6c03e28b3dfe67b7683e5bfdb67215d2d09-80-1790271009-1790253009",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
+    "refer": "https://tvf90.com/3.php?stream=espnmx",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Liga de Expansión MX] Alebrijes de Oaxaca vs CA La Paz | ESPN MX | HD (TVF90)": {
+    "source": "https://c2f2zQ.fubo18.com:443/espnmx/mono.m3u8?token=94d7117c26c647b09e3a669cd032350f20ce8c83-ea-1790271009-1790253009",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
+    "refer": "https://tvf90.com/canal.php?stream=espnmx",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Torneo de Reserva] Instituto  vs Estudiantes Rio Cuarto | ESPN 4 (TVF90)": {
+    "source": "https://7.ftlly.com:443/espn4/mono.m3u8?token=7e7d5b6f4d1ab2bb6e19741f2eb5e61f9e528d7b-41-1790271010-1790253010",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=espn4",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Instituto  vs Estudiantes Rio Cuarto | ESPN 4 | OP2 (TVF90)": {
+    "source": "https://11.ftlly.com:443/espn4/mono.m3u8?token=742eb4c7fd603349dd40c48bf5a823d86673b331-43-1790271010-1790253010",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=espn4",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Instituto  vs Estudiantes Rio Cuarto | ESPN 4 | OP3 (TVF90)": {
+    "source": "https://9.ftlly.com:443/espn4/mono.m3u8?token=668b0717878dfc747c8cde67e6d6df161e9c5ba2-92-1790271010-1790253010",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/3.php?stream=espn4",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Instituto  vs Estudiantes Rio Cuarto | ESPN 4 | HD (TVF90)": {
+    "source": "https://10.ftlly.com:443/espn4/mono.m3u8?token=0b12beb4da451932b6b6539bd17e0f641f4d9672-d6-1790271011-1790253011",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=espn4",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Racing Club vs Independiente | ESPN 2 (TVF90)": {
+    "source": "https://10.ftlly.com:443/espn2/mono.m3u8?token=bbfee62db64fb640cba40a3949575e6d5e856668-3e-1790271011-1790253011",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/1.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Racing Club vs Independiente | ESPN 2 | OP2 (TVF90)": {
+    "source": "https://10.ftlly.com:443/espn2/mono.m3u8?token=e377927c7d568aa267b63194ace8d21a0f6529a5-ff-1790271012-1790253012",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/2.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Racing Club vs Independiente | ESPN 2 | OP3 (TVF90)": {
+    "source": "https://11.ftlly.com:443/espn2/mono.m3u8?token=fab7f15f7cf977b40ad9d887ed710286ffb44c38-ca-1790271012-1790253012",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/3.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Torneo de Reserva] Racing Club vs Independiente | ESPN 2 | HD (TVF90)": {
+    "source": "https://bmF0aw9u.fubo18.com:443/espn2/mono.m3u8?token=d93745fbfb3041cf5cf064833757c10820b3c0dd-c5-1790271012-1790253012",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn2",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  },
+  "[Copa Chile] Everton vs Universidad Chile | TNT Sports Premiun CL (TVF90)": {
+    "source": "https://4.ftlly.com:443/tntsportschile/mono.m3u8?token=943f7d10303a27d4d9ee2c7447f4d11b115998d8-81-1790271013-1790253013",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/1.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Chile] Everton vs Universidad Chile | TNT Sports Premiun CL OP2 (TVF90)": {
+    "source": "https://7.ftlly.com:443/tntsportschile/mono.m3u8?token=9d421ec2cd94720cd38d855b28e3299c9f8db6ac-24-1790271013-1790253013",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/2.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Copa Chile] Everton vs Universidad Chile | TNT Sports Premiun CL HD (TVF90)": {
+    "source": "https://dglvz29s.fubo18.com:443/tntsportschile/mono.m3u8?token=e6376ceadff9f4dc2dde37b0348089f87c3f15fe-b1-1790271014-1790253014",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png",
+    "refer": "https://tvf90.com/hd.php?stream=tntsportschile",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Soccer.Dummy.us"
+  },
+  "[Golf] 2026 Presidents Cup – Primera Vuelta | ESPN 3 (TVF90)": {
+    "source": "https://10.ftlly.com:443/espn3/mono.m3u8?token=a75153ff2168cc9b5d22c8ddadcdc1980610d921-e7-1790271014-1790253014",
+    "logo": "https://files.catbox.moe/0u2n4x.png",
+    "refer": "https://tvf90.com/1.php?stream=espn3",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Golf.Dummy.us"
+  },
+  "[Golf] 2026 Presidents Cup – Primera Vuelta | ESPN 3 | OP2 (TVF90)": {
+    "source": "https://11.ftlly.com:443/espn3/mono.m3u8?token=ab8cd749f2a751c54e531e9bfbdccf53ecc8cf80-a-1790271014-1790253014",
+    "logo": "https://files.catbox.moe/0u2n4x.png",
+    "refer": "https://tvf90.com/2.php?stream=espn3",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Golf.Dummy.us"
+  },
+  "[Golf] 2026 Presidents Cup – Primera Vuelta | ESPN 3 | OP3 (TVF90)": {
+    "source": "https://8.ftlly.com:443/espn3/mono.m3u8?token=45686c3ae8029323ef618d516c9108a604c965cf-9e-1790271015-1790253015",
+    "logo": "https://files.catbox.moe/0u2n4x.png",
+    "refer": "https://tvf90.com/3.php?stream=espn3",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Golf.Dummy.us"
+  },
+  "[Golf] 2026 Presidents Cup – Primera Vuelta | ESPN 3 | HD (TVF90)": {
+    "source": "https://bmF0aw9u.fubo18.com:443/espn3/mono.m3u8?token=a011efe2de2431a20a6f097983388a9538992bbc-c8-1790271015-1790253015",
+    "logo": "https://files.catbox.moe/0u2n4x.png",
+    "refer": "https://tvf90.com/hd.php?stream=espn3",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Golf.Dummy.us"
+  },
+  "[WTA] INDIVIDUALES - Singapur, dura - 1/8 de final: Prozorova T. vs Eala A. | Disney+ (TVF90)": {
+    "source": "https://6.ftlly.com:443/disney22/mono.m3u8?token=2e62f654019b77e0e817d5afd7139c25e2bb6941-8f-1790271016-1790253016",
+    "logo": "https://files.catbox.moe/jd3pxq.png",
+    "refer": "https://tvf90.com/plus1.php?stream=disney22",
+    "timestamp": 1790253840.0,
+    "tvg-id": "Live.Event.us"
+  }
+}

@@ -1,0 +1,6584 @@
+[
+  {
+    "category": "motor-sports",
+    "date": 1790251200000,
+    "id": "2nd-practice-baku-city-circuit-formula-1-2588",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "sources": [
+      {
+        "id": "baku-city-circuit-free-practice-2-formula-1-1790251200",
+        "source": "hotel"
+      }
+    ],
+    "title": "2nd Practice | Baku City Circuit |"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790251200000,
+    "id": "azerbaijan-grand-prix-practice-1-2408187",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemxTtYYKSG4g+hkBBApcIGCBLXrBYEgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-azerbaijan-grand-prix-practice-2",
+        "source": "admin"
+      },
+      {
+        "id": "1607",
+        "source": "golf"
+      }
+    ],
+    "teams": null,
+    "title": "Azerbaijan Grand Prix Practice 1"
+  },
+  {
+    "category": "basketball",
+    "date": 1790249400000,
+    "id": "perth-wildcats-vs-adelaide-36ers-2487890",
+    "league_logo": "/api/images/leagues/nba.svg",
+    "league_name": "NBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDYeIbht0g+IEsZBSQKMyAggYuAsCQU+w2fRRgVKLp-L0sst5Mmp5iohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-perth-wildcats-vs-adelaide-36-ers",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiSwQfXCBggAJiG7qQJI4e0HEx5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Adelaide 36ers"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACBABjAATYEwghuqkCWNGYB3CCtaCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "name": "Perth Wildcats"
+      }
+    },
+    "title": "Perth Wildcats vs Adelaide 36ers"
+  },
+  {
+    "category": "basketball",
+    "date": 1790242200000,
+    "id": "south-east-melbourne-phoenix-vs-melbourne-united-2487889",
+    "league_logo": "/api/images/leagues/nba.svg",
+    "league_name": "NBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqygQ8BMCQhuIPiBKmQUkCgu4QEKwX0U+w2fRRgVKLp-L0tot5MtGCeYqIQQA.webp",
+    "sources": [
+      {
+        "id": "ppv-south-east-melbourne-phoenix-vs-melbourne-united",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15Q4ogAykQ3EHxAkDekDFwgAJmZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "name": "Melbourne United"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
+        "name": "South East Melbourne Phoenix"
+      }
+    },
+    "title": "South East Melbourne Phoenix vs Melbourne United"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790239860000,
+    "id": "live-event_formula-1-2026-azerbaijan-gp-live-stream",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_formula-1-2026-azerbaijan-gp-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "Formula 1 2026 - Azerbaijan GP"
+  },
+  {
+    "category": "football",
+    "date": 1790265600000,
+    "id": "andorra-vs-malta-2475285",
+    "odds": {
+      "away_odds": "+145",
+      "details": "MLT +145",
+      "draw_odds": "160",
+      "home_odds": "+240",
+      "over_under": "1.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-andorra-vs-malta",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-d-gr-1_andorra-malta-live-streaming-539383536",
+        "source": "delta"
+      },
+      {
+        "id": "malta-v-andorra-unl-401861047",
+        "source": "foxtrot"
+      },
+      {
+        "id": "andorra-vs-malta-uefa-nations-league-1790265600",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApBtYGG4gIIbQBMQJEDBCJt2xCFUEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
+        "name": "Malta"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgy3cjGD4Q3NfpwgQEEHxCISIACYEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Andorra"
+      }
+    },
+    "title": "Andorra vs Malta",
+    "venue": {
+      "city": "Encamp",
+      "country": "Andorra",
+      "name": "Estadi de la FAF d'Encamp"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790267700000,
+    "id": "pittsburgh-pirates-vs-st--louis-cardinals-2606537",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilAgYpEDJC8QWECm0GQEE2dPSWSClhFzGKMKs0c35RtTmb8rMBgbuJiEEA.webp",
+    "scores": {
+      "away": "5",
+      "clock": "0:00",
+      "home": "1",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-st-louis-cardinals-vs-pittsburgh-pirates",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_pirates-cardinals-live-streaming-594489024",
+        "source": "delta"
+      },
+      {
+        "id": "cardinals-v-pirates-401817063",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1655",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "St. Louis Cardinals"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
+        "name": "Pittsburgh Pirates"
+      }
+    },
+    "title": "Pittsburgh Pirates vs St. Louis Cardinals",
+    "venue": {
+      "city": "Pittsburgh",
+      "name": "PNC Park"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790273400000,
+    "id": "kansas-city-royals-vs-chicago-white-sox-2606538",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBD9CtCJq0gsIFCBgG9JsyawskFG+1HiUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+    "scores": {
+      "away": "4",
+      "clock": "0:00",
+      "home": "5",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-chicago-white-sox-vs-kansas-city-royals",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_royals-white-sox-live-streaming-594489456",
+        "source": "delta"
+      },
+      {
+        "id": "white-sox-v-royals-401817065",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1656",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp",
+        "name": "Chicago White Sox"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp",
+        "name": "Kansas City Royals"
+      }
+    },
+    "title": "Kansas City Royals vs Chicago White Sox",
+    "venue": {
+      "city": "Kansas City",
+      "name": "Kauffman Stadium"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790274000000,
+    "id": "chicago-cubs-vs-miami-marlins-2606539",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXxDGvSCF4gsIFCBj6QEY6avGtSClhFzGKMKpQ835RtTket9GBu4mIQQA.webp",
+    "scores": {
+      "away": "3",
+      "clock": "0:00",
+      "home": "2",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-miami-marlins-vs-chicago-cubs",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_cubs-marlins-live-streaming-594489888",
+        "source": "delta"
+      },
+      {
+        "id": "marlins-v-cubs-401817066",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1657",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Miami Marlins"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "name": "Chicago Cubs"
+      }
+    },
+    "title": "Chicago Cubs vs Miami Marlins",
+    "venue": {
+      "city": "Chicago",
+      "name": "Wrigley Field"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790274900000,
+    "id": "texas-rangers-vs-new-york-mets-2606540",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgksGmBQgIIXiCwgDMY4fMhLBlCx0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+    "scores": {
+      "away": "7",
+      "clock": "0:00",
+      "home": "2",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-new-york-mets-vs-texas-rangers",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_rangers-mets-live-streaming-594490320",
+        "source": "delta"
+      },
+      {
+        "id": "mets-v-rangers-401817067",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1658",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp",
+        "name": "New York Mets"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Texas Rangers"
+      }
+    },
+    "title": "Texas Rangers vs New York Mets",
+    "venue": {
+      "city": "Arlington",
+      "name": "Globe Life Field"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "live_uefa-nations-league-league-b-gr-1_north-macedonia-slovenia-live-streaming-539378352",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live_uefa-nations-league-league-b-gr-1_north-macedonia-slovenia-live-streaming-539378352",
+        "source": "delta"
+      }
+    ],
+    "title": "North Macedonia vs Slovenia"
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "liechtenstein-vs-lithuania-2442744",
+    "odds": {
+      "away_odds": "-350",
+      "details": "LTU -350",
+      "draw_odds": "370",
+      "home_odds": "+1000",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOGRjFa+ENxB8QRqSBSmQEXAYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-liechtenstein-vs-lithuania",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-d-gr-2_liechtenstein-lithuania-live-streaming-539383968",
+        "source": "delta"
+      },
+      {
+        "id": "lithuania-v-liechtenstein-unl-401861043",
+        "source": "foxtrot"
+      },
+      {
+        "id": "liechtenstein-vs-lithuania-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp",
+        "name": "Lithuania"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD00IGMCZhQIbiBIgUeoyD4bVpiAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "name": "Liechtenstein"
+      }
+    },
+    "title": "Liechtenstein vs Lithuania",
+    "venue": {
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "name": "Rheinpark Stadion"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "kosovo-vs-ireland-2442743",
+    "odds": {
+      "away_odds": "+205",
+      "details": "KOS +140",
+      "draw_odds": "200",
+      "home_odds": "+140",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAWDBJgMnHxDcQ+kCCkgU5kBFxGQJAsCQU+w2fRRgVKLp-L0sst5MtJqi9GFAA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-kosovo-vs-republic-of-ireland",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-b-gr-3_kosovo-ireland-live-streaming-539383104",
+        "source": "delta"
+      },
+      {
+        "id": "republic-of-ireland-v-kosovo-unl-401861045",
+        "source": "foxtrot"
+      },
+      {
+        "id": "kosovo-vs-republic-of-ireland-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwAEzDdczYGBDb1IPiBQgYx1QfMhlhGMCZ8UXMGTX15ol01pg3YqIQQA.webp",
+        "name": "Ireland"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQh4YPmG4g+IEiG27EMNSBMQQF-XwIUmNrmDLr680SmBNaYJ2NEQgA.webp",
+        "name": "Kosovo"
+      }
+    },
+    "title": "Kosovo vs Ireland",
+    "venue": {
+      "city": "Prishtina",
+      "country": "Kosovo",
+      "name": "Stadiumi Fadil Vokrri"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "austria-vs-israel-2442742",
+    "odds": {
+      "away_odds": "+500",
+      "details": "AUT -230",
+      "draw_odds": "360",
+      "home_odds": "-230",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLVC1EJENxB8QRqSBSmQEXAYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-austria-vs-israel",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-b-gr-3_austria-israel-live-streaming-539382672",
+        "source": "delta"
+      },
+      {
+        "id": "israel-v-austria-unl-401861048",
+        "source": "foxtrot"
+      },
+      {
+        "id": "austria-vs-israel-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Israel"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Austria"
+      }
+    },
+    "title": "Austria vs Israel",
+    "venue": {
+      "city": "Linz",
+      "country": "Austria",
+      "name": "Raiffeisen Arena (Linz)"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "norway-vs-denmark-2442741",
+    "odds": {
+      "away_odds": "+285",
+      "details": "NOR -125",
+      "draw_odds": "280",
+      "home_odds": "-125",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwQfECGAAGEBBDcdejSBRXjuc-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-norway-vs-denmark",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-a-gr-4_norway-denmark-live-streaming-539376624",
+        "source": "delta"
+      },
+      {
+        "id": "denmark-v-norway-unl-401861046",
+        "source": "foxtrot"
+      },
+      {
+        "id": "norway-vs-denmark-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Denmark"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUwACbB8IXdxD6SIFAeMg+IRIZDLCMbf3VswZeEXmj1TWmBdjREEA.webp",
+        "name": "Norway"
+      }
+    },
+    "title": "Norway vs Denmark",
+    "venue": {
+      "city": "Oslo",
+      "country": "Norway",
+      "name": "Ullevaal Stadion"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "portugal-vs-wales-2442740",
+    "odds": {
+      "away_odds": "+1300",
+      "details": "POR -600",
+      "draw_odds": "550",
+      "home_odds": "-600",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxCiBKMEmBINIPiFNSQKCyAi5jGggYp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-portugal-vs-wales",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-a-gr-4_portugal-wales-live-streaming-539377056",
+        "source": "delta"
+      },
+      {
+        "id": "wales-v-portugal-unl-401861044",
+        "source": "foxtrot"
+      },
+      {
+        "id": "portugal-vs-wales-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphhjuYFMHy4Q3ECRApdhkKcQ4LBCkz6a2YMvCLzRmprTAOxoiEA.webp",
+        "name": "Wales"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YbmAAmsMChDcQEECRNGQWiyBghb8AhSZ8UXMGVX15ol01pg3YqIQQA.webp",
+        "name": "Portugal"
+      }
+    },
+    "title": "Portugal vs Wales",
+    "venue": {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "name": "Estádio José Alvalade"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "serbia-vs-greece-2442739",
+    "odds": {
+      "away_odds": "+155",
+      "details": "GRE +155",
+      "draw_odds": "215",
+      "home_odds": "+170",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKlJAyQOsHxDcQ+nZpQgzEXFvMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-serbia-vs-greece",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-a-gr-2_serbia-greece-live-streaming-539376192",
+        "source": "delta"
+      },
+      {
+        "id": "greece-v-serbia-unl-401861042",
+        "source": "foxtrot"
+      },
+      {
+        "id": "serbia-vs-greece-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRVNENxAQQJXdpAATfcZiaCFJnxRcwZeEXmibTWmDtjREIA.webp",
+        "name": "Greece"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp",
+        "name": "Serbia"
+      }
+    },
+    "title": "Serbia vs Greece",
+    "venue": {
+      "city": "Belgrade",
+      "country": "Serbia",
+      "name": "Rajko Mitic Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790275500000,
+    "id": "netherlands-vs-germany-2442738",
+    "odds": {
+      "away_odds": "+145",
+      "details": "GER +145",
+      "draw_odds": "260",
+      "home_odds": "+150",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBQhEiHHxDcQ+kCCmbzEXKaMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-netherlands-vs-germany",
+        "source": "admin"
+      },
+      {
+        "id": "live_uefa-nations-league-league-a-gr-2_netherlands-germany-live-streaming-539375760",
+        "source": "delta"
+      },
+      {
+        "id": "germany-v-netherlands-unl-401861041",
+        "source": "foxtrot"
+      },
+      {
+        "id": "netherlands-vs-germany-uefa-nations-league-1790275500",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcw4FAnYgSqkH1wgAJnpMHuO3AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Germany"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "name": "Netherlands"
+      }
+    },
+    "title": "Netherlands vs Germany",
+    "venue": {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "name": "Johan Cruijff Arena"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790277000000,
+    "id": "colorado-rockies-vs-arizona-diamondbacks-2606541",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjGBIwswSg4heILCBQgYhkBFPmbKFts1YRcxijCr9HD+UbU5+viswGAe4mIQQA.webp",
+    "scores": {
+      "away": "5",
+      "clock": "0:00",
+      "home": "3",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-arizona-diamondbacks-vs-colorado-rockies",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_rockies-diamondbacks-live-streaming-594490752",
+        "source": "delta"
+      },
+      {
+        "id": "diamondbacks-v-rockies-401817068",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1659",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Arizona Diamondbacks"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
+        "name": "Colorado Rockies"
+      }
+    },
+    "title": "Colorado Rockies vs Arizona Diamondbacks",
+    "venue": {
+      "city": "Denver",
+      "name": "Coors Field"
+    }
+  },
+  {
+    "category": "hockey",
+    "date": 1790283600000,
+    "id": "live_ncaa-women_merrimack-warriors-lindenwood-lady-lions-live-streaming-653213808",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live_ncaa-women_merrimack-warriors-lindenwood-lady-lions-live-streaming-653213808",
+        "source": "delta"
+      }
+    ],
+    "title": "Merrimack Warriors vs Lindenwood Lady Lions"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790286300000,
+    "id": "4-crown-nationals-at-eldora-speedway",
+    "popular": false,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgebHhmzpWXCDICejWGIbBDnBJAXjgKMWTCduXCEA.webp",
+    "sources": [
+      {
+        "id": "4-crown-nationals-at-eldora-speedway",
+        "source": "foxtrot"
+      }
+    ],
+    "title": "4-Crown Nationals at Eldora Speedway"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790287200000,
+    "id": "season-championship-night-at-thunder-road-speedbowl",
+    "popular": false,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPaSACGIRR2IhsPbohkRxjWGIbBDnBJGACuKMWTCduXCEA.webp",
+    "sources": [
+      {
+        "id": "season-championship-night-at-thunder-road-speedbowl",
+        "source": "foxtrot"
+      }
+    ],
+    "title": "Season Championship Night at Thunder Road Speedbowl"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790287200000,
+    "id": "high-limit-racing-at-kokomo-speedway",
+    "popular": false,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYrMIdpWEAEMQEcdwXEqMMQ2AHOCSMAFcUYsmE6asQA.webp",
+    "sources": [
+      {
+        "id": "high-limit-racing-at-kokomo-speedway",
+        "source": "foxtrot"
+      }
+    ],
+    "title": "High Limit Racing at Kokomo Speedway"
+  },
+  {
+    "category": "hockey",
+    "date": 1790287200000,
+    "id": "live_ncaa-women_penn-state-ohio-state-buckeyes-live-streaming-653214240",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live_ncaa-women_penn-state-ohio-state-buckeyes-live-streaming-653214240",
+        "source": "delta"
+      }
+    ],
+    "title": "Penn State Nittany Lions vs Ohio State Buckeyes"
+  },
+  {
+    "category": "baseball",
+    "date": 1790287500000,
+    "id": "philadelphia-phillies-vs-milwaukee-brewers-2608242",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBJx+BiBIheILCBQgYhkBFOWLMFkgpYRcxijCrNHD+UbU5mrr0YB7iYhBAA.webp",
+    "scores": {
+      "away": "4",
+      "clock": "0:00",
+      "home": "1",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-milwaukee-brewers-vs-philadelphia-phillies",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_phillies-brewers-live-streaming-594491184",
+        "source": "delta"
+      },
+      {
+        "id": "brewers-v-phillies-401817062",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1660",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Milwaukee Brewers"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp",
+        "name": "Philadelphia Phillies"
+      }
+    },
+    "title": "Philadelphia Phillies vs Milwaukee Brewers",
+    "venue": {
+      "city": "Philadelphia",
+      "name": "Citizens Bank Park"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790289900000,
+    "id": "boston-red-sox-vs-cleveland-guardians-2608243",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH5JswbWIAMmkFhAoQMIxFNGLk-LopYRcxijCqUPd+UbU5n+3owd3ExCCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "1",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-cleveland-guardians-vs-boston-red-sox",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_red-sox-guardians-live-streaming-594491616",
+        "source": "delta"
+      },
+      {
+        "id": "guardians-v-red-sox-401817061",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1661",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
+        "name": "Cleveland Guardians"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
+        "name": "Boston Red Sox"
+      }
+    },
+    "title": "Boston Red Sox vs Cleveland Guardians",
+    "venue": {
+      "city": "Boston",
+      "name": "Fenway Park"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790290800000,
+    "id": "live_cfb_tuskegee-golden-tigers-benedict-tigers-live-streaming-587870352",
+    "league_logo": "/api/images/leagues/ncaa-football.svg",
+    "league_name": "NCAA Football",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": false,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "live_cfb_tuskegee-golden-tigers-benedict-tigers-live-streaming-587870352",
+        "source": "delta"
+      }
+    ],
+    "title": "Tuskegee Golden Tigers vs Benedict Tigers",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "tampa-bay-lightning-vs-florida-panthers-2591472",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyQQvWupAxtIPiCn6QKMwZAgS1gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+    "sources": [
+      {
+        "id": "ppv-florida-panthers-vs-tampa-bay-lightning",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_lightning-panthers-live-streaming-624001536",
+        "source": "delta"
+      },
+      {
+        "id": "1649",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "name": "Florida Panthers"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp",
+        "name": "Tampa Bay Lightning"
+      }
+    },
+    "title": "Tampa Bay Lightning vs Florida Panthers"
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "new-york-rangers-vs-new-jersey-devils-2591471",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzCaUwMJX4aQfEFJAwQKM4YgmLBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-new-jersey-devils-vs-new-york-rangers",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_rangers-devils-live-streaming-624000672",
+        "source": "delta"
+      },
+      {
+        "id": "1648",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "New Jersey Devils"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "New York Rangers"
+      }
+    },
+    "title": "New York Rangers vs New Jersey Devils"
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "columbus-blue-jackets-vs-pittsburgh-penguins-2591470",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCSwwJEHxAHuekFJAwQKM1cS6SBTRT7DZ9FDrYa2O8vSyyNTLRg7vSiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-pittsburgh-penguins-vs-columbus-blue-jackets",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_blue-jackets-penguins-live-streaming-623999808",
+        "source": "delta"
+      },
+      {
+        "id": "1647",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Pittsburgh Penguins"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA.webp",
+        "name": "Columbus Blue Jackets"
+      }
+    },
+    "title": "Columbus Blue Jackets vs Pittsburgh Penguins"
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "carolina-hurricanes-vs-nashville-predators-2591469",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLOV5swdENxB8QUkDBBmUICxcN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-nashville-predators-vs-carolina-hurricanes",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_hurricanes-predators-live-streaming-623999376",
+        "source": "delta"
+      },
+      {
+        "id": "1646",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Nashville Predators"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp",
+        "name": "Carolina Hurricanes"
+      }
+    },
+    "title": "Carolina Hurricanes vs Nashville Predators"
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "detroit-red-wings-vs-buffalo-sabres-2591468",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDBAyADMUTcQfLSE0oTIAxHMwCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
+    "sources": [
+      {
+        "id": "ppv-buffalo-sabres-vs-detroit-red-wings",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_red-wings-sabres-live-streaming-624000240",
+        "source": "delta"
+      },
+      {
+        "id": "1645",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Detroit Red Wings"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9EOelT6qQJEBBAATXftMwQFmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Buffalo Sabres"
+      }
+    },
+    "title": "Detroit Red Wings vs Buffalo Sabres"
+  },
+  {
+    "category": "hockey",
+    "date": 1790290800000,
+    "id": "philadelphia-flyers-vs-boston-bruins-2498532",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcEjBksxRNxB8QUkDBAoTIfSQMgSBYJpj9hs+ii1sUXLeXo7RXky0YB70ohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-boston-bruins-vs-philadelphia-flyers",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_flyers-bruins-live-streaming-624001104",
+        "source": "delta"
+      },
+      {
+        "id": "1644",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "name": "Boston Bruins"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Philadelphia Flyers"
+      }
+    },
+    "title": "Philadelphia Flyers vs Boston Bruins"
+  },
+  {
+    "category": "basketball",
+    "date": 1790290800000,
+    "id": "connecticut-sun-vs-toronto-tempo-2449336",
+    "league_logo": "/api/images/leagues/wnba.svg",
+    "league_name": "WNBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiCogs0kMJEiQAYxCqIq7CBRbg6mLJjBEERStXb4R3bpCH1O-mEEKC2emELAkuJSiHluThN5Mj9XSzAnazIIIA.webp",
+    "sources": [
+      {
+        "id": "ppv-toronto-tempo-vs-connecticut-sun",
+        "source": "admin"
+      },
+      {
+        "id": "live_wnba_sun-tempo-live-streaming-589254912",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "name": "Toronto Tempo"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Connecticut Sun"
+      }
+    },
+    "title": "Connecticut Sun vs Toronto Tempo"
+  },
+  {
+    "category": "baseball",
+    "date": 1790291100000,
+    "id": "new-york-yankees-vs-tampa-bay-rays-2608244",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilAhGwMCBBYQvAyBQgYR7acsXm+YEgpYRcxijCrNHD+UbU5mvb0YB7iYhBAA.webp",
+    "scores": {
+      "away": "2",
+      "clock": "0:00",
+      "home": "9",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-tampa-bay-rays-vs-new-york-yankees",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_yankees-rays-live-streaming-594492048",
+        "source": "delta"
+      },
+      {
+        "id": "rays-v-yankees-401817064",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1662",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Tampa Bay Rays"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "New York Yankees"
+      }
+    },
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "venue": {
+      "city": "Bronx",
+      "name": "Yankee Stadium"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790291700000,
+    "id": "atlanta-braves-vs-cincinnati-reds-2608245",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduwUVgYXiD1YQKEDH0gIRs6fgskFLCLmMUYVSh6vyjanPf5WOq7iYhBAA.webp",
+    "scores": {
+      "away": "2",
+      "clock": "0:00",
+      "home": "3",
+      "status": "Final/10"
+    },
+    "sources": [
+      {
+        "id": "ppv-cincinnati-reds-vs-atlanta-braves",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_braves-reds-live-streaming-594492480",
+        "source": "delta"
+      },
+      {
+        "id": "reds-v-braves-401817060",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1663",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp",
+        "name": "Cincinnati Reds"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+        "name": "Atlanta Braves"
+      }
+    },
+    "title": "Atlanta Braves vs Cincinnati Reds",
+    "venue": {
+      "city": "Atlanta",
+      "name": "Truist Park"
+    }
+  },
+  {
+    "category": "basketball",
+    "date": 1790292600000,
+    "id": "washington-mystics-vs-chicago-sky-2449220",
+    "league_logo": "/api/images/leagues/wnba.svg",
+    "league_name": "WNBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgPhgUwMNpDcQUkCQMgU5kFYhn4BYEgp9hs+ijAqdbD+XpZZOky0eqL0oUA.webp",
+    "sources": [
+      {
+        "id": "ppv-chicago-sky-vs-washington-mystics",
+        "source": "admin"
+      },
+      {
+        "id": "live_wnba_mystics-sky-live-streaming-589255344",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA.webp",
+        "name": "Chicago Sky"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "name": "Washington Mystics"
+      }
+    },
+    "title": "Washington Mystics vs Chicago Sky"
+  },
+  {
+    "category": "american-football",
+    "date": 1790292600000,
+    "id": "coastal-carolina-vs-liberty-2498821",
+    "league_logo": "/api/images/leagues/ncaa-football.svg",
+    "league_name": "NCAA Football",
+    "popular": true,
+    "sources": [
+      {
+        "id": "live_cfb_coastal-carolina-liberty-flames-live-streaming-587870784",
+        "source": "delta"
+      },
+      {
+        "id": "1640",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiS4QAE35hRibiBIaQEEIkTqQenMsIxgTPii7by9eaMdNaYbWNEQgA.webp",
+        "name": "Liberty"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghaSdmCRg+IbiBIgAJiAhrzh3WeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Coastal Carolina"
+      }
+    },
+    "title": "Coastal Carolina vs Liberty"
+  },
+  {
+    "category": "fight",
+    "date": 1790294400000,
+    "id": "ppv-ufc-bjj-11-musumeci-vs-mitchell",
+    "league_logo": "/api/images/leagues/ufc.svg",
+    "league_name": "UFC",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCAjAIIGMEQzEwySFU0JJEMpTiQAYxA6De+bK3ZdMqZomIdo8lIFCRTbPTCFgSXHpQuwbk4pYVJ6AnlyQOkwiCA.webp",
+    "sources": [
+      {
+        "id": "ppv-ufc-bjj-11-musumeci-vs-mitchell",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/ufc.svg",
+        "name": "Mitchell"
+      },
+      "home": {
+        "badge": "/api/images/leagues/ufc.svg",
+        "name": "Musumeci"
+      }
+    },
+    "title": "UFC BJJ 11: Musumeci vs. Mitchell"
+  },
+  {
+    "category": "hockey",
+    "date": 1790294400000,
+    "id": "st--louis-blues-vs-chicago-blackhawks-2591473",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFM3YhRJEIm4g+IKSBggUpy2YjmCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-chicago-blackhawks-vs-st-louis-blues",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_blues-blackhawks-live-streaming-624001968",
+        "source": "delta"
+      },
+      {
+        "id": "1695",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp",
+        "name": "Chicago Blackhawks"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "name": "St. Louis Blues"
+      }
+    },
+    "title": "St. Louis Blues vs Chicago Blackhawks"
+  },
+  {
+    "category": "basketball",
+    "date": 1790294400000,
+    "id": "minnesota-lynx-vs-indiana-fever-2449221",
+    "league_logo": "/api/images/leagues/wnba.svg",
+    "league_name": "WNBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzCiqcJCG4gpIEvpAozISxFN8CwJBVusRYlFrYouW8vQ2jPTLRg7vSiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-indiana-fever-vs-minnesota-lynx",
+        "source": "admin"
+      },
+      {
+        "id": "live_wnba_lynx-fever-live-streaming-589255776",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "name": "Indiana Fever"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Minnesota Lynx"
+      }
+    },
+    "title": "Minnesota Lynx vs Indiana Fever"
+  },
+  {
+    "category": "american-football",
+    "date": 1790295300000,
+    "id": "green-bay-packers-vs-atlanta-falcons-2475406",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+200",
+      "details": "GB -4.5",
+      "home_odds": "-245",
+      "over_under": "42.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNSRheAqSG4g+IYxEMgSIFGdN8CwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/24 - 8:15 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-atlanta-falcons-at-green-bay-packers",
+        "source": "admin"
+      },
+      {
+        "id": "live_nfl_packers-falcons-live-streaming-587869920",
+        "source": "delta"
+      },
+      {
+        "id": "falcons-v-packers-401872948",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1639",
+        "source": "golf"
+      },
+      {
+        "id": "atlanta-falcons-vs-green-bay-packers-nfl-1790295300",
+        "source": "hotel"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowo2gBM6ICCG4g+IY3qMG9Bo6sIxgTPii7ry9eaMdNaYdWNEQgA.webp",
+        "name": "Atlanta Falcons"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjID5AEzB8QMENxDaQICAb0gUZ7fAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Green Bay Packers"
+      }
+    },
+    "title": "Green Bay Packers vs Atlanta Falcons",
+    "venue": {
+      "city": "Green Bay",
+      "country": "USA",
+      "name": "Lambeau Field"
+    }
+  },
+  {
+    "category": "fight",
+    "date": 1790298000000,
+    "id": "ppv-tna-impact",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp",
+    "sources": [
+      {
+        "id": "ppv-tna-impact",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Fight Night"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "MMA"
+      }
+    },
+    "title": "TNA Impact"
+  },
+  {
+    "category": "hockey",
+    "date": 1790298000000,
+    "id": "vancouver-canucks-vs-edmonton-oilers-2498533",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKURAgZiFCG4g+2kDBB7TpkiAhaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-edmonton-oilers-vs-vancouver-canucks",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_canucks-oilers-live-streaming-624002400",
+        "source": "delta"
+      },
+      {
+        "id": "1696",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp",
+        "name": "Edmonton Oilers"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "name": "Vancouver Canucks"
+      }
+    },
+    "title": "Vancouver Canucks vs Edmonton Oilers"
+  },
+  {
+    "category": "hockey",
+    "date": 1790300400000,
+    "id": "seattle-kraken-vs-calgary-flames-2498535",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBANsmndxB8QUkDBAoTIfcfONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+    "sources": [
+      {
+        "id": "ppv-calgary-flames-vs-seattle-kraken",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_kraken-flames-live-streaming-624002832",
+        "source": "delta"
+      },
+      {
+        "id": "1697",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "name": "Calgary Flames"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp",
+        "name": "Seattle Kraken"
+      }
+    },
+    "title": "Seattle Kraken vs Calgary Flames"
+  },
+  {
+    "category": "baseball",
+    "date": 1790300400000,
+    "id": "athletics-vs-houston-astros-2608247",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoNr82YEiF4gsIFCBj6QEY+bOL8wJBSwi5jFLo4oeu8o2pzPdvRg7oxiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-houston-astros-vs-athletics",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_athletics-astros-live-streaming-594492912",
+        "source": "delta"
+      },
+      {
+        "id": "astros-v-athletics-401817070",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1703",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
+        "name": "Houston Astros"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp",
+        "name": "Athletics"
+      }
+    },
+    "title": "Athletics vs Houston Astros"
+  },
+  {
+    "category": "baseball",
+    "date": 1790300400000,
+    "id": "seattle-mariners-vs-los-angeles-angels-2608246",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghB1EIka8QhrCBQgYRzacsX4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-los-angeles-angels-vs-seattle-mariners",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_mariners-angels-live-streaming-594493344",
+        "source": "delta"
+      },
+      {
+        "id": "angels-v-mariners-401817069",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1702",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "name": "Los Angeles Angels"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "name": "Seattle Mariners"
+      }
+    },
+    "title": "Seattle Mariners vs Los Angeles Angels"
+  },
+  {
+    "category": "hockey",
+    "date": 1790301600000,
+    "id": "san-jose-sharks-vs-anaheim-ducks-2498534",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyzWYEDDYhuIPiCm6QKM4YggbKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+    "sources": [
+      {
+        "id": "ppv-anaheim-ducks-vs-san-jose-sharks",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_sharks-ducks-live-streaming-624003264",
+        "source": "delta"
+      },
+      {
+        "id": "1699",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Anaheim Ducks"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
+        "name": "San Jose Sharks"
+      }
+    },
+    "title": "San Jose Sharks vs Anaheim Ducks"
+  },
+  {
+    "category": "hockey",
+    "date": 1790301600000,
+    "id": "vegas-golden-knights-vs-utah-mammoth-2498531",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBDApCOiG76QfEFJAwQKM4ZzGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-utah-mammoth-vs-vegas-golden-knights",
+        "source": "admin"
+      },
+      {
+        "id": "live_nhl-preseason_golden-knights-mammoth-live-streaming-624003696",
+        "source": "delta"
+      },
+      {
+        "id": "1698",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Utah Mammoth"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Vegas Golden Knights"
+      }
+    },
+    "title": "Vegas Golden Knights vs Utah Mammoth"
+  },
+  {
+    "category": "basketball",
+    "date": 1790301600000,
+    "id": "phoenix-mercury-vs-las-vegas-aces-2449223",
+    "league_logo": "/api/images/leagues/wnba.svg",
+    "league_name": "WNBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiHAzaXEBqkgSekChOaQiPiAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+    "sources": [
+      {
+        "id": "ppv-las-vegas-aces-vs-phoenix-mercury",
+        "source": "admin"
+      },
+      {
+        "id": "live_wnba_mercury-aces-live-streaming-589256640",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "name": "Las Vegas Aces"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Phoenix Mercury"
+      }
+    },
+    "title": "Phoenix Mercury vs Las Vegas Aces"
+  },
+  {
+    "category": "basketball",
+    "date": 1790301600000,
+    "id": "los-angeles-sparks-vs-golden-state-valkyries-2449222",
+    "league_logo": "/api/images/leagues/wnba.svg",
+    "league_name": "WNBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRA0qIWQGMQCxMJApF6xGqzZgEEBBG7VwRFhAwQJc9n2ypO0eQMChhgjpTlCwJLjmehMG5OAwkyT3d4ciDdUl0gA.webp",
+    "sources": [
+      {
+        "id": "ppv-golden-state-valkyries-vs-los-angeles-sparks",
+        "source": "admin"
+      },
+      {
+        "id": "live_wnba_sparks-valkyries-live-streaming-589256208",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Golden State Valkyries"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Los Angeles Sparks"
+      }
+    },
+    "title": "Los Angeles Sparks vs Golden State Valkyries"
+  },
+  {
+    "category": "baseball",
+    "date": 1790302200000,
+    "id": "los-angeles-dodgers-vs-san-diego-padres-2608248",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoNkpgSMCgQheILCBQgYhkBFOWLJFrpgCRcxvtXaOYMvCLU52viswGDe4mIQQA.webp",
+    "scores": {
+      "away": "5",
+      "clock": "0:00",
+      "home": "1",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "ppv-san-diego-padres-vs-los-angeles-dodgers",
+        "source": "admin"
+      },
+      {
+        "id": "live_mlb_dodgers-padres-live-streaming-594493776",
+        "source": "delta"
+      },
+      {
+        "id": "padres-v-dodgers-401817071",
+        "source": "foxtrot"
+      },
+      {
+        "id": "1704",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "San Diego Padres"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp",
+        "name": "Los Angeles Dodgers"
+      }
+    },
+    "title": "Los Angeles Dodgers vs San Diego Padres",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Dodger Stadium"
+    }
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790309700000,
+    "id": "baku-city-circuit-sprint-race-formula-2-1790309700",
+    "popular": true,
+    "sources": [
+      {
+        "id": "baku-city-circuit-sprint-race-formula-2-1790309700",
+        "source": "hotel"
+      }
+    ],
+    "title": "Baku City Circuit — Sprint Race"
+  },
+  {
+    "category": "other",
+    "date": 1790324400000,
+    "id": "cremona-free-practice-1-worldsbk-1790324400",
+    "popular": true,
+    "sources": [
+      {
+        "id": "cremona-free-practice-1-worldsbk-1790324400",
+        "source": "hotel"
+      }
+    ],
+    "title": "Cremona — Free Practice 1"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790325000000,
+    "id": "3rd-practice-baku-city-circuit-formula-1-2589",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "sources": [
+      {
+        "id": "baku-city-circuit-free-practice-3-formula-1-1790325000",
+        "source": "hotel"
+      }
+    ],
+    "title": "3rd Practice | Baku City Circuit |"
+  },
+  {
+    "category": "basketball",
+    "date": 1790328600000,
+    "id": "brisbane-bullets-vs-illawarra-hawks-2487891",
+    "league_logo": "/api/images/leagues/nba.svg",
+    "league_name": "NBA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMnJA0ghuIKUZAkQMUycTGYBYEgp9hs+ijAqNbd+XpZZGplowdzFRCCA.webp",
+    "sources": [
+      {
+        "id": "ppv-brisbane-bullets-vs-illawarra-hawks",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRhRSEHzAoQO7ptwgSukKZggAJiH3LCMYEz4oua8vXmjnTWmDVjREEA.webp",
+        "name": "Illawarra Hawks"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFYwSUsEI5uIEiAh6QxgCYg+IGJcsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Brisbane Bullets"
+      }
+    },
+    "title": "Brisbane Bullets vs Illawarra Hawks"
+  },
+  {
+    "category": "rugby",
+    "date": 1790329800000,
+    "id": "dolphins-vs-sydney-roosters-2608056",
+    "league_logo": "/api/images/leagues/nrl.svg",
+    "league_name": "NRL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRC8swMGBRaQfEFJBmShxN1wgYBYEgp9hs+ijAqUXD+Xo7RXky0eqL0oUA.webp",
+    "sources": [
+      {
+        "id": "ppv-dolphins-vs-roosters",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Sydney Roosters"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "name": "Dolphins"
+      }
+    },
+    "title": "Dolphins vs Sydney Roosters"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790337600000,
+    "id": "1st-qualifying-baku-city-circuit-formula-1-2686",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "sources": [
+      {
+        "id": "baku-city-circuit-qualifying-formula-1-1790337600",
+        "source": "hotel"
+      }
+    ],
+    "title": "1st Qualifying | Baku City Circuit |"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790337600000,
+    "id": "azerbaijan-grand-prix-practice-3-2408189",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGF4aSIFCD4hu+4xF24QMEDoMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+    "sources": [
+      {
+        "id": "ppv-azerbaijan-grand-prix-practice-3",
+        "source": "admin"
+      },
+      {
+        "id": "1664",
+        "source": "golf"
+      }
+    ],
+    "teams": null,
+    "title": "Azerbaijan Grand Prix Practice 3"
+  },
+  {
+    "category": "american-football",
+    "date": 1790366400000,
+    "id": "temple-vs-army-2498822",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1641",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
+        "name": "Army"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKYAAZ1sMHxDcQAExAQQiHIZghrZvgQpN7XMGXhF5ojU1phXY0QggA.webp",
+        "name": "Temple"
+      }
+    },
+    "title": "Temple vs Army"
+  },
+  {
+    "category": "baseball",
+    "date": 1790373900000,
+    "id": "boston-red-sox-vs-chicago-cubs-2608254",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRBikIat028QWEChAwQhiCYs2YLJBSwi5jFGFUoe78oz1jP+KzAYO7iYhBAA.webp",
+    "sources": [
+      {
+        "id": "1710",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "name": "Chicago Cubs"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
+        "name": "Boston Red Sox"
+      }
+    },
+    "title": "Boston Red Sox vs Chicago Cubs"
+  },
+  {
+    "category": "baseball",
+    "date": 1790376000000,
+    "id": "philadelphia-phillies-vs-tampa-bay-rays-2608250",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHD1pNELN4gDWEChAxDICCYvmsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+    "sources": [
+      {
+        "id": "1706",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "Tampa Bay Rays"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp",
+        "name": "Philadelphia Phillies"
+      }
+    },
+    "title": "Philadelphia Phillies vs Tampa Bay Rays"
+  },
+  {
+    "category": "baseball",
+    "date": 1790376000000,
+    "id": "detroit-tigers-vs-pittsburgh-pirates-2608249",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCZgkwAAwh6IELxBYQKEDGMgI561ekskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1705",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
+        "name": "Pittsburgh Pirates"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "name": "Detroit Tigers"
+      }
+    },
+    "title": "Detroit Tigers vs Pittsburgh Pirates",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790376300000,
+    "id": "washington-nationals-vs-new-york-mets-2608251",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtSEQQ4RvhC8QWEChAwDIbacPmsLJBTvtR4lGFUoe78o01jP+KzAYO7iYhBAA.webp",
+    "sources": [
+      {
+        "id": "1707",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp",
+        "name": "New York Mets"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Washington Nationals"
+      }
+    },
+    "title": "Washington Nationals vs New York Mets"
+  },
+  {
+    "category": "hockey",
+    "date": 1790377200000,
+    "id": "washington-capitals-vs-boston-bruins-2498536",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeihB8wA3SG5aQUkDBCbTBg3xAKmSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp",
+    "sources": [
+      {
+        "id": "1700",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "name": "Boston Bruins"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Washington Capitals"
+      }
+    },
+    "title": "Washington Capitals vs Boston Bruins"
+  },
+  {
+    "category": "american-football",
+    "date": 1790377200000,
+    "id": "uab-vs-navy-2498824",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1670",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgUYsGCRgSIbiF0ATEBBCJExxPrWEYwJn3Vsd5evNHqmtTaKl0gA.webp",
+        "name": "Navy"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi15SECkohuIEiAAmICCESIjITToIUmfLWzBl4ReaK1NaYJ2NEQgA.webp",
+        "name": "UAB"
+      }
+    },
+    "title": "UAB vs Navy"
+  },
+  {
+    "category": "american-football",
+    "date": 1790377200000,
+    "id": "rutgers-vs-howard-2498823",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1669",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1atwAE2bAwIbiBIh1ICCEQGjIfbgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "name": "Howard"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJmwSac3VSDUgIIRIgMGjjCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "name": "Rutgers"
+      }
+    },
+    "title": "Rutgers vs Howard"
+  },
+  {
+    "category": "baseball",
+    "date": 1790377500000,
+    "id": "new-york-yankees-vs-baltimore-orioles-2608252",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdon5QYPEiF4gsIFCBj6QEY+bPH8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+    "sources": [
+      {
+        "id": "1708",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
+        "name": "Baltimore Orioles"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "New York Yankees"
+      }
+    },
+    "title": "New York Yankees vs Baltimore Orioles"
+  },
+  {
+    "category": "baseball",
+    "date": 1790377620000,
+    "id": "toronto-blue-jays-vs-cincinnati-reds-2608253",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJBQQIXmCQhqukFhAoQMYxDPHLKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+    "sources": [
+      {
+        "id": "1709",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp",
+        "name": "Cincinnati Reds"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
+        "name": "Toronto Blue Jays"
+      }
+    },
+    "title": "Toronto Blue Jays vs Cincinnati Reds"
+  },
+  {
+    "category": "baseball",
+    "date": 1790377800000,
+    "id": "miami-marlins-vs-atlanta-braves-2608255",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJA4IIfmAG6tIFCBiGdJ3ocn5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp",
+    "sources": [
+      {
+        "id": "1711",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+        "name": "Atlanta Braves"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "name": "Miami Marlins"
+      }
+    },
+    "title": "Miami Marlins vs Atlanta Braves"
+  },
+  {
+    "category": "fight",
+    "date": 1790379000000,
+    "id": "live-event_floyd-mayweather-jr-vs-manny-pacquiao-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_floyd-mayweather-jr-vs-manny-pacquiao-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Manny Pacquiao"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Floyd Mayweather Jr"
+      }
+    },
+    "title": "Floyd Mayweather Jr vs Manny Pacquiao"
+  },
+  {
+    "category": "hockey",
+    "date": 1790379000000,
+    "id": "new-york-islanders-vs-new-york-rangers-2591474",
+    "league_logo": "/api/images/leagues/scottish-premiership.svg",
+    "league_name": "Scottish Premiership",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqLBgk-EHu4g+IKSBggUpy0YMkCwJBT7DZ9FGBUou78vSyzPTLRaohp0QA.webp",
+    "sources": [
+      {
+        "id": "1701",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "New York Rangers"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "name": "New York Islanders"
+      }
+    },
+    "title": "New York Islanders vs New York Rangers"
+  },
+  {
+    "category": "baseball",
+    "date": 1790379600000,
+    "id": "milwaukee-brewers-vs-st--louis-cardinals-2608258",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoKwhpIfmBApdILYZhGIBo7xDwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+    "sources": [
+      {
+        "id": "1714",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "name": "St. Louis Cardinals"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "name": "Milwaukee Brewers"
+      }
+    },
+    "title": "Milwaukee Brewers vs St. Louis Cardinals"
+  },
+  {
+    "category": "baseball",
+    "date": 1790379600000,
+    "id": "kansas-city-royals-vs-cleveland-guardians-2608257",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhyQgcWEHES9tIFHpCGIxs1eb5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp",
+    "sources": [
+      {
+        "id": "1713",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
+        "name": "Cleveland Guardians"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp",
+        "name": "Kansas City Royals"
+      }
+    },
+    "title": "Kansas City Royals vs Cleveland Guardians"
+  },
+  {
+    "category": "baseball",
+    "date": 1790379600000,
+    "id": "chicago-white-sox-vs-colorado-rockies-2608256",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlHC0YIWUhC8QWEChA7DEEweuT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+    "sources": [
+      {
+        "id": "1712",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
+        "name": "Colorado Rockies"
+      },
+      "home": {
+        "badge": "/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp",
+        "name": "Chicago White Sox"
+      }
+    },
+    "title": "Chicago White Sox vs Colorado Rockies"
+  },
+  {
+    "category": "hockey",
+    "date": 1790380800000,
+    "id": "1747",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "2",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "1747",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Dallas Stars"
+      },
+      "home": {
+        "name": "Minnesota Wild"
+      }
+    },
+    "title": "Minnesota Wild - Dallas Stars",
+    "venue": {
+      "city": "Dallas",
+      "country": "USA",
+      "name": "American Airlines Center"
+    }
+  },
+  {
+    "category": "fight",
+    "date": 1790380800000,
+    "id": "ppv-wwe-friday-night-smackdown",
+    "league_logo": "/api/images/leagues/wwe.svg",
+    "league_name": "WWE",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
+    "sources": [
+      {
+        "id": "ppv-wwe-friday-night-smackdown",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/wwe.svg",
+        "name": "Fight Night"
+      },
+      "home": {
+        "badge": "/api/images/leagues/wwe.svg",
+        "name": "WWE"
+      }
+    },
+    "title": "WWE Friday Night Smackdown"
+  },
+  {
+    "category": "american-football",
+    "date": 1790380800000,
+    "id": "ppv-toronto-argonauts-at-winnipeg-blue-bombers",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmAQQk6cOA1ZpEMJkjxIaShBUQevZN27VNaSGCIYFkCU2kU5CKDCCRTbPTCFgSXAGMHIRdWJ3kyBwILchcpUikgA.webp",
+    "sources": [
+      {
+        "id": "ppv-toronto-argonauts-at-winnipeg-blue-bombers",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Winnipeg Blue Bombers"
+      },
+      "home": {
+        "badge": "",
+        "name": "Toronto Argonauts"
+      }
+    },
+    "title": "Toronto Argonauts at Winnipeg Blue Bombers"
+  },
+  {
+    "category": "baseball",
+    "date": 1790381400000,
+    "id": "1761",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1761",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Texas Rangers"
+      },
+      "home": {
+        "name": "Minnesota Twins"
+      }
+    },
+    "title": "Minnesota Twins - Texas Rangers"
+  },
+  {
+    "category": "hockey",
+    "date": 1790382600000,
+    "id": "1748",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1748",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Winnipeg Jets"
+      },
+      "home": {
+        "name": "Colorado Avalanche"
+      }
+    },
+    "title": "Colorado Avalanche - Winnipeg Jets"
+  },
+  {
+    "category": "football",
+    "date": 1790384400000,
+    "id": "ppv-atlante-vs-monterrey",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogYpEHJggsIAMaKQEYBHHZSOrVJlTVy4IgmqSIMvGBTLZLb3IaBQkUx0pyhYElzKvITBuTg1hXS8CU3JgzV0IIA.webp",
+    "sources": [
+      {
+        "id": "ppv-atlante-vs-monterrey",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Monterrey"
+      },
+      "home": {
+        "badge": "",
+        "name": "Atlante"
+      }
+    },
+    "title": "Atlante vs. Monterrey"
+  },
+  {
+    "category": "baseball",
+    "date": 1790386800000,
+    "id": "1763",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1763",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Arizona Diamondbacks"
+      },
+      "home": {
+        "name": "San Diego Padres"
+      }
+    },
+    "title": "San Diego Padres - Arizona Diamondbacks"
+  },
+  {
+    "category": "baseball",
+    "date": 1790386800000,
+    "id": "1762",
+    "league_logo": "/api/images/leagues/laliga.svg",
+    "league_name": "LaLiga",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1762",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Houston Astros"
+      },
+      "home": {
+        "name": "Athletics"
+      }
+    },
+    "title": "Athletics - Houston Astros"
+  },
+  {
+    "category": "american-football",
+    "date": 1790388000000,
+    "id": "1671",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+1100",
+      "details": "IU -21",
+      "home_odds": "-2100",
+      "over_under": "49.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/25 - 8:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1671",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Indiana Hoosiers"
+      },
+      "home": {
+        "name": "Northwestern Wildcats"
+      }
+    },
+    "title": "Northwestern Wildcats - Indiana Hoosiers",
+    "venue": {
+      "city": "Bloomington",
+      "country": "USA",
+      "name": "Memorial Stadium (Bloomington, IN)"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790388600000,
+    "id": "1764",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1764",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Los Angeles Angels"
+      },
+      "home": {
+        "name": "Seattle Mariners"
+      }
+    },
+    "title": "Seattle Mariners - Los Angeles Angels"
+  },
+  {
+    "category": "baseball",
+    "date": 1790388900000,
+    "id": "1765",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1765",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Los Angeles Dodgers"
+      },
+      "home": {
+        "name": "San Francisco Giants"
+      }
+    },
+    "title": "San Francisco Giants - Los Angeles Dodgers"
+  },
+  {
+    "category": "american-football",
+    "date": 1790389800000,
+    "id": "ppv-saskatchewan-roughriders-at-bc-lions",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEMJDiSIGMCogsIAMZTsamSgnZ5pEPHXiDM5SMX6LpmTAmKU5CKDCCRTHfbCFgSXMvtDnVkdhUnoCYAMwZ2BHMgggA.webp",
+    "sources": [
+      {
+        "id": "ppv-saskatchewan-roughriders-at-bc-lions",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "BC Lions"
+      },
+      "home": {
+        "badge": "",
+        "name": "Saskatchewan Roughriders"
+      }
+    },
+    "title": "Saskatchewan Roughriders at BC Lions"
+  },
+  {
+    "category": "football",
+    "date": 1790391600000,
+    "id": "ppv-tijuana-vs-atlas",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvFLBJEEDDmkQkxLIDGIFCFlYQIYDSpyQZQ4kTDgEKTKUh1u-OSsChIptnphCwJLlUpXMG5OKwsyAIJpciDLKQggA.webp",
+    "sources": [
+      {
+        "id": "ppv-tijuana-vs-atlas",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Atlas"
+      },
+      "home": {
+        "badge": "",
+        "name": "Tijuana"
+      }
+    },
+    "title": "Tijuana vs. Atlas"
+  },
+  {
+    "category": "american-football",
+    "date": 1790397000000,
+    "id": "1672",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1672",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "California Golden Bears"
+      },
+      "home": {
+        "name": "Clemson Tigers"
+      }
+    },
+    "title": "Clemson Tigers - California Golden Bears",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "fight",
+    "date": 1790409600000,
+    "id": "live-event_thanongsak-simsri-vs-mark-vicelles-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_thanongsak-simsri-vs-mark-vicelles-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Mark Vicelles"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Thanongsak Simsri"
+      }
+    },
+    "title": "Thanongsak Simsri vs Mark Vicelles"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790420400000,
+    "id": "ppv-azerbaijan-grand-prix-race",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBAiQEEFRBZsIGMHmJ4q0sFlYQJSSKUo5WshppmT8i+JTkIoMIMMFs9MIWBJcAYztCnVgdhLTtXDTAnbS0IIA.webp",
+    "sources": [
+      {
+        "id": "ppv-azerbaijan-grand-prix-race",
+        "source": "admin"
+      },
+      {
+        "id": "1715",
+        "source": "golf"
+      }
+    ],
+    "title": "Azerbaijan Grand Prix - Race"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790442000000,
+    "id": "live-event_2026-truck-playoff-at-kansas-live-stream",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_2026-truck-playoff-at-kansas-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "2026 Truck Playoff at Kansas"
+  },
+  {
+    "category": "baseball",
+    "date": 1790442600000,
+    "id": "1766",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1766",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Pittsburgh Pirates"
+      },
+      "home": {
+        "name": "Detroit Tigers"
+      }
+    },
+    "title": "Detroit Tigers - Pittsburgh Pirates",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1680",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1680",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "UTSA Roadrunners"
+      },
+      "home": {
+        "name": "Colorado State Rams"
+      }
+    },
+    "title": "Colorado State Rams - UTSA Roadrunners"
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1679",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1679",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Toledo Rockets"
+      },
+      "home": {
+        "name": "San Diego State Aztecs"
+      }
+    },
+    "title": "San Diego State Aztecs - Toledo Rockets"
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1678",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1678",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Boston College Eagles"
+      },
+      "home": {
+        "name": "Virginia Tech Hokies"
+      }
+    },
+    "title": "Virginia Tech Hokies - Boston College Eagles"
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1677",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1677",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Baylor Bears"
+      },
+      "home": {
+        "name": "Colorado Buffaloes"
+      }
+    },
+    "title": "Colorado Buffaloes - Baylor Bears"
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1676",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+410",
+      "details": "LOU -13.5",
+      "home_odds": "-550",
+      "over_under": "57.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 12:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1676",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Louisville Cardinals"
+      },
+      "home": {
+        "name": "Wake Forest Demon Deacons"
+      }
+    },
+    "title": "Wake Forest Demon Deacons - Louisville Cardinals",
+    "venue": {
+      "city": "Louisville",
+      "country": "USA",
+      "name": "L&N Federal Credit Union Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1675",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "OFF",
+      "details": "TTU -34.5",
+      "home_odds": "OFF",
+      "over_under": "55.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 12:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1675",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Texas Tech Red Raiders"
+      },
+      "home": {
+        "name": "Sam Houston Bearkats"
+      }
+    },
+    "title": "Sam Houston Bearkats - Texas Tech Red Raiders",
+    "venue": {
+      "city": "Lubbock",
+      "country": "USA",
+      "name": "Galaxy Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1674",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+1600",
+      "details": "OSU -26.5",
+      "home_odds": "-4000",
+      "over_under": "53.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 12:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1674",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Ohio State Buckeyes"
+      },
+      "home": {
+        "name": "Illinois Fighting Illini"
+      }
+    },
+    "title": "Illinois Fighting Illini - Ohio State Buckeyes",
+    "venue": {
+      "city": "Columbus",
+      "country": "USA",
+      "name": "Ohio Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790445600000,
+    "id": "1673",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-192",
+      "details": "TEX -4",
+      "home_odds": "+160",
+      "over_under": "55.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 12:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1673",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Tennessee Volunteers"
+      },
+      "home": {
+        "name": "Texas Longhorns"
+      }
+    },
+    "title": "Texas Longhorns - Tennessee Volunteers",
+    "venue": {
+      "city": "Knoxville",
+      "country": "USA",
+      "name": "Neyland Stadium"
+    }
+  },
+  {
+    "category": "fight",
+    "date": 1790445600000,
+    "id": "live-event_johnny-fisher-vs-michael-pirotton-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_johnny-fisher-vs-michael-pirotton-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Michael Pirotton"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Johnny Fisher"
+      }
+    },
+    "title": "Johnny Fisher vs Michael Pirotton"
+  },
+  {
+    "category": "fight",
+    "date": 1790445600000,
+    "id": "live-event_liam-davies-vs-nathaniel-collins-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_liam-davies-vs-nathaniel-collins-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Nathaniel Collins"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Liam Davies"
+      }
+    },
+    "title": "Liam Davies vs Nathaniel Collins"
+  },
+  {
+    "category": "fight",
+    "date": 1790445600000,
+    "id": "live-event_lee-cutler-vs-louis-greene-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_lee-cutler-vs-louis-greene-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Louis Greene"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Lee Cutler"
+      }
+    },
+    "title": "Lee Cutler vs Louis Greene"
+  },
+  {
+    "category": "american-football",
+    "date": 1790448300000,
+    "id": "1681",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1681",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Kentucky Wildcats"
+      },
+      "home": {
+        "name": "South Alabama Jaguars"
+      }
+    },
+    "title": "South Alabama Jaguars - Kentucky Wildcats"
+  },
+  {
+    "category": "hockey",
+    "date": 1790449200000,
+    "id": "1750",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1750",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Carolina Hurricanes"
+      },
+      "home": {
+        "name": "Nashville Predators"
+      }
+    },
+    "title": "Nashville Predators - Carolina Hurricanes"
+  },
+  {
+    "category": "hockey",
+    "date": 1790449200000,
+    "id": "1749",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1749",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Pittsburgh Penguins"
+      },
+      "home": {
+        "name": "Buffalo Sabres"
+      }
+    },
+    "title": "Buffalo Sabres - Pittsburgh Penguins"
+  },
+  {
+    "category": "american-football",
+    "date": 1790449200000,
+    "id": "ppv-calgary-stampeders-at-ottawa-red-blacks",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCySQJEDBDCQAY1IgIC4OqriR4tcG0h9WkNpUn5RrKrLWIKchFBhBIptnphCwJLiUOhF1YnYVJ6AmB4chdNMIggA.webp",
+    "sources": [
+      {
+        "id": "ppv-calgary-stampeders-at-ottawa-red-blacks",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Ottawa RedBlacks"
+      },
+      "home": {
+        "badge": "",
+        "name": "Calgary Stampeders"
+      }
+    },
+    "title": "Calgary Stampeders at Ottawa RedBlacks"
+  },
+  {
+    "category": "baseball",
+    "date": 1790449620000,
+    "id": "1767",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1767",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Cincinnati Reds"
+      },
+      "home": {
+        "name": "Toronto Blue Jays"
+      }
+    },
+    "title": "Toronto Blue Jays - Cincinnati Reds"
+  },
+  {
+    "category": "american-football",
+    "date": 1790451000000,
+    "id": "1682",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1682",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Maryland Terrapins"
+      },
+      "home": {
+        "name": "UCLA Bruins"
+      }
+    },
+    "title": "UCLA Bruins - Maryland Terrapins"
+  },
+  {
+    "category": "hockey",
+    "date": 1790452800000,
+    "id": "1751",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "scores": {
+      "away": "2",
+      "clock": "0:00",
+      "home": "1",
+      "status": "Final"
+    },
+    "sources": [
+      {
+        "id": "1751",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Anaheim Ducks"
+      },
+      "home": {
+        "name": "Los Angeles Kings"
+      }
+    },
+    "title": "Los Angeles Kings - Anaheim Ducks",
+    "venue": {
+      "city": "Anaheim",
+      "country": "USA",
+      "name": "Honda Center"
+    }
+  },
+  {
+    "category": "baseball",
+    "date": 1790453100000,
+    "id": "1769",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1769",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "New York Mets"
+      },
+      "home": {
+        "name": "Washington Nationals"
+      }
+    },
+    "title": "Washington Nationals - New York Mets"
+  },
+  {
+    "category": "baseball",
+    "date": 1790453100000,
+    "id": "1768",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1768",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Los Angeles Dodgers"
+      },
+      "home": {
+        "name": "San Francisco Giants"
+      }
+    },
+    "title": "San Francisco Giants - Los Angeles Dodgers"
+  },
+  {
+    "category": "baseball",
+    "date": 1790453400000,
+    "id": "1771",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1771",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Texas Rangers"
+      },
+      "home": {
+        "name": "Minnesota Twins"
+      }
+    },
+    "title": "Minnesota Twins - Texas Rangers"
+  },
+  {
+    "category": "baseball",
+    "date": 1790453400000,
+    "id": "1770",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1770",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Atlanta Braves"
+      },
+      "home": {
+        "name": "Miami Marlins"
+      }
+    },
+    "title": "Miami Marlins - Atlanta Braves"
+  },
+  {
+    "category": "hockey",
+    "date": 1790456400000,
+    "id": "1753",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1753",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Colorado Avalanche"
+      },
+      "home": {
+        "name": "Utah Mammoth"
+      }
+    },
+    "title": "Utah Mammoth - Colorado Avalanche"
+  },
+  {
+    "category": "hockey",
+    "date": 1790456400000,
+    "id": "1752",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1752",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Washington Capitals"
+      },
+      "home": {
+        "name": "Philadelphia Flyers"
+      }
+    },
+    "title": "Philadelphia Flyers - Washington Capitals"
+  },
+  {
+    "category": "american-football",
+    "date": 1790456400000,
+    "id": "1684",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1684",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Wyoming Cowboys"
+      },
+      "home": {
+        "name": "Hawai'i Rainbow Warriors"
+      }
+    },
+    "title": "Hawai'i Rainbow Warriors - Wyoming Cowboys"
+  },
+  {
+    "category": "american-football",
+    "date": 1790456400000,
+    "id": "1683",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1683",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Florida State Seminoles"
+      },
+      "home": {
+        "name": "Central Arkansas Bears"
+      }
+    },
+    "title": "Central Arkansas Bears - Florida State Seminoles"
+  },
+  {
+    "category": "fight",
+    "date": 1790456400000,
+    "id": "live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream",
+    "league_logo": "/api/images/leagues/ufc.svg",
+    "league_name": "UFC",
+    "popular": false,
+    "poster": "/api/images/posters/ufc.svg",
+    "sources": [
+      {
+        "id": "live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/fighters/3075570.png",
+        "name": "Raoni Barcelos"
+      },
+      "home": {
+        "badge": "/api/images/fighters/5088844.png",
+        "name": "Raul Rosas Jr."
+      }
+    },
+    "title": "UFC Fight Night: Rosas Jr. vs Barcelos",
+    "venue": {
+      "city": "Las Vegas",
+      "country": "USA",
+      "name": "Meta APEX"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1691",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1691",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "New Mexico State Aggies"
+      },
+      "home": {
+        "name": "New Mexico Lobos"
+      }
+    },
+    "title": "New Mexico Lobos - New Mexico State Aggies"
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1690",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1690",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Western Michigan Broncos"
+      },
+      "home": {
+        "name": "Boise State Broncos"
+      }
+    },
+    "title": "Boise State Broncos - Western Michigan Broncos"
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1689",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1689",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "UCF Knights"
+      },
+      "home": {
+        "name": "TCU Horned Frogs"
+      }
+    },
+    "title": "TCU Horned Frogs - UCF Knights"
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1688",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+180",
+      "details": "MICH -5.5",
+      "home_odds": "-218",
+      "over_under": "38.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 3:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1688",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Michigan Wolverines"
+      },
+      "home": {
+        "name": "Iowa Hawkeyes"
+      }
+    },
+    "title": "Iowa Hawkeyes - Michigan Wolverines",
+    "venue": {
+      "city": "Ann Arbor",
+      "country": "USA",
+      "name": "Michigan Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1687",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-340",
+      "details": "UTAH -8.5",
+      "home_odds": "+270",
+      "over_under": "48.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 3:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1687",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Iowa State Cyclones"
+      },
+      "home": {
+        "name": "Utah Utes"
+      }
+    },
+    "title": "Utah Utes - Iowa State Cyclones",
+    "venue": {
+      "city": "Ames",
+      "country": "USA",
+      "name": "Jack Trice Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1686",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+130",
+      "details": "FLA -3.5",
+      "home_odds": "-155",
+      "over_under": "58.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 3:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1686",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Florida Gators"
+      },
+      "home": {
+        "name": "Ole Miss Rebels"
+      }
+    },
+    "title": "Ole Miss Rebels - Florida Gators",
+    "venue": {
+      "city": "Gainesville",
+      "country": "USA",
+      "name": "Ben Hill Griffin Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790458200000,
+    "id": "1685",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+440",
+      "details": "UGA -14",
+      "home_odds": "-600",
+      "over_under": "44.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 3:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1685",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Georgia Bulldogs"
+      },
+      "home": {
+        "name": "Oklahoma Sooners"
+      }
+    },
+    "title": "Oklahoma Sooners - Georgia Bulldogs",
+    "venue": {
+      "city": "Athens",
+      "country": "USA",
+      "name": "Sanford Stadium"
+    }
+  },
+  {
+    "category": "hockey",
+    "date": 1790460000000,
+    "id": "1754",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1754",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Tampa Bay Lightning"
+      },
+      "home": {
+        "name": "Florida Panthers"
+      }
+    },
+    "title": "Florida Panthers - Tampa Bay Lightning"
+  },
+  {
+    "category": "american-football",
+    "date": 1790460000000,
+    "id": "1692",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-1050",
+      "details": "HOU -18.5",
+      "home_odds": "+675",
+      "over_under": "56.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 4:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1692",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Georgia Southern Eagles"
+      },
+      "home": {
+        "name": "Houston Cougars"
+      }
+    },
+    "title": "Houston Cougars - Georgia Southern Eagles",
+    "venue": {
+      "city": "Statesboro",
+      "country": "USA",
+      "name": "Allen E. Paulson Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790460900000,
+    "id": "1693",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1693",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Auburn Tigers"
+      },
+      "home": {
+        "name": "Vanderbilt Commodores"
+      }
+    },
+    "title": "Vanderbilt Commodores - Auburn Tigers",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "hockey",
+    "date": 1790463600000,
+    "id": "1759",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1759",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Seattle Kraken"
+      },
+      "home": {
+        "name": "Vancouver Canucks"
+      }
+    },
+    "title": "Vancouver Canucks - Seattle Kraken"
+  },
+  {
+    "category": "hockey",
+    "date": 1790463600000,
+    "id": "1757",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1757",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Ottawa Senators"
+      },
+      "home": {
+        "name": "Montreal Canadiens"
+      }
+    },
+    "title": "Montreal Canadiens - Ottawa Senators"
+  },
+  {
+    "category": "hockey",
+    "date": 1790463600000,
+    "id": "1756",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1756",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Columbus Blue Jackets"
+      },
+      "home": {
+        "name": "Detroit Red Wings"
+      }
+    },
+    "title": "Detroit Red Wings - Columbus Blue Jackets"
+  },
+  {
+    "category": "hockey",
+    "date": 1790463600000,
+    "id": "1755",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1755",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "St. Louis Blues"
+      },
+      "home": {
+        "name": "Chicago Blackhawks"
+      }
+    },
+    "title": "Chicago Blackhawks - St. Louis Blues"
+  },
+  {
+    "category": "american-football",
+    "date": 1790463600000,
+    "id": "1694",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1694",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Michigan State Spartans"
+      },
+      "home": {
+        "name": "Nebraska Cornhuskers"
+      }
+    },
+    "title": "Nebraska Cornhuskers - Michigan State Spartans",
+    "venue": {
+      "country": "USA",
+      "name": "DeMartin Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790463600000,
+    "id": "ppv-hamilton-tiger-cats-at-edmonton-elks",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsI4FRDCQ8WSBiLsIqdjVkIIFKSnyQxkMCW7VZEopu6UICPv5hBMguqeFgSXOP1CXVggZMn13JTAXYGCdIA.webp",
+    "sources": [
+      {
+        "id": "ppv-hamilton-tiger-cats-at-edmonton-elks",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Edmonton Elks"
+      },
+      "home": {
+        "badge": "",
+        "name": "Hamilton Tiger-Cats"
+      }
+    },
+    "title": "Hamilton Tiger-Cats at Edmonton Elks"
+  },
+  {
+    "category": "football",
+    "date": 1790463600000,
+    "id": "ppv-cruz-azul-vs-toluca",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiAggAxuOBSSIeMGUSUpYBKkgQKSaR0qQWEUpBlFOncN0hhRmCvX8wgkU2z0whYElzT1IVdWCHcydQIVcld5DQggA.webp",
+    "sources": [
+      {
+        "id": "ppv-cruz-azul-vs-toluca",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Toluca"
+      },
+      "home": {
+        "badge": "",
+        "name": "Cruz Azul"
+      }
+    },
+    "title": "Cruz Azul vs. Toluca"
+  },
+  {
+    "category": "football",
+    "date": 1790464020000,
+    "id": "ppv-guadalajara-vs-quer-taro",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBpYQAYxDDSweMBoKIIGIuEhEIPTuxKVKkNJRKQKcQao35K8-zCCRTQ48LAkuGeaHPWCFcycwIjMGdgILIIIA.webp",
+    "sources": [
+      {
+        "id": "ppv-guadalajara-vs-quer-taro",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Querétaro"
+      },
+      "home": {
+        "badge": "",
+        "name": "Guadalajara"
+      }
+    },
+    "title": "Guadalajara vs. Querétaro"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464200000,
+    "id": "1774",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1774",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Cleveland Guardians"
+      },
+      "home": {
+        "name": "Kansas City Royals"
+      }
+    },
+    "title": "Kansas City Royals - Cleveland Guardians"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464200000,
+    "id": "1773",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1773",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Colorado Rockies"
+      },
+      "home": {
+        "name": "Chicago White Sox"
+      }
+    },
+    "title": "Chicago White Sox - Colorado Rockies"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464200000,
+    "id": "1772",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1772",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "St. Louis Cardinals"
+      },
+      "home": {
+        "name": "Milwaukee Brewers"
+      }
+    },
+    "title": "Milwaukee Brewers - St. Louis Cardinals"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464500000,
+    "id": "1777",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1777",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Chicago Cubs"
+      },
+      "home": {
+        "name": "Boston Red Sox"
+      }
+    },
+    "title": "Boston Red Sox - Chicago Cubs"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464500000,
+    "id": "1776",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1776",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Tampa Bay Rays"
+      },
+      "home": {
+        "name": "Philadelphia Phillies"
+      }
+    },
+    "title": "Philadelphia Phillies - Tampa Bay Rays"
+  },
+  {
+    "category": "baseball",
+    "date": 1790464500000,
+    "id": "1775",
+    "league_logo": "/api/images/leagues/mlb.svg",
+    "league_name": "MLB",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1775",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Baltimore Orioles"
+      },
+      "home": {
+        "name": "New York Yankees"
+      }
+    },
+    "title": "New York Yankees - Baltimore Orioles"
+  },
+  {
+    "category": "hockey",
+    "date": 1790465400000,
+    "id": "1760",
+    "league_logo": "/api/images/leagues/nhl.svg",
+    "league_name": "NHL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1760",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "New Jersey Devils"
+      },
+      "home": {
+        "name": "New York Islanders"
+      }
+    },
+    "title": "New York Islanders - New Jersey Devils"
+  },
+  {
+    "category": "football",
+    "date": 1790465400000,
+    "id": "ppv-atlanta-united-fc-vs-new-york-city-fc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+195",
+      "details": "ATL +125",
+      "draw_odds": "240",
+      "home_odds": "+125",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iADGILCCohx8+ZJFSJwkDAkoJEbDJn6IIYyGCIsqkHODGqO-mEEim2emELAkuSTqFPWPXEyHQJzcidbUlsgA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-atlanta-united-fc-vs-new-york-city-fc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "New York City FC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Atlanta United FC"
+      }
+    },
+    "title": "Atlanta United FC vs. New York City FC",
+    "venue": {
+      "city": "Atlanta, Georgia",
+      "country": "USA",
+      "name": "Mercedes-Benz Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790465400000,
+    "id": "ppv-cf-montr-al-vs-fc-cincinnati",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+135",
+      "details": "CIN +135",
+      "draw_odds": "270",
+      "home_odds": "+160",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBApgiSVQkgIwGllLAlGkMMVaZikcq0gs+mvJUgLIddP5hBBgtnphCwJLgDG0ofdZLhNWkneHJ7dTUIIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-cf-montr-al-vs-fc-cincinnati",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "FC Cincinnati"
+      },
+      "home": {
+        "badge": "",
+        "name": "CF Montréal"
+      }
+    },
+    "title": "CF Montréal vs. FC Cincinnati",
+    "venue": {
+      "city": "Montreal",
+      "country": "Canada",
+      "name": "Stade Saputo"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790465400000,
+    "id": "ppv-charlotte-fc-vs-chicago-fire-fc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+185",
+      "details": "CLT +115",
+      "draw_odds": "285",
+      "home_odds": "+115",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEChDCQEUiBghFCxShEhEq4cFnjJsrBJmltU4IjJY1IOYt7lZAoSKbZ6YQsCS4AxqqFhuTlktMlUCM3IA7WMIIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-charlotte-fc-vs-chicago-fire-fc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Chicago Fire FC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Charlotte FC"
+      }
+    },
+    "title": "Charlotte FC vs. Chicago Fire FC",
+    "venue": {
+      "city": "Charlotte, North Carolina",
+      "country": "USA",
+      "name": "Bank of America Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790465400000,
+    "id": "ppv-philadelphia-union-vs-orlando-city-sc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+450",
+      "details": "PHI -240",
+      "draw_odds": "400",
+      "home_odds": "-240",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjYFQmkQiGLOAQQcrCHHL4skJuXCJ0k5rkhgutSC0g143uQigwgkU2z0whYElxSUIXJuTmdhUnoCS3JXVQiIIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-philadelphia-union-vs-orlando-city-sc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Orlando City SC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Philadelphia Union"
+      }
+    },
+    "title": "Philadelphia Union vs. Orlando City SC",
+    "venue": {
+      "city": "Chester, Pennsylvania",
+      "country": "USA",
+      "name": "Subaru Park"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790465400000,
+    "id": "ppv-red-bull-new-york-vs-st-louis-city-sc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "-105",
+      "details": "STL -105",
+      "draw_odds": "290",
+      "home_odds": "+215",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNhBZgESWVmyqIEDJBLlNYeLXLJiGLsQqtw0iAPTZZUeVkChIptnphCwJLgDGKB2G6dZUzIfAmAJMD8ZUhkgA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-red-bull-new-york-vs-st-louis-city-sc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "St. Louis CITY SC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Red Bull New York"
+      }
+    },
+    "title": "Red Bull New York vs. St. Louis CITY SC",
+    "venue": {
+      "city": "Harrison, New Jersey",
+      "country": "USA",
+      "name": "Red Bull Arena"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790467200000,
+    "id": "1730",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1730",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Texas State Bobcats"
+      },
+      "home": {
+        "name": "Incarnate Word Cardinals"
+      }
+    },
+    "title": "Incarnate Word Cardinals - Texas State Bobcats"
+  },
+  {
+    "category": "american-football",
+    "date": 1790467200000,
+    "id": "1729",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1729",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Virginia Cavaliers"
+      },
+      "home": {
+        "name": "Delaware Blue Hens"
+      }
+    },
+    "title": "Delaware Blue Hens - Virginia Cavaliers"
+  },
+  {
+    "category": "fight",
+    "date": 1790467200000,
+    "id": "ppv-aew-saturday-night-collision",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
+    "sources": [
+      {
+        "id": "ppv-aew-saturday-night-collision",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Fight Night"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "MMA"
+      }
+    },
+    "title": "AEW Saturday Night Collision"
+  },
+  {
+    "category": "american-football",
+    "date": 1790469000000,
+    "id": "1731",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "OFF",
+      "details": "MIA -41.5",
+      "home_odds": "OFF",
+      "over_under": "54.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 6:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1731",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Miami Hurricanes"
+      },
+      "home": {
+        "name": "Central Michigan Chippewas"
+      }
+    },
+    "title": "Central Michigan Chippewas - Miami Hurricanes",
+    "venue": {
+      "city": "Miami Gardens",
+      "country": "USA",
+      "name": "Hard Rock Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790469000000,
+    "id": "ppv-austin-fc-vs-san-diego-fc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+170",
+      "details": "ATX +135",
+      "draw_odds": "250",
+      "home_odds": "+135",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSRDwRwGpOHjs2EDQggIwDVRABjFaRBZdh0pvUrjMCwprSIKchoFCZBJQ7CFgSXDodCwbk4NYVMHN2kwQM1TCCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-austin-fc-vs-san-diego-fc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "San Diego FC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Austin FC"
+      }
+    },
+    "title": "Austin FC vs. San Diego FC",
+    "venue": {
+      "city": "Austin, Texas",
+      "country": "USA",
+      "name": "Q2 Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790469000000,
+    "id": "ppv-fc-dallas-vs-lafc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+180",
+      "details": "DAL +125",
+      "draw_odds": "255",
+      "home_odds": "+125",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgaw4PFIhEISeJARpIAMYaqIGBsRYRW4LpByLZCdYsRsKcnYFCRTbPTCFgSXJodCwbk47WTIHAgswQOA7MgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-fc-dallas-vs-lafc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "LAFC"
+      },
+      "home": {
+        "badge": "",
+        "name": "FC Dallas"
+      }
+    },
+    "title": "FC Dallas vs. LAFC",
+    "venue": {
+      "city": "Toyota Stadium",
+      "country": "USA",
+      "name": "Toyota Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790469000000,
+    "id": "ppv-houston-dynamo-fc-vs-sporting-kansas-city",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+425",
+      "details": "HOU -200",
+      "draw_odds": "340",
+      "home_odds": "-200",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQkQWECGwzg8UiGGqlSkDSogY66Wr0p9umeJDG9OxHpgpyEUGEEim2emELAkuAMb2hZ1ZHYVJ6Ag0wZ2BHMgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-houston-dynamo-fc-vs-sporting-kansas-city",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Sporting Kansas City"
+      },
+      "home": {
+        "badge": "",
+        "name": "Houston Dynamo FC"
+      }
+    },
+    "title": "Houston Dynamo FC vs. Sporting Kansas City",
+    "venue": {
+      "city": "Houston, Texas",
+      "country": "USA",
+      "name": "Shell Energy Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790469000000,
+    "id": "ppv-nashville-sc-vs-toronto-fc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+475",
+      "details": "NSH -225",
+      "draw_odds": "370",
+      "home_odds": "-225",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMEQBjEChARgNLCETwR8kCRDCQMEEs3jF2kFlKGJiCCt0j10lOQUChdgtnphCwJLimOhMG5OBWFSenc1MCDgBTIIIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-nashville-sc-vs-toronto-fc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Toronto FC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Nashville SC"
+      }
+    },
+    "title": "Nashville SC vs. Toronto FC",
+    "venue": {
+      "city": "Nashville, Tennessee",
+      "country": "USA",
+      "name": "GEODIS Park"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790469000000,
+    "id": "ppv-seattle-sounders-fc-vs-minnesota-united-fc",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+205",
+      "details": "SEA +105",
+      "draw_odds": "275",
+      "home_odds": "+105",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSBEgsIMvGBUQw4IizZgEBSADGIvcpryIIQyZ2kl5+YlO9ymgUL0F1KcoWBJc2t0LDdOTWUyNxd5MH8NUg0gA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-seattle-sounders-fc-vs-minnesota-united-fc",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Minnesota United FC"
+      },
+      "home": {
+        "badge": "",
+        "name": "Seattle Sounders FC"
+      }
+    },
+    "title": "Seattle Sounders FC vs. Minnesota United FC",
+    "venue": {
+      "city": "Seattle, Washington",
+      "country": "USA",
+      "name": "Lumen Field"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790470800000,
+    "id": "1734",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1734",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "West Virginia Mountaineers"
+      },
+      "home": {
+        "name": "Oklahoma State Cowboys"
+      }
+    },
+    "title": "Oklahoma State Cowboys - West Virginia Mountaineers"
+  },
+  {
+    "category": "american-football",
+    "date": 1790470800000,
+    "id": "1733",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1733",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Cincinnati Bearcats"
+      },
+      "home": {
+        "name": "Kansas State Wildcats"
+      }
+    },
+    "title": "Kansas State Wildcats - Cincinnati Bearcats"
+  },
+  {
+    "category": "american-football",
+    "date": 1790470800000,
+    "id": "1732",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+370",
+      "details": "ALA -12.5",
+      "home_odds": "-485",
+      "over_under": "53.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 7:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1732",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Alabama Crimson Tide"
+      },
+      "home": {
+        "name": "South Carolina Gamecocks"
+      }
+    },
+    "title": "South Carolina Gamecocks - Alabama Crimson Tide",
+    "venue": {
+      "city": "Tuscaloosa",
+      "country": "USA",
+      "name": "Bryant-Denny Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790470800000,
+    "id": "ppv-tigres-uanl-vs-puebla",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjYRIWSlkgUkySGEylJEAGMQiMhHEyDUtVV3bVq6QaWjyEUGEEim0pWELAkuLUqFPWBzUyJQJlMCdgB30gA.webp",
+    "sources": [
+      {
+        "id": "ppv-tigres-uanl-vs-puebla",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Puebla"
+      },
+      "home": {
+        "badge": "",
+        "name": "Tigres UANL"
+      }
+    },
+    "title": "Tigres UANL vs. Puebla"
+  },
+  {
+    "category": "football",
+    "date": 1790470800000,
+    "id": "ppv-santos-vs-pachuca",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCRDxswGsJk1J88YjIRZEhSG2LSIcQGMp2mVmCIVIlOXUChIpjOthCwJLgPWhYbp3XyyawJzch9gdTUgA.webp",
+    "sources": [
+      {
+        "id": "ppv-santos-vs-pachuca",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Pachuca"
+      },
+      "home": {
+        "badge": "",
+        "name": "Santos"
+      }
+    },
+    "title": "Santos vs. Pachuca"
+  },
+  {
+    "category": "american-football",
+    "date": 1790472600000,
+    "id": "1739",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1739",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "NC State Wolfpack"
+      },
+      "home": {
+        "name": "App State Mountaineers"
+      }
+    },
+    "title": "App State Mountaineers - NC State Wolfpack"
+  },
+  {
+    "category": "american-football",
+    "date": 1790472600000,
+    "id": "1738",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1738",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Utah State Aggies"
+      },
+      "home": {
+        "name": "Troy Trojans"
+      }
+    },
+    "title": "Troy Trojans - Utah State Aggies"
+  },
+  {
+    "category": "american-football",
+    "date": 1790472600000,
+    "id": "1737",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1737",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Washington State Cougars"
+      },
+      "home": {
+        "name": "Arizona Wildcats"
+      }
+    },
+    "title": "Arizona Wildcats - Washington State Cougars"
+  },
+  {
+    "category": "american-football",
+    "date": 1790472600000,
+    "id": "1736",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-166",
+      "details": "ORE -3",
+      "home_odds": "+140",
+      "over_under": "62.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 7:30 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1736",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "USC Trojans"
+      },
+      "home": {
+        "name": "Oregon Ducks"
+      }
+    },
+    "title": "Oregon Ducks - USC Trojans",
+    "venue": {
+      "city": "Los Angeles",
+      "country": "USA",
+      "name": "Los Angeles Memorial Coliseum"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790472600000,
+    "id": "1735",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1735",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "LSU Tigers"
+      },
+      "home": {
+        "name": "Texas A&M Aggies"
+      }
+    },
+    "title": "Texas A&M Aggies - LSU Tigers",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790472600000,
+    "id": "ppv-real-salt-lake-vs-new-england-revolution",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+175",
+      "details": "RSL +125",
+      "draw_odds": "270",
+      "home_odds": "+125",
+      "over_under": "2.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCJAhsIGCOBUQNLLJDCQAYxAkpU4BHGThCkAZggUm8duDx5yw73IRQYQfILZ6YQsCS4NFCFybk4XYzIgzzswN31SfSA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-real-salt-lake-vs-new-england-revolution",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "New England Revolution"
+      },
+      "home": {
+        "badge": "",
+        "name": "Real Salt Lake"
+      }
+    },
+    "title": "Real Salt Lake vs. New England Revolution",
+    "venue": {
+      "city": "Sandy, Utah",
+      "country": "USA",
+      "name": "America First Field"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790473500000,
+    "id": "1740",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1740",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Mississippi State Bulldogs"
+      },
+      "home": {
+        "name": "Missouri Tigers"
+      }
+    },
+    "title": "Missouri Tigers - Mississippi State Bulldogs",
+    "venue": {
+      "city": "Warrensburg",
+      "country": "USA",
+      "name": "Audrey J. Walton Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790476200000,
+    "id": "ppv-la-galaxy-vs-colorado-rapids",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+180",
+      "details": "LA +115",
+      "draw_odds": "285",
+      "home_odds": "+115",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGCAkhgEEMOwiQJELPnC5ImVuUo5IXVhUgAxhpo15yrMHjZJKchFBhBmggodhCwJLmMOhF1YnS3p3WzAXbRkgA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-la-galaxy-vs-colorado-rapids",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Colorado Rapids"
+      },
+      "home": {
+        "badge": "",
+        "name": "LA Galaxy"
+      }
+    },
+    "title": "LA Galaxy vs. Colorado Rapids",
+    "venue": {
+      "city": "Carson, California",
+      "country": "USA",
+      "name": "Dignity Health Sports Park"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790476200000,
+    "id": "ppv-san-jose-earthquakes-vs-portland-timbers",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+210",
+      "details": "SJ +100",
+      "draw_odds": "280",
+      "home_odds": "+100",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMvGBUQEbCGnSI4qfOCJhwWbMnD5qkiCzZj0mHJpKsIawGMU5WQKEimx+2ELAkuO87DdOWQ0yewI1cn9NUk0gA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-san-jose-earthquakes-vs-portland-timbers",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Portland Timbers"
+      },
+      "home": {
+        "badge": "",
+        "name": "San Jose Earthquakes"
+      }
+    },
+    "title": "San Jose Earthquakes vs. Portland Timbers",
+    "venue": {
+      "city": "San Jose, California",
+      "country": "USA",
+      "name": "PayPal Park"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790476200000,
+    "id": "ppv-vancouver-whitecaps-vs-d-c-united",
+    "league_logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "league_name": "MLS",
+    "odds": {
+      "away_odds": "+750",
+      "details": "VAN -400",
+      "draw_odds": "500",
+      "home_odds": "-400",
+      "over_under": "3.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGIkImEh5kkDFIgswCCE1yQu+RGASSIFMHgyUWsxt1aThhYdP8wgkU2z0whYElyTTIVdWA2FSegJrMFcNcIggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-vancouver-whitecaps-vs-d-c-united",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "D.C. United"
+      },
+      "home": {
+        "badge": "",
+        "name": "Vancouver Whitecaps"
+      }
+    },
+    "title": "Vancouver Whitecaps vs. D.C. United",
+    "venue": {
+      "city": "Vancouver",
+      "country": "Canada",
+      "name": "BC Place"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790478000000,
+    "id": "1741",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+4000",
+      "details": "SMU -34.5",
+      "home_odds": "-50000",
+      "over_under": "59.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/26 - 9:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "1741",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "SMU Mustangs"
+      },
+      "home": {
+        "name": "Missouri State Bears"
+      }
+    },
+    "title": "Missouri State Bears - SMU Mustangs",
+    "venue": {
+      "city": "Dallas",
+      "country": "USA",
+      "name": "Gerald J. Ford Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790481600000,
+    "id": "1742",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "1742",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Fresno State Bulldogs"
+      },
+      "home": {
+        "name": "Rice Owls"
+      }
+    },
+    "title": "Rice Owls - Fresno State Bulldogs",
+    "venue": {
+      "city": "Houston, Texas",
+      "country": "USA",
+      "name": "Holloway Field"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790483400000,
+    "id": "1744",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1744",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Nevada Wolf Pack"
+      },
+      "home": {
+        "name": "Air Force Falcons"
+      }
+    },
+    "title": "Air Force Falcons - Nevada Wolf Pack"
+  },
+  {
+    "category": "american-football",
+    "date": 1790483400000,
+    "id": "1743",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1743",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Stanford Cardinal"
+      },
+      "home": {
+        "name": "Georgia Tech Yellow Jackets"
+      }
+    },
+    "title": "Georgia Tech Yellow Jackets - Stanford Cardinal"
+  },
+  {
+    "category": "american-football",
+    "date": 1790485200000,
+    "id": "1745",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "1745",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "name": "Washington Huskies"
+      },
+      "home": {
+        "name": "Minnesota Golden Gophers"
+      }
+    },
+    "title": "Minnesota Golden Gophers - Washington Huskies"
+  },
+  {
+    "category": "rugby",
+    "date": 1790488800000,
+    "id": "ppv-panthers-vs-knights",
+    "league_logo": "/api/images/leagues/nrl.svg",
+    "league_name": "NRL",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCwgaEYLOHBEKUopDxFckDHGkQC9VRApJqxIcSJtiMmcnL+YQSKbZ6YQsCS4AxsqGPWeRVlAg0wRzkVCCA.webp",
+    "sources": [
+      {
+        "id": "ppv-panthers-vs-knights",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Knights"
+      },
+      "home": {
+        "badge": "",
+        "name": "Panthers"
+      }
+    },
+    "title": "Panthers vs. Knights"
+  },
+  {
+    "category": "fight",
+    "date": 1790496000000,
+    "id": "live-event_takuma-inoue-vs-tenshin-nasukawa-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_takuma-inoue-vs-tenshin-nasukawa-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Tenshin Nasukawa"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Takuma Inoue"
+      }
+    },
+    "title": "Takuma Inoue vs Tenshin Nasukawa"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790498700000,
+    "id": "live-event_nascar-cup-series-2026-hollywood-casino-400-live-stream",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_nascar-cup-series-2026-hollywood-casino-400-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "Nascar Cup Series 2026 - Hollywood Casino 400"
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "-20260927",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "popular": true,
+    "sources": [
+      {
+        "id": "-20260927",
+        "source": "golf"
+      }
+    ],
+    "title": "NFL vs RedZone"
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-new-york-jets-at-detroit-lions",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+245",
+      "details": "DET -6.5",
+      "home_odds": "-305",
+      "over_under": "47.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSmCIyVEPCkhhwGiRBZSU5SFVY1wCCAMo52xSGMBjMypPDtUyfzCCRTbPTCFgSXBclDnVghXMkkCTTBnfQ0IIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-new-york-jets-at-detroit-lions",
+        "source": "admin"
+      },
+      {
+        "id": "1718",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Detroit Lions"
+      },
+      "home": {
+        "badge": "",
+        "name": "New York Jets"
+      }
+    },
+    "title": "New York Jets at Detroit Lions",
+    "venue": {
+      "city": "Detroit",
+      "country": "USA",
+      "name": "Ford Field"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-carolina-panthers-at-cleveland-browns",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-148",
+      "details": "CAR -2.5",
+      "home_odds": "+124",
+      "over_under": "42.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEkkQw4DSoh5ckSGmSsIDRpgqIwRMNWlxmmUYWGsckIhIpyegUJFNs9MIWBJcAY3tCwbk49WTJ7An1yQOA9MgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-carolina-panthers-at-cleveland-browns",
+        "source": "admin"
+      },
+      {
+        "id": "1717",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Cleveland Browns"
+      },
+      "home": {
+        "badge": "",
+        "name": "Carolina Panthers"
+      }
+    },
+    "title": "Carolina Panthers at Cleveland Browns",
+    "venue": {
+      "city": "Cleveland",
+      "country": "USA",
+      "name": "Huntington Bank Field"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-tennessee-titans-at-new-york-giants",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+120",
+      "details": "NYG -3",
+      "home_odds": "-142",
+      "over_under": "39.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSyiYSBiSQAY2AQQWEFXXLSqnbM3zgiFMp0bJpiRo35yEUGEEim2emELAkuJSiHluTgdhXT8CY3InVV0IIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-tennessee-titans-at-new-york-giants",
+        "source": "admin"
+      },
+      {
+        "id": "1721",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "New York Giants"
+      },
+      "home": {
+        "badge": "",
+        "name": "Tennessee Titans"
+      }
+    },
+    "title": "Tennessee Titans at New York Giants",
+    "venue": {
+      "city": "East Rutherford",
+      "country": "USA",
+      "name": "MetLife Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-houston-texans-at-indianapolis-colts",
+    "league_logo": "/api/images/leagues/serie-a.svg",
+    "league_name": "Serie A",
+    "odds": {
+      "away_odds": "-142",
+      "details": "HOU -2.5",
+      "home_odds": "+120",
+      "over_under": "42.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiGEgSICMAggs4kCknSQAY1IjgErRJTaZGzSHg6pMcfOwiV90eTkChOgrcNhCwJLg2GhMG5OOWFtQ3dzMCCbMgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-houston-texans-at-indianapolis-colts",
+        "source": "admin"
+      },
+      {
+        "id": "1719",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Indianapolis Colts"
+      },
+      "home": {
+        "badge": "",
+        "name": "Houston Texans"
+      }
+    },
+    "title": "Houston Texans at Indianapolis Colts",
+    "venue": {
+      "city": "Indianapolis",
+      "country": "USA",
+      "name": "Lucas Oil Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-kansas-city-chiefs-at-miami-dolphins",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-650",
+      "details": "KC -10.5",
+      "home_odds": "+470",
+      "over_under": "46.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvBEgswKiBQgyJaSrnKsIENkWbxpYBBHZZpEAGN5IYUcnK5ZlOUMChRgscdhCwJLgeuwbk5DazJHd0kwQIN9CCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-kansas-city-chiefs-at-miami-dolphins",
+        "source": "admin"
+      },
+      {
+        "id": "1720",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Miami Dolphins"
+      },
+      "home": {
+        "badge": "",
+        "name": "Kansas City Chiefs"
+      }
+    },
+    "title": "Kansas City Chiefs at Miami Dolphins",
+    "venue": {
+      "city": "Miami Gardens",
+      "country": "USA",
+      "name": "Hard Rock Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-los-angeles-chargers-at-buffalo-bills",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+275",
+      "details": "BUF -7",
+      "home_odds": "-345",
+      "over_under": "50.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGogDGIGTGA0IISfPEhhMkRsQTgiEkuCKUKrCAiHN6mCFNkSx-mEEim2emELAkuScaFPWc2FSegJdcicLMgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-los-angeles-chargers-at-buffalo-bills",
+        "source": "admin"
+      },
+      {
+        "id": "1716",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Buffalo Bills"
+      },
+      "home": {
+        "badge": "",
+        "name": "Los Angeles Chargers"
+      }
+    },
+    "title": "Los Angeles Chargers at Buffalo Bills",
+    "venue": {
+      "city": "Orchard Park",
+      "country": "USA",
+      "name": "Highmark Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-new-england-patriots-at-jacksonville-jaguars",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+130",
+      "details": "JAX -3",
+      "home_odds": "-155",
+      "over_under": "45.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGONIiQEKcJAKFEqiBQgsC4CpUQQNDRsQLE8jcOwzgus1pTlZAoSKbZ6YQsCS4AxnaFhuTllzMjsCYHhyAKspCCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-new-england-patriots-at-jacksonville-jaguars",
+        "source": "admin"
+      },
+      {
+        "id": "1724",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Jacksonville Jaguars"
+      },
+      "home": {
+        "badge": "",
+        "name": "New England Patriots"
+      }
+    },
+    "title": "New England Patriots at Jacksonville Jaguars",
+    "venue": {
+      "city": "Jacksonville",
+      "country": "USA",
+      "name": "EverBank Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-seattle-seahawks-at-washington-commanders",
+    "league_logo": "/api/images/leagues/ufc.svg",
+    "league_name": "UFC",
+    "odds": {
+      "away_odds": "-345",
+      "details": "SEA -7",
+      "home_odds": "+275",
+      "over_under": "40.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeCJARS4kChAk5IZcsU1hpbOOybpigMZaJixFikLz6kPpTlpAoSKY7bYQsCS4bjsN07SNMlsCYAkwX2A9SKA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-seattle-seahawks-at-washington-commanders",
+        "source": "admin"
+      },
+      {
+        "id": "1723",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Washington Commanders"
+      },
+      "home": {
+        "badge": "",
+        "name": "Seattle Seahawks"
+      }
+    },
+    "title": "Seattle Seahawks at Washington Commanders",
+    "venue": {
+      "city": "Landover",
+      "country": "USA",
+      "name": "Northwest Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790528400000,
+    "id": "ppv-cincinnati-bengals-at-pittsburgh-steelers",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-192",
+      "details": "CIN -3.5",
+      "home_odds": "+160",
+      "over_under": "42.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCGEgY02SRABjEBBCIQy5aWCIq6kaVkxgKlHuHbJwXRIX6Vo8hFBhB+gtnphCwJLgUohcm5OJ3MyAPd4chdjLQggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 1:00 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-cincinnati-bengals-at-pittsburgh-steelers",
+        "source": "admin"
+      },
+      {
+        "id": "1722",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Pittsburgh Steelers"
+      },
+      "home": {
+        "badge": "",
+        "name": "Cincinnati Bengals"
+      }
+    },
+    "title": "Cincinnati Bengals at Pittsburgh Steelers",
+    "venue": {
+      "city": "Pittsburgh",
+      "country": "USA",
+      "name": "Acrisure Stadium"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790532000000,
+    "id": "ppv-pumas-unam-vs-atl-tico-de-san-luis",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQjZgUrCBghFZOcJkgAxiBLjSwKiGHiNpEBBBzFKA+ZCTrhiCnJSBQkU2lOwhYElzqnITBuTilVMicCYHhyYJldCCA.webp",
+    "sources": [
+      {
+        "id": "ppv-pumas-unam-vs-atl-tico-de-san-luis",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Atlético de San Luis"
+      },
+      "home": {
+        "badge": "",
+        "name": "Pumas UNAM"
+      }
+    },
+    "title": "Pumas UNAM vs. Atlético de San Luis"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790539200000,
+    "id": "live-event_2026-nascar-cup-series-playoff-at-kansas-live-stream",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_2026-nascar-cup-series-playoff-at-kansas-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "2026 NASCAR Cup Series Playoff at Kansas"
+  },
+  {
+    "category": "american-football",
+    "date": 1790539500000,
+    "id": "ppv-minnesota-vikings-at-tampa-bay-buccaneers",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-122",
+      "details": "MIN -1.5",
+      "home_odds": "+102",
+      "over_under": "42.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YIhIgIIYcBnCQSkKWBUQk7CHXqpujWuUBjESCwgYE7RumGYKchFBhBIptnphCwJLiMOhF1YnOTIHAglyF3lVCCA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 4:05 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-minnesota-vikings-at-tampa-bay-buccaneers",
+        "source": "admin"
+      },
+      {
+        "id": "1726",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "home": {
+        "badge": "",
+        "name": "Minnesota Vikings"
+      }
+    },
+    "title": "Minnesota Vikings at Tampa Bay Buccaneers",
+    "venue": {
+      "city": "Tampa",
+      "country": "USA",
+      "name": "Raymond James Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790539500000,
+    "id": "ppv-arizona-cardinals-at-san-francisco-49-ers",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+340",
+      "details": "SF -8.5",
+      "home_odds": "-440",
+      "over_under": "47.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGsJCSYwCOOBUQIYIjkBjEHJQKRKkFhAlxIGCG0RSxpUY3bJWbFO38wg3QWz0whYElxrtIVdWC2FSeg94cldZcIggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 4:05 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-arizona-cardinals-at-san-francisco-49-ers",
+        "source": "admin"
+      },
+      {
+        "id": "1725",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "San Francisco 49ers"
+      },
+      "home": {
+        "badge": "",
+        "name": "Arizona Cardinals"
+      }
+    },
+    "title": "Arizona Cardinals at San Francisco 49ers",
+    "venue": {
+      "city": "Santa Clara",
+      "country": "USA",
+      "name": "Levi's Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790540700000,
+    "id": "ppv-baltimore-ravens-at-dallas-cowboys",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-180",
+      "details": "BAL -3.5",
+      "home_odds": "+150",
+      "over_under": "52.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YDSwgUIEiGGlZILCJABjdfJDaYW3TJgiJICMe0aq22UeFaqKcqYFCjBbPTCFgSXGodCwbk5TBTIHN3EwQOBTMgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 4:25 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-baltimore-ravens-at-dallas-cowboys",
+        "source": "admin"
+      },
+      {
+        "id": "1727",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Dallas Cowboys"
+      },
+      "home": {
+        "badge": "",
+        "name": "Baltimore Ravens"
+      }
+    },
+    "title": "Baltimore Ravens at Dallas Cowboys",
+    "venue": {
+      "city": "Rio De Janeiro",
+      "country": "Brazil",
+      "name": "Maracanã Stadium"
+    }
+  },
+  {
+    "category": "american-football",
+    "date": 1790540700000,
+    "id": "ppv-las-vegas-raiders-at-new-orleans-saints",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "+154",
+      "details": "NO -3",
+      "home_odds": "-185",
+      "over_under": "43.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTBCIq4kCmARgNLApDCQikiADGwRBFnxScjaRE6FSkJO0ma++fzCCRTbPTCFgSXNvlDnVkVhM3kCPXJnSzIIIA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 4:25 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-las-vegas-raiders-at-new-orleans-saints",
+        "source": "admin"
+      },
+      {
+        "id": "1728",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "New Orleans Saints"
+      },
+      "home": {
+        "badge": "",
+        "name": "Las Vegas Raiders"
+      }
+    },
+    "title": "Las Vegas Raiders at New Orleans Saints",
+    "venue": {
+      "city": "New Orleans",
+      "country": "USA",
+      "name": "Caesars Superdome"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790550000000,
+    "id": "ppv-columbus-crew-vs-inter-miami-cf",
+    "league_logo": "/api/images/leagues/serie-a.svg",
+    "league_name": "Serie A",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBoRgiEiGEgAxiGk0y0rJKUrgVEHKylsM44mHAI4-fpFHDvctIFDbBYynKFgSXIo9Cwbk5pczIPN3hyQIsjCCA.webp",
+    "sources": [
+      {
+        "id": "ppv-columbus-crew-vs-inter-miami-cf",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Inter Miami CF"
+      },
+      "home": {
+        "badge": "",
+        "name": "Columbus Crew"
+      }
+    },
+    "title": "Columbus Crew vs. Inter Miami CF"
+  },
+  {
+    "category": "american-football",
+    "date": 1790554800000,
+    "id": "ppv-los-angeles-rams-at-denver-broncos",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "away_odds": "-135",
+      "details": "LAR -2.5",
+      "home_odds": "+114",
+      "over_under": "44.5",
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKXEgqICCADGkxcOARgiLCBjAZZNSsTxJNRMJBkSC1dPXjbECfzCCRTbPTCFgSXPIlDnVn1SegJ1cmdVEIggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0:00",
+      "home": "0",
+      "status": "9/27 - 8:20 PM EDT"
+    },
+    "sources": [
+      {
+        "id": "ppv-los-angeles-rams-at-denver-broncos",
+        "source": "admin"
+      },
+      {
+        "id": "1746",
+        "source": "golf"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Denver Broncos"
+      },
+      "home": {
+        "badge": "",
+        "name": "Los Angeles Rams"
+      }
+    },
+    "title": "Los Angeles Rams at Denver Broncos",
+    "venue": {
+      "city": "Denver",
+      "country": "USA",
+      "name": "Empower Field at Mile High"
+    }
+  },
+  {
+    "category": "football",
+    "date": 1790557200000,
+    "id": "ppv-le-n-vs-fc-juarez",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYiJILCGHAaiKhNLB4CkInnDNushDnYpIUiDPiQJEBDUjsllORsChdgkcdhCwJLnGOhMG5OG3kyR3d1MCDgG30gA.webp",
+    "sources": [
+      {
+        "id": "ppv-le-n-vs-fc-juarez",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "FC Juarez"
+      },
+      "home": {
+        "badge": "",
+        "name": "León"
+      }
+    },
+    "title": "León vs. FC Juarez"
+  },
+  {
+    "category": "football",
+    "date": 1790564400000,
+    "id": "ppv-necaxa-vs-am-rica",
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBDAqIRMOwgAxkpGzpwCNJAzNNeBpCaSIGCGNYlJhZokRJpDSnKaBQkU2z0whYElyKnITBuThsHJwJgfTBgjQcIIA.webp",
+    "sources": [
+      {
+        "id": "ppv-necaxa-vs-am-rica",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "América"
+      },
+      "home": {
+        "badge": "",
+        "name": "Necaxa"
+      }
+    },
+    "title": "Necaxa vs. América"
+  },
+  {
+    "category": "american-football",
+    "date": 1790640900000,
+    "id": "ppv-philadelphia-eagles-at-chicago-bears",
+    "league_logo": "/api/images/leagues/nfl.svg",
+    "league_name": "NFL",
+    "odds": {
+      "provider": "DraftKings"
+    },
+    "popular": true,
+    "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMllLB4wKiBDTsUiOJByVZOZMkqaWEAGMQEWfNKr9lkMJAxrKciYFCRTJQ7CFgSXAYdCwbk4TYSkHAkUwQOATMgggA.webp",
+    "scores": {
+      "away": "0",
+      "clock": "0'",
+      "home": "0",
+      "status": "Scheduled"
+    },
+    "sources": [
+      {
+        "id": "ppv-philadelphia-eagles-at-chicago-bears",
+        "source": "admin"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "",
+        "name": "Chicago Bears"
+      },
+      "home": {
+        "badge": "",
+        "name": "Philadelphia Eagles"
+      }
+    },
+    "title": "Philadelphia Eagles at Chicago Bears",
+    "venue": {
+      "city": "Chestnut Hill",
+      "country": "USA",
+      "name": "Newton Campus Lacrosse & Soccer Field"
+    }
+  },
+  {
+    "category": "fight",
+    "date": 1790722800000,
+    "id": "live-event_dana-white-s-contender-series-season-10-week-8-live-stream",
+    "league_logo": "/api/images/leagues/dwcs.svg",
+    "league_name": "Dana White's Contender Series",
+    "popular": false,
+    "poster": "/api/images/posters/dwcs.svg",
+    "sources": [
+      {
+        "id": "live-event_dana-white-s-contender-series-season-10-week-8-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/fighters/5364347.png",
+        "name": "Matt Adams"
+      },
+      "home": {
+        "badge": "/api/images/fighters/3128853.png",
+        "name": "Anthony Wint"
+      }
+    },
+    "title": "Dana White's Contender Series: Season 10, Week 8",
+    "venue": {
+      "city": "Las Vegas",
+      "country": "USA",
+      "name": "Meta APEX"
+    }
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790830980000,
+    "id": "live-event_formula-1-2026-bahrain-gp-1-live-stream",
+    "league_logo": "/api/images/leagues/formula-1.svg",
+    "league_name": "Formula 1",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_formula-1-2026-bahrain-gp-1-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "Formula 1 2026 - Bahrain GP"
+  },
+  {
+    "category": "motor-sports",
+    "date": 1790836260000,
+    "id": "live-event_world-rally-championship-2026-rally-italia-live-stream",
+    "popular": false,
+    "sources": [
+      {
+        "id": "live-event_world-rally-championship-2026-rally-italia-live-stream",
+        "source": "delta"
+      }
+    ],
+    "title": "World Rally Championship 2026 - Rally Italia"
+  },
+  {
+    "category": "fight",
+    "date": 1790949600000,
+    "id": "live-event_pfl-mena-11-live-stream",
+    "league_logo": "/api/images/leagues/pfl.svg",
+    "league_name": "PFL",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_pfl-mena-11-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/pfl.svg",
+        "name": "Fight Night"
+      },
+      "home": {
+        "badge": "/api/images/leagues/pfl.svg",
+        "name": "PFL"
+      }
+    },
+    "title": "PFL MENA 11"
+  },
+  {
+    "category": "fight",
+    "date": 1791050400000,
+    "id": "live-event_ben-whittaker-vs-conor-wallace-live-stream",
+    "league_logo": "/api/images/leagues/mma.svg",
+    "league_name": "MMA",
+    "popular": false,
+    "poster": "/api/images/posters/mma.svg",
+    "sources": [
+      {
+        "id": "live-event_ben-whittaker-vs-conor-wallace-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Conor Wallace"
+      },
+      "home": {
+        "badge": "/api/images/leagues/mma.svg",
+        "name": "Ben Whittaker"
+      }
+    },
+    "title": "Ben Whittaker vs Conor Wallace"
+  },
+  {
+    "category": "fight",
+    "date": 1791061200000,
+    "id": "live-event_ufc-332-live-stream",
+    "league_logo": "/api/images/leagues/ufc.svg",
+    "league_name": "UFC",
+    "popular": false,
+    "poster": "/api/images/posters/ufc.svg",
+    "sources": [
+      {
+        "id": "live-event_ufc-332-live-stream",
+        "source": "delta"
+      }
+    ],
+    "teams": {
+      "away": {
+        "badge": "/api/images/fighters/4215200.png",
+        "name": "Wang Cong"
+      },
+      "home": {
+        "badge": "/api/images/fighters/4054605.png",
+        "name": "Natalia Silva"
+      }
+    },
+    "title": "UFC 332",
+    "venue": {
+      "city": "Salt Lake City",
+      "country": "USA",
+      "name": "Delta Center"
+    },
+    "timestamp": 1790253840.0
+  }
+]

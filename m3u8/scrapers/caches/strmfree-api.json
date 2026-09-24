@@ -1,0 +1,449 @@
+{
+  "count": 23,
+  "streams": [
+    {
+      "id": "malta-vs-andorra",
+      "name": "Malta vs Andorra",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "malta-vs-andorra",
+      "match_timestamp": 1790265600,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_malta-vs-andorra_Malta_vs_Andorra",
+      "sources": [],
+      "team1": {
+        "name": "Malta",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png"
+      },
+      "team2": {
+        "name": "Andorra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/and.png"
+      }
+    },
+    {
+      "id": "israel-vs-austria",
+      "name": "Israel vs Austria",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "israel-vs-austria",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_israel-vs-austria_Israel_vs_Austria",
+      "sources": [],
+      "team1": {
+        "name": "Israel",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png"
+      },
+      "team2": {
+        "name": "Austria",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      }
+    },
+    {
+      "id": "republic-of-ireland-vs-kosovo",
+      "name": "Republic of Ireland vs Kosovo",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "republic-of-ireland-vs-kosovo",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_republic-of-ireland-vs-kosovo_Republic_of_Ireland_vs_Kosovo",
+      "sources": [],
+      "team1": {
+        "name": "Republic of Ireland",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
+      },
+      "team2": {
+        "name": "Kosovo",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
+      }
+    },
+    {
+      "id": "lithuania-vs-liechtenstein",
+      "name": "Lithuania vs Liechtenstein",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "lithuania-vs-liechtenstein",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_lithuania-vs-liechtenstein_Lithuania_vs_Liechtenstein",
+      "sources": [],
+      "team1": {
+        "name": "Lithuania",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png"
+      },
+      "team2": {
+        "name": "Liechtenstein",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png"
+      }
+    },
+    {
+      "id": "germany-vs-netherlands",
+      "name": "Germany vs Netherlands",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "germany-vs-netherlands",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_germany-vs-netherlands_Germany_vs_Netherlands",
+      "sources": [],
+      "team1": {
+        "name": "Germany",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "team2": {
+        "name": "Netherlands",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      }
+    },
+    {
+      "id": "denmark-vs-norway",
+      "name": "Denmark vs Norway",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "denmark-vs-norway",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_denmark-vs-norway_Denmark_vs_Norway",
+      "sources": [],
+      "team1": {
+        "name": "Denmark",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
+      },
+      "team2": {
+        "name": "Norway",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
+      }
+    },
+    {
+      "id": "wales-vs-portugal",
+      "name": "Wales vs Portugal",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "wales-vs-portugal",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_wales-vs-portugal_Wales_vs_Portugal",
+      "sources": [],
+      "team1": {
+        "name": "Wales",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "team2": {
+        "name": "Portugal",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      }
+    },
+    {
+      "id": "greece-vs-serbia",
+      "name": "Greece vs Serbia",
+      "category": "soccer",
+      "league": "UEFA Nations League",
+      "stream_key": "greece-vs-serbia",
+      "match_timestamp": 1790275500,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/soccer_greece-vs-serbia_Greece_vs_Serbia",
+      "sources": [],
+      "team1": {
+        "name": "Greece",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png"
+      },
+      "team2": {
+        "name": "Serbia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png"
+      }
+    },
+    {
+      "id": "toronto-tempo-vs-connecticut-sun",
+      "name": "Toronto Tempo vs Connecticut Sun",
+      "category": "basketball",
+      "league": "WNBA",
+      "stream_key": "toronto-tempo-vs-connecticut-sun",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/basketball_toronto-tempo-vs-connecticut-sun_Toronto_Tempo_vs_Connecticut_S",
+      "sources": [],
+      "team1": {
+        "name": "Toronto Tempo",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+      },
+      "team2": {
+        "name": "Connecticut Sun",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+      }
+    },
+    {
+      "id": "chicago-sky-vs-washington-mystics",
+      "name": "Chicago Sky vs Washington Mystics",
+      "category": "basketball",
+      "league": "WNBA",
+      "stream_key": "chicago-sky-vs-washington-mystics",
+      "match_timestamp": 1790292600,
+      "viewers": 1,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/basketball_chicago-sky-vs-washington-mystics_Chicago_Sky_vs_Washington_Myst",
+      "sources": [],
+      "team1": {
+        "name": "Chicago Sky",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+      },
+      "team2": {
+        "name": "Washington Mystics",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
+      }
+    },
+    {
+      "id": "indiana-fever-vs-minnesota-lynx",
+      "name": "Indiana Fever vs Minnesota Lynx",
+      "category": "basketball",
+      "league": "WNBA",
+      "stream_key": "indiana-fever-vs-minnesota-lynx",
+      "match_timestamp": 1790294400,
+      "viewers": 3,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/basketball_indiana-fever-vs-minnesota-lynx_Indiana_Fever_vs_Minnesota_Lyn",
+      "sources": [],
+      "team1": {
+        "name": "Indiana Fever",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"
+      },
+      "team2": {
+        "name": "Minnesota Lynx",
+        "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
+      }
+    },
+    {
+      "id": "boston-bruins-vs-philadelphia-flyers",
+      "name": "Boston Bruins vs Philadelphia Flyers",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "boston-bruins-vs-philadelphia-flyers",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_boston-bruins-vs-philadelphia-flyers_Boston_Bruins_vs_Philadelphia_",
+      "sources": [],
+      "team1": {
+        "name": "Boston Bruins",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+      },
+      "team2": {
+        "name": "Philadelphia Flyers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+      }
+    },
+    {
+      "id": "buffalo-sabres-vs-detroit-red-wings",
+      "name": "Buffalo Sabres vs Detroit Red Wings",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "buffalo-sabres-vs-detroit-red-wings",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_buffalo-sabres-vs-detroit-red-wings_Buffalo_Sabres_vs_Detroit_Red_",
+      "sources": [],
+      "team1": {
+        "name": "Buffalo Sabres",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+      },
+      "team2": {
+        "name": "Detroit Red Wings",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+      }
+    },
+    {
+      "id": "pittsburgh-penguins-vs-columbus-blue-jackets",
+      "name": "Pittsburgh Penguins vs Columbus Blue Jackets",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "pittsburgh-penguins-vs-columbus-blue-jackets",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_pittsburgh-penguins-vs-columbus-blue-jackets_Pittsburgh_Penguins_vs_Columbu",
+      "sources": [],
+      "team1": {
+        "name": "Pittsburgh Penguins",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+      },
+      "team2": {
+        "name": "Columbus Blue Jackets",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+      }
+    },
+    {
+      "id": "new-jersey-devils-vs-new-york-rangers",
+      "name": "New Jersey Devils vs New York Rangers",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "new-jersey-devils-vs-new-york-rangers",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-new-york-rangers_New_Jersey_Devils_vs_New_York_",
+      "sources": [],
+      "team1": {
+        "name": "New Jersey Devils",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
+      },
+      "team2": {
+        "name": "New York Rangers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+      }
+    },
+    {
+      "id": "nashville-predators-vs-carolina-hurricanes",
+      "name": "Nashville Predators vs Carolina Hurricanes",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "nashville-predators-vs-carolina-hurricanes",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_nashville-predators-vs-carolina-hurricanes_Nashville_Predators_vs_Carolin",
+      "sources": [],
+      "team1": {
+        "name": "Nashville Predators",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
+      },
+      "team2": {
+        "name": "Carolina Hurricanes",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
+      }
+    },
+    {
+      "id": "florida-panthers-vs-tampa-bay-lightning",
+      "name": "Florida Panthers vs Tampa Bay Lightning",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "florida-panthers-vs-tampa-bay-lightning",
+      "match_timestamp": 1790290800,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_florida-panthers-vs-tampa-bay-lightning_Florida_Panthers_vs_Tampa_Bay_",
+      "sources": [],
+      "team1": {
+        "name": "Florida Panthers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png"
+      },
+      "team2": {
+        "name": "Tampa Bay Lightning",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
+      }
+    },
+    {
+      "id": "chicago-blackhawks-vs-st-louis-blues",
+      "name": "Chicago Blackhawks vs St. Louis Blues",
+      "category": "hockey",
+      "league": "NHL",
+      "stream_key": "chicago-blackhawks-vs-st-louis-blues",
+      "match_timestamp": 1790294400,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/hockey_chicago-blackhawks-vs-st-louis-blues_Chicago_Blackhawks_vs_St_Louis",
+      "sources": [],
+      "team1": {
+        "name": "Chicago Blackhawks",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+      },
+      "team2": {
+        "name": "St. Louis Blues",
+        "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+      }
+    },
+    {
+      "id": "dac18f6b-2340-4b28-b4fe-5f4682753764",
+      "name": "RedZone",
+      "category": "football",
+      "league": "NFL",
+      "stream_key": "redzone",
+      "match_timestamp": 1789318200,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone",
+      "sources": [
+        "https://strmfree.st/embed/football/redzone1080p"
+      ]
+    },
+    {
+      "id": "liberty-flames-vs-coastal-carolina-chanticleers",
+      "name": "Liberty Flames vs Coastal Carolina Chanticleers",
+      "category": "football",
+      "league": "NCAAF",
+      "stream_key": "liberty-flames-vs-coastal-carolina-chanticleers",
+      "match_timestamp": 1790292600,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/football_liberty-flames-vs-coastal-carolina-chanticleers_Liberty_Flames_vs_Coastal_Caro",
+      "sources": [],
+      "team1": {
+        "name": "Liberty Flames",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png"
+      },
+      "team2": {
+        "name": "Coastal Carolina Chanticleers",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
+      }
+    },
+    {
+      "id": "atlanta-falcons-vs-green-bay-packers",
+      "name": "Atlanta Falcons vs Green Bay Packers",
+      "category": "football",
+      "league": "NFL",
+      "stream_key": "atlanta-falcons-vs-green-bay-packers",
+      "match_timestamp": 1790295300,
+      "viewers": 0,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/football_atlanta-falcons-vs-green-bay-packers_Atlanta_Falcons_vs_Green_Bay_P",
+      "sources": [],
+      "team1": {
+        "name": "Atlanta Falcons",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
+      },
+      "team2": {
+        "name": "Green Bay Packers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+      }
+    },
+    {
+      "id": "2e10eb11-1329-49b1-b671-c9f1c9a6785a",
+      "name": "Sky Sports F1",
+      "category": "racing",
+      "league": "F1",
+      "stream_key": "skyf1",
+      "match_timestamp": 1782403200,
+      "viewers": 1748,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1",
+      "sources": [
+        "https://strmfree.st/embed/racing/skyf11080p",
+        "https://strmfree.st/embed/racing/skyf12160p"
+      ]
+    },
+    {
+      "id": "ac38ed2a-92dd-4b08-be0b-3cfaefb09b98",
+      "name": "Willow",
+      "category": "cricket",
+      "league": "WILLOW",
+      "stream_key": "willow",
+      "match_timestamp": 1782662400,
+      "viewers": 29,
+      "is_external": false,
+      "thumbnail_url": "https://streamfree.top/thumbnails/cricket_ac38ed2a-92dd-4b08-be0b-3cfaefb09b98_Willow",
+      "sources": [
+        "https://strmfree.st/embed/cricket/willow1080p"
+      ]
+    }
+  ],
+  "timestamp": 1790253840.0
+}
