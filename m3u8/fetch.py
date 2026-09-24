@@ -35,7 +35,7 @@ files = [
     for file in (
         "vivatvsports",
         "events",
-        "TV",
+        "androidtv",
     )
 ]
 
