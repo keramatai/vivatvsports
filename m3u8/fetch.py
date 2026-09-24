@@ -2,7 +2,6 @@
 import asyncio
 import re
 from pathlib import Path
-from urllib.parse import quote
 
 from playwright.async_api import async_playwright
 from scrapers import (
@@ -30,17 +29,10 @@ from scrapers.utils import get_logger, network
 
 log = get_logger(Path(__file__).stem)
 
-files = [
-    Path(__file__).parent / f"{file}.m3u8"
-    for file in (
-        "vivatvsports",
-        "events",
-        "androidtv",
-    )
-]
-
-BASE_FILE, EVENTS_FILE, COMBINED_FILE = files
-
+FILES_DIR = Path(__file__).parent
+BASE_FILE = FILES_DIR / "vivatvsports.m3u8"
+EVENTS_FILE = FILES_DIR / "events.m3u8"
+COMBINED_FILE = FILES_DIR / "androidtv.m3u8"
 
 def load_base() -> tuple[list[str], int]:
     data = BASE_FILE.read_text(encoding="utf-8")
@@ -60,12 +52,12 @@ async def main() -> None:
 
     async with async_playwright() as p:
         hdl_brwsr = None
-        xtrnl_brwsr = None
+
         try:
             await network.setup_adblock()
 
             hdl_brwsr = await network.browser(p, "firefox")
-            xtrnl_brwsr = await network.browser(p, "chromium")
+
 
             pw_tasks = [
                 asyncio.create_task(sportspass.scrape(hdl_brwsr)),
@@ -92,14 +84,28 @@ async def main() -> None:
                 asyncio.create_task(webcast.scrape()),
             ]
 
-            await asyncio.gather(*(pw_tasks + httpx_tasks))
+            # Wait for all tasks to complete, capturing exceptions
+            pw_results = await asyncio.gather(*pw_tasks, return_exceptions=True)
+            httpx_results = await asyncio.gather(*httpx_tasks, return_exceptions=True)
 
-        finally:
-            if hdl_brwsr:
-                await hdl_brwsr.close()
-            if xtrnl_brwsr:
-                await xtrnl_brwsr.close()
-            await network.client.aclose()
+            # Process results and log exceptions
+            success = {}
+            for (name, _), result in zip(pw_scrapers, pw_results):
+                success[name] = not isinstance(result, Exception)
+                if isinstance(result, Exception):
+                    log.error(f"Scraper {name} failed: {result}")
+
+            for (name, _), result in zip(httpx_scrapers, httpx_results):
+                success[name] = not isinstance(result, Exception)
+                if isinstance(result, Exception):
+                    log.error(f"Scraper {name} failed: {result}")
+
+            # Build additions from scrapers that succeeded
+            additions = {}
+            for name, scraper in pw_scrapers + httpx_scrapers:
+                if success.get(name, False):
+                    # Merge the urls
+                    additions.update(scraper.urls)
 
     additions = (
         dami.urls
@@ -183,4 +189,3 @@ if __name__ == "__main__":
 
     for hndlr in log.handlers:
         hndlr.flush()
-        hndlr.stream.write("\n")
