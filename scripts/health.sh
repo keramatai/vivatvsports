@@ -148,14 +148,6 @@ write_readme() {
 | Channel | URL | Issue |
 | :--- | :--- | :--- |
 EOF
-
-    if ((failed_count > 0)); then
-        while IFS=$'\t' read -r url channel error; do
-            printf "| %s | \`%s\` | %s |\n" "$channel" "$url" "$error" >>"$README"
-        done <"$STATUSLOG"
-    else
-        echo -e "\nAll streams are currently online! 🎉" >>"$README"
-    fi
 }
 
 total_urls=$(grep -cE '^https?://' "$BASE_FILE")
