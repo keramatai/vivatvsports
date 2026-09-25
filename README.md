@@ -1,1 +1,90 @@
-.
+- **Total Checked:** 92
+- **Online:** 9
+- **Offline / Failed:** 83
+- **Last Checked:** 2026-09-25 10:52:59 UTC
+
+| Channel | URL | Issue |
+| :--- | :--- | :--- |
+| [Asian Games] Japan W vs Philippines W 1 (FAWA) | `http://193.47.62.50/hls/doooAAAAA.m3u8` | HTTP Error (404) |
+| [Amistoso] Australia vs Brasil | TyC Sports | OP2 (TVF90) | `https://7.ftlly.com:443/tycsports/mono.m3u8?token=2c3f872deb55aa21c027522eda53239c8ed78ea5-a8-1790348881-1790330881` | HTTP Error (403) |
+| [Amistoso] Australia vs Brasil | TYC Sports | OP3 (TVF90) | `https://2.ftlly.com:443/tycsports/mono.m3u8?token=9d6642a4b111ace1398d1b5b498931262eb1cad9-f3-1790348881-1790330881` | HTTP Error (403) |
+| [Amistoso] Australia vs Brasil | TYC Sports (TVF90) | `https://11.ftlly.com:443/tycsports/mono.m3u8?token=f04217e45dcd6783ef2a56a2d20f79f1360e361e-c1-1790348881-1790330881` | HTTP Error (403) |
+| [Amistoso] Australia vs Brasil | TYC Sports | HD (TVF90) | `https://a2lja3m.fubo18.com:443/tycsports/mono.m3u8?token=f7ad91a7e863759a07094bf5a464761fa16c264f-81-1790348882-1790330882` | HTTP Error (403) |
+| [Amistoso] Australia vs Brasil | Sportv BR (TVF90) | `https://10.ftlly.com:443/sportv/mono.m3u8?token=54a0fd4086a52f5d4fe58fc61170534e90cfc6fa-76-1790348881-1790330881` | HTTP Error (403) |
+| [Amistoso] Australia vs Brasil | Sportv BR HD (TVF90) | `https://bgvnzw5k.fubo18.com:443/sportv/mono.m3u8?token=25b97b79ca72d455e136d52a1f47c1a29c1f7597-ce-1790348881-1790330881` | HTTP Error (403) |
+| [Clasificación para la Copa Africana de Naciones] Gambia vs Somalia | BeIN Sports Ñ (TVF90) | `https://5.ftlly.com:443/beinsportes/mono.m3u8?token=ee1c0800b6e47c959ed7da659e2e1d3527eca9ea-7a-1790348878-1790330878` | HTTP Error (403) |
+| [Clasificación para la Copa Africana de Naciones] Tanzania vs Guinea-Bissau | BeIN Sports Ñ (TVF90) | `https://6.ftlly.com:443/beinsportes/mono.m3u8?token=a1c8b4443139502c1dc001f97627687a65ed72c0-f-1790348882-1790330882` | HTTP Error (403) |
+| [Amistoso Internacional] Australia vs Brasil | SporTV 1 (STRMXHD) | `https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=b3595b1d23e75c48c5239be469476767fd2f4123-26-1790376777-1790322777` | HTTP Error (403) |
+| [Amistoso Internacional] India vs Panamá | TVN Mas (STRMXHD) | `https://khala.futlivehd.com/global/evento2/index.m3u8?token=2c709e811b2b1716cb30becf08a5d45fd9a5d6cb-39-1790376777-1790322777` | HTTP Error (403) |
+| [Clasificación para la Copa Africana de Naciones] Egipto vs Angola | BeIN Sports Ñ (TVF90) | `https://11.ftlly.com:443/beinsportes/mono.m3u8?token=3f460812c9509ee9fb90f6b7c62e704ab7b1d100-c3-1790348882-1790330882` | HTTP Error (403) |
+| [Copa de la División Profesional] ABB vs Aurora | Entel TV PLUS+ (TVF90) | `https://11.ftlly.com:443/even1/mono.m3u8?token=17cf4618b3a907dfeec4f99ac56c1e0dd9f4ba42-32-1790348883-1790330883` | HTTP Error (403) |
+| [Copa de la División Profesional] Nacional Potosí vs Always Ready | Entel TV PLUS+ (TVF90) | `https://6.ftlly.com:443/even1/mono.m3u8?token=b14231f11445e6298f533377218972602620d0d0-ec-1790348883-1790330883` | HTTP Error (403) |
+| [Football] Armenia vs. Latvia | English (STRMCNTR) | `https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8` | HTTP Error (404) |
+| [Copa de la División Profesional] San Antonio Bulo Bulo vs Real Potosí | Entel TV PLUS+ (TVF90) | `https://2.ftlly.com:443/even1/mono.m3u8?token=57da2d72fec937f4de9c70f3bdcdcf60b31edaed-8d-1790348882-1790330882` | HTTP Error (403) |
+| [Eerste Divisie] Dordrecht vs Almere City | ESPN NL  (TVF90) | `https://6.ftlly.com:443/espn1_nl/mono.m3u8?token=599a21b8b2cc30aa38f19f2ded2459982741c2bd-8c-1790348884-1790330884` | HTTP Error (403) |
+| [Football] Georgia vs. Northern Ireland | English (STRMCNTR) | `https://edgestream2.pro/hls/eJmauBDCIf.m3u8` | HTTP Error (404) |
+| [Football] Hungary vs. Ukraine | English (STRMCNTR) | `https://edgestream2.pro/hls/griogoehvn2.m3u8` | HTTP Error (404) |
+| [Eerste Divisie] Dordrecht vs Almere City | ESPN NL | OP2 (TVF90) | `https://2.ftlly.com:443/espn1_nl/mono.m3u8?token=aec6b7bec385e7b586505b7ec4e74e4447f9e300-7b-1790348884-1790330884` | HTTP Error (403) |
+| [Eerste Divisie] Dordrecht vs Almere City | ESPN NL | OP3 (TVF90) | `https://5.ftlly.com:443/espn1_nl/mono.m3u8?token=603e8e08c84fe4a6b12d17ff9feda443dcfefc67-9e-1790348884-1790330884` | HTTP Error (403) |
+| [Friendly Match] Australia vs Brazil 1 (FAWA) | `http://193.47.62.55/hls/JBBBAA.m3u8` | HTTP Error (404) |
+| [Football] Montenegro vs. Cyprus | English (STRMCNTR) | `https://edgestream2.pro/hls/377qj1h2727.m3u8` | HTTP Error (404) |
+| [Football] Italy vs. Belgium | English (STRMCNTR) | `https://edgestream2.pro/hls/b0h5fNwDKH.m3u8` | HTTP Error (404) |
+| [Football] Türkiye vs. France | English (STRMCNTR) | `https://edgestream2.pro/hls/sqdahach1ax.m3u8` | HTTP Error (404) |
+| [Football] Sweden vs. Romania | English (STRMCNTR) | `https://edgestream2.pro/hls/eJmauBDCIf.m3u8` | HTTP Error (404) |
+| [Football] Poland vs. Bosnia-Herzegovina | English (STRMCNTR) | `https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8` | HTTP Error (404) |
+| [LaLiga SmartBank] Girona vs Albacete | LaLiga TV Hypermotion  (TVF90) | `https://11.ftlly.com:443/hypermotion1/mono.m3u8?token=99a05dd26c390d9e03259c67376eecacee30e65a-aa-1790348878-1790330878` | HTTP Error (403) |
+| [LaLiga Hypermotion] Girona vs Albacete | LaLiga Hypermotion (STRMXHD) | `https://khala.futlivehd.com/global/laligahypermotion/index.m3u8?token=acaf382a1c0d82aaa5c1f9e3f96c183032783d96-6d-1790376777-1790322777` | HTTP Error (403) |
+| [Laver Cup] Día 1 | ESPN 5 (STRMXHD) | `https://khala.futlivehd.com/global/espn5/index.m3u8?token=6f98038dd7e0ffb28856ff31420202da3236661d-08-1790376778-1790322778` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Bermudas vs Guadalupe | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix1/index.m3u8?token=acd313eb8bf03a8018c8b792021ebe2579c096f8-6b-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Barbados vs St. Lucia | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix3/index.m3u8?token=ccc942473b4feef18a1e854e3fe78d89f951cf86-46-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Bonaire vs St. Kitts and Nevis | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix2/index.m3u8?token=7b872b7833ed66ac09102848dd0e59762cc5e7cb-54-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] El Salvador vs Martinica | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix1/index.m3u8?token=1f231338ec64ae610bdf1d06ed0c629dae6c8f46-d7-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Granada vs Cuba | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix2/index.m3u8?token=e3ded7a335b7ff936b849541812732892b59fdd8-3b-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones de la CONCACAF] El Salvador vs Martinica | Fox Sports 2 USA (TVF90) | `https://3.ftlly.com:443/foxsports2_usa/mono.m3u8?token=93dd0466c457c18261dd66c50823a9ba161ffadf-8e-1790348882-1790330882` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Honduras vs Surinam | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix4/index.m3u8?token=92e61eeca9a041fc72e29be470db3f971e319471-3d-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Armenia vs Letonia | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney1/index.m3u8?token=81208f672841345c07f170201a4cb8b77a99728a-86-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Georgia vs Irlanda del Norte | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney2/index.m3u8?token=396f51d364a5699d8660c8c8fd5500561a6f6d53-fd-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Georgia vs Irlanda del Norte | ESPN 2 (STRMXHD) | `https://khala.futlivehd.com/global/espn2/index.m3u8?token=59d06326e621541c12fb62f75a9a05162e48ae53-66-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Armenia vs Letonia | SporTV 2 (STRMXHD) | `https://khala.futlivehd.com/global/sporttvbr2/index.m3u8?token=9e54d50641f64e73027365095b6f8152bbc0237f-68-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones CONCACAF] Jamaica vs Guatemala | Vix + (STRMXHD) | `https://khala.futlivehd.com/global/vix1/index.m3u8?token=cfd534fa7c1a448d6d3b509e5c7f2677afffd31c-1a-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Hungría vs Ucrania | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney3/index.m3u8?token=c01e1ae34fa49abdb54c94f7593a2e86cb17e741-2e-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Hungría vs Ucrania | SporTV 2 (STRMXHD) | `https://khala.futlivehd.com/global/sporttvbr2/index.m3u8?token=312af24916d6880f36751bd97b24b5f4c570cc14-53-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Italia vs Bélgica | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney6/index.m3u8?token=b3bd19834322f22cb5c4d2a3e66c67fded528e79-76-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Italia vs Bélgica | ESPN AR (STRMXHD) | `https://khala.futlivehd.com/global/espnar/index.m3u8?token=b3363bb8e2979f452896b2cad5103d6159fca828-a8-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Italia vs Bélgica | ESPN (STRMXHD) | `https://khala.futlivehd.com/global/espn/index.m3u8?token=0ec08c4de8a9da4010d3f119da4958634a190f81-27-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Montenegro vs Chipre | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney8/index.m3u8?token=0a88cc2096a74a3894f85a7873ecc28e99e7079b-da-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Polonia vs Bosnia-Herzegovina | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney4/index.m3u8?token=3a39aa7b9277538a6f2e418b3cc9b765862e3a12-e5-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Suecia vs Rumania | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney5/index.m3u8?token=fabc0706ca94cdb711e12bb9c24c4944211a174f-ca-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Suecia vs Rumania | ESPN 5 (STRMXHD) | `https://khala.futlivehd.com/global/espn5/index.m3u8?token=b8e7988e34c26099054c290110ca1b13efb7ad38-90-1790376777-1790322777` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECDF LigaPro (TVF90) | `https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=370949ce394b3baf5ad97cf128c85f5354be1944-cd-1790348883-1790330883` | HTTP Error (403) |
+| [Liga de Naciones] Turquía vs Francia | Disney + (STRMXHD) | `https://khala.futlivehd.com/global/disney7/index.m3u8?token=8eeb09e5aad75b77a03c55b2f7f63fda3e4ad2f3-eb-1790376777-1790322777` | HTTP Error (403) |
+| [Liga de Naciones] Turquía vs Francia | SporTV 1 (STRMXHD) | `https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=f4fbde4578693f190e1b7434f0396afb191bed03-af-1790376777-1790322777` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECDF LigaPro | OP2 (TVF90) | `https://9.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=772d9cf778bcbd3c160c53d1b4c09f9b04affdb4-75-1790348883-1790330883` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECDF LigaPro | OP3 (TVF90) | `https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=271e5bc643f4677d674c1ba891a42e83314fba8c-14-1790348883-1790330883` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECDF LigaPRO | HD (TVF90) | `https://Ym9yZQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=7682f1d04f120ddcac360492fda2790031692eb3-2c-1790348883-1790330883` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECUAVISA (TVF90) | `https://3.ftlly.com:443/ecdf/mono.m3u8?token=3e94c3d1ece463fe2ddd3faca8b5779c80b4e4aa-83-1790348884-1790330884` | HTTP Error (403) |
+| [Asian Games] Japan W vs Philippines W 2 (FAWA) | `https://www.rtmpcdn.com/live/9fd0d5a9-a2b0-4289-ad09-ed9baa82eb8f.m3u8` | HTTP Error (404) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECUAVISA | OP2 (TVF90) | `https://9.ftlly.com:443/ecdf/mono.m3u8?token=ffc163131536f5f997eb9594e28a8da3d9bd7011-3c-1790348884-1790330884` | HTTP Error (403) |
+| [Serie A] Academia Costa Del Este vs Potros Del Este | ECUAVISA | OP3 (TVF90) | `https://6.ftlly.com:443/ecdf/mono.m3u8?token=a17e3f57a15ae243b526fd1d107b48118905d6ab-1-1790348884-1790330884` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECDF LigaPro | OP2 (TVF90) | `https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=85e5c05af6a66de07c89602caf606a4a029ff8f3-b5-1790348878-1790330878` | HTTP Error (403) |
+| [Asian Games] South Korea W vs Uzbekistan W 2 (FAWA) | `https://www.rtmpcdn.com/live/21e19f87-2a0f-42a4-98d2-706816fedc05.m3u8` | HTTP Error (404) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECDF LigaPRO | HD (TVF90) | `https://c2f2zQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=39a65941236c0d1a660e6d5e6da9f4df10aee89e-c3-1790348879-1790330879` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECDF LigaPro | OP3 (TVF90) | `https://5.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=d0f4c32a6a79b0b924ba72cf06e9fb590826141c-7-1790348878-1790330878` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECDF LigaPro (TVF90) | `https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=84b73d107694e4a58a4afa8361cdd19ef65ba070-d4-1790348878-1790330878` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECUAVISA (TVF90) | `https://7.ftlly.com:443/ecdf/mono.m3u8?token=8cc5b4e1d69b813b755ded8465a815a697565983-61-1790348879-1790330879` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECUAVISA | OP2 (TVF90) | `https://2.ftlly.com:443/ecdf/mono.m3u8?token=1d36051b42a8ba38156cb9effaf5aa76f1de1ac7-9e-1790348879-1790330879` | HTTP Error (403) |
+| [Serie A] Chorrillo vs Umecit Reserves | ECUAVISA | OP3 (TVF90) | `https://3.ftlly.com:443/ecdf/mono.m3u8?token=efb0db83c60d6073ea9275a1c60c8129bd95675a-20-1790348879-1790330879` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 2 (TVF90) | `https://7.ftlly.com:443/espn2/mono.m3u8?token=769f4779d8c5cbaec4f475601db9aabf76b62c4d-77-1790348886-1790330886` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 2 | HD (TVF90) | `https://a2lja3m.fubo18.com:443/espn2/mono.m3u8?token=edf13c41be1b101cd43d079befdb8233d344c315-13-1790348887-1790330887` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 2 | OP2 (TVF90) | `https://6.ftlly.com:443/espn2/mono.m3u8?token=2c3e98cba004b02e45ec23b2c0208b9ad2a54248-85-1790348886-1790330886` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 5 (TVF90) | `https://11.ftlly.com:443/espn5/mono.m3u8?token=ba195ce8b1095e643c40c1f77a73e7e2e8f87e0a-71-1790348879-1790330879` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 2 | OP3 (TVF90) | `https://4.ftlly.com:443/espn2/mono.m3u8?token=bb66159aded04c77784d98496897085495203ae7-b2-1790348886-1790330886` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 5 | HD (TVF90) | `https://am91cm5leQ.fubo18.com:443/espn5/mono.m3u8?token=d41226a5b600ab93c6b1ee1e1a04a56920990c23-39-1790348880-1790330880` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 5 | OP2 (TVF90) | `https://6.ftlly.com:443/espn5/mono.m3u8?token=4780dc3f774812c4e8994dc06166dc2d9cea9699-86-1790348879-1790330879` | HTTP Error (403) |
+| [Tenis] Laver Cup – Día 1 | ESPN 5 | OP3 (TVF90) | `https://6.ftlly.com:443/espn5/mono.m3u8?token=22fc2f98a144dba70f1ac6405dc09059159fae35-c1-1790348880-1790330880` | HTTP Error (403) |
+| [UEFA Nations League] Georgia vs Irlanda del Norte | ESPN 2 | OP2 (TVF90) | `https://7.ftlly.com:443/espn2/mono.m3u8?token=8e10525e973efd7712a5a0dff35d380ef4b21552-11-1790348877-1790330877` | HTTP Error (403) |
+| [UEFA Nations League] Georgia vs Irlanda del Norte | ESPN 2 (TVF90) | `https://8.ftlly.com:443/espn2/mono.m3u8?token=54eddf975b6f8c1f0a550865168533849a46f7b9-75-1790348877-1790330877` | HTTP Error (403) |
+| [UEFA Nations League] Italia vs Bélgica | Fox Sports 2 USA (TVF90) | `https://2.ftlly.com:443/foxsports2_usa/mono.m3u8?token=ee35505c7d0cb5de982395db2048682b00772967-c-1790348877-1790330877` | HTTP Error (403) |
+| [UEFA Nations League] Georgia vs Irlanda del Norte | ESPN 2 | OP3 (TVF90) | `https://3.ftlly.com:443/espn2/mono.m3u8?token=33483c9d0ba06ddca700d486a4602944fdd225af-80-1790348877-1790330877` | HTTP Error (403) |
+| [UEFA Nations League] Georgia vs Irlanda del Norte | ESPN 2 | HD (TVF90) | `https://dglvz29s.fubo18.com:443/espn2/mono.m3u8?token=781a614d33c2413fa87019c5d0b5e9a55b12489f-2b-1790348877-1790330877` | HTTP Error (403) |
+| [WWE] WWE: Smackdown | Main Feed (FUTBOLX) | `https://type.futtv.nx.kg/wwe/index.m3u8` | cURL Error (28) |
