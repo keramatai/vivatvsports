@@ -139,14 +139,11 @@ write_readme() {
     [[ -f "$STATUSLOG" ]] && failed_count=$(wc -l <"$STATUSLOG")
     online_count=$((total - failed_count))
 
-    cat <"$README"
-
+    cat <<EOF >"$README"
 - **Total Checked:** $total
 - **Online:** $online_count
 - **Offline / Failed:** $failed_count
 - **Last Checked:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')
-
-## Offline Channels
 
 | Channel | URL | Issue |
 | :--- | :--- | :--- |
@@ -154,7 +151,7 @@ EOF
 
     if ((failed_count > 0)); then
         while IFS=$'\t' read -r url channel error; do
-            printf "| %s | \`%s\` | %s |\n" "\(channel" "\)url" "\(error" >>"\)README"
+            printf "| %s | \`%s\` | %s |\n" "$channel" "$url" "$error" >>"$README"
         done <"$STATUSLOG"
     else
         echo -e "\nAll streams are currently online! 🎉" >>"$README"
