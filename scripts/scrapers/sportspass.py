@@ -22,13 +22,13 @@ SPORT_URLS = {
     sport: urljoin(BASE_URL, sport.lower())
     for sport in [
         # "Boxing",
-        # "F1",
-        "MLB",
+        "F1",
+        # "MLB",
         # "MMA",
         # "NBA",
-        "NFL",
+        # "NFL",
         # "NHL",
-        # "Soccer",
+        "Soccer",
     ]
 }
 

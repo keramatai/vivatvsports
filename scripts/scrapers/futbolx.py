@@ -19,15 +19,15 @@ BASE_URL = "https://www.futbol-x.top"
 SPORT_URLS = [
     urljoin(BASE_URL, f"api/{sport}.json")
     for sport in [
-        "americanfootball",
-        "baseball",
-        "basketball",
-        "darts",
+        # "americanfootball",
+        # "baseball",
+        # "basketball",
+        # "darts",
         "fights",
         "football",
         # "golf",
         "motorsports",
-        "nhl",
+        # "nhl",
         "others",
         # "rugby",
         "tennis",

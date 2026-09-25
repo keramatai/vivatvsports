@@ -2,7 +2,6 @@
 import asyncio
 import re
 from pathlib import Path
-from urllib.parse import quote
 
 from playwright.async_api import async_playwright
 from scrapers import (
@@ -36,12 +35,12 @@ files = [
     Path(__file__).parent / f"{file}.m3u8"
     for file in (
         "base",
-        "matches",
+        "games",
         "vivatvsports"
     )
 ]
 
-BASE_FILE, EVENTS_FILE, COMBINED_FILE = files
+BASE_FILE, GAMES_FILE, COMBINED_FILE = files
 
 def load_base() -> tuple[list[str], int]:
     data = BASE_FILE.read_text(encoding="utf-8")
@@ -65,8 +64,6 @@ async def main() -> None:
             await network.setup_adblock()
 
             hdl_brwsr = await network.browser(p)
-
-            xtrnl_brwsr = await network.browser(p, external=True)
 
             pw_tasks = [
                 asyncio.create_task(sportspass.scrape(hdl_brwsr)),
@@ -99,9 +96,6 @@ async def main() -> None:
 
         finally:
             await hdl_brwsr.close()
-
-            await xtrnl_brwsr.close()
-
             await network.client.aclose()
 
     additions = (
@@ -128,14 +122,11 @@ async def main() -> None:
         | xyzstreams.urls
     )
 
-    live_events: list[str] = []
-
+    live_games: list[str] = []
     combined_channels: list[str] = []
 
-    for i, (event_name, event_info) in enumerate(
-        sorted(additions.items()),
-        start=1,
-    ):
+    channel_idx = 1
+    for event_name, event_info in sorted(additions.items()):
         tvg_id, logo, refer, source = (
             event_info[x]
             for x in (
@@ -146,16 +137,21 @@ async def main() -> None:
             )
         )
 
+        # Global Exclusion Check (matches event title or tvg-id/league string)
+        if EXCLUDE_REGEX.search(event_name) or EXCLUDE_REGEX.search(tvg_id):
+            log.debug(f"Skipping excluded event: {event_name}")
+            continue
+
         ua: str = event_info.get("user-agent", network.UA)
 
         extinf_all = (
-            f'#EXTINF:-1 tvg-chno="{tvg_chno + i}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
+            f'#EXTINF:-1 tvg-chno="{tvg_chno + channel_idx}" tvg-id="{tvg_id}" '
+            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Games",{event_name}'
         )
 
         extinf_live = (
-            f'#EXTINF:-1 tvg-chno="{i}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Events",{event_name}'
+            f'#EXTINF:-1 tvg-chno="{channel_idx}" tvg-id="{tvg_id}" '
+            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Games",{event_name}'
         )
 
         vlc_block: list[str] = [
@@ -164,24 +160,26 @@ async def main() -> None:
             source,
         ]
 
-        combined_channels.extend(["\n" + extinf_all, *vlc_block])
+        combined_channels.extend([extinf_all, *vlc_block])
+        live_games.extend([extinf_live, *vlc_block])
 
-        live_events.extend(["\n" + extinf_live, *vlc_block])
+        channel_idx += 1
 
     COMBINED_FILE.write_text(
-        "\n".join(base_m3u8 + combined_channels),
+        "\n".join(base_m3u8 + combined_channels) + "\n",
         encoding="utf-8",
     )
 
-    log.info(f"Base + Events saved to {COMBINED_FILE.resolve()}")
+    log.info(f"Base + Games saved to {COMBINED_FILE.resolve()}")
 
-    EVENTS_FILE.write_text(
+    GAMES_FILE.write_text(
         '#EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"\n'
-        + "\n".join(live_events),
+        + "\n".join(live_games)
+        + "\n",
         encoding="utf-8",
     )
 
-    log.info(f"Events saved to {EVENTS_FILE.resolve()}")
+    log.info(f"Games saved to {GAMES_FILE.resolve()}")
 
 
 if __name__ == "__main__":
