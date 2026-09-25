@@ -34,17 +34,16 @@ log = get_logger(Path(__file__).stem)
 
 # Point to repo root (one directory up from scripts/)
 REPO_ROOT = Path(__file__).parent.parent
+PLAYLISTS_DIR = REPO_ROOT / "playlists"
 
-files = [
-    REPO_ROOT / "playlists" / f"{file}.m3u8"
-    for file in (
-        "base",
-        "games",
-        "vivatvsports"
-    )
-]
+PLAYLISTS = {
+    name: PLAYLISTS_DIR / f"{name}.m3u8"
+    for name in ("base", "games", "vivatvsports")
+}
 
-BASE_FILE, GAMES_FILE, COMBINED_FILE = files
+BASE_FILE = PLAYLISTS["base"]
+GAMES_FILE = PLAYLISTS["games"]
+COMBINED_FILE = PLAYLISTS["vivatvsports"]
 
 EXCLUDED_SPORTS = {
     "MLB", "MMA", "NBA", "NFL", "NHL",

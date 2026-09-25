@@ -26,6 +26,8 @@ EXCLUDED_LEAGUES = {
     "Primera Division de Paraguay",
     "Liga Promerica",
     "Liga Guate",
+    "Liga de Naciones de la CONCACAF",
+    "Liga de Naciones CONCACAF"
 }
 
 EXCLUDE_LEAGUES_REGEX = re.compile(
