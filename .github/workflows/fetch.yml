@@ -31,7 +31,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update m3u8 files"
-          file_pattern: "m3u8/*.m3u8"
+          file_pattern: "scripts/*.m3u8"
           commit_author: "GitHub Actions Bot "
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
