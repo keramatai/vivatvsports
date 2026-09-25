@@ -42,6 +42,17 @@ files = [
 
 BASE_FILE, GAMES_FILE, COMBINED_FILE = files
 
+EXCLUDED_SPORTS = {
+    "MLB", "MMA", "NBA", "NFL", "NHL",
+    "Baseball", "Basketball", "American Football", "Ice Hockey", "Hockey"
+}
+
+# Compile case-insensitive word-boundary pattern
+EXCLUDE_REGEX = re.compile(
+    r"\b(?:" + "|".join(re.escape(s) for s in EXCLUDED_SPORTS) + r")\b",
+    re.IGNORECASE,
+)
+
 def load_base() -> tuple[list[str], int]:
     data = BASE_FILE.read_text(encoding="utf-8")
 
