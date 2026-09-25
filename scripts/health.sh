@@ -132,37 +132,33 @@ check_links() {
 }
 
 write_readme() {
-    local total="$1"
-    local failed=0
-    local online=0
+    local total=$1
+    local failed_count=0
+    local online_count=0
 
-    if [[ -f $STATUSLOG ]]; then
-        failed=\((wc -l <"\)STATUSLOG")
+    [[ -f "$STATUSLOG" ]] && failed_count=$(wc -l <"$STATUSLOG")
+    online_count=$((total - failed_count))
+
+    cat <"$README"
+
+- **Total Checked:** $total
+- **Online:** $online_count
+- **Offline / Failed:** $failed_count
+- **Last Checked:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+
+## Offline Channels
+
+| Channel | URL | Issue |
+| :--- | :--- | :--- |
+EOF
+
+    if ((failed_count > 0)); then
+        while IFS=$'\t' read -r url channel error; do
+            printf "| %s | \`%s\` | %s |\n" "\(channel" "\)url" "\(error" >>"\)README"
+        done <"$STATUSLOG"
+    else
+        echo -e "\nAll streams are currently online! 🎉" >>"$README"
     fi
-
-    online=$((total - failed))
-
-    {
-        echo "# Playlist Health Status"
-        echo
-        echo "**Last Updated:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        echo
-        echo "- **Total Channels:** $total"
-        echo "- **Online Streams:** $online"
-        echo "- **Offline / Dead Streams:** $failed"
-        echo
-
-        if ((failed > 0)); then
-            echo "## Offline Channels"
-            echo
-            echo "| Channel | Error | URL |"
-            echo "| --- | --- | --- |"
-            while IFS=$'\t' read -r url channel error; do
-                printf "| %s | %s | \`%s\` |\n" "\(channel" "\)error" "$url"
-            done <"$STATUSLOG"
-            echo
-        fi
-    } >"$README"
 }
 
 total_urls=$(grep -cE '^https?://' "$BASE_FILE")
