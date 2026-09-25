@@ -25,13 +25,13 @@ jobs:
         run: uv sync --locked
 
       - name: Fetch EPG
-        run: uv run m3u8/epg-fetch.py
+        run: uv run scripts/epg-fetch.py
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "update EPG"
-          file_pattern: "m3u8/tv_epg.xml"
+          file_pattern: "M3U8/TV.xml"
           commit_author: "GitHub Actions Bot <actions@github.com>"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"

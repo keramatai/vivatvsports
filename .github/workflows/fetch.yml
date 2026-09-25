@@ -24,8 +24,8 @@ jobs:
       - name: Install Firefox only
         run: uv run playwright install firefox
 
-      - name: Run fetch.py
-        run: uv run m3u8/fetch.py
+      - name: Fetch M3U8
+        run: uv run scripts/fetch.py
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5

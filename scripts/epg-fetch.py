@@ -10,8 +10,10 @@ from scrapers.utils import get_logger, leagues, network
 log = get_logger(Path(__file__).stem)
 
 BASE_M3U8 = Path(__file__).parent / "base.m3u8"
+EVENTS_M3U8 = Path(__file__).parent / "matches.m3u8"
+COMBINED_M3U8 = Path(__file__).parent / "vivatvsports.m3u8"
 
-EPG_FILE = Path(__file__).parent / "TV.xml"
+EPG_FILE = Path(__file__).parent / "epg.xml"
 
 EPG_URLS = [
     f"https://epgshare01.online/epgshare01/epg_ripper_{EPG_ID}.xml.gz"
