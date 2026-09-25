@@ -144,9 +144,6 @@ write_readme() {
 - **Online:** $online_count
 - **Offline / Failed:** $failed_count
 - **Last Checked:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')
-
-| Channel | URL | Issue |
-| :--- | :--- | :--- |
 EOF
 }
 

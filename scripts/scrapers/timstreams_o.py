@@ -11,104 +11,129 @@ from .utils import Cache, Event, Time, get_logger, leagues, network
 log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
+
 TAG = "TIMSTRM"
+
 CACHE_FILE = Cache(TAG, exp=7_200)
+
 API_FILE = Cache(f"{TAG}-api", exp=19_800)
+
 BASE_URL = "https://timst.cfd"
+
 
 @dataclass(kw_only=True, slots=True)
 class TIMEvent(Event):
     logo: str | None = None
 
+
 async def process_event(url: str, url_num: int) -> str | None:
     if not (html_data := await network.request(url, url_num, log=log)):
         return
 
-    # 1. Find the obfuscated array
-    arr_match = re.search(r"var\s+\w+\s*=\s*\[([\d,]+)\]", html_data.text)
-    if not arr_match:
-        log.warning(f"URL {url_num}) Unable to find array for m3u encryption.")
-        return
-    
-    num_list = [int(n) for n in arr_match.group(1).split(',')]
+    num_list_ptrn = re.compile(r"var\s+_(\w+)=\[([^\]]*)\],", re.S)
 
-    # 2. Find the character decoding loop formula to extract the variable names dynamically
-    loop_match = re.search(r"String\.fromCharCode\(\(\([\w\[\]]+\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*(?:%|&)\s*(?:256|255)\)", html_data.text)
-    if not loop_match:
-        log.warning(f"URL {url_num}) Unable to find decoding loop variables.")
-        return
-    
-    xor_var_name = loop_match.group(1)
-    sub_var_name = loop_match.group(2)
+    index_ptrn = re.compile(r"(_[a-z]+\d+)=(\d+)")
 
-    # 3. Find the integer values assigned to those specific variables
-    xor_match = re.search(rf"{xor_var_name}\s*=\s*(\d+)", html_data.text)
-    sub_match = re.search(rf"{sub_var_name}\s*=\s*(\d+)", html_data.text)
+    m3u_ptrn = re.compile(r'(var\s?signed_)?url\s?=\s?"(.*)";', re.I)
 
-    if not xor_match or not sub_match:
-        log.warning(f"URL {url_num}) Unable to decipher m3u encryption keys.")
+    # z_ptrn = re.compile(r"\&(\d+)")
+    # if not (z_mtch := z_ptrn.search(html_data.text)):
+    #     log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
+    #     return
+
+    if not (num_list_mtch := num_list_ptrn.findall(html_data.text)):
+        log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
         return
 
-    x = int(xor_match.group(1))
-    y = int(sub_match.group(1))
+    elif not (index_mtch := index_ptrn.findall(html_data.text)):
+        log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
+        return
 
-    # 4. Decrypt natively
-    js = "".join(chr(((i ^ x) - y + 256) % 256) for i in num_list)
+    num_list = (int(n.strip()) for n in num_list_mtch[-1][-1].split(","))
 
-    # 5. Extract the direct M3U8 URL from the decoded text
-    m3u_mtch = re.search(r"https?:\/\/[^\x22\x27<>\s]+\.m3u8", js)
-    if not m3u_mtch:
+    if len(index_mtch) > 2:
+        del index_mtch[-1]
+
+    x, y = (int(i[-1].strip()) for i in index_mtch)
+
+    # z = int(z_mtch[1])
+
+    js = "".join(chr(((i ^ x) - y + 256) & 255) for i in num_list)
+
+    if not (m3u_mtch := m3u_ptrn.search(js)):
         log.warning(f"URL {url_num}) No M3U8 source found.")
         return
 
     log.info(f"URL {url_num}) Captured M3U8")
-    return m3u_mtch.group(0)
+
+    return json.loads(f'"{m3u_mtch[2]}"')
+
 
 async def get_events(cached_keys: KeysView[str]) -> list[TIMEvent]:
     now = Time.rn()
+
     events: list[TIMEvent] = []
 
     if not (api_data := API_FILE.load(per_entry=False)):
         log.info("Refreshing API cache")
+
         api_data = {"timestamp": now.timestamp()}
-        if r := await network.request(urljoin(BASE_URL, "api/live-upcoming"), log=log):
+
+        if r := await network.request(
+            urljoin(BASE_URL, "api/live-upcoming"),
+            log=log,
+        ):
             api_data: dict[str, list[dict[str, Any]]] = r.json()
+
             api_data["timestamp"] = now.timestamp()
+
         API_FILE.write(api_data)
 
     start_dt = now.delta(hours=-3)
     end_dt = now.delta(minutes=30)
-    sport_genres = api_data.get("genres", {})
+
+    sport_genres = {}
+
+    if genres := api_data.get("genres", []):
+        sport_genres = {
+            genre["id"]: {
+                **{0: genre["name"]},
+                **{sub["id"]: sub["name"] for sub in genre.get("sub_categories", [])},
+            }
+            for genre in genres
+        }
 
     for event in api_data.get("events") or []:
-        name = event.get("name")
-        raw_genre = event.get("genre")
-        event_time = event.get("time")
-        streams = event.get("streams", [])
-
-        if not all([name, raw_genre, event_time, streams]):
+        if not all(
+            values := [
+                event.get(x)
+                for x in (
+                    "name",
+                    "genre",
+                    "sub_genre",
+                    "time",
+                    "streams",
+                )
+            ]
+        ):
             continue
 
-        # Filter out VIP streams as they won't decrypt correctly
-        valid_streams = [st for st in streams if not st.get("vip")]
-        if not valid_streams:
+        name, genre, sub_genre, event_time, streams = values
+
+        if 17 <= genre <= 18:
             continue
 
         event_dt = Time.from_str(event_time, tz_name="EST")
 
-        # Handle updated genre mapping structure
-        sport = "Live Event"
-        if isinstance(sport_genres, dict) and str(raw_genre) in sport_genres:
-            genre_val = sport_genres[str(raw_genre)]
-            sport = genre_val.get("name", genre_val) if isinstance(genre_val, dict) else genre_val
+        sport = sport_genres.get(genre, {}).get(sub_genre, "Live Event")
 
         if not start_dt <= event_dt <= end_dt:
             continue
 
-        if not (stream_url := valid_streams[0].get("url")):
+        elif not (stream_url := streams[0].get("url")):
             continue
 
-        if f"[{sport}] {name} ({TAG})" in cached_keys:
+        elif f"[{sport}] {name} ({TAG})" in cached_keys:
             continue
 
         events.append(

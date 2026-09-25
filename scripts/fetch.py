@@ -5,6 +5,7 @@ from pathlib import Path
 
 from playwright.async_api import async_playwright
 from scrapers import (
+    cdnlive,
     dami,
     embedsport,
     fawa,
@@ -86,6 +87,7 @@ async def main() -> None:
             ]
 
             httpx_tasks = [
+                asyncio.create_task(cdnlive.scrape()),
                 asyncio.create_task(dami.scrape()),
                 # asyncio.create_task(embedsport.scrape()),
                 asyncio.create_task(fawa.scrape()),
@@ -130,11 +132,12 @@ async def main() -> None:
         | streamgate.urls
         | streamtp.urls
         | streamxhd.urls
-        | timstreams.urls
         | tvf90.urls
         | watchfooty.urls
         | webcast.urls
         | xyzstreams.urls
+        | cdnlive.urls
+        | timstreams.urls
     )
 
     live_games: list[str] = []
