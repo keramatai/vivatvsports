@@ -161,12 +161,12 @@ async def main() -> None:
 
         extinf_all = (
             f'#EXTINF:-1 tvg-chno="{tvg_chno + channel_idx}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Games",{event_name}'
+            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="▷ Sukan 3",{event_name}'
         )
 
         extinf_live = (
             f'#EXTINF:-1 tvg-chno="{channel_idx}" tvg-id="{tvg_id}" '
-            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="Live Games",{event_name}'
+            f'tvg-name="{event_name}" tvg-logo="{logo}" group-title="▷ Sukan 3",{event_name}'
         )
 
         vlc_block: list[str] = [
