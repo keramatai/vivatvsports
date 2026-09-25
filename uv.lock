@@ -196,7 +196,7 @@ requires-dist = [
     { name = "adblock", specifier = ">=0.6.0" },
     { name = "httpx", extras = ["http2"], specifier = ">=0.28.1" },
     { name = "playwright", specifier = ">=1.63.0" },
-    { name = "pycryptodome", specifier = ">=3.20.0" },
+    { name = "pycryptodome", specifier = ">=3.23.0" },
     { name = "selectolax", specifier = ">=0.4.12" },
     { name = "tzdata", specifier = ">=2026.4" },
 ]
