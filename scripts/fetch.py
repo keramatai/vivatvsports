@@ -47,7 +47,8 @@ BASE_FILE, GAMES_FILE, COMBINED_FILE = files
 
 EXCLUDED_SPORTS = {
     "MLB", "MMA", "NBA", "NFL", "NHL",
-    "Baseball", "Basketball", "American Football", "Ice Hockey", "Hockey"
+    "Baseball", "Basketball", "American Football", "Ice Hockey", "Hockey", "Racing", "Golf",
+    "Tennis", "Rugby", "NRL"
 }
 
 # Compile case-insensitive word-boundary pattern

@@ -12,11 +12,26 @@ log = get_logger(__name__)
 urls: dict[str, dict[str, str | float]] = {}
 
 TAG = "STRMXHD"
-
 CACHE_FILE = Cache(TAG, exp=19_800)
-
 BASE_URL = "https://streamxhd.com"
 
+EXCLUDED_LEAGUES = {
+    "Liga de Expansión MX",
+    "Liga Expansion MX",
+    "Liga MX",
+    "Liga Colombia",
+    "Liga BetPlay",
+    "Copa Chile",
+    "Liga Paraguay",
+    "Primera Division de Paraguay",
+    "Liga Promerica",
+    "Liga Guate",
+}
+
+EXCLUDE_LEAGUES_REGEX = re.compile(
+    r"\b(?:" + "|".join(re.escape(s) for s in EXCLUDED_LEAGUES) + r")\b",
+    re.IGNORECASE,
+)
 
 async def process_event(url: str, url_num: int) -> str | None:
     if not (
@@ -64,7 +79,6 @@ async def process_event(url: str, url_num: int) -> str | None:
 
     return urlunsplit(splits._replace(query=urlencode(params)))
 
-
 async def get_events(cached_keys: KeysView[str]) -> list[Event]:
     events: list[Event] = []
 
@@ -88,11 +102,20 @@ async def get_events(cached_keys: KeysView[str]) -> list[Event]:
         for league in sport_leagues:
             sport = league["name"]
 
+            # --- FILTER 1: Skip unwanted league categories ---
+            if EXCLUDE_LEAGUES_REGEX.search(sport):
+                continue
+
             if not (league_events := league.get("events")):
                 continue
 
             for event_info in league_events:
                 name = event_info["title"]
+                event_league_code = event_info.get("league", "")
+
+                # --- FILTER 2: Skip if match title or league code matches exclusions ---
+                if EXCLUDE_LEAGUES_REGEX.search(name) or EXCLUDE_LEAGUES_REGEX.search(event_league_code):
+                    continue
 
                 event_time = event_info["time"]
 
@@ -120,7 +143,6 @@ async def get_events(cached_keys: KeysView[str]) -> list[Event]:
                 )
 
     return events
-
 
 async def scrape() -> None:
     cached_urls = CACHE_FILE.load()

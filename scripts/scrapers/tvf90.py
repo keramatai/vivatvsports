@@ -3,9 +3,7 @@ import re
 from functools import partial
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
-
 from selectolax.lexbor import LexborHTMLParser as HTMLParser
-
 from .utils import Cache, Event, Time, get_logger, leagues, network
 
 log = get_logger(__name__)
@@ -13,15 +11,34 @@ log = get_logger(__name__)
 urls: dict[str, dict[str, str | float]] = {}
 
 TAG = "TVF90"
-
 CACHE_FILE = Cache(TAG, exp=19_800)
-
 API_FILE = Cache(f"{TAG}-api", exp=28_800)
 
 API_URL = "https://api.wqxag.com/diaries.json"
-
 BASE_URL = "https://tvf90.com"
 
+EXCLUDED_COMPETITIONS = {
+    "Liga MX",
+    "Liga de Expansión MX",
+    "Liga Expansion MX",
+    "Liga Colombia",
+    "Copa Colombia",
+    "Primera A",
+    "Copa Chile",
+    "Liga Paraguay",
+    "Primera División de Paraguay",
+    "MLB",
+    "MMA",
+    "NBA",
+    "NFL",
+    "NHL",
+}
+
+# Compile word-boundary regex pattern
+EXCLUDE_REGEX = re.compile(
+    r"\b(?:" + "|".join(re.escape(s) for s in EXCLUDED_COMPETITIONS) + r")\b",
+    re.IGNORECASE,
+)
 
 async def process_event(url: str, url_num: int) -> str | None:
     if not (html_data := await network.request(url, url_num, log=log)):
@@ -59,7 +76,6 @@ async def process_event(url: str, url_num: int) -> str | None:
 
     return urlunsplit(splits._replace(query=urlencode(params)))
 
-
 async def get_events() -> list[Event]:
     now = Time.rn()
 
@@ -85,10 +101,21 @@ async def get_events() -> list[Event]:
             continue
 
         event_name = stream_attrs["diary_description"]
-
         event_date = stream_attrs["date_diary"]
 
         if event_date != f"{now.date()}":
+            continue
+
+        # Extract country/region attribute name if present
+        country_name = (
+            stream_attrs.get("country", {})
+            .get("data", {})
+            .get("attributes", {})
+            .get("name", "")
+        )
+
+        # --- EXCLUSION FILTER ---
+        if EXCLUDE_REGEX.search(event_name) or EXCLUDE_REGEX.search(country_name):
             continue
 
         try:
@@ -118,14 +145,13 @@ async def get_events() -> list[Event]:
             events.append(
                 Event(
                     sport=sport,
-                    name=f"{name} | {frames_attrs["embed_name"]}",
+                    name=f"{name} | {frames_attrs['embed_name']}",
                     link=base64.b64decode(b64_link).decode("utf-8").strip(),
                     timestamp=now.timestamp(),
                 )
             )
 
     return events
-
 
 async def scrape() -> None:
     if cached_urls := CACHE_FILE.load():
