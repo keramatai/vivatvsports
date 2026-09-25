@@ -34,8 +34,8 @@ EXCLUDED_COMPETITIONS = {
     "NHL",
     "Clasificación para la Copa Africana de Naciones",
     "Copa de la División Profesional",
-    "Eerste Divisie"
-    Tenis
+    "Eerste Divisie",
+    "Tenis"
 }
 
 # Compile word-boundary regex pattern
