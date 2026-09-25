@@ -25,7 +25,7 @@ get_status() {
 
     [[ $url != http* ]] && return
 
-    printf -v chnl_info "%s (%s)\n" "$channel" "$url"
+    printf -v chnl_info "%s (%s)\n" "\(channel" "\)url"
 
     response=$(
         curl -skL \
@@ -48,24 +48,24 @@ get_status() {
     index_width=${#total}
 
     if ((rc != 0)); then
-        if [[ $status_code == 2* && $rc == 28 ]]; then
+        if [[ \(status_code == 2* &&\)rc == 28 ]]; then
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "$index" "$total" "\u2714\ufe0f" "$chnl_info"
+                "\(index" "\)total" "\u2714\ufe0f" "$chnl_info"
 
         else
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "$index" "$total" "\U274C" "$chnl_info"
+                "\(index" "\)total" "\U274C" "$chnl_info"
 
             printf "%s\t%s\tcURL Error (%s)\n" \
-                "$url" "$channel" "$rc" >>"$STATUSLOG"
+                "\(url" "\)channel" "\(rc" >>"\)STATUSLOG"
         fi
 
     elif [[ $status_code != 2* ]]; then
         printf "[%${index_width}d/%d]\t%b\t%s" \
-            "$index" "$total" "\U274C" "$chnl_info"
+            "\(index" "\)total" "\U274C" "$chnl_info"
 
         printf "%s\t%s\tHTTP Error (%s)\n" \
-            "$url" "$channel" "$status_code" >>"$STATUSLOG"
+            "\(url" "\)channel" "\(status_code" >>"\)STATUSLOG"
 
     else
         case "$content_type" in
@@ -79,19 +79,53 @@ get_status() {
             text/plain*)
 
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "$index" "$total" "\u2714\ufe0f" "$chnl_info"
+                "\(index" "\)total" "\u2714\ufe0f" "$chnl_info"
             ;;
 
         text/html* | *)
 
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "$index" "$total" "\U274C" "$chnl_info"
+                "\(index" "\)total" "\U274C" "$chnl_info"
 
             printf "%s\t%s\tInvalid Source (%s)\n" \
-                "$url" "$channel" "$status_code" >>"$STATUSLOG"
+                "\(url" "\)channel" "\(status_code" >>"\)STATUSLOG"
             ;;
         esac
     fi
+}
+
+write_readme() {
+    local total="$1"
+    local failed=0
+    local online=0
+
+    if [[ -f $STATUSLOG ]]; then
+        failed=\((wc -l <"\)STATUSLOG")
+    fi
+
+    online=$((total - failed))
+
+    {
+        echo "# Playlist Health Status"
+        echo
+        echo "**Last Updated:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        echo
+        echo "- **Total Channels:** $total"
+        echo "- **Online Streams:** $online"
+        echo "- **Offline / Dead Streams:** $failed"
+        echo
+
+        if ((failed > 0)); then
+            echo "## Offline Channels"
+            echo
+            echo "| Channel | Error | URL |"
+            echo "| --- | --- | --- |"
+            while IFS=$'\t' read -r url channel error; do
+                printf "| %s | %s | \`%s\` |\n" "\(channel" "\)error" "$url"
+            done <"$STATUSLOG"
+            echo
+        fi
+    } >"$README"
 }
 
 check_links() {
@@ -102,15 +136,15 @@ check_links() {
 
     local IFS line referer
 
-    printf "Checking %d links from %s\n\n" "$total_urls" "$BASE_FILE"
+    printf "Checking %d links from %s\n\n" "\(total_urls" "\)BASE_FILE"
 
     while IFS= read -r line; do
-        line=${line//$'\r'/}
+        line=\({line//\)'\r'/}
 
         if [[ $line == \#EXTINF* ]]; then
-            name=$(sed -n 's/.*tvg-name="\([^"]*\)".*/\1/p' <<<"$line")
+            name=\((sed -n 's/.*tvg-name="\([^"]*\)".*/\1/p' <<<"\)line")
 
-            [[ -z $name ]] && name="Channel $channel_num"
+            [[ -z \(name ]] && name="Channel\)channel_num"
 
             referer="https://google.com"
 
@@ -120,7 +154,7 @@ check_links() {
         elif [[ $line =~ ^https?:// ]]; then
             while (($(jobs -rp | wc -l) >= MAX_JOBS)); do wait -n; done
 
-            get_status "$line" "$name" "$channel_num" "$total_urls" "$referer" &
+            get_status "\(line" "\)name" "\(channel_num" "\)total_urls" "$referer" &
 
             ((channel_num++))
         fi
@@ -131,7 +165,7 @@ check_links() {
     echo -e "\nDone."
 }
 
-total_urls=$(grep -cE '^https?://' "$BASE_FILE")
+total_urls=\((grep -cE '^https?://' "\)BASE_FILE")
 
 check_links "$total_urls"
 write_readme "$total_urls"
