@@ -32,6 +32,6 @@ jobs:
         with:
           commit_message: "update m3u8 files"
           file_pattern: "playlists/*.m3u8"
-          commit_author: "GitHub Actions Bot "
+          commit_author: "GitHub Actions Bot <actions@github.com>"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
