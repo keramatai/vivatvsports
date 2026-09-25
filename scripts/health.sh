@@ -25,7 +25,7 @@ get_status() {
 
     [[ $url != http* ]] && return
 
-    printf -v chnl_info "%s (%s)\n" "\(channel" "\)url"
+    printf -v chnl_info "%s (%s)\n" "$channel" "$url"
 
     response=$(
         curl -skL \
@@ -48,24 +48,24 @@ get_status() {
     index_width=${#total}
 
     if ((rc != 0)); then
-        if [[ \(status_code == 2* &&\)rc == 28 ]]; then
+        if [[ $status_code == 2* && $rc == 28 ]]; then
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "\(index" "\)total" "\u2714\ufe0f" "$chnl_info"
+                "$index" "$total" "\u2714\ufe0f" "$chnl_info"
 
         else
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "\(index" "\)total" "\U274C" "$chnl_info"
+                "$index" "$total" "\U274C" "$chnl_info"
 
             printf "%s\t%s\tcURL Error (%s)\n" \
-                "\(url" "\)channel" "\(rc" >>"\)STATUSLOG"
+                "$url" "$channel" "$rc" >>"$STATUSLOG"
         fi
 
     elif [[ $status_code != 2* ]]; then
         printf "[%${index_width}d/%d]\t%b\t%s" \
-            "\(index" "\)total" "\U274C" "$chnl_info"
+            "$index" "$total" "\U274C" "$chnl_info"
 
         printf "%s\t%s\tHTTP Error (%s)\n" \
-            "\(url" "\)channel" "\(status_code" >>"\)STATUSLOG"
+            "$url" "$channel" "$status_code" >>"$STATUSLOG"
 
     else
         case "$content_type" in
@@ -79,19 +79,56 @@ get_status() {
             text/plain*)
 
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "\(index" "\)total" "\u2714\ufe0f" "$chnl_info"
+                "$index" "$total" "\u2714\ufe0f" "$chnl_info"
             ;;
 
         text/html* | *)
 
             printf "[%${index_width}d/%d]\t%b\t%s" \
-                "\(index" "\)total" "\U274C" "$chnl_info"
+                "$index" "$total" "\U274C" "$chnl_info"
 
             printf "%s\t%s\tInvalid Source (%s)\n" \
-                "\(url" "\)channel" "\(status_code" >>"\)STATUSLOG"
+                "$url" "$channel" "$status_code" >>"$STATUSLOG"
             ;;
         esac
     fi
+}
+
+check_links() {
+    local total_urls=$1
+
+    local channel_num=1
+    local name=""
+
+    local IFS line referer
+
+    printf "Checking %d links from %s\n\n" "$total_urls" "$BASE_FILE"
+
+    while IFS= read -r line; do
+        line=${line//$'\r'/}
+
+        if [[ $line == \#EXTINF* ]]; then
+            name=$(sed -n 's/.*tvg-name="\([^"]*\)".*/\1/p' <<<"$line")
+
+            [[ -z $name ]] && name="Channel $channel_num"
+
+            referer="https://google.com"
+
+        elif [[ $line == \#EXTVLCOPT:http-referrer=* ]]; then
+            referer=${line#*=}
+
+        elif [[ $line =~ ^https?:// ]]; then
+            while (($(jobs -rp | wc -l) >= MAX_JOBS)); do wait -n; done
+
+            get_status "$line" "$name" "$channel_num" "$total_urls" "$referer" &
+
+            ((channel_num++))
+        fi
+
+    done <"$BASE_FILE"
+
+    wait
+    echo -e "\nDone."
 }
 
 write_readme() {
@@ -128,44 +165,7 @@ write_readme() {
     } >"$README"
 }
 
-check_links() {
-    local total_urls=$1
-
-    local channel_num=1
-    local name=""
-
-    local IFS line referer
-
-    printf "Checking %d links from %s\n\n" "\(total_urls" "\)BASE_FILE"
-
-    while IFS= read -r line; do
-        line=\({line//\)'\r'/}
-
-        if [[ $line == \#EXTINF* ]]; then
-            name=\((sed -n 's/.*tvg-name="\([^"]*\)".*/\1/p' <<<"\)line")
-
-            [[ -z \(name ]] && name="Channel\)channel_num"
-
-            referer="https://google.com"
-
-        elif [[ $line == \#EXTVLCOPT:http-referrer=* ]]; then
-            referer=${line#*=}
-
-        elif [[ $line =~ ^https?:// ]]; then
-            while (($(jobs -rp | wc -l) >= MAX_JOBS)); do wait -n; done
-
-            get_status "\(line" "\)name" "\(channel_num" "\)total_urls" "$referer" &
-
-            ((channel_num++))
-        fi
-
-    done <"$BASE_FILE"
-
-    wait
-    echo -e "\nDone."
-}
-
-total_urls=\((grep -cE '^https?://' "\)BASE_FILE")
+total_urls=$(grep -cE '^https?://' "$BASE_FILE")
 
 check_links "$total_urls"
 write_readme "$total_urls"
