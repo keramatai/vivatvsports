@@ -31,8 +31,11 @@ from scrapers.utils import get_logger, network
 
 log = get_logger(Path(__file__).stem)
 
+# Point to repo root (one directory up from scripts/)
+REPO_ROOT = Path(__file__).parent.parent
+
 files = [
-    Path(__file__).parent / f"{file}.m3u8"
+    REPO_ROOT / "playlists" / f"{file}.m3u8"
     for file in (
         "base",
         "games",
