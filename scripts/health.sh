@@ -3,7 +3,7 @@
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
 MAX_JOBS=10
 BASE_FILE="./playlists/vivatvsports.m3u8"
-README="./readme.md"
+README="./README.md"
 
 [[ ! -f $BASE_FILE ]] && {
     echo "$BASE_FILE does not exist" >&2
