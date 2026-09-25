@@ -9,9 +9,15 @@ from scrapers.utils import get_logger, leagues, network
 
 log = get_logger(Path(__file__).stem)
 
-BASE_M3U8 = Path(__file__).parent / "base.m3u8"
-GAMES_M3U8 = Path(__file__).parent / "games.m3u8"
-COMBINED_M3U8 = Path(__file__).parent / "vivatvsports.m3u8"
+# Project root directory (one level up from scripts/)
+REPO_ROOT = Path(__file__).parent.parent
+PLAYLISTS_DIR = REPO_ROOT / "playlists"
+
+PLAYLISTS_DIR.mkdir(parents=True, exist_ok=True)
+
+BASE_M3U8 = PLAYLISTS_DIR / "base.m3u8"
+GAMES_M3U8 = PLAYLISTS_DIR / "games.m3u8"
+COMBINED_M3U8 = PLAYLISTS_DIR / "vivatvsports.m3u8"
 
 EPG_FILE = Path(__file__).parent / "epg.xml"
 
