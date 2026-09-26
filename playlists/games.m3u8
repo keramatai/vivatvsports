@@ -87,102 +87,102 @@ http://193.47.62.59/hls/YNNNAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/sddd.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Novorizontino vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Novorizontino vs São Bernardo (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlante vs. Monterrey (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="▷ Sukan 2",[Football] Atlante vs. Monterrey (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-25/atl-mty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTAzOTY1Njg5NjI6Y2RubGl2ZXR2LnR2OmI5ZWRiMDljZTIxYWQ2OTUuZmM0YmViNmQ2MWU3NzhhMjI1MTI3ODQ3ZGRhNzk2NzMwOGIxODFmZTRhMGYyNjM3MjM4YWFlZmQ1ZjRmNzNhOQ
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-25/atl-mty/playlist.m3u8?tk=k0hFlA6e0-4uTwwNiMC06A&e=1790429127
 #EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Vila Nova vs Londrina (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Vila Nova vs Londrina (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTAzOTY1NjkxOTA6Y2RubGl2ZXR2LnR2OjEyMTRiNGYzMGM2MmFjMDYuYjMxMjA0ODQ2MTk5OTdjNDhjYTZlZmZlNDhkNzdlMGJkNTNjM2JhMzI3Njc4ZDVlNzkyOWIwODI1NGEyZTAwMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTA0MDAzMjc2MjU6Y2RubGl2ZXR2LnR2Ojc5YmQ3NmQwMzViNTU5YTMuZGM2NjRlMzhkYzAxY2RjNmVkYzFlYzBlMjZiMjI4ODY5NTFkZjQyYzdiNDc1Yzc0ZjAyYWZhMWRhNjRiNjg1MQ
 #EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Naciones de la CONCACAF] El Salvador vs Martinica | Fox Sports 2 USA (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="▷ Sukan 2",[Liga de Naciones de la CONCACAF] El Salvador vs Martinica | Fox Sports 2 USA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsports2_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/foxsports2_usa/mono.m3u8?token=7bf942df886607f955a35188782a88a1494d3d65-75-1790399268-1790381268
-#EXTINF:-1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Live Event] 4-Crown Nationals at Eldora Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6ab426a6d23bf.png" group-title="▷ Sukan 2",[Live Event] 4-Crown Nationals at Eldora Speedway (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/gfasdrd2-2505
+https://11.ftlly.com:443/foxsports2_usa/mono.m3u8?token=89ea9fff646998657fbae5552764e2249a17d0fd-de-1790403026-1790385026
+#EXTINF:-1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.25.26 | Bakersfield Speedway at Kevin Harvicks Kern Rcwy (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/02/17/9-25-26-1771350538625.png?impolicy=resize&amp;amp;w=1920&amp;amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.25.26 | Bakersfield Speedway at Kevin Harvicks Kern Rcwy (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/qtu7zd1j-2431
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/91cf1f1505a88fb5964a13552f31752cf54ad7aaa463c40b80bff8a372eab51c/1790391168/flo-316444.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/a981f289990e75b3b2bce8c778946095a79146553abfcb5d722876a1e2c6d283/1790394929/dirtvision-9-25-26-bakersfield-speedway.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.25.26 | I-55 Federated Auto Part Raceway Park (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/04/16/I-55_1-1776350974814.png?impolicy=resize&amp;amp;w=1920&amp;amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.25.26 | I-55 Federated Auto Part Raceway Park (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/b722l5m5-6667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/2ac93f26ac3a3e6a6574db28475037091fa916fef5ee47929620fd13d7804396/1790391171/dirtvision-9-25-26-i-55-federated-auto-parts-raceway-park.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/0ba31fb38743199fd57bce8f2c6d2872d7a7ff0f0c13da47d1f2fe9018046e60/1790394928/dirtvision-9-25-26-i-55-federated-auto-parts-raceway-park.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.25.26 | Jacksonville Speedway (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/01/14/9-25-26_Jacksonville-1768422523146.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.25.26 | Jacksonville Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/gdzmuof5-2135
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/5158eabcad3c79b91c0aa52114fe57638000abe48da8e95f8776a3ed0c8964ae/1790391171/dirtvision-9-25-26-jacksonville-speedway.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/32a6a9b0286d963112d85bada12d55b3f3517bb78d11059c4ba5cef491237cac/1790394928/dirtvision-9-25-26-jacksonville-speedway.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.25.26 | Williams Grove Speedway (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/01/08/9-25-26_WilliamsGrove-1767891232041.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.25.26 | Williams Grove Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/7l3z65o9-5147
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/d0db3b2b028fa0e0d325bba0bc5f276b228fcfa3bbc1d3e0dd623f6e83fdb1b0/1790391170/dirtvision-9-25-26-williams-grove-speedway.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="Live.Event.us" tvg-name="[Live Event] AMSOIL Championship Off-Road In San Bernardino, CA (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/69efbe7784b27.png" group-title="▷ Sukan 2",[Live Event] AMSOIL Championship Off-Road In San Bernardino, CA (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/81tetkpq-2402
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/0c8d6252add18fc83b177db72dd6fde11805c26da98da02599447f4d33230aba/1790391169/flo-351427.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="[Live Event] Akron Zips vs. Georgetown Hoyas (TIMSTRM)" tvg-logo="https://images.sidearmdev.com/resize?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fguhoyas.com%2fimages%2f2026%2f9%2f24%2f20260921_MSOCvUE_RS_33_l340w.jpg&amp;width=1416&amp;type=webp" group-title="▷ Sukan 2",[Live Event] Akron Zips vs. Georgetown Hoyas (TIMSTRM)
+https://juxrd.hundxvision.co.uk/main/secure/156c8d0487f7a9c8eacb544de6f7194ca0e601fe4cd72470780b7f8c5450d380/1790394928/dirtvision-9-25-26-williams-grove-speedway.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="Live.Event.us" tvg-name="[Live Event] Akron Zips vs. Georgetown Hoyas (TIMSTRM)" tvg-logo="https://images.sidearmdev.com/resize?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fguhoyas.com%2fimages%2f2026%2f9%2f24%2f20260921_MSOCvUE_RS_33_l340w.jpg&amp;width=1416&amp;type=webp" group-title="▷ Sukan 2",[Live Event] Akron Zips vs. Georgetown Hoyas (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/latyek54-5342
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/01baa0fd9c599e8930cc5c952d41dabdf37aab73d2c1eb438f7eeeae529613d6/1790391171/eplus-1.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/2f1027f20527c20e9c5262bdff7667f00f78e6f2263fb8a62af4ca4671b6260d/1790394930/eplus-1.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="[Live Event] Astros @ Athletics (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817085.png" group-title="▷ Sukan 2",[Live Event] Astros @ Athletics (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/5g7i345u-4907
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/262cc2d4fdb9652c72210fd5a9c087cf94f478b1b624f40be87133fbcbca2721/1790394930/mlb-athletics.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[Live Event] Braves @ Marlins (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817072.png" group-title="▷ Sukan 2",[Live Event] Braves @ Marlins (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/war1xel4-8378
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/d53982036ca64570131b3f664557b804defa6a304294952a8f0511611c7b31de/1790391170/mlb-marlins.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/40075442bda1f6cfe8b736a4d71763cffbcb859454f2eb82109611c3ceb2cbed/1790394928/mlb-marlins.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Live Event] Cardinals @ Brewers (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817081.png" group-title="▷ Sukan 2",[Live Event] Cardinals @ Brewers (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/tnwlfyem-3566
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/d04dfbe51e0ddd9c0d06497c84fe21f8b640b3948298c7ffb7ef57263f7a706a/1790391171/mlb-brewers.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[Live Event] Cubs @ Red Sox (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817074.png" group-title="▷ Sukan 2",[Live Event] Cubs @ Red Sox (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/72z60gad-18
+https://juxrd.hundxvision.co.uk/main/secure/2e330bad858bfed58af4960727e4a5f7c5edab8141ea2e75b78193e536f0c06b/1790394929/mlb-brewers.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[Live Event] Diamondbacks @ Padres (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817084.png" group-title="▷ Sukan 2",[Live Event] Diamondbacks @ Padres (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/mv26th9e-5328
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/1b2681db8948eef55a24eba4a4268f91eca4dcca81d55ec7beb5b6cef7e5745a/1790391169/mlb-red-sox.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[Live Event] Guardians @ Royals (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817079.png" group-title="▷ Sukan 2",[Live Event] Guardians @ Royals (TIMSTRM)
+https://juxrd.hundxvision.co.uk/main/secure/f1623c88023667e500cf77cfbb471c99e4d18964225324820b90740b0ea0cb53/1790394930/mlb-padres.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[Live Event] Fall Nationals at Silver Dollar Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/640f420e31fc9.png" group-title="▷ Sukan 2",[Live Event] Fall Nationals at Silver Dollar Speedway (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/euoxvy11-9529
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/15c4884a0d5a9d54bc568fac4252720c35c2289b30812d9e46d97d69aa60d8a0/1790394929/flo-324462.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[Live Event] Guardians @ Royals (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817079.png" group-title="▷ Sukan 2",[Live Event] Guardians @ Royals (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/m11u8fu3-5256
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/fa4b295257f8ee94ae5ac56ab76b4946117a8cc4c8e328c79ff97b624dd1a824/1790391171/mlb-royals.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[Live Event] IMCA Creek Classic at 141 Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64add95d80c12.png" group-title="▷ Sukan 2",[Live Event] IMCA Creek Classic at 141 Speedway (TIMSTRM)
+https://juxrd.hundxvision.co.uk/main/secure/fa62a1c1127b830880a9b6cde284161c5bbcbbe1d23650bf2f2996015890dcbc/1790394928/mlb-royals.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="Live.Event.us" tvg-name="[Live Event] IMCA Creek Classic at 141 Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64add95d80c12.png" group-title="▷ Sukan 2",[Live Event] IMCA Creek Classic at 141 Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/t63sxc2t-6189
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/360695602154e063df4ad53f6f1f54d87794f12710106663bedc4e7708993443/1790391170/flo-318043.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="Live.Event.us" tvg-name="[Live Event] IRA Sprints at Outagamie Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6998c7d567b25.png" group-title="▷ Sukan 2",[Live Event] IRA Sprints at Outagamie Speedway (TIMSTRM)
+https://juxrd.hundxvision.co.uk/main/secure/3cfe17ddf3a90fbb279d265ac4bdc70340302cef5ca21738e66ec68e85e53023/1790394927/flo-318043.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[Live Event] IRA Sprints at Outagamie Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6998c7d567b25.png" group-title="▷ Sukan 2",[Live Event] IRA Sprints at Outagamie Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/jnkyvgo1-6002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/2845b405117d6a2a4bbf7e9032a9325f993e70900b893609adb705ca22bac155/1790391170/flo-388082.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[Live Event] Lucas Oil Jackson 100 at Brownstown Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b5325159.png" group-title="▷ Sukan 2",[Live Event] Lucas Oil Jackson 100 at Brownstown Speedway (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/hrad5d26-7285
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/2f8d5a35fd2509f0b75ff8b436315dd854b8d76076abc1bb2bdff1f6781dff1d/1790391169/flo-318911.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/28c56ffe8e9aa7c6eb02e47ae21d0712aa97c184db7d8341fc886c30a9846a03/1790394927/flo-388082.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Live Event] Mets @ Nationals (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817076.png" group-title="▷ Sukan 2",[Live Event] Mets @ Nationals (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/f6admixk-7348
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/8b9dbc70913e13b4ba8adc8692195e872d9f40b11a4b9753430f46343afbb3c1/1790391170/mlb-nationals.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/de691dcb2583c91a609a1466d3d0318400d7a9e3379fddfe2a5179f35b35341e/1790394927/mlb-nationals.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[Live Event] Orioles @ Yankees (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817073.png" group-title="▷ Sukan 2",[Live Event] Orioles @ Yankees (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/89x9qba2-9499
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/9e78d0e611ff266b560bfa4bec2112fe4a6eeef858024c75db147eed91ccaa48/1790391170/mlb-yankees.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/7bdd0cd9d388c86b724739cfdfa9460c2ef2431df84c2c36c65840e8028bb9f6/1790394928/mlb-yankees.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="Live.Event.us" tvg-name="[Live Event] Pirates @ Tigers (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817077.png" group-title="▷ Sukan 2",[Live Event] Pirates @ Tigers (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/yvcicg4u-3331
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/6f0b4d882c6ec817b73684b05876faeb31afb492f96123670a57ccd6195e5206/1790391169/mlb-tigers.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/1749da7208f4be6d94769037529669148042d34ff2a5c2b855269f9a696c67b1/1790394927/mlb-tigers.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="Live.Event.us" tvg-name="[Live Event] Rangers @ Twins (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817082.png" group-title="▷ Sukan 2",[Live Event] Rangers @ Twins (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/3c6hy0wv-2159
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/e05b0ae365d4961b15472e58bcec88a7a13be824b7df034ea12d8285bf44a4ce/1790391171/mlb-twins.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/41b0b29e50fc483d51bc1360cc1dfbaa11fdf32ba786c2870d4beca3fa4b82aa/1790394929/mlb-twins.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="Live.Event.us" tvg-name="[Live Event] Rays @ Phillies (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817078.png" group-title="▷ Sukan 2",[Live Event] Rays @ Phillies (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/ai9s7grs-6701
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/c3d331e79b46aee3c446b4c66c59ab75563225c50e6d4becc338e8ed2108f058/1790391170/mlb-phillies.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/a86bcece10d3e83027dd70d2a46cfcc4005a3cf42f59849fe2dced877c5207a0/1790394927/mlb-phillies.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="Live.Event.us" tvg-name="[Live Event] Reds @ Blue Jays (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817075.png" group-title="▷ Sukan 2",[Live Event] Reds @ Blue Jays (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/xw5m7aky-5476
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/620e9da35d2caf47eb53e78c6f21c62a3a24aa457252b6088610723a5796f77b/1790391170/mlb-blue-jays.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/e430dd3df1dcf3b5b8b564b43d51694782af4534dc223a25d380324c7eb2bb58/1790394928/mlb-blue-jays.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="[Live Event] Rockies @ White Sox (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401817080.png" group-title="▷ Sukan 2",[Live Event] Rockies @ White Sox (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/7dv8lh51-1607
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/beb26e62bbd6f24b39df18dff4f8b8aa82b4d45419bcb6fea094e5c1c9b20409/1790391171/mlb-white-sox.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/4a3ea7510f915f4b5f3de537451355a3b990f789b636e0137e1fd9f67ce297d1/1790394929/mlb-white-sox.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Live Event] ValleyStar Credit Union 300 at Martinsville Speedway (TIMSTRM)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6aada875cba48.png" group-title="▷ Sukan 2",[Live Event] ValleyStar Credit Union 300 at Martinsville Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/8kj4t339-672
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/1d33ba80ffad84603843a77c8c3577e516a051f25790bba7fd58401087c2b836/1790391171/flo-356186.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/9d5f983c7d1cb6501daff6493011ffb35633be994f38b16234cea576972933bf/1790394929/flo-356186.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Atlante vs Monterrey (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="▷ Sukan 2",[Mexico Liga MX] Atlante vs Monterrey (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -190,31 +190,31 @@ http://193.47.62.41/hls/VAVAVAQQQ.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc313/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzEzOjE3OTAzOTY1NzU1NTc6Y2RubGl2ZXR2LnR2OjUzNTNiNjUzYWY1ZDQzZGUuMWZiNjA0ZThiYTE0YWY4OTc1MGM0ZTg4YWZlYTlkMzRhZGE5MDI3YjhmZGFjOWI2MjE1NDA3M2YxNTQxOWI5NQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc313/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzEzOjE3OTA0MDAzMzI5NTI6Y2RubGl2ZXR2LnR2OmY1OGM1M2IzNGVmMGMyNTMuMmI4NTY3NzMzOGUyNmFhNmVhOWE1ZWNhM2NkMGRjZWY3NDlmM2U0YmRhNGI2YzZmNDYyODEwODM1ZThmYTFlZA
 #EXTINF:-1 tvg-chno="49" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Indiana Hoosiers vs Northwestern Wildcats (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="▷ Sukan 2",[NCAA - Football] Indiana Hoosiers vs Northwestern Wildcats (FLYEMBD)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/bhg7rkug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/490ef98e411982db178f6520681ab103f97990d78a5a33f162944dc4910dc1d1/1790391173/fox-usa.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/feef654d8f1f871a6ee4ea7bdad33f2f217812117a724afeb5725692c1737c55/1790394932/fox-usa.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Rutgers Scarlet Knights vs Howard Bison (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="▷ Sukan 2",[NCAA - Football] Rutgers Scarlet Knights vs Howard Bison (FLYEMBD)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/tkdttav3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/18f2a844e5d282dbe5c95fa987d482df5facdba1441d83d854f7f094603d1f4b/1790391173/big10-usa.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/798e51b083de166484a9fc0d573e97840984327e51b1f4a3acdb1ea71c56723c/1790394931/big10-usa.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] UAB Blazers vs Navy Midshipmen (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="▷ Sukan 2",[NCAA - Football] UAB Blazers vs Navy Midshipmen (FLYEMBD)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/c7709e165f913951ba035920f262c283ac3de95508d932559935f28472180910/1790391173/espn-usa.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] Indiana vs Northwestern (REED)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="▷ Sukan 2",[NCAA Football] Indiana vs Northwestern (REED)
-#EXTVLCOPT:http-referrer=https://reedstreams.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://admin2.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Howard Bison vs Rutgers Scarlet Knights (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_howard-bison-vs-rutgers-scarlet-knights_Howard_Bison_vs_Rutgers_Scarle" group-title="▷ Sukan 2",[NCAAF] Howard Bison vs Rutgers Scarlet Knights (STRMFREE)
+https://juxrd.hundxvision.co.uk/main/secure/35d2c4e0cb1eabcb8c3e0bf024f6c311b47b4c5817251bae9e3be272cc047342/1790394932/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Howard Bison vs Rutgers Scarlet Knights (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_howard-bison-vs-rutgers-scarlet-knights_Howard_Bison_vs_Rutgers_Scarle" group-title="▷ Sukan 2",[NCAAF] Howard Bison vs Rutgers Scarlet Knights (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-origin/howard-bison-vs-rutgers-scarlet-knights1080p3/index.m3u8?_e=1790410973&_n=7b48069f4fc7d477&_t=T4Vb2UhaLAfr7HqpUqc_BQ
-#EXTINF:-1 tvg-chno="54" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Navy Midshipmen vs UAB Blazers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_navy-midshipmen-vs-uab-blazers_Navy_Midshipmen_vs_UAB_Blazers" group-title="▷ Sukan 2",[NCAAF] Navy Midshipmen vs UAB Blazers (STRMFREE)
+https://streamfree.top/live-cdn/howard-bison-vs-rutgers-scarlet-knights1080p3/index.m3u8?_e=1790414733&_n=46db825eabfa7a7b&_t=Fk7LFFy5N9-yW9JUUKs11w
+#EXTINF:-1 tvg-chno="53" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Navy Midshipmen vs UAB Blazers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_navy-midshipmen-vs-uab-blazers_Navy_Midshipmen_vs_UAB_Blazers" group-title="▷ Sukan 2",[NCAAF] Navy Midshipmen vs UAB Blazers (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-origin/navy-midshipmen-vs-uab-blazers1080p3/index.m3u8?_e=1790410974&_n=37f50c8f60739f5c&_t=bwCuU6JawK8an8Nj2Fs__w
+https://streamfree.top/live-cdn/navy-midshipmen-vs-uab-blazers1080p3/index.m3u8?_e=1790414734&_n=e9dc65b6f90ee850&_t=5m2BgZFGB6BXIKP0nFYT6w
+#EXTINF:-1 tvg-chno="54" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Northwestern Wildcats vs Indiana Hoosiers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_northwestern-wildcats-vs-indiana-hoosiers_Northwestern_Wildcats_vs_India" group-title="▷ Sukan 2",[NCAAF] Northwestern Wildcats vs Indiana Hoosiers (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/northwestern-wildcats-vs-indiana-hoosiers1080p3/index.m3u8?_e=1790414734&_n=9470d1dd55963aac&_t=vPgBzkyuBURHhIkWYlyG6Q
 #EXTINF:-1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Nacional Asuncion vs Ameliano (FAWA)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="▷ Sukan 2",[Paraguay Copa] Nacional Asuncion vs Ameliano (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -287,15 +287,11 @@ http://193.47.62.55/hls/sdddqQQ.m3u8
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54963?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/54963/load-playlist-multi
-#EXTINF:-1 tvg-chno="73" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE Friday Night Smackdown (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="▷ Sukan 2",[WWE] WWE Friday Night Smackdown (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=wwe/2026-09-25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/wwe/2026-09-25/playlist.m3u8?tk=haqcxzXCvcJRcZtjM7H0ug&e=1790425370
-#EXTINF:-1 tvg-chno="74" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE Friday Night Smackdown | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[WWE] WWE Friday Night Smackdown | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="73" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE Friday Night Smackdown | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[WWE] WWE Friday Night Smackdown | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/zeuryuegn48.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE: Smackdown | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[WWE] WWE: Smackdown | Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="74" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE: Smackdown | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[WWE] WWE: Smackdown | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://type.futtv.nx.kg/wwe/index.m3u8
+https://hey.futbol-tv.online/wwe/index.m3u8
