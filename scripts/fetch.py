@@ -117,23 +117,23 @@ async def main() -> None:
     additions = (
         dami.urls
         | embedsport.urls
-        | fawa.urls
+        #| fawa.urls
         | flyembed.urls
-        | futbolx.urls
-        | istreameast.urls
-        | mainportal.urls
-        | ovostream.urls
-        | pelotalibre.urls
-        | reedstreams.urls
-        | sportspass.urls
-        | streamcenter.urls
-        | streamfree.urls
-        | streamgate.urls
-        | streamtp.urls
-        | streamxhd.urls
-        | tvf90.urls
-        | watchfooty.urls
-        | webcast.urls
+        #| futbolx.urls
+        #| istreameast.urls
+        #| mainportal.urls
+        #| ovostream.urls
+        #| pelotalibre.urls
+        #| reedstreams.urls
+        #| sportspass.urls
+        #| streamcenter.urls
+        #| streamfree.urls
+        #| streamgate.urls
+        #| streamtp.urls
+        #| streamxhd.urls
+        #| tvf90.urls
+        #| watchfooty.urls
+        #| webcast.urls
         | xyzstreams.urls
         | cdnlive.urls
         | timstreams.urls

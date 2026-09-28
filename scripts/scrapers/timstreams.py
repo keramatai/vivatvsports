@@ -11,10 +11,10 @@ from .utils import Cache, Event, Time, get_logger, leagues, network
 log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
-TAG = "TIMSTRM"
+TAG = "TIMST"
 CACHE_FILE = Cache(TAG, exp=7_200)
 API_FILE = Cache(f"{TAG}-api", exp=19_800)
-BASE_URL = "https://timst.cfd"
+BASE_URL = "https://timst.top"
 
 @dataclass(kw_only=True, slots=True)
 class TIMEvent(Event):
