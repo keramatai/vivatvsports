@@ -6,26 +6,26 @@ from pathlib import Path
 from playwright.async_api import async_playwright
 from scrapers import (
     cdnlive,
-    dami,
+    #dami,
     embedsport,
-    fawa,
+    #fawa,
     flyembed,
-    futbolx,
-    istreameast,
-    mainportal,
-    ovostream,
-    pelotalibre,
-    reedstreams,
-    sportspass,
-    streamcenter,
-    streamfree,
-    streamgate,
-    streamtp,
-    streamxhd,
+    #futbolx,
+    #istreameast,
+    #mainportal,
+    #ovostream,
+    #pelotalibre,
+    #reedstreams,
+    #sportspass,
+    #streamcenter,
+    #streamfree,
+    #streamgate,
+    #streamtp,
+    #streamxhd,
     timstreams,
-    tvf90,
-    watchfooty,
-    webcast,
+    #tvf90,
+    #watchfooty,
+    #webcast,
     xyzstreams,
 )
 from scrapers.utils import get_logger, network
@@ -117,23 +117,23 @@ async def main() -> None:
     additions = (
         dami.urls
         | embedsport.urls
-        #| fawa.urls
+        | fawa.urls
         | flyembed.urls
-        #| futbolx.urls
-        #| istreameast.urls
-        #| mainportal.urls
-        #| ovostream.urls
-        #| pelotalibre.urls
-        #| reedstreams.urls
-        #| sportspass.urls
-        #| streamcenter.urls
-        #| streamfree.urls
-        #| streamgate.urls
-        #| streamtp.urls
-        #| streamxhd.urls
-        #| tvf90.urls
-        #| watchfooty.urls
-        #| webcast.urls
+        | futbolx.urls
+        | istreameast.urls
+        | mainportal.urls
+        | ovostream.urls
+        | pelotalibre.urls
+        | reedstreams.urls
+        | sportspass.urls
+        | streamcenter.urls
+        | streamfree.urls
+        | streamgate.urls
+        | streamtp.urls
+        | streamxhd.urls
+        | tvf90.urls
+        | watchfooty.urls
+        | webcast.urls
         | xyzstreams.urls
         | cdnlive.urls
         | timstreams.urls
