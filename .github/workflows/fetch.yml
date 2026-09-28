@@ -5,15 +5,24 @@ on:
     - cron: "0,30 * * * *"   # Every hour at :00 and :30
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-m3u8
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@v3
+      - name: Install uv 
+        uses: astral-sh/setup-uv@v10.2.0
         with:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
@@ -21,19 +30,26 @@ jobs:
       - name: Install deps
         run: uv sync --locked
 
-      - name: Install Firefox only
-        run: uv run playwright install firefox
+      - name: Cache Playwright browsers
+        uses: actions/cache@v6.1.0
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-firefox-${{ runner.os }}-${{ hashFiles('uv.lock') }}
+
+      - name: Install Firefox
+        run: uv run playwright install --with-deps firefox
 
       - name: Fetch base
         run: |
           mkdir -p playlists
-          curl -sSL --retry 3 "https://base.ker4matai-e2a.workers.dev/" -o playlists/base.m3u8
+          curl -sSL --fail --retry 3 --retry-delay 5 "https://base.ker4matai-e2a.workers.dev/" -o playlists/base.m3u8
 
-      - name: Fetch M3U8
+      - name: Fetch m3u8
         run: uv run scripts/fetch.py
 
       - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7.2.0
         with:
           commit_message: "update m3u8 files"
           file_pattern: "playlists/*.m3u8"
