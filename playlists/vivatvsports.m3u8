@@ -289,19 +289,19 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Luxembourg vs Iceland (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/luxembourg.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/iceland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="▷ Sukan 2",[Soccer] Luxembourg vs Iceland (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-6.html
+#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Chile (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Chile (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/fubosn2/mono.ts.m3u8?token=fb83f190c84dc958ba60be59018418c1
-#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Scotland vs Switzerland (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/scotland.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/switzerland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="▷ Sukan 2",[Soccer] Scotland vs Switzerland (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-3.html
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTA3MzY5MjM0NTU6Y2RubGl2ZXR2LnR2OmZiZDhmNDhlOTVkZDBkYTcuMzRhMDExNjc1OTllZGUyN2FiMGZlYjgwODNiMTZjMDM2NGJlM2JiZmYzNDE5ZWY3ZTYzMTAzMGU2MTIzNDU4Mg
+#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.29.26 | Millbridge Speedway (TIMST)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/01/15/9-29-26_Millbridge-1768507514384.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.29.26 | Millbridge Speedway (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/68a3930q-2363
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/fubosn/mono.ts.m3u8?token=fb83f190c84dc958ba60be59018418c1
-#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Slovakia vs Kazakhstan (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/slovakia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/kazakhstan.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="▷ Sukan 2",[Soccer] Slovakia vs Kazakhstan (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-4.html
+https://justkidding.junksonus.party/main/secure/e1bbfa4c6f66704b4b855a7532facc12703109a2f480746287cc92701b51a9ab/1790731523/dirtvision-9-29-26-millbridge-speedway.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="193" tvg-id="Live.Event.us" tvg-name="[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/33/91/06/d5ccad05-8dc4-45ea-a87a-7bc31e186be6.jpg" group-title="▷ Sukan 2",[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/v3gup8xw-3075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/fubosn5/mono.ts.m3u8?token=fb83f190c84dc958ba60be59018418c1
-#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Slovenia vs North Macedonia (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/slovenia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/north-macedonia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="▷ Sukan 2",[Soccer] Slovenia vs North Macedonia (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-2.html
+https://justkidding.junksonus.party/main/secure/1a93752c4bbe86d622c8caa6345cf5f68b12c209e88086ce15ddb2203f2a0281/1790731523/ufc-600060739.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="194" tvg-id="Live.Event.us" tvg-name="[Live Event] White Sox @ Astros (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907896.png" group-title="▷ Sukan 2",[Live Event] White Sox @ Astros (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/l5j1kkxs-6727
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/fs2/mono.ts.m3u8?token=fb83f190c84dc958ba60be59018418c1
+https://justkidding.junksonus.party/main/secure/d1b414e0c9af45c779f89db3bcca7e07047a711f46775c941878e90c6a0bc57a/1790731523/mlb-astros.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
