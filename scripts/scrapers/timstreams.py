@@ -4,7 +4,7 @@ from collections.abc import KeysView
 from dataclasses import dataclass
 from functools import partial
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from .utils import Cache, Event, Time, get_logger, leagues, network
 
@@ -16,9 +16,16 @@ CACHE_FILE = Cache(TAG, exp=7_200)
 API_FILE = Cache(f"{TAG}-api", exp=19_800)
 BASE_URL = "https://timst.top"
 
+UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+)
+
+
 @dataclass(kw_only=True, slots=True)
 class TIMEvent(Event):
     logo: str | None = None
+
 
 async def process_event(url: str, url_num: int) -> str | None:
     if not (html_data := await network.request(url, url_num, log=log)):
@@ -29,17 +36,22 @@ async def process_event(url: str, url_num: int) -> str | None:
     if not arr_match:
         log.warning(f"URL {url_num}) Unable to find array for m3u encryption.")
         return
-    
-    num_list = [int(n) for n in arr_match.group(1).split(',')]
+
+    num_list = [int(n) for n in arr_match.group(1).split(",")]
 
     # 2. Find the character decoding loop formula to extract the variable names dynamically
-    loop_match = re.search(r"String\.fromCharCode\(\(\([\w\[\]]+\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*(?:%|&)\s*(?:256|255)\)", html_data.text)
+    loop_match = re.search(
+        r"String\.fromCharCode\(\(\([\w\[\]]+\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*([%&])\s*(256|255)\)",
+        html_data.text,
+    )
     if not loop_match:
-        log.warning(f"URL {url_num}) Unable to find decoding loop variables.")
+        log.warning(f"URL {url_num}) Unable to find decoding loop.")
         return
-    
+
     xor_var_name = loop_match.group(1)
     sub_var_name = loop_match.group(2)
+    op = loop_match.group(3)
+    mod = int(loop_match.group(4))
 
     # 3. Find the integer values assigned to those specific variables
     xor_match = re.search(rf"{xor_var_name}\s*=\s*(\d+)", html_data.text)
@@ -52,17 +64,34 @@ async def process_event(url: str, url_num: int) -> str | None:
     x = int(xor_match.group(1))
     y = int(sub_match.group(1))
 
-    # 4. Decrypt natively
-    js = "".join(chr(((i ^ x) - y + 256) % 256) for i in num_list)
+    # 4. Decrypt natively, honouring whichever operator the page used
+    if op == "&":
+        js = "".join(chr(((i ^ x) - y + 256) & mod) for i in num_list)
+    else:
+        js = "".join(chr(((i ^ x) - y + 256) % mod) for i in num_list)
 
-    # 5. Extract the direct M3U8 URL from the decoded text
-    m3u_mtch = re.search(r"https?:\/\/[^\x22\x27<>\s]+\.m3u8", js)
-    if not m3u_mtch:
+    # 5. Extract the URL assignment from the decoded text, then unescape it
+    m = re.search(r'(?:var\s+signed_)?url\s*=\s*"(.*?)";', js, re.I)
+    if not m:
         log.warning(f"URL {url_num}) No M3U8 source found.")
         return
 
+    raw = m.group(1)
+
+    try:
+        stream_url = json.loads('"' + raw + '"')
+    except Exception:
+        stream_url = raw.replace("\\/", "/")
+
+    stream_url = re.sub(r"(?<!:)/{2,}", "/", stream_url)
+
     log.info(f"URL {url_num}) Captured M3U8")
-    return m3u_mtch.group(0)
+
+    p = urlparse(url)
+    origin = f"{p.scheme}://{p.netloc}"
+
+    return f"{stream_url}|User-Agent={UA}&Referer={origin}/&Origin={origin}"
+
 
 async def get_events(cached_keys: KeysView[str]) -> list[TIMEvent]:
     now = Time.rn()

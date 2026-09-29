@@ -2,6 +2,7 @@ import json
 import re
 from collections.abc import KeysView
 from functools import partial
+from urllib.parse import urlparse
 
 from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
@@ -18,6 +19,11 @@ CACHE_FILE = Cache(TAG, exp=7_200)
 API_FILE = Cache(f"{TAG}-api", exp=19_800)
 
 API_URL = "https://ovogoal.cyou/api/v2/flyembed2.json"
+
+UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+)
 
 
 def cleanup(s: str) -> str:
@@ -48,44 +54,70 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
     ):
         return nones
 
-    num_list_ptrn = re.compile(r"var\s+_(\w+)=\[([^\]]*)\],", re.S)
-
-    index_ptrn = re.compile(r"(_[a-z]+\d+)=(\d+)")
+    num_list_ptrn = re.compile(r'\[([^\]]*)\]\.join\(""\)')
 
     m3u_ptrn = re.compile(r'(var\s?signed_)?url\s?=\s?"(.*)";', re.I)
 
-    # z_ptrn = re.compile(r"\&(\d+)")
-
-    # if not (z_mtch := z_ptrn.search(html_data.text)):
-    #     log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
-    #     return nones
+    # Extract the XOR/subtract variable names straight from the decoding loop,
+    # rather than guessing which `_[a-z]+\d+ = \d+` assignments are the keys.
+    loop_ptrn = re.compile(
+        r'String\.fromCharCode\(\(\((\w+)\[(\w+)\]\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*([%&])\s*(256|255)\)'
+    )
 
     if not (num_list_mtch := num_list_ptrn.findall(iframe_src_data.text)):
         log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
         return nones
 
-    elif not (index_mtch := index_ptrn.findall(iframe_src_data.text)):
+    if not (loop_mtch := loop_ptrn.search(iframe_src_data.text)):
         log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
         return nones
 
-    num_list = (int(n.strip()) for n in num_list_mtch[-1][-1].split(","))
+    xor_var, sub_var, op, mod = (
+        loop_mtch.group(3),
+        loop_mtch.group(4),
+        loop_mtch.group(5),
+        int(loop_mtch.group(6)),
+    )
 
-    if len(index_mtch) > 2:
-        del index_mtch[-1]
+    xor_match = re.search(rf"{xor_var}\s*=\s*(\d+)", iframe_src_data.text)
+    sub_match = re.search(rf"{sub_var}\s*=\s*(\d+)", iframe_src_data.text)
 
-    x, y = (int(i[-1].strip()) for i in index_mtch)
+    if not xor_match or not sub_match:
+        log.warning(f"URL {url_num}) Unable to decipher m3u encryption keys.")
+        return nones
 
-    # z = int(z_mtch[1])
+    x = int(xor_match.group(1))
+    y = int(sub_match.group(1))
 
-    js = "".join(chr(((i ^ x) - y + 256) & 255) for i in num_list)
+    num_list = (int(n.strip()) for n in num_list_mtch[-1].split(","))
+
+    if op == "&":
+        js = "".join(chr(((i ^ x) - y + 256) & mod) for i in num_list)
+    else:
+        js = "".join(chr(((i ^ x) - y + 256) % mod) for i in num_list)
 
     if not (m3u_mtch := m3u_ptrn.search(js)):
         log.warning(f"URL {url_num}) No M3U8 source found.")
         return nones
 
+    raw = m3u_mtch.group(2)
+
+    try:
+        stream_url = json.loads(f'"{raw}"')
+    except Exception:
+        stream_url = raw.replace("\\/", "/")
+
+    stream_url = re.sub(r"(?<!:)/{2,}", "/", stream_url)
+
     log.info(f"URL {url_num}) Captured M3U8")
 
-    return json.loads(f'"{m3u_mtch[2]}"'), iframe_src
+    p = urlparse(iframe_src)
+    origin = f"{p.scheme}://{p.netloc}"
+
+    return (
+        f"{stream_url}|User-Agent={UA}&Referer={origin}/&Origin={origin}",
+        iframe_src,
+    )
 
 
 async def get_events(cached_keys: KeysView[str]) -> list[Event]:
