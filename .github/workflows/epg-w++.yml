@@ -1,4 +1,4 @@
-name: Generate W++ EPG
+name: Generate w++ EPG
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7.0.1
 
-      - name: Inject Credentials into WebGrab Config
+      - name: Inject Credentials into w++ Config
         env:
           WG_EMAIL: ${{ secrets.WG_EMAIL }}
           WG_PASSWORD: ${{ secrets.WG_PASSWORD }}
@@ -24,7 +24,7 @@ jobs:
             sed -i "s/YOUR_WG_PASSWORD/$WG_PASSWORD/g" scripts/w++.config.xml
           fi
 
-      - name: Run WebGrab+Plus Docker
+      - name: Run w++ Docker
         run: |
           docker run --rm \
             -v ${{ github.workspace }}/scripts:/config \
