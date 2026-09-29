@@ -25,9 +25,63 @@ UA = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 )
 
+# Matches the for-loop XOR obfuscation used by FlyEmbed / TimStreams:
+#   var _a1 = [n,n,n], _b2 = k, _c3 = k, s = "";
+#   for (var i = 0; i < _a1.length; i++) {
+#       s += String.fromCharCode(((_a1[i] ^ _b2) - _c3 + 256) & 255);
+#   }
+LOOP_PTRN = re.compile(
+    r"String\.fromCharCode\(\(\([\w\[\]]+\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*([%&])\s*(256|255)\)"
+)
+
+# Fallback: the .join("") variant used by some older pages.
+JOIN_PTRN = re.compile(r'\(\[([^\]]+)\]\.join\(""\)')
+
+# Extracts the final URL assignment from the decoded JS.
+URL_PTRN = re.compile(r'(?:var\s+signed_)?url\s*=\s*"(.*?)";', re.I)
+
 
 def cleanup(s: str) -> str:
     return re.sub(r"(\r|\n|\t)", "", s).strip()
+
+
+def _decode_for_loop(html: str) -> str | None:
+    """Decode the `var _x = [..], _y = k, _z = k; for(...) {...}` obfuscation."""
+    arr_match = re.search(r"var\s+\w+\s*=\s*\[([\d,\s]+)\]", html)
+    if not arr_match:
+        return None
+
+    loop_match = LOOP_PTRN.search(html)
+    if not loop_match:
+        return None
+
+    xor_var, sub_var = loop_match.group(1), loop_match.group(2)
+    op, mod = loop_match.group(3), int(loop_match.group(4))
+
+    xor_match = re.search(rf"{xor_var}\s*=\s*(\d+)", html)
+    sub_match = re.search(rf"{sub_var}\s*=\s*(\d+)", html)
+    if not xor_match or not sub_match:
+        return None
+
+    x = int(xor_match.group(1))
+    y = int(sub_match.group(1))
+
+    num_list = [int(n) for n in arr_match.group(1).split(",")]
+
+    if op == "&":
+        return "".join(chr(((i ^ x) - y + 256) & mod) for i in num_list)
+    return "".join(chr(((i ^ x) - y + 256) % mod) for i in num_list)
+
+
+def _decode_join(html: str) -> str | None:
+    """Decode the `([...].join(""))` obfuscation."""
+    m = JOIN_PTRN.search(html)
+    if not m:
+        return None
+    chars = re.findall(r'"([^"]*)"', m.group(1))
+    if not chars:
+        return None
+    return "".join(chars).replace("\\/", "/")
 
 
 async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]:
@@ -44,7 +98,7 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
         log.warning(f"URL {url_num}) No iframe source found.")
         return nones
 
-    elif not (
+    if not (
         iframe_src_data := await network.request(
             iframe_src,
             url_num,
@@ -54,53 +108,32 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
     ):
         return nones
 
-    num_list_ptrn = re.compile(r'\[([^\]]*)\]\.join\(""\)')
+    iframe_html = iframe_src_data.text
 
-    m3u_ptrn = re.compile(r'(var\s?signed_)?url\s?=\s?"(.*)";', re.I)
+    # Try the for-loop XOR form first (what FlyEmbed currently serves),
+    # then fall back to the .join("") form.
+    js = _decode_for_loop(iframe_html)
 
-    # Extract the XOR/subtract variable names straight from the decoding loop,
-    # rather than guessing which `_[a-z]+\d+ = \d+` assignments are the keys.
-    loop_ptrn = re.compile(
-        r'String\.fromCharCode\(\(\((\w+)\[(\w+)\]\s*\^\s*(\w+)\)\s*-\s*(\w+)\s*\+\s*256\)\s*([%&])\s*(256|255)\)'
-    )
+    if js is None:
+        log.info(f"URL {url_num}) for-loop form not found, trying .join(\"\") form.")
+        js = _decode_join(iframe_html)
 
-    if not (num_list_mtch := num_list_ptrn.findall(iframe_src_data.text)):
-        log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
+    if js is None:
+        log.warning(
+            f"URL {url_num}) Unable to decipher m3u encryption. "
+            f"len={len(iframe_html)} preview={iframe_html[:300]!r}"
+        )
         return nones
 
-    if not (loop_mtch := loop_ptrn.search(iframe_src_data.text)):
-        log.warning(f"URL {url_num}) Unable to decipher m3u encryption.")
+    m3u_match = URL_PTRN.search(js)
+    if not m3u_match:
+        log.warning(
+            f"URL {url_num}) No M3U8 source found. "
+            f"decoded len={len(js)} preview={js[:300]!r}"
+        )
         return nones
 
-    xor_var, sub_var, op, mod = (
-        loop_mtch.group(3),
-        loop_mtch.group(4),
-        loop_mtch.group(5),
-        int(loop_mtch.group(6)),
-    )
-
-    xor_match = re.search(rf"{xor_var}\s*=\s*(\d+)", iframe_src_data.text)
-    sub_match = re.search(rf"{sub_var}\s*=\s*(\d+)", iframe_src_data.text)
-
-    if not xor_match or not sub_match:
-        log.warning(f"URL {url_num}) Unable to decipher m3u encryption keys.")
-        return nones
-
-    x = int(xor_match.group(1))
-    y = int(sub_match.group(1))
-
-    num_list = (int(n.strip()) for n in num_list_mtch[-1].split(","))
-
-    if op == "&":
-        js = "".join(chr(((i ^ x) - y + 256) & mod) for i in num_list)
-    else:
-        js = "".join(chr(((i ^ x) - y + 256) % mod) for i in num_list)
-
-    if not (m3u_mtch := m3u_ptrn.search(js)):
-        log.warning(f"URL {url_num}) No M3U8 source found.")
-        return nones
-
-    raw = m3u_mtch.group(2)
+    raw = m3u_match.group(1)
 
     try:
         stream_url = json.loads(f'"{raw}"')
