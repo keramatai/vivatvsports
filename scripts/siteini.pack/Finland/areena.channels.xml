@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.4 -- Jan van Straaten" site="areena.yle.fi">
+  <channels>
+    <channel update="i" site="areena" site_id="yle-tv1" xmltv_id="Yle TV1">Yle TV1</channel>
+    <channel update="i" site="areena" site_id="yle-tv2" xmltv_id="Yle TV2">Yle TV2</channel>
+    <channel update="i" site="areena" site_id="yle-teema-fem" xmltv_id="Yle Teema Fem">Yle Teema Fem</channel>
+    <channel update="i" site="areena" site_id="yle-areena" xmltv_id="Yle Areena">Yle Areena</channel>
+    <channel update="i" site="areena" site_id="tv-finland" xmltv_id="TV Finland">TV Finland</channel>
+  </channels>
+</site>

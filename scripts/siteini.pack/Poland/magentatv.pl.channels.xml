@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="magentatv.pl">
+  <channels>
+    <channel update="i" site="magentatv.pl" site_id="295942184300" xmltv_id="TVP1">TVP1</channel>
+    <channel update="i" site="magentatv.pl" site_id="295941672381" xmltv_id="TVP2">TVP2</channel>
+    <channel update="i" site="magentatv.pl" site_id="295942184308" xmltv_id="TVP Warszawa">TVP Warszawa</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848424" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800329" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800332" xmltv_id="TVN24">TVN24</channel>
+    <channel update="i" site="magentatv.pl" site_id="295945768003" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336447" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312380" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312376" xmltv_id="Super Polsat">Super Polsat</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312408" xmltv_id="Polsat 2">Polsat 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750952036" xmltv_id="TVN7">TVN7</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359967" xmltv_id="TV Puls">TV Puls</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848446" xmltv_id="PULS 2">PULS 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="295945768010" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="magentatv.pl" site_id="295946279993" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943720190" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel update="i" site="magentatv.pl" site_id="295944231999" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="magentatv.pl" site_id="295946279991" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="magentatv.pl" site_id="295941672410" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel update="i" site="magentatv.pl" site_id="295944232003" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
+    <channel update="i" site="magentatv.pl" site_id="295945768007" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928097" xmltv_id="Metro">Metro</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312382" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250489383962" xmltv_id="WP">WP</channel>
+    <channel update="i" site="magentatv.pl" site_id="295942184329" xmltv_id="TVP World">TVP World</channel>
+    <channel update="i" site="magentatv.pl" site_id="414618152443" xmltv_id="TVS">TVS</channel>
+    <channel update="i" site="magentatv.pl" site_id="463709735963" xmltv_id="TVP Nauka">TVP Nauka</channel>
+    <channel update="i" site="magentatv.pl" site_id="463706152401" xmltv_id="Alfa TVP">Alfa TVP</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192059" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192060" xmltv_id="Polonia 1">Polonia 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592168220" xmltv_id="Antena HD">Antena HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564591144323" xmltv_id="Home  HD">Home  HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593704190" xmltv_id="TVC">TVC</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592168253" xmltv_id="Kabaret TV">Kabaret TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593704201" xmltv_id="Pogoda24 TV">Pogoda24 TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="558340136347" xmltv_id="Telewizja Republika">Telewizja Republika</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800303" xmltv_id="Polsat Film">Polsat Film</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312397" xmltv_id="Polsat Seriale">Polsat Seriale</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800302" xmltv_id="Polsat Rodzina">Polsat Rodzina</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359981" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359985" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312434" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312352" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312361" xmltv_id="Fox Comedy">Fox Comedy</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928116" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359970" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359968" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800311" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312349" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336423" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="magentatv.pl" site_id="267824680393" xmltv_id="AleKino+">AleKino+</channel>
+    <channel update="i" site="magentatv.pl" site_id="267842600015" xmltv_id="Novelas+">Novelas+</channel>
+    <channel update="i" site="magentatv.pl" site_id="323327528087" xmltv_id="Canal+ Premium">Canal+ Premium</channel>
+    <channel update="i" site="magentatv.pl" site_id="323329576128" xmltv_id="Canal+ Film">Canal+ Film</channel>
+    <channel update="i" site="magentatv.pl" site_id="323327016332" xmltv_id="Canal+ 360">Canal+ 360</channel>
+    <channel update="i" site="magentatv.pl" site_id="323329064210" xmltv_id="Canal+ Seriale">Canal+ Seriale</channel>
+    <channel update="i" site="magentatv.pl" site_id="323327528089" xmltv_id="Canal+ 1">Canal+ 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="715075623976" xmltv_id="CANAL+4K">CANAL+4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336441" xmltv_id="Stopklatka">Stopklatka</channel>
+    <channel update="i" site="magentatv.pl" site_id="286658088027" xmltv_id="ZOOM TV">ZOOM TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="463707176328" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="magentatv.pl" site_id="463707176330" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="414618152437" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="483994152101" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="magentatv.pl" site_id="483995176201" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="magentatv.pl" site_id="483994152102" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="magentatv.pl" site_id="483995687996" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="magentatv.pl" site_id="438304296203" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="magentatv.pl" site_id="438305320012" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="463709735976" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="480549416150" xmltv_id="CTV - DLA CIEBIE">CTV - DLA CIEBIE</channel>
+    <channel update="i" site="magentatv.pl" site_id="608185896229" xmltv_id="Filmax4K">Filmax4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="738761768069" xmltv_id="Polsat Film 2">Polsat Film 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592680240" xmltv_id="TVC Super">TVC Super</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336443" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359952" xmltv_id="Polsat News">Polsat News</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312404" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750952058" xmltv_id="TVN24 BiS">TVN24 BiS</channel>
+    <channel update="i" site="magentatv.pl" site_id="485786664305" xmltv_id="Wydarzenia 24">Wydarzenia 24</channel>
+    <channel update="i" site="magentatv.pl" site_id="483543080399" xmltv_id="Polsat News Polityka">Polsat News Polityka</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800251" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750440139" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="magentatv.pl" site_id="250489383966" xmltv_id="FRANCE 24 French">FRANCE 24 French</channel>
+    <channel update="i" site="magentatv.pl" site_id="250489383968" xmltv_id="FRANCE 24 English">FRANCE 24 English</channel>
+    <channel update="i" site="magentatv.pl" site_id="438303784332" xmltv_id="Cnn">Cnn</channel>
+    <channel update="i" site="magentatv.pl" site_id="558350888271" xmltv_id="Republika HD">Republika HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416320" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928118" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312388" xmltv_id="Polsat Sport 1">Polsat Sport 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848435" xmltv_id="Polsat Sport 3">Polsat Sport 3</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359956" xmltv_id="Polsat Sport 2">Polsat Sport 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800289" xmltv_id="Polsat Sport Fight">Polsat Sport Fight</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359959" xmltv_id="Polsat Games">Polsat Games</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848411" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336437" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848413" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312367" xmltv_id="Eleven Sports 4">Eleven Sports 4</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312369" xmltv_id="Eleven Sports 1 4K">Eleven Sports 1 4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750440132" xmltv_id="TVN Turbo">TVN Turbo</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750952067" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="magentatv.pl" site_id="267843624001" xmltv_id="Canal+ Sport 5">Canal+ Sport 5</channel>
+    <channel update="i" site="magentatv.pl" site_id="323328040097" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="magentatv.pl" site_id="323327528091" xmltv_id="Canal+ Sport 2">Canal+ Sport 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="323329576131" xmltv_id="Canal+ Sport 3">Canal+ Sport 3</channel>
+    <channel update="i" site="magentatv.pl" site_id="323329576132" xmltv_id="Canal+ Sport 4">Canal+ Sport 4</channel>
+    <channel update="i" site="magentatv.pl" site_id="715345959952" xmltv_id="CANAL+ Sport Extra 1">CANAL+ Sport Extra 1</channel>
+    <channel update="i" site="magentatv.pl" site_id="715069479965" xmltv_id="CANAL+ Sport Extra 2">CANAL+ Sport Extra 2</channel>
+    <channel update="i" site="magentatv.pl" site_id="715068456425" xmltv_id="CANAL+ Sport Extra 3">CANAL+ Sport Extra 3</channel>
+    <channel update="i" site="magentatv.pl" site_id="715073576384" xmltv_id="CANAL+ Sport Extra 4">CANAL+ Sport Extra 4</channel>
+    <channel update="i" site="magentatv.pl" site_id="715072551971" xmltv_id="CANAL+ Sport Extra 5">CANAL+ Sport Extra 5</channel>
+    <channel update="i" site="magentatv.pl" site_id="715068456426" xmltv_id="CANAL+ Sport Extra 6">CANAL+ Sport Extra 6</channel>
+    <channel update="i" site="magentatv.pl" site_id="715072551974" xmltv_id="CANAL+ Sport Extra 7">CANAL+ Sport Extra 7</channel>
+    <channel update="i" site="magentatv.pl" site_id="509726760264" xmltv_id="Canal+ NOW">Canal+ NOW</channel>
+    <channel update="i" site="magentatv.pl" site_id="414618664400" xmltv_id="Motowizja">Motowizja</channel>
+    <channel update="i" site="magentatv.pl" site_id="744556072062" xmltv_id="Eurosport 3">Eurosport 3</channel>
+    <channel update="i" site="magentatv.pl" site_id="767987240088" xmltv_id="Eurosport 4">Eurosport 4</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593704224" xmltv_id="Golf Zone">Golf Zone</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416335" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750952072" xmltv_id="TVN Style">TVN Style</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416313" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928108" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928120" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416285" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312390" xmltv_id="Polsat Cafe">Polsat Cafe</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800278" xmltv_id="Polsat Play">Polsat Play</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312348" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="magentatv.pl" site_id="267843623996" xmltv_id="Canal+ Kuchnia">Canal+ Kuchnia</channel>
+    <channel update="i" site="magentatv.pl" site_id="267842600012" xmltv_id="Canal+ Domo">Canal+ Domo</channel>
+    <channel update="i" site="magentatv.pl" site_id="414620711984" xmltv_id="Active Family">Active Family</channel>
+    <channel update="i" site="magentatv.pl" site_id="414619176020" xmltv_id="FashionTV UHD">FashionTV UHD</channel>
+    <channel update="i" site="magentatv.pl" site_id="463709735977" xmltv_id="myZen.TV 4K">myZen.TV 4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="738764328385" xmltv_id="Polsat X">Polsat X</channel>
+    <channel update="i" site="magentatv.pl" site_id="738764328384" xmltv_id="Polsat Reality">Polsat Reality</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192114" xmltv_id="TBN Polska HD">TBN Polska HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592680243" xmltv_id="Xtreme TV">Xtreme TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312392" xmltv_id="Polsat Doku">Polsat Doku</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416315" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928113" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749416321" xmltv_id="Discovery Historia SD">Discovery Historia SD</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928112" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750952064" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="magentatv.pl" site_id="259750440127" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336418" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="magentatv.pl" site_id="267842600006" xmltv_id="Planete+">Planete+</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800256" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848401" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800259" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312381" xmltv_id="Fokus">Fokus</channel>
+    <channel update="i" site="magentatv.pl" site_id="323327528090" xmltv_id="Canal+ Dokument">Canal+ Dokument</channel>
+    <channel update="i" site="magentatv.pl" site_id="414619176006" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="414617128318" xmltv_id="History 2 HD">History 2 HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="414619688158" xmltv_id="Crime+Investigation HD">Crime+Investigation HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="414619688159" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="414617128340" xmltv_id="Travel XP 4K">Travel XP 4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="463709223978" xmltv_id="Museum4K">Museum4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="463707176332" xmltv_id="Polsat Viasat History HD">Polsat Viasat History HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="463707176334" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="463709735965" xmltv_id="Polsat Viasat Nature HD">Polsat Viasat Nature HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192057" xmltv_id="Adventure">Adventure</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192147" xmltv_id="Show TV">Show TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192096" xmltv_id="ViDoc TV">ViDoc TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="608183336413" xmltv_id="ViDoc TV 4K">ViDoc TV 4K</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312385" xmltv_id="Eska TV">Eska TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800294" xmltv_id="Eska Rock">Eska Rock</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359963" xmltv_id="Eska TV Extra">Eska TV Extra</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312416" xmltv_id="VOX Music">VOX Music</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359957" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312412" xmltv_id="Polsat Music">Polsat Music</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848429" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250488359973" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="magentatv.pl" site_id="250485800270" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="magentatv.pl" site_id="414618664415" xmltv_id="Music BOX">Music BOX</channel>
+    <channel update="i" site="magentatv.pl" site_id="438305320014" xmltv_id="starstv">starstv</channel>
+    <channel update="i" site="magentatv.pl" site_id="414619176025" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192167" xmltv_id="4Fun TV">4Fun TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="564594727968" xmltv_id="4Fun Dance">4Fun Dance</channel>
+    <channel update="i" site="magentatv.pl" site_id="564594216380" xmltv_id="Power HD">Power HD</channel>
+    <channel update="i" site="magentatv.pl" site_id="564591144337" xmltv_id="Nuta.TV">Nuta.TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="564591144338" xmltv_id="Nuta Gold">Nuta Gold</channel>
+    <channel update="i" site="magentatv.pl" site_id="564593192049" xmltv_id="Szlagier TV">Szlagier TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="608184359993" xmltv_id="UltraTV">UltraTV</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487336428" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848410" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848403" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312421" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312429" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312425" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="magentatv.pl" site_id="250486312431" xmltv_id="Teennick">Teennick</channel>
+    <channel update="i" site="magentatv.pl" site_id="267824680389" xmltv_id="MiniMini+">MiniMini+</channel>
+    <channel update="i" site="magentatv.pl" site_id="267824680400" xmltv_id="teletoon+">teletoon+</channel>
+    <channel update="i" site="magentatv.pl" site_id="250487848393" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="magentatv.pl" site_id="259749928140" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="magentatv.pl" site_id="438304296207" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="magentatv.pl" site_id="438304808048" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="magentatv.pl" site_id="438306344141" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592680357" xmltv_id="Top Kids">Top Kids</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592680371" xmltv_id="Junior Music">Junior Music</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592168308" xmltv_id="Junior Channel">Junior Channel</channel>
+    <channel update="i" site="magentatv.pl" site_id="564592680397" xmltv_id="4Fun Kids">4Fun Kids</channel>
+    <channel update="i" site="magentatv.pl" site_id="295942184303" xmltv_id="TVP Białystok">TVP Białystok</channel>
+    <channel update="i" site="magentatv.pl" site_id="295942184305" xmltv_id="TVP Bydgoszcz">TVP Bydgoszcz</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943208385" xmltv_id="TVP Gdańsk">TVP Gdańsk</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943208386" xmltv_id="TVP Katowice">TVP Katowice</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943720160" xmltv_id="TVP Kraków">TVP Kraków</channel>
+    <channel update="i" site="magentatv.pl" site_id="295942184307" xmltv_id="TVP Lublin">TVP Lublin</channel>
+    <channel update="i" site="magentatv.pl" site_id="295944231989" xmltv_id="TVP Łódź">TVP Łódź</channel>
+    <channel update="i" site="magentatv.pl" site_id="295945767992" xmltv_id="TVP Poznań">TVP Poznań</channel>
+    <channel update="i" site="magentatv.pl" site_id="295941672393" xmltv_id="TVP Rzeszów">TVP Rzeszów</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943720165" xmltv_id="TVP Szczecin">TVP Szczecin</channel>
+    <channel update="i" site="magentatv.pl" site_id="295941672398" xmltv_id="TVP Wrocław">TVP Wrocław</channel>
+    <channel update="i" site="magentatv.pl" site_id="295941672400" xmltv_id="TVP Kielce">TVP Kielce</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943208389" xmltv_id="TVP Opole">TVP Opole</channel>
+    <channel update="i" site="magentatv.pl" site_id="295943720170" xmltv_id="TVP Olsztyn">TVP Olsztyn</channel>
+    <channel update="i" site="magentatv.pl" site_id="296488488436" xmltv_id="TVP Gorzów Wielkopolski">TVP Gorzów Wielkopolski</channel>
+  </channels>
+</site>

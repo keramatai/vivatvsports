@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.3 -- Jan van Straaten" site="tvdaldia.cl">
+  <channels>
+    <channel update="i" site="tvdaldia.cl" site_id="telecanal##telecanal" xmltv_id="TELECANAL">TELECANAL</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="la-red##lared" xmltv_id="LA RED">LA RED</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="tv-mas##tvmas" xmltv_id="TV MAS">TV MAS</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="tvn##tvn" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="mega##mega" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="chv##chv" xmltv_id="CHV">CHV</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="canal-13##canal13" xmltv_id="CANAL 13">CANAL 13</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="ntv##ntv" xmltv_id="NTV">NTV</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="mega-2##mega2" xmltv_id="MEGA 2">MEGA 2</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="t13-en-vivo##t13" xmltv_id="T13 EN VIVO">T13 EN VIVO</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="ucv-tv##ucv" xmltv_id="UCV TV">UCV TV</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="canal-9##canal9" xmltv_id="CANAL 9">CANAL 9</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="tvn-3##tvn3" xmltv_id="TVN 3">TVN 3</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="24-horas##24horas" xmltv_id="24 HORAS">24 HORAS</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="meganoticias##meganoticias" xmltv_id="MEGANOTICIAS">MEGANOTICIAS</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="mega-ficcion##megaficcion" xmltv_id="MEGA FICCION">MEGA FICCION</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="etc##etc" xmltv_id="ETC">ETC</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="senpai-tv##senpaitv" xmltv_id="SENPAI TV">SENPAI TV</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="13c##13c" xmltv_id="13C">13C</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="rec##rec" xmltv_id="REC">REC</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="via-x##viax" xmltv_id="VIA X">VIA X</channel>
+    <channel update="i" site="tvdaldia.cl" site_id="zona-latina##zonalatina" xmltv_id="ZONA LATINA">ZONA LATINA</channel>
+  </channels>
+</site>

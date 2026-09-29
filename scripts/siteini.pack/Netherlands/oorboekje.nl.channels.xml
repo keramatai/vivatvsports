@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="oorboekje.nl">
+  <channels>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Radio-1" xmltv_id="NPO Radio 1">NPO Radio 1</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Radio-2" xmltv_id="NPO Radio 2">NPO Radio 2</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-3FM" xmltv_id="NPO 3FM">NPO 3FM</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Klassiek" xmltv_id="NPO Klassiek">NPO Klassiek</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Radio-5" xmltv_id="NPO Radio 5">NPO Radio 5</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Soul-en-Jazz" xmltv_id="NPO Soul en Jazz">NPO Soul en Jazz</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-FunX" xmltv_id="NPO FunX">NPO FunX</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NPO-Sterren-NL" xmltv_id="NPO Sterren NL">NPO Sterren NL</channel>
+    <channel update="i" site="oorboekje.nl" site_id="100procentNL" xmltv_id="100procentNL">100procentNL</channel>
+    <channel update="i" site="oorboekje.nl" site_id="BNR-Nieuwsradio" xmltv_id="BNR Nieuwsradio">BNR Nieuwsradio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Joe" xmltv_id="Joe">Joe</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Qmusic" xmltv_id="Qmusic">Qmusic</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-10" xmltv_id="Radio 10">Radio 10</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-538" xmltv_id="Radio 538">Radio 538</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-NL" xmltv_id="Radio NL">Radio NL</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Veronica" xmltv_id="Radio Veronica">Radio Veronica</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Sky-Radio" xmltv_id="Sky Radio">Sky Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="4ever49-Radio" xmltv_id="4ever49 Radio">4ever49 Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Arrow-Classic-Rock" xmltv_id="Arrow Classic Rock">Arrow Classic Rock</channel>
+    <channel update="i" site="oorboekje.nl" site_id="ClassicNL" xmltv_id="ClassicNL">ClassicNL</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Concertzender" xmltv_id="Concertzender">Concertzender</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Groot-Nieuws-Radio" xmltv_id="Groot Nieuws Radio">Groot Nieuws Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Kink" xmltv_id="Kink">Kink</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Slam" xmltv_id="Slam">Slam</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Sublime" xmltv_id="Sublime">Sublime</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Noord" xmltv_id="Radio Noord">Radio Noord</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Omrop-Fryslan" xmltv_id="Omrop Fryslan">Omrop Fryslan</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Drenthe" xmltv_id="Radio Drenthe">Radio Drenthe</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Oost" xmltv_id="Radio Oost">Radio Oost</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Omroep-Flevoland" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Gelderland" xmltv_id="Radio Gelderland">Radio Gelderland</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Omroep-Brabant" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
+    <channel update="i" site="oorboekje.nl" site_id="L1-Radio" xmltv_id="L1 Radio">L1 Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="NH-Radio" xmltv_id="NH Radio">NH Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-M-Utrecht" xmltv_id="Radio M Utrecht">Radio M Utrecht</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-West" xmltv_id="Radio West">Radio West</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Rijnmond" xmltv_id="Radio Rijnmond">Radio Rijnmond</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Omroep-Zeeland" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Amor-FM" xmltv_id="Amor FM">Amor FM</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Gigant-FM" xmltv_id="Gigant FM">Gigant FM</channel>
+    <channel update="i" site="oorboekje.nl" site_id="GLXY-Radio" xmltv_id="GLXY Radio">GLXY Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Hitzzz" xmltv_id="Hitzzz">Hitzzz</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Joy-Radio" xmltv_id="Joy Radio">Joy Radio</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Qmusic-Limburg" xmltv_id="Qmusic Limburg">Qmusic Limburg</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-Continu" xmltv_id="Radio Continu">Radio Continu</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Radio-JND" xmltv_id="Radio JND">Radio JND</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Simone-FM" xmltv_id="Simone FM">Simone FM</channel>
+    <channel update="i" site="oorboekje.nl" site_id="VRT-Radio-1" xmltv_id="VRT Radio 1">VRT Radio 1</channel>
+    <channel update="i" site="oorboekje.nl" site_id="VRT-Radio-2" xmltv_id="VRT Radio 2">VRT Radio 2</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Klara" xmltv_id="Klara">Klara</channel>
+    <channel update="i" site="oorboekje.nl" site_id="Studio-Brussel" xmltv_id="Studio Brussel">Studio Brussel</channel>
+    <channel update="i" site="oorboekje.nl" site_id="MNM" xmltv_id="MNM">MNM</channel>
+  </channels>
+</site>

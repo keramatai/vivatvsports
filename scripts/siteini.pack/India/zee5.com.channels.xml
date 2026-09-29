@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="zee5.com">
+  <channels>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_2105335046" xmltv_id="&amp;flix HD">&amp;flix HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-pictures" xmltv_id="&amp;Pictures">&amp;Pictures</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-tvpictureshd" xmltv_id="&amp;Pictures HD">&amp;Pictures HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5543514" xmltv_id="&amp;Prive HD">&amp;Prive HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-tvhd_0" xmltv_id="&amp;TV HD">&amp;TV HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_1510237423" xmltv_id="&amp;TV HD USA">&amp;TV HD USA</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-209" xmltv_id="&amp;xplorHD">&amp;xplorHD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-aajtak" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-bigmagic_1786965389" xmltv_id="Big Magic">Big Magic</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-255" xmltv_id="Good News Today">Good News Today</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-183" xmltv_id="Hare Krsna">Hare Krsna</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-indiatoday" xmltv_id="India Today">India Today</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-261" xmltv_id="News 9">News 9</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeesalaam" xmltv_id="Salaam TV">Salaam TV</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_1144658965" xmltv_id="Sanskar TV">Sanskar TV</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-378" xmltv_id="TV9 Bangla">TV9 Bangla</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-251" xmltv_id="TV9 Bharatvarsh">TV9 Bharatvarsh</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-260" xmltv_id="TV9 Gujarati">TV9 Gujarati</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-259" xmltv_id="TV9 Kannada">TV9 Kannada</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-257" xmltv_id="TV9 Marathi">TV9 Marathi</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-258" xmltv_id="TV9 Telugu">TV9 Telugu</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-wion" xmltv_id="WION">WION</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-24ghantatv" xmltv_id="Zee 24 Ghanta">Zee 24 Ghanta</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zee24kalak" xmltv_id="Zee 24 Kalak">Zee 24 Kalak</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zee24taas" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeeaction" xmltv_id="Zee Action">Zee Action</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeeanmol" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeeanmolcinema" xmltv_id="Zee Anmol Cinema">Zee Anmol Cinema</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-bigganga" xmltv_id="Zee Anmol Cinema 2">Zee Anmol Cinema 2</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383484" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeebanglacinema" xmltv_id="Zee Bangla Cinema">Zee Bangla Cinema</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeebangla" xmltv_id="Zee Bangla HD">Zee Bangla HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-366" xmltv_id="Zee Bangla International">Zee Bangla International</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeehindustan" xmltv_id="Zee Bharat">Zee Bharat</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeebiharjharkhand" xmltv_id="Zee Bihar Jharkhand">Zee Bihar Jharkhand</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeebioskop" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-216" xmltv_id="Zee Biskope">Zee Biskope</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeeclassic" xmltv_id="Zee Bollywood">Zee Bollywood</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeebusiness" xmltv_id="Zee Business">Zee Business</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecafehd" xmltv_id="Zee Café HD">Zee Café HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-394" xmltv_id="Zee Chitramandir">Zee Chitramandir</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecinema" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecinemahd" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecinemaintl" xmltv_id="Zee Cinema ME">Zee Cinema ME</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecinemauk" xmltv_id="Zee Cinema UK">Zee Cinema UK</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-179" xmltv_id="Zee Cinema USA">Zee Cinema USA</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383488" xmltv_id="Zee Cinemalu">Zee Cinemalu</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeecinemalu" xmltv_id="Zee Cinemalu HD">Zee Cinemalu HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-176" xmltv_id="Zee Classic">Zee Classic</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeekalinganews" xmltv_id="Zee Delhi NCR Haryana">Zee Delhi NCR Haryana</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383466" xmltv_id="Zee Kannada">Zee Kannada</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeekannada" xmltv_id="Zee Kannada HD">Zee Kannada HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-129" xmltv_id="Zee Keralam HD">Zee Keralam HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-422" xmltv_id="Zee Keralam ME">Zee Keralam ME</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeemadhyapradeshchat" xmltv_id="Zee Madhya Pradesh Chhattisgarh">Zee Madhya Pradesh Chhattisgarh</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383486" xmltv_id="Zee Marathi">Zee Marathi</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeemarathi" xmltv_id="Zee Marathi HD">Zee Marathi HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_926372368" xmltv_id="Zee Marathi USA">Zee Marathi USA</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeenews" xmltv_id="Zee News">Zee News</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z583537" xmltv_id="Zee News Kannada">Zee News Kannada</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z583539" xmltv_id="ZEE News Malayalam">ZEE News Malayalam</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z583533" xmltv_id="ZEE News Tamil">ZEE News Tamil</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z583538" xmltv_id="Zee News Telugu">Zee News Telugu</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_265145625" xmltv_id="Zee News Uttar Pradesh Uttrakhand">Zee News Uttar Pradesh Uttrakhand</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-241" xmltv_id="Zee Picchar">Zee Picchar</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeepunjabharyanahima" xmltv_id="Zee Punjab Haryana Himachal Pradesh">Zee Punjab Haryana Himachal Pradesh</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-215" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeerajasthannews" xmltv_id="Zee Rajasthan News">Zee Rajasthan News</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-sarthaktv" xmltv_id="Zee Sarthak">Zee Sarthak</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383489" xmltv_id="Zee Talkies">Zee Talkies</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetalkies" xmltv_id="Zee Talkies HD">Zee Talkies HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383487" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetamil" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-360" xmltv_id="Zee Tamil HD APAC">Zee Tamil HD APAC</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-9z5383485" xmltv_id="Zee Telugu">Zee Telugu</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetelugu" xmltv_id="Zee Telugu HD">Zee Telugu HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-224" xmltv_id="Zee Thirai">Zee Thirai</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetv" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetvapac" xmltv_id="Zee TV APAC">Zee TV APAC</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetvhd" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_1017420475" xmltv_id="Zee TV HD Canada">Zee TV HD Canada</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeetvuk" xmltv_id="Zee TV HD UK">Zee TV HD UK</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_341994370" xmltv_id="Zee TV HD USA">Zee TV HD USA</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-tvme" xmltv_id="Zee TV ME">Zee TV ME</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_1586895760" xmltv_id="Zee TV USA">Zee TV USA</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zeeyuva" xmltv_id="Zee Yuva">Zee Yuva</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-348" xmltv_id="Zee Zest HD">Zee Zest HD</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-zing" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="zee5.com" site_id="0-9-channel_1643519345" xmltv_id="Zing USA">Zing USA</channel>
+  </channels>
+</site>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.1 -- Jan van Straaten" site="timeline.supersport.com">
+  <channels>
+    <channel update="i" site="timeline.supersport.com" site_id="0=51685" xmltv_id="Super Screen">Super Screen</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="1=1548" xmltv_id="Maximo 1 – Champions">Maximo 1 – Champions</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="2=1848" xmltv_id="Maximo 2 – Liga Inglesa">Maximo 2 – Liga Inglesa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="3=51581" xmltv_id="Maximo 3 – La Liga">Maximo 3 – La Liga</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="4=51553" xmltv_id="Maximo 360 – Serie A">Maximo 360 – Serie A</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="5=1648" xmltv_id="Blitz">Blitz</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="6=51583" xmltv_id="SuperSport Blitz Africa">SuperSport Blitz Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="7=51612" xmltv_id="SS Grandstand">SS Grandstand</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="8=51614" xmltv_id="SS PSL">SS PSL</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="9=51617" xmltv_id="SS Premier League">SS Premier League</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="10=51620" xmltv_id="SS LaLiga">SS LaLiga</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="11=51623" xmltv_id="SS Football">SS Football</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="12=51625" xmltv_id="SS Variety 1">SS Variety 1</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="13=51627" xmltv_id="SS Variety 2">SS Variety 2</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="14=51629" xmltv_id="SS Variety 3">SS Variety 3</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="15=51631" xmltv_id="SS Variety 4">SS Variety 4</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="16=51633" xmltv_id="SS Action">SS Action</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="17=51635" xmltv_id="SS Rugby">SS Rugby</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="18=51637" xmltv_id="SS Cricket">SS Cricket</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="19=51639" xmltv_id="SS Golf">SS Golf</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="20=51641" xmltv_id="SS Tennis">SS Tennis</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="21=51643" xmltv_id="SS Motorsport">SS Motorsport</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="22=51613" xmltv_id="SS Grandstand Africa">SS Grandstand Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="23=51615" xmltv_id="SS Football Plus Africa">SS Football Plus Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="24=51618" xmltv_id="SS Premier League Africa">SS Premier League Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="25=51621" xmltv_id="SS LaLiga Africa">SS LaLiga Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="26=51624" xmltv_id="SS Football Africa">SS Football Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="27=51626" xmltv_id="SS Variety 1 Africa">SS Variety 1 Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="28=51628" xmltv_id="SS Variety 2 Africa">SS Variety 2 Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="29=51630" xmltv_id="SS Variety 3 Africa">SS Variety 3 Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="30=51632" xmltv_id="SS Variety 4 Africa">SS Variety 4 Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="31=51634" xmltv_id="SS Action Africa">SS Action Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="32=51636" xmltv_id="SS Rugby Africa">SS Rugby Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="33=51638" xmltv_id="SS Cricket Africa">SS Cricket Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="34=51640" xmltv_id="SS Golf Africa">SS Golf Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="35=51642" xmltv_id="SS Tennis Africa">SS Tennis Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="36=51644" xmltv_id="SS Motorsport Africa">SS Motorsport Africa</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="37=51616" xmltv_id="SS Football Plus Nigeria">SS Football Plus Nigeria</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="38=51619" xmltv_id="SS Premier League Nigeria">SS Premier League Nigeria</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="39=51622" xmltv_id="SS LaLiga Nigeria">SS LaLiga Nigeria</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="40=51645" xmltv_id="SS GOtv Football">SS GOtv Football</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="41=51646" xmltv_id="SS GOtv LaLiga">SS GOtv LaLiga</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="42=51653" xmltv_id="SS Liyu">SS Liyu</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="43=51680" xmltv_id="SS Liyu 2">SS Liyu 2</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="44=51668" xmltv_id="SS OTT Eight">SS OTT Eight</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="45=51665" xmltv_id="SS OTT Five">SS OTT Five</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="46=51609" xmltv_id="SS OTT Four">SS OTT Four</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="47=51606" xmltv_id="SS OTT One">SS OTT One</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="48=51667" xmltv_id="SS OTT Seven">SS OTT Seven</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="49=51666" xmltv_id="SS OTT Six">SS OTT Six</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="50=51608" xmltv_id="SS OTT Three">SS OTT Three</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="51=51607" xmltv_id="SS OTT Two">SS OTT Two</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="52=51599" xmltv_id="Supersport Play">Supersport Play</channel>
+    <channel update="i" site="timeline.supersport.com" site_id="53=51610" xmltv_id="WWE Channel">WWE Channel</channel>
+  </channels>
+</site>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="mewatch.sg">
+  <channels>
+    <channel update="i" site="mewatch.sg" site_id="97098" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="mewatch.sg" site_id="97104" xmltv_id="Channel 8">Channel 8</channel>
+    <channel update="i" site="mewatch.sg" site_id="97129" xmltv_id="Channel U">Channel U</channel>
+    <channel update="i" site="mewatch.sg" site_id="97084" xmltv_id="Suria">Suria</channel>
+    <channel update="i" site="mewatch.sg" site_id="97096" xmltv_id="Vasantham">Vasantham</channel>
+    <channel update="i" site="mewatch.sg" site_id="97072" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="mewatch.sg" site_id="545611" xmltv_id="WCH CH01">WCH CH01</channel>
+    <channel update="i" site="mewatch.sg" site_id="545615" xmltv_id="WCH CH02">WCH CH02</channel>
+    <channel update="i" site="mewatch.sg" site_id="545618" xmltv_id="WCH CH03">WCH CH03</channel>
+    <channel update="i" site="mewatch.sg" site_id="97073" xmltv_id="LIVE 1">LIVE 1</channel>
+    <channel update="i" site="mewatch.sg" site_id="97078" xmltv_id="LIVE 2">LIVE 2</channel>
+    <channel update="i" site="mewatch.sg" site_id="98202" xmltv_id="LIVE 5">LIVE 5</channel>
+    <channel update="i" site="mewatch.sg" site_id="497989" xmltv_id="LIVE 7">LIVE 7</channel>
+    <channel update="i" site="mewatch.sg" site_id="158965" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel update="i" site="mewatch.sg" site_id="158964" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel update="i" site="mewatch.sg" site_id="158963" xmltv_id="NOW Rock">NOW Rock</channel>
+    <channel update="i" site="mewatch.sg" site_id="158962" xmltv_id="TRACE Urban">TRACE Urban</channel>
+    <channel update="i" site="mewatch.sg" site_id="242030" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="mewatch.sg" site_id="382872" xmltv_id="CinemaWorld">CinemaWorld</channel>
+  </channels>
+</site>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="prisma.de">
+  <channels>
+    <channel update="i" site="prisma.de" site_id="ARD,29" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="prisma.de" site_id="ZDF,2008" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="prisma.de" site_id="RTL,13703" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="prisma.de" site_id="SAT1,13705" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="prisma.de" site_id="ProSieben,13707" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="prisma.de" site_id="VOX,13713" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="prisma.de" site_id="Kabel-Eins,638263" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel update="i" site="prisma.de" site_id="RTLZWEI,13709" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel update="i" site="prisma.de" site_id="DMAX,13804" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="prisma.de" site_id="Servus-TV,13765" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="prisma.de" site_id="Tele-5,13717" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="prisma.de" site_id="RTLup,9869466" xmltv_id="RTLup">RTLup</channel>
+    <channel update="i" site="prisma.de" site_id="VOXup,35922220" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="prisma.de" site_id="sixx,13771" xmltv_id="sixx">sixx</channel>
+    <channel update="i" site="prisma.de" site_id="ProSieben-MAXX,3584813" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="prisma.de" site_id="ProSieben-Fun,3582274" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
+    <channel update="i" site="prisma.de" site_id="Comedy-Central,13769" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="prisma.de" site_id="Kabel-Eins-Doku,56793247" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="prisma.de" site_id="NITRO,13774" xmltv_id="NITRO">NITRO</channel>
+    <channel update="i" site="prisma.de" site_id="Sat1-Gold,755354" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel update="i" site="prisma.de" site_id="kabel-eins-classics,3590217" xmltv_id="kabel eins classics">kabel eins classics</channel>
+    <channel update="i" site="prisma.de" site_id="DF1,47436089" xmltv_id="DF1">DF1</channel>
+    <channel update="i" site="prisma.de" site_id="3sat,13737" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="prisma.de" site_id="arte,13735" xmltv_id="arte">arte</channel>
+    <channel update="i" site="prisma.de" site_id="ZDFneo,13794" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="prisma.de" site_id="Phoenix,13741" xmltv_id="Phoenix">Phoenix</channel>
+    <channel update="i" site="prisma.de" site_id="One,626386" xmltv_id="One">One</channel>
+    <channel update="i" site="prisma.de" site_id="Sport1,13727" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="prisma.de" site_id="Eurosport,625762" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="prisma.de" site_id="n-tv,13782" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="prisma.de" site_id="tagesschau24,807854" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel update="i" site="prisma.de" site_id="WELT,16436266" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="prisma.de" site_id="ZDFinfo,782077" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="prisma.de" site_id="RTL-Passion,9062162" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="prisma.de" site_id="ARD-alpha,13739" xmltv_id="ARD alpha">ARD alpha</channel>
+    <channel update="i" site="prisma.de" site_id="tvberlin,13778" xmltv_id="tv.berlin">tv.berlin</channel>
+    <channel update="i" site="prisma.de" site_id="Sonnenklar-TV-HD,9096327" xmltv_id="Sonnenklar TV HD">Sonnenklar TV HD</channel>
+    <channel update="i" site="prisma.de" site_id="WDR,779173" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="prisma.de" site_id="NDR,664723" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="prisma.de" site_id="MDR,13751" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="prisma.de" site_id="HR,633655" xmltv_id="HR">HR</channel>
+    <channel update="i" site="prisma.de" site_id="BR,570537" xmltv_id="BR">BR</channel>
+    <channel update="i" site="prisma.de" site_id="RBB,13753" xmltv_id="RBB">RBB</channel>
+    <channel update="i" site="prisma.de" site_id="SWR-BW,46661410" xmltv_id="SWR BW">SWR BW</channel>
+    <channel update="i" site="prisma.de" site_id="SR,46661411" xmltv_id="SR">SR</channel>
+    <channel update="i" site="prisma.de" site_id="SWR-RLP,46665067" xmltv_id="SWR RLP">SWR RLP</channel>
+    <channel update="i" site="prisma.de" site_id="SuperRTL,721631" xmltv_id="SuperRTL">SuperRTL</channel>
+    <channel update="i" site="prisma.de" site_id="KiKa,647429" xmltv_id="KiKa">KiKa</channel>
+    <channel update="i" site="prisma.de" site_id="Disney-Channel,13919" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="prisma.de" site_id="Nick,24104106" xmltv_id="Nick">Nick</channel>
+    <channel update="i" site="prisma.de" site_id="Toggo-plus,46441839" xmltv_id="Toggo plus">Toggo plus</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Cinema,13851" xmltv_id="Sky Cinema">Sky Cinema</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Cinema-1,13847" xmltv_id="Sky Cinema +1">Sky Cinema +1</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Cinema-24,13853" xmltv_id="Sky Cinema +24">Sky Cinema +24</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Cinema-Family-HD,11580811" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Cinema-Hits,13840" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Action,13849" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Atlantic-HD,6045584" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-1,12459012" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Krimi,13876" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Comedy,13917" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Emotion,13907" xmltv_id="Sky Emotion">Sky Emotion</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Nostalgie,13915" xmltv_id="Sky Nostalgie">Sky Nostalgie</channel>
+    <channel update="i" site="prisma.de" site_id="Disney-Cinemagic,13868" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="prisma.de" site_id="DISNEY-JUNIOR,615549" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Bundesliga,13881" xmltv_id="Sky Bundesliga">Sky Bundesliga</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Sport-1,13887" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Sport-2,13889" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="prisma.de" site_id="Sky-Sport-F1,29292557" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel update="i" site="prisma.de" site_id="DAZN-1,30666372" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel update="i" site="prisma.de" site_id="DAZN-2,30666371" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel update="i" site="prisma.de" site_id="FOX,630577" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="prisma.de" site_id="Syfy,13894" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="prisma.de" site_id="13TH-STREET,551267" xmltv_id="13TH STREET">13TH STREET</channel>
+    <channel update="i" site="prisma.de" site_id="TNT-Serie,13910" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="prisma.de" site_id="Discovery,13866" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="prisma.de" site_id="History,13905" xmltv_id="History">History</channel>
+    <channel update="i" site="prisma.de" site_id="Spiegel-Geschichte,13883" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="prisma.de" site_id="nickjr,667466" xmltv_id="nickjr.">nickjr.</channel>
+    <channel update="i" site="prisma.de" site_id="beate-uhsetv,13857" xmltv_id="beate-uhse.tv">beate-uhse.tv</channel>
+    <channel update="i" site="prisma.de" site_id="Planet,13879" xmltv_id="Planet">Planet</channel>
+    <channel update="i" site="prisma.de" site_id="Cartoon-Network,13833" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="prisma.de" site_id="Classica,13864" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="prisma.de" site_id="TNT-Film,24104105" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="prisma.de" site_id="Euronews,13787" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="prisma.de" site_id="ORF1,13809" xmltv_id="ORF1">ORF1</channel>
+    <channel update="i" site="prisma.de" site_id="ORF2,13811" xmltv_id="ORF2">ORF2</channel>
+    <channel update="i" site="prisma.de" site_id="SF1,736586" xmltv_id="SF1">SF1</channel>
+    <channel update="i" site="prisma.de" site_id="SF2,13819" xmltv_id="SF2">SF2</channel>
+    <channel update="i" site="prisma.de" site_id="CNN,13837" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="prisma.de" site_id="BBC,566187" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="prisma.de" site_id="TV5,13821" xmltv_id="TV5">TV5</channel>
+  </channels>
+</site>

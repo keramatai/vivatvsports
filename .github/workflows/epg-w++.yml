@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
 
       - name: Inject Credentials into w++ Config
         env:
@@ -31,10 +31,11 @@ jobs:
             -e PUID=1000 \
             -e PGID=1000 \
             -e TZ=Etc/UTC \
+            --entrypoint /app/wg++/run.sh \
             lscr.io/linuxserver/webgrabplus:latest
 
       - name: Upload XMLTV Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7.0.1
         with:
           name: epg-guide
           path: scripts/epg-w++.xml

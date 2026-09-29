@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.3 -- Jan van Straaten" site="unifi.com.my">
+  <channels>
+    <channel update="i" site="unifi.com.my" site_id="fifa1" xmltv_id="Unifi FIFA World Cup 2026™ 1">Unifi FIFA World Cup 2026™ 1</channel>
+    <channel update="i" site="unifi.com.my" site_id="fifa2" xmltv_id="Unifi FIFA World Cup 2026™ 2">Unifi FIFA World Cup 2026™ 2</channel>
+    <channel update="i" site="unifi.com.my" site_id="fifa3" xmltv_id="Unifi FIFA World Cup 2026™ 3">Unifi FIFA World Cup 2026™ 3</channel>
+    <channel update="i" site="unifi.com.my" site_id="inspirasi" xmltv_id="Inspirasi">Inspirasi</channel>
+    <channel update="i" site="unifi.com.my" site_id="sensasi" xmltv_id="Sensasi">Sensasi</channel>
+    <channel update="i" site="unifi.com.my" site_id="degup" xmltv_id="DEGUP">DEGUP</channel>
+    <channel update="i" site="unifi.com.my" site_id="tv1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="unifi.com.my" site_id="tv2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="unifi.com.my" site_id="tv3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="unifi.com.my" site_id="didiktv" xmltv_id="Didik TV KPM">Didik TV KPM</channel>
+    <channel update="i" site="unifi.com.my" site_id="8tv" xmltv_id="8TV">8TV</channel>
+    <channel update="i" site="unifi.com.my" site_id="tv9" xmltv_id="TV9">TV9</channel>
+    <channel update="i" site="unifi.com.my" site_id="salamhd" xmltv_id="Salam HD">Salam HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="tvalhijrahhd" xmltv_id="TV AlHijrah HD">TV AlHijrah HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="siar" xmltv_id="SIAR">SIAR</channel>
+    <channel update="i" site="unifi.com.my" site_id="tvs" xmltv_id="TV Sarawak">TV Sarawak</channel>
+    <channel update="i" site="unifi.com.my" site_id="duniasinemahd" xmltv_id="Dunia Sinema HD">Dunia Sinema HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="pesonahd" xmltv_id="PESONA">PESONA</channel>
+    <channel update="i" site="unifi.com.my" site_id="tvnmovieshd" xmltv_id="tvN Movies HD">tvN Movies HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="tvnhd" xmltv_id="tvN HD">tvN HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="tvbjade" xmltv_id="TVB Jade">TVB Jade</channel>
+    <channel update="i" site="unifi.com.my" site_id="cctv4hd" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="unifi.com.my" site_id="phoenixhongkong" xmltv_id="Phoenix Hong Kong Channel">Phoenix Hong Kong Channel</channel>
+    <channel update="i" site="unifi.com.my" site_id="seti" xmltv_id="SETI">SETI</channel>
+    <channel update="i" site="unifi.com.my" site_id="celestialmovies" xmltv_id="Celestial Movies">Celestial Movies</channel>
+    <channel update="i" site="unifi.com.my" site_id="celestialclassicmovies" xmltv_id="Celestial Classic Movies">Celestial Classic Movies</channel>
+    <channel update="i" site="unifi.com.my" site_id="zeethirai" xmltv_id="Zee Thirai">Zee Thirai</channel>
+    <channel update="i" site="unifi.com.my" site_id="sonyyay" xmltv_id="Sony YAY!">Sony YAY!</channel>
+    <channel update="i" site="unifi.com.my" site_id="zeecinemahd" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="hbohd" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="unifi.com.my" site_id="hbohits" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel update="i" site="unifi.com.my" site_id="hbofamily" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="unifi.com.my" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="unifi.com.my" site_id="hitsmovies" xmltv_id="HITS Movies">HITS Movies</channel>
+    <channel update="i" site="unifi.com.my" site_id="warnertv" xmltv_id="Warner TV HD">Warner TV HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="hitsnow" xmltv_id="HITS NOW">HITS NOW</channel>
+    <channel update="i" site="unifi.com.my" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="unifi.com.my" site_id="hits" xmltv_id="HITS">HITS</channel>
+    <channel update="i" site="unifi.com.my" site_id="kplus" xmltv_id="K Plus">K Plus</channel>
+    <channel update="i" site="unifi.com.my" site_id="animax" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="unifi.com.my" site_id="rockentertainment" xmltv_id="ROCK Entertainment HD">ROCK Entertainment HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="rockaction" xmltv_id="Rock Action HD">Rock Action HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="bbcearthhd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="lovenaturehd" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="unifi.com.my" site_id="bbclifestylehd" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="asianfoodnetwork" xmltv_id="Asian Food Network">Asian Food Network</channel>
+    <channel update="i" site="unifi.com.my" site_id="dreamworkshd" xmltv_id="DreamWorks HD">DreamWorks HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="moonbugkids" xmltv_id="Moonbug Kids">Moonbug Kids</channel>
+    <channel update="i" site="unifi.com.my" site_id="nickjr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="unifi.com.my" site_id="cbeebieshd" xmltv_id="Cbeebies HD">Cbeebies HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="unifi.com.my" site_id="cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="unifi.com.my" site_id="bbcworldnewshd" xmltv_id="BBC World News HD">BBC World News HD</channel>
+    <channel update="i" site="unifi.com.my" site_id="aljazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="unifi.com.my" site_id="cgtnhd" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="unifi.com.my" site_id="channelnewsasia" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="unifi.com.my" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="unifi.com.my" site_id="bernamatv" xmltv_id="Bernama TV">Bernama TV</channel>
+    <channel update="i" site="unifi.com.my" site_id="parlimenmalaysia" xmltv_id="Parlimen Malaysia">Parlimen Malaysia</channel>
+    <channel update="i" site="unifi.com.my" site_id="abcaustralia" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="unifi.com.my" site_id="dw" xmltv_id="DW">DW</channel>
+    <channel update="i" site="unifi.com.my" site_id="nhkworldjapan" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel update="i" site="unifi.com.my" site_id="unifisports1" xmltv_id="Unifi Sports 1">Unifi Sports 1</channel>
+    <channel update="i" site="unifi.com.my" site_id="spotv" xmltv_id="SPOTV">SPOTV</channel>
+    <channel update="i" site="unifi.com.my" site_id="spotv2" xmltv_id="SPOTV2">SPOTV2</channel>
+    <channel update="i" site="unifi.com.my" site_id="beinsports" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="unifi.com.my" site_id="beinsports2" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="unifi.com.my" site_id="beinsports3" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="unifi.com.my" site_id="beinsports4" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
+  </channels>
+</site>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="tv.boxbg.net">
+  <channels>
+    <channel update="i" site="tv.boxbg.net" site_id="29--%D0%91%D0%9D%D0%A21" xmltv_id="БНТ1">БНТ1</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="5--bTV" xmltv_id="bTV">bTV</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="38--%D0%9D%D0%BE%D0%B2%D0%B0+%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F" xmltv_id="Нова телевизия">Нова телевизия</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="87--HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="88--HBO+Comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="141--HBO+3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="6--bTV+Action" xmltv_id="bTV Action">bTV Action</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="7--bTV+Cinema" xmltv_id="bTV Cinema">bTV Cinema</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="8--bTV+Comedy" xmltv_id="bTV Comedy">bTV Comedy</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="122--bTV+Story" xmltv_id="bTV Story">bTV Story</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="30--%D0%94%D0%B8%D0%B5%D0%BC%D0%B0" xmltv_id="Диема">Диема</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="31--KinoNova" xmltv_id="KinoNova">KinoNova</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="32--%D0%94%D0%B8%D0%B5%D0%BC%D0%B0+%D0%A4%D0%B5%D0%BC%D0%B8%D0%BB%D0%B8" xmltv_id="Диема Фемили">Диема Фемили</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="86--StarLife" xmltv_id="StarLife">StarLife</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="85--StarCrime" xmltv_id="StarCrime">StarCrime</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="124--StarChannel" xmltv_id="StarChannel">StarChannel</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="57--AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="58--AXN+Black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="59--AXN+White" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="28--%D0%91%D0%9D%D0%A2+%D0%A1%D0%B2%D1%8F%D1%82" xmltv_id="БНТ Свят">БНТ Свят</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="119--%D0%91%D0%9D%D0%A22" xmltv_id="БНТ2">БНТ2</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="18--RING.BG" xmltv_id="RING.BG">RING.BG</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="133--Diema+Sport+HD" xmltv_id="Diema Sport HD">Diema Sport HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="138--Diema+Sport+2+HD" xmltv_id="Diema Sport 2 HD">Diema Sport 2 HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="37--%D0%9D%D0%BE%D0%B2%D0%B0+%D0%A1%D0%BF%D0%BE%D1%80%D1%82" xmltv_id="Нова Спорт">Нова Спорт</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="159--Diema+Sport+3" xmltv_id="Diema Sport 3">Diema Sport 3</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="15--%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F+%D0%BE%D0%BD+%D0%B5%D1%8A%D1%80" xmltv_id="България он еър">България он еър</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="149--MovieSTAR" xmltv_id="MovieSTAR">MovieSTAR</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="148--Epic+Drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="135--AMC" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="161--PickboxTV" xmltv_id="PickboxTV">PickboxTV</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="20--The+Voice" xmltv_id="The Voice">The Voice</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="1--Balkanika+MTV" xmltv_id="Balkanika MTV">Balkanika MTV</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="22--Travel+TV" xmltv_id="Travel TV">Travel TV</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="24--TV1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="26--24kitchen" xmltv_id="24kitchen">24kitchen</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="33--%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%BE%D0%BC+%D0%9D%D0%9A%D0%A2%D0%92" xmltv_id="Евроком НКТВ">Евроком НКТВ</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="43--%D0%A1%D0%9A%D0%90%D0%A2" xmltv_id="СКАТ">СКАТ</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="120--%D0%90%D0%BB%D1%84%D0%B0" xmltv_id="Алфа">Алфа</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="39--%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0" xmltv_id="Планета">Планета</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="47--%D0%A4%D0%B5%D0%BD+%D0%A2%D0%92" xmltv_id="Фен ТВ">Фен ТВ</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="41--%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0+%D0%A4%D0%BE%D0%BB%D0%BA" xmltv_id="Планета Фолк">Планета Фолк</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="40--%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0+HD" xmltv_id="Планета HD">Планета HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="45--%D0%A2%D0%B5%D0%BB%D0%B5%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0" xmltv_id="Телемедиа">Телемедиа</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="50--%D0%A5%D0%BE%D0%B1%D0%B8+%D0%A2%D0%92" xmltv_id="Хоби ТВ">Хоби ТВ</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="55--Animal+Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="62--Cartoon+Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="12--EKids" xmltv_id="EKids">EKids</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="63--Cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="64--Cinemax+2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="67--Da+Vinci+Learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="68--Discovery+Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="72--Disney+Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="78--Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="79--Eurosport+2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="84--Food+Network+HD" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="89--History" xmltv_id="History">History</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="99--Nat+Geo+Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="100--National+Geographic+Channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="108--TLC+Balkans" xmltv_id="TLC Balkans">TLC Balkans</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="112--Viasat+Explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="113--Viasat+History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="114--Viasat+Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="115--Viasat+TV+1000" xmltv_id="Viasat TV 1000">Viasat TV 1000</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="66--Crime+and+Investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="127--%D0%91%D0%9D%D0%A2+HD" xmltv_id="БНТ HD">БНТ HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="36--NOVANEWS" xmltv_id="NOVANEWS">NOVANEWS</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="134--Investigation+Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="142--FilmBox" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="139--FilmBox+Extra+HD" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="140--FilmBox+Stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="143--Bloomberg+TV+Bulgaria" xmltv_id="Bloomberg TV Bulgaria">Bloomberg TV Bulgaria</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="144--Vivacom+Arena" xmltv_id="Vivacom Arena">Vivacom Arena</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="145--MAX+Sport+1" xmltv_id="MAX Sport 1">MAX Sport 1</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="146--MAX+Sport+2" xmltv_id="MAX Sport 2">MAX Sport 2</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="150--MAX+Sport+3" xmltv_id="MAX Sport 3">MAX Sport 3</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="151--MAX+Sport+4" xmltv_id="MAX Sport 4">MAX Sport 4</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="153--%D0%A2%D0%92+78" xmltv_id="ТВ 78">ТВ 78</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="156--Comedy+Central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="157--Disney+Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tv.boxbg.net" site_id="163--Cinemania" xmltv_id="Cinemania">Cinemania</channel>
+  </channels>
+</site>
