@@ -1,5 +1,4 @@
-name: Generate w++ EPG
-
+name: fetch epg w++
 on:
   schedule:
     # Runs daily at 03:00 UTC
