@@ -1,0 +1,45 @@
+name: Generate W++ EPG
+
+on:
+  schedule:
+    # Runs daily at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Inject Credentials into WebGrab Config
+        env:
+          WG_EMAIL: ${{ secrets.WG_EMAIL }}
+          WG_PASSWORD: ${{ secrets.WG_PASSWORD }}
+        run: |
+          if [ -n "\(WG_EMAIL" ] && [ -n "\)WG_PASSWORD" ]; then
+            sed -i "s/YOUR_WG_EMAIL/$WG_EMAIL/g" config/WebGrab++.config.xml
+            sed -i "s/YOUR_WG_PASSWORD/$WG_PASSWORD/g" config/WebGrab++.config.xml
+          fi
+
+      - name: Run WebGrab+Plus Docker
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/config:/config \
+            -v ${{ github.workspace }}/output:/data \
+            -e PUID=1000 \
+            -e PGID=1000 \
+            -e TZ=Etc/UTC \
+            lscr.io/linuxserver/webgrabplus:latest
+
+      - name: Upload XMLTV Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-guide
+          path: output/guide.xml
+          retention-days: 7
