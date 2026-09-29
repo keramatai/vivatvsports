@@ -1,2 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Mexico vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Mexico vs Peru (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20(Movil)%20HD%20MX&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf019/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDE5OjE3OTA3MDIxNTg3ODg6Y2RubGl2ZXR2LnR2OmViOTEyY2IzMGJjZjNjNDAuZjM1ZTViMzM4NDliNzJhYWQ3MjU5ZWY3YmY0NGVlNzg5YTNjODJmZjQxZTRkNDIzNjBhMjAwNTY1MDhmN2Y4ZA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Republic of Ireland U21 vs Kazakhstan U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Republic of Ireland U21 vs Kazakhstan U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc684/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNjg0OjE3OTA3MDIxNTg2MTY6Y2RubGl2ZXR2LnR2OmZhN2Q1MmE4OGVmOGQxMjEuMzA3MTc3MjZlNWEzNDExMzVmZTc1ZmI5ZGEyNGE0YzdiODA0NjBjY2NjYzExYmY5N2FhYzQyNmZkMTkxYTk5YQ
