@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="rtsh.al">
-  <channels>
-    <channel update="i" site="rtsh.al" site_id="rtsh-1" xmltv_id="RTSH 1">RTSH 1</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-2" xmltv_id="RTSH 2">RTSH 2</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-24" xmltv_id="RTSH 24">RTSH 24</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-sport" xmltv_id="RTSH SPORT">RTSH SPORT</channel>
-  </channels>
-</site>
