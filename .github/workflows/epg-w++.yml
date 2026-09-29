@@ -19,8 +19,8 @@ jobs:
           WG_PASSWORD: ${{ secrets.WG_PASSWORD }}
         run: |
           if [ -n "\(WG_EMAIL" ] && [ -n "\)WG_PASSWORD" ]; then
-            sed -i "s/YOUR_WG_EMAIL/$WG_EMAIL/g" scripts/w++.config.xml
-            sed -i "s/YOUR_WG_PASSWORD/$WG_PASSWORD/g" scripts/w++.config.xml
+            sed -i "s/YOUR_WG_EMAIL/$WG_EMAIL/g" scripts/WebGrab++.config.xml
+            sed -i "s/YOUR_WG_PASSWORD/$WG_PASSWORD/g" scripts/WebGrab++.config.xml
           fi
 
       - name: Run w++ Docker
