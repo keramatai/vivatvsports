@@ -1,21 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Eagles vs Chicago Bears (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" group-title="▷ Sukan 2",[Football] Philadelphia Eagles vs Chicago Bears (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/espn/mono.ts.m3u8?token=d40c3728bbfb128f3daeac1d4e9bfe33
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Eagles @ Bears (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872963.png" group-title="▷ Sukan 2",[Live Event] Eagles @ Bears (TIMST)
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Live Event] Eagles @ Bears (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872963.png" group-title="▷ Sukan 2",[Live Event] Eagles @ Bears (TIMST)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/o9bl8cai-7417
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/6528ef241aa9bb77f2af9385d372654fc15b2273075690c91fb69a33e0150cc8/1790650164/espn-usa.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Penn State nittany Lions vs. UCLA Bruins (TIMST)" tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1343527/j8yui6yll275r6nf.jpg" group-title="▷ Sukan 2",[Live Event] Penn State nittany Lions vs. UCLA Bruins (TIMST)
+https://juxrd.hundxvision.co.uk/main/secure/d547e3289dbf089a51b3c624d8a8ce02a280593374ed8286e187f1a6e26d0d53/1790655806/espn-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Penn State nittany Lions vs. UCLA Bruins (TIMST)" tvg-logo="https://static-media.fox.com/fmc/prod/artwork/MC-1343527/j8yui6yll275r6nf.jpg" group-title="▷ Sukan 2",[Live Event] Penn State nittany Lions vs. UCLA Bruins (TIMST)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/tkdttav3-3228
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/8557843b8543eb22afe483eb6c3489b72d9996d8872a8330c13020d34a40fb75/1790650164/big10-usa.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] WWE: Monday Night Raw (TIMST)" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xxl/public/2026/09/20260928_RAW_Match_Bloodline_16x9_Tonight.jpg" group-title="▷ Sukan 2",[Live Event] WWE: Monday Night Raw (TIMST)
+https://juxrd.hundxvision.co.uk/main/secure/27b5d72c533c6f47664cc0418bab5a71bb5b1867e93a7c98ab7954cb641cbd77/1790655806/big10-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] WWE: Monday Night Raw (TIMST)" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xxl/public/2026/09/20260928_RAW_Match_Bloodline_16x9_Tonight.jpg" group-title="▷ Sukan 2",[Live Event] WWE: Monday Night Raw (TIMST)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/66pn4mer-6187
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/b938fa8583c6cf63532e5b3d10f4ca4552b461bb1d868d07556844eb211f3862/1790650164/wwe-1.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Wrestling] WWE RAW (XYZ)" tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2026/09/20260928_RAW_Match_LolaRox_16x9_Tonight-678x381.jpg" group-title="▷ Sukan 2",[Wrestling] WWE RAW (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/wwe.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://hlss.b-cdn.net/wwe/mono.ts.m3u8?token=d40c3728bbfb128f3daeac1d4e9bfe33
+https://juxrd.hundxvision.co.uk/main/secure/4e5050c39d5255ecf17801b43d6355754607bbed0153fb097d7fdb0d6628b869/1790655806/wwe-1.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
