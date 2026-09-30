@@ -19,8 +19,8 @@ EPG_URLS = [
 ]
 
 CHANNELS = {
-    "plex.tv.Women`s.Sports.Network.plex": None,  # Set a custom logo URL here if needed, or leave as None
-    "Fox.Sports.4K.us2": None,
+    "plex.tv.Women`s.Sports.Network.plex": "https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png",  # Set a custom logo URL here if needed, or leave as None
+    "Fox.Sports.4K.us2": "https://cdn.tvpassport.com/image/station/240x135/v2/s141469_h15_aa.png",
     "FS1.HD.us2": None,
     "FS2.HD.us2": None,
     "CBS.Sports.Golazo.Network.us2": None,
