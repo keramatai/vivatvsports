@@ -39,7 +39,8 @@ EPG_URLS = [
 ]
 
 EXTRA_CHANNELS = {
-    "plex.tv.Women`s.Sports.Network.plex": None,
+    "plex.tv.Women`s.Sports.Network.plex": None,  # Set a custom logo URL here if needed, or leave as None
+    "plex.tv.Women's.Sports.Network.plex": None,
     "Fox.Sports.4K.us2": None,
     "FS1.HD.us2": None,
     "FS2.HD.us2": None,
@@ -101,16 +102,15 @@ REPLACE_IDs = {
 def get_tvg_ids() -> dict[str, str]:
     tvg: dict[str, str] = {}
 
-    if BASE_M3U8.exists():
-        for line in BASE_M3U8.read_text(encoding="utf-8").splitlines():
-            if not line.startswith("#EXTINF"):
-                continue
+    for line in BASE_M3U8.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("#EXTINF"):
+            continue
 
-            tvg_id = re.search(r'tvg-id="([^"]*)"', line)
-            tvg_logo = re.search(r'tvg-logo="([^"]*)"', line)
+        tvg_id = re.search(r'tvg-id="([^"]*)"', line)
+        tvg_logo = re.search(r'tvg-logo="([^"]*)"', line)
 
-            if tvg_id:
-                tvg[tvg_id[1]] = tvg_logo[1] if tvg_logo else None
+        if tvg_id:
+            tvg[tvg_id[1]] = tvg_logo[1] if tvg_logo else None
 
     tvg |= DUMMIES | EXTRA_CHANNELS | {v["old"]: leagues.live_img for v in REPLACE_IDs.values()}
 
@@ -118,18 +118,18 @@ def get_tvg_ids() -> dict[str, str]:
 
 
 async def fetch_xml(url: str) -> ET.Element | None:
-    try:
-        xml_data = await network.request(url, log=log)
-        if not xml_data or not hasattr(xml_data, "content"):
-            log.error(f'Empty or invalid response from "{url}"')
-            return None
+    if not (xml_data := await network.request(url, log=log)):
+        return
 
-        log.info(f'Parsing XML from "{url}"')
+    log.info(f'Parsing XML from "{url}"')
+
+    try:
         data = gzip.decompress(xml_data.content)
+
         return ET.fromstring(data)
     except Exception as e:
-        log.error(f'Failed to process XML from "{url}": {e}')
-        return None
+        log.error(f'Failed to parse XML from "{url}": {e}')
+        return
 
 
 def hijack_id(
@@ -139,12 +139,15 @@ def hijack_id(
     new: str,
     text: str,
 ) -> None:
+
     og_channel = root.find(f"./channel[@id='{old}']")
 
     if og_channel is not None:
         new_channel = ET.Element(og_channel.tag, {**og_channel.attrib, "id": new})
         icon = ET.SubElement(new_channel, "icon")
         icon.set("src", leagues.live_img)
+
+        display_name = og_channel.find("display-name")
 
         if (display_name := og_channel.find("display-name")) is not None:
             new_channel.append(ET.Element("display-name", display_name.attrib))
@@ -158,6 +161,7 @@ def hijack_id(
             new_child.text = child.text
 
         root.remove(og_channel)
+
         root.append(new_channel)
 
     for program in root.findall(f"./programme[@channel='{old}']"):
@@ -173,6 +177,7 @@ def hijack_id(
                 tag.text = text
 
         root.remove(program)
+
         root.append(new_program)
 
 
@@ -180,23 +185,26 @@ async def main() -> None:
     log.info(f"{'=' * 10} Fetching EPG {'=' * 10}")
 
     tvg_ids = get_tvg_ids()
+
     parsed_tvg_ids: set[str] = set()
+
     root = ET.Element("tv")
 
     epgs = await asyncio.gather(*(fetch_xml(url) for url in EPG_URLS))
 
     for epg_data in (epg for epg in epgs if epg is not None):
         for channel in epg_data.findall("channel"):
-            channel_id = channel.get("id")
-            if channel_id not in tvg_ids:
+            if (channel_id := channel.get("id")) not in tvg_ids:
                 continue
 
             parsed_tvg_ids.add(channel_id)
 
             if logo := tvg_ids.get(channel_id):
                 icon_tag = channel.find("icon")
+
                 if icon_tag is None:
                     icon_tag = ET.SubElement(channel, "icon")
+
                 icon_tag.set("src", logo)
 
             if (url_tag := channel.find("url")) is not None:
@@ -205,21 +213,18 @@ async def main() -> None:
             root.append(channel)
 
         for program in epg_data.findall("programme"):
-            prog_channel = program.get("channel")
-            if prog_channel not in tvg_ids:
+            if program.get("channel") not in tvg_ids:
                 continue
 
-            title_elem = program.find("title")
-            title_text = title_elem.text if (title_elem is not None and title_elem.text) else ""
+            title_text = program.find("title").text
 
             subtitle = program.find("sub-title")
 
             if (
                 title_text in ["NHL Hockey", "Live: NFL Football"]
                 and subtitle is not None
-                and subtitle.text
             ):
-                title_elem.text = f"{title_text} {subtitle.text}"
+                program.find("title").text = f"{title_text} {subtitle.text}"
 
             root.append(program)
 
@@ -228,10 +233,12 @@ async def main() -> None:
 
     if missing_ids := tvg_ids.keys() - parsed_tvg_ids:
         log.warning(f"Missed {len(missing_ids)} TVG ID(s)")
+
         for channel_id in missing_ids:
             log.warning(f"Missing: {channel_id}")
 
     tree = ET.ElementTree(root)
+
     tree.write(
         EPG_FILE,
         encoding="utf-8",
