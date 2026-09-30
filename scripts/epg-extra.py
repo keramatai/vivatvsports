@@ -20,7 +20,6 @@ EPG_URLS = [
 
 CHANNELS = {
     "plex.tv.Women`s.Sports.Network.plex": None,  # Set a custom logo URL here if needed, or leave as None
-    "plex.tv.Women's.Sports.Network.plex": None,
     "Fox.Sports.4K.us2": None,
     "FS1.HD.us2": None,
     "FS2.HD.us2": None,
