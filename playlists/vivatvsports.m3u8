@@ -289,19 +289,43 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Chile (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Chile (CDNLIVE)
+#EXTINF:-1 tvg-chno="191" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTA3NDc5NTY4MTk6Y2RubGl2ZXR2LnR2OjZkMzQ1NjJkODk0Njc5NWYuYmMyYmFjYTNiZjgyOWU2ZWVkNDJmZWIwNDEwYWE0ZTM1MzgwNzJlYTYwZjRiYTg2YjVmNzE1YTkwNTQ3MTlhZA
+#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Mexico vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Mexico vs Peru (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf024/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI0OjE3OTA3NDc5NTU4MTI6Y2RubGl2ZXR2LnR2OjkxODQxZTAxNDQ3OTQ1Y2QuZWFlNWRmMjAwZTViOGY2ZDZmZGY1MTdhNWY2ZDAxNDU0MDUxMjQzNWY0ZWY0YjhmZDZjM2VhMGU2YzlmZGUzMQ
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Chile (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Chile (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTA3MzY5MjM0NTU6Y2RubGl2ZXR2LnR2OmZiZDhmNDhlOTVkZDBkYTcuMzRhMDExNjc1OTllZGUyN2FiMGZlYjgwODNiMTZjMDM2NGJlM2JiZmYzNDE5ZWY3ZTYzMTAzMGU2MTIzNDU4Mg
-#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[Live Event] 9.29.26 | Millbridge Speedway (TIMST)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/01/15/9-29-26_Millbridge-1768507514384.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="▷ Sukan 2",[Live Event] 9.29.26 | Millbridge Speedway (TIMST)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/68a3930q-2363
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTA3NDc5NTU2MDY6Y2RubGl2ZXR2LnR2OjUwOThkMzNhMGU5OGVhNWEuYjdhZGViNTRkMzY2YjJjYTg5NDc4MmU2Y2VkMDg5ODY4YTU1ZTg3MTU3NDYyMTQ5ZGM2OWI1MDY0ZWU4MmM1Nw
+#EXTINF:-1 tvg-chno="194" tvg-id="Live.Event.us" tvg-name="[Live Event] Cubs @ Padres (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907974.png" group-title="▷ Sukan 2",[Live Event] Cubs @ Padres (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/e0lyrkhr-4725
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/e1bbfa4c6f66704b4b855a7532facc12703109a2f480746287cc92701b51a9ab/1790731523/dirtvision-9-29-26-millbridge-speedway.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
-#EXTINF:-1 tvg-chno="193" tvg-id="Live.Event.us" tvg-name="[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/33/91/06/d5ccad05-8dc4-45ea-a87a-7bc31e186be6.jpg" group-title="▷ Sukan 2",[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)
+https://justkidding.junksonus.party/main/secure/7aa0ca9782a1856fde43b6cc528a2e3df035ff990b9d27f48071e05d006368eb/1790742556/tntsports1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="195" tvg-id="Live.Event.us" tvg-name="[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/33/91/06/d5ccad05-8dc4-45ea-a87a-7bc31e186be6.jpg" group-title="▷ Sukan 2",[Live Event] Dana White's Contender Series: Season 10, Week 8 (TIMST)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/v3gup8xw-3075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/1a93752c4bbe86d622c8caa6345cf5f68b12c209e88086ce15ddb2203f2a0281/1790731523/ufc-600060739.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
-#EXTINF:-1 tvg-chno="194" tvg-id="Live.Event.us" tvg-name="[Live Event] White Sox @ Astros (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907896.png" group-title="▷ Sukan 2",[Live Event] White Sox @ Astros (TIMST)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/l5j1kkxs-6727
+https://justkidding.junksonus.party/main/secure/72cd5d7902e4f607479aef87974cbe7010e3a340901c53e864f93d6a272e0be7/1790742555/ufc-600060739.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="196" tvg-id="Live.Event.us" tvg-name="[Live Event] Red Sox @ Yankees (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907924.png" group-title="▷ Sukan 2",[Live Event] Red Sox @ Yankees (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/e0lyrkhr-4725
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/d1b414e0c9af45c779f89db3bcca7e07047a711f46775c941878e90c6a0bc57a/1790731523/mlb-astros.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+https://justkidding.junksonus.party/main/secure/b89aa6d9ac3f769cf374d35ff538b14b3c39bea350c4802e0e120b71e4707184/1790742555/tntsports1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="197" tvg-id="Live.Event.us" tvg-name="[Live Event] USA vs Chile (TIMST)" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls/ykkwvlleohb19bdzun4a.png" group-title="▷ Sukan 2",[Live Event] USA vs Chile (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/2szx41ik-8098
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/3de9c9d50b4ca0526413d0f77a506e5a8c507bcf2df8a9e7a0ab5f7a11511549/1790742555/tnt-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Mexico vs Peru, 2026 International Friendly (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Mexico vs Peru, 2026 International Friendly (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/mexico.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fadeddreams.s3.us-east-2.amazonaws.com/mexico.m3u8
+#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] United States vs Chile, 2026 International Friendly (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] United States vs Chile, 2026 International Friendly (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/usa.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fadeddreams.s3.us-east-2.amazonaws.com/usanetwork.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] New York Liberty vs Minnesota Lynx (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="▷ Sukan 2",[WNBA] New York Liberty vs Minnesota Lynx (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/nloc37sc-2693
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/50f45d27466189baa5922ba3f5de5454cf47f8096c63b17c367d114f232d05bd/1790742557/usanetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
