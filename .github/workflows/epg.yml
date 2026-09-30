@@ -1,4 +1,4 @@
-name: fetch epg
+name: Fetch EPG
 
 on:
   schedule:
@@ -31,13 +31,15 @@ jobs:
         run: uv sync --locked
 
       - name: Fetch EPG
-        run: uv run scripts/epg-fetch.py
+        run: |
+          uv run scripts/epg-fetch.py
+          uv run scripts/epg-extra.py
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v7.2.0
         with:
-          commit_message: "update EPG"
-          file_pattern: "scripts/epg.xml"
+          commit_message: "Updating EPG"
+          file_pattern: "scripts/*.xml"
           commit_author: "GitHub Actions Bot <actions@github.com>"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"

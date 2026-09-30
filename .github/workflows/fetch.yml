@@ -1,4 +1,4 @@
-name: fetch m3u8
+name: Fetch M3U8
 
 on:
   schedule:
@@ -51,7 +51,7 @@ jobs:
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v7.2.0
         with:
-          commit_message: "update m3u8 files"
+          commit_message: "Updating m3u8 files"
           file_pattern: "playlists/*.m3u8"
           commit_author: "GitHub Actions Bot <actions@github.com>"
           commit_user_name: "GitHub Actions Bot"
