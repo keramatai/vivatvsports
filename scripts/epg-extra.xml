@@ -6,7 +6,7 @@
     </channel>
   <channel id="plex.tv.Women`s.Sports.Network.plex">
     <display-name lang="en">Women`s Sports Network</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5d9c538f-1543-4ed7-8652-1aa6073db14b/WSN_2000x3000.jpg" />
+    <icon src="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png" />
     <icon src="https://provider-static.plex.tv/epg/cms/production/5d9c538f-1543-4ed7-8652-1aa6073db14b/WSN_2000x3000.jpg" />
     </channel>
   <programme start="20260930010000 +0000" stop="20260930023000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
@@ -1654,7 +1654,7 @@
     <display-name lang="en">FS2 HD</display-name>
   </channel>
   <channel id="Fox.Sports.4K.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s110839_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s141469_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s110839_h15_aa.png" />
     <display-name lang="en">Fox Sports 4K</display-name>
   </channel>
