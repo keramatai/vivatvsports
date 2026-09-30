@@ -25,10 +25,8 @@ EPG_URLS = [
     f"https://epgshare01.online/epgshare01/epg_ripper_{EPG_ID}.xml.gz"
     for EPG_ID in [
         "CA2",
-        # "CO1",
         "DE1",
         "DUMMY_CHANNELS",
-        # "ES1",
         "FANDUEL1",
         "FR1",
         "IE1",
@@ -37,9 +35,17 @@ EPG_URLS = [
         "UK1",
         "US2",
         "US_LOCALS1",
-        # "UY1",
     ]
 ]
+
+EXTRA_CHANNELS = {
+    "plex.tv.Women`s.Sports.Network.plex": None,  # Set a custom logo URL here if needed, or leave as None
+    "Fox.Sports.4K.us2": None,
+    "FS1.HD.us2": None,
+    "FS2.HD.us2": None,
+    "CBS.Sports.Golazo.Network.us2": None,
+    "plex.tv.Fubo.Sports.Network.plex": "https://epg.iptvx.one/picons/fubo-sports-network-us.png",
+}
 
 DUMMIES = {
     "Live.Event.us": leagues.live_img,
@@ -105,7 +111,7 @@ def get_tvg_ids() -> dict[str, str]:
         if tvg_id:
             tvg[tvg_id[1]] = tvg_logo[1] if tvg_logo else None
 
-    tvg |= DUMMIES | {v["old"]: leagues.live_img for v in REPLACE_IDs.values()}
+    tvg |= DUMMIES | EXTRA_CHANNELS | {v["old"]: leagues.live_img for v in REPLACE_IDs.values()}
 
     return tvg
 
