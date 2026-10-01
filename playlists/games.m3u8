@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Czech Republic U21 vs Bulgaria U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Czech Republic U21 vs Bulgaria U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%20HD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%202026%20Players%20Championship%2025%20-%20Players%20Championship%20-%20Board%201%207%2F28%20%5BPDC%20TV%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf0e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjBlOjE3OTA3NjI4NzM1NDA6Y2RubGl2ZXR2LnR2OjNmNDk1ZmU1OGU3YTk0MDMuYTE2ODQzNDNjOGJlMTQzNDI3N2E2N2ZmYmRjOWQyYmFmMTdlYTZmNjMwNGYxYjU5NzQ4ZmI2Y2UyZTZmY2FkZA
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Lithuania vs Andorra (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Lithuania vs Andorra (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Soccer%20Plus%20HD%20US&code=&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a6872d82d4a99e073cbc593/playlist.m3u8?token=NmE2ODcyZDgyZDRhOTllMDczY2JjNTkzOjE3OTA4ODAwMzczNjk6Y2RubGl2ZXR2LnR2OjkwZjdkZWU2ODQ4NWRlN2EuNjliNmRhMmMwODNlMTAwNmU2YzBmOTIwNTRiZDM5NDIyMWJkOGI0YTEwZmZkNmM4N2Y0YWE1MDBjMTQzYjIzYQ
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Greece U21 vs Latvia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Greece U21 vs Latvia U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c2/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMyOjE3OTA3NjI4NzQzMDg6Y2RubGl2ZXR2LnR2OmY5ZTg0OTQ1NTE5NjNmMjUuMmVkMDYzYjllMTJkYTk2YjJjNmM1ZWNjM2Y4ZDViMzZmNDJhNTg2NWMzODM4ZDMyYTMxOWZiZDEyNDA2ZjRmNA
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Malta U21 vs Germany U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Malta U21 vs Germany U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ProSieben%20Maxx%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd626/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjI2OjE3OTA4ODAwMzU5MDA6Y2RubGl2ZXR2LnR2OmNmMGNlMTgxNmU3MDEzNWYuMjVkNDhkZGI0OGY0NDViMzgxNjgwYTc1YmM3MjFjZDIwMGZkMzQ0MjBiYzNlMDVlMTNmZmZmMGQ5YzEyZDYyZQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Hungary U21 vs Lithuania U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Hungary U21 vs Lithuania U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc9ec/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjOWVjOjE3OTA3NjI4NzQxMjY6Y2RubGl2ZXR2LnR2OjljY2YwMTU4NGEzMjUyOGQuY2NlMjRjMDdmYjgxNWMxMWFlYzBkY2EwZDJlZWU1YTcxMDZmNjY1Y2NhNzk5Y2MzNGYxOGVkZWVkZjE3NTcxMg
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Poland U21 vs Sweden U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Poland U21 vs Sweden U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cda3b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkYTNiOjE3OTA4ODAwMzU3NDE6Y2RubGl2ZXR2LnR2OmE3ODU4MDE3ZTNlOTJkOTQuNzFhNmY2MGU4ZmY4ZjJlNzQyM2NkZmNkNDI0YjcyNWM4ZWU4ZmVhMWMxMzQ4NDUwMDZkNzE4NjcwNjdhNWQ5Nw
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Novorizontino vs Goiá (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Novorizontino vs Goiá (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3OTA3NjI4NzM5MzA6Y2RubGl2ZXR2LnR2OjMzMjIzZjhhOTU4OWQ0NmQuZTY4ZGI0NjI2ZGE3OTRjZmFiMWYzMjI2NTYwYmUyYmRiODQ2NGZjOTgxMjZjMDVlYWNmZWM5ZjI3YjM3MzJmMA
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portugal U19 vs Netherlands U19 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portugal U19 vs Netherlands U19 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTA4ODAwMzYyNDY6Y2RubGl2ZXR2LnR2OjM2ZjVlM2MxZWUxNDU3ZGUuYzViMWMxNzZiNDU3NDkxMTVmN2NiMDAzMGY0OTYwNzQ1MzQxYmI3NWViYjIyZDU1YTdmMjNmNGU2YWFmMzIwYQ
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Platense vs Estudiantes de La Plata (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Platense vs Estudiantes de La Plata (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd441/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQxOjE3OTA3NjI4NzQ1MDE6Y2RubGl2ZXR2LnR2OjNmM2YxMjkzNTc2N2UzNDQuMjZkZjBlYzQ5NTVkMjUyMWQwNTlmYTBiNTAzNDdiODMyN2JiMDFiZTBiM2FjNTU1NDc3NDY4NjY3YjM1MzgwNg
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portugal U21 vs Gibraltar U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portugal U21 vs Gibraltar U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce9bf/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOWJmOjE3OTA4ODAwMzY0MjI6Y2RubGl2ZXR2LnR2OjQwNGM2ZDJkOTQxMWVjZjcuNmVkMzA0MjFhNzU5MzNkZmNmMzI5YWQzN2JhZjQ0MDZjYmIwNzMwMzZjNWNjNTNkNDljNzBhODY1ZTA4YjRkNA
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] San Marino U21 vs Spain U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] San Marino U21 vs Spain U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd441/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQxOjE3OTA3NjI4NzMzNDE6Y2RubGl2ZXR2LnR2OjFmNWNiYWFjYTkzM2ExYzQuYjhhMDRmMGRlNmEzMzcxZGIzZjgwOTUwMzNiOTVlYmE0MThkM2Q4NzI3MjY4ZjQzZGM3Mjg5ZmQ1NGE0ZGEyYw
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Romania U21 vs Finland U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Romania U21 vs Finland U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Pro-Arena%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc771/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzcxOjE3OTA4ODAwMzYwOTE6Y2RubGl2ZXR2LnR2OjZlMGUyMTgzMDk5MDQ4ZTYuOWMyNjM5ODZmZGIwZDBlYTY5OTIyYjdmZDdhODQ4MzQ0YmRhNDAyN2IzYjIwZjQzN2M3YjBhMThmZWFhMGJmNw
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd53a/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNTNhOjE3OTA3NjI4NzM3MzY6Y2RubGl2ZXR2LnR2OjdlZTAxM2I1Nzk5NTk5ZDguMTM1NmI4OTBlNzYzZTZkOGMyNTU5NmNmMDhhNmI2Mjg1ZTFlYWU0NTg3YzgwNjA0NjI3MzVjZTI4YjgxNWM3Mw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTA4ODAwMzcwMzU6Y2RubGl2ZXR2LnR2OmIwYzg3MTc2ODYwMzY4MTcuMjVjODMxZjhlM2VlZWEzYmY0NGUxODJlYmFmZjUxYjM1Yjg5MzIxMGZmZDk3Y2FkNmIyODc1MGFkMWIyOGQ5Yg
