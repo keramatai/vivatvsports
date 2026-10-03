@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Avaí vs Ceará (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Avaí vs Ceará (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTEwMjE0NzMzNzE6Y2RubGl2ZXR2LnR2OmIzZjkzNDhhYWJjMGM4N2YuZjAyNDU3NDgyNjM1ZDRlMmIwZGQ0MjBhYzFiOWQxYzA4YTI5YjQ5MGRmNjZiODIxNWVkNjkyOTFlYWFkODVjZg
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] India vs Brazil (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] India vs Brazil (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNDAzMzAxMjk6Y2RubGl2ZXR2LnR2OmI1NDdhODllN2RiYTk3MjYuMWYyMmJmNWJmMDM4OTk3YTljZDgzZjRhYzEwNDFiY2VlNzUzOGY5ZjA3YzFjY2U4ZWI1OGY4M2IyMjg1OGY3Nw
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Botafogo-SP vs Vila Nova (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Botafogo-SP vs Vila Nova (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNDAzMzAzMjM6Y2RubGl2ZXR2LnR2OjViZjkzNWY0N2MxMWQ5MzguMTJlZmM0YzNlOGQ1OTRjODMwOGNkZTgxZDBlOTlmZmQ5ZWI4ODllYTE5MmMyMGM3N2QyZmQ1ZjkwNTA4YjkyYw
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Canada vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Canada vs Peru (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTEwNDAzMjk5MzY6Y2RubGl2ZXR2LnR2OjYzYjNmZDlkMmI1ZTNmZDEuNTMwOTZmYmUwMzY4YWI2OWZmYWVmNGM5MjIwZjk1MDMwYTc2ZGI0NGJkMjRjYTVlOTUxM2E0YzYxZjBhMzgwYg
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] India vs Brazil (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] India vs Brazil (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwMjE0NzM1NjY6Y2RubGl2ZXR2LnR2OmI5NWY2Zjg5YTVmYTc5OTAuMWU2Y2U2NzViNzdkNzZiMTU5N2RhNjZiY2ZjODNlZTAyMGFmYWM5MDdkMmI3YmY0N2Q1MDgyN2E5NGQ1ZjQ1YQ
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Russia vs Namibia (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Russia vs Namibia (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwNDAzMjk1NDI6Y2RubGl2ZXR2LnR2OmZiMDA1ODllNTIwY2E3YTguNjQ2NWYxNjVlNDE4YzQ4YmEzOTY2OWI5N2ZiYmQ0YjM5MTBlNmJmMDFjYjI0ZDIyNGIzZGE2YjI5NjcxYWQ3NA
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Russia vs Namibia (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Russia vs Namibia (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZlOjE3OTEwMjE0NzM3NjY6Y2RubGl2ZXR2LnR2OmJiOTkwMjgyZjM1MGQwODguNDdkZThhOWFiNzY2YjQxNWZiNTQxNWVhMDE0NTgzMGRkYzNmZjEzNWU1NzRmOWQ1MjE1ZjA5OTg3NWNjODIzYg
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] India vs Pakistan (TIMST)" tvg-logo="https://e0.365dm.com/24/06/2048x1152/skysports-cricket-world-t20_6574035.jpg" group-title="▷ Sukan 2",[Live Event] India vs Pakistan (TIMST)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/spd8gpoh-477
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/8f47e1ba18dc1bf3920af0b410c0c9ee5d9531eba529d830a3d414aac8772f7e/1791016072/willow-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6abf3a5b2d4a99e073c8a71c/playlist.m3u8?token=NmFiZjNhNWIyZDRhOTllMDczYzhhNzFjOjE3OTEwMjE0ODQxMzY6Y2RubGl2ZXR2LnR2OjExODA4MWNlZThhOTcwNzIuZDZkOWE2NzE0NjRiNDc4Mzk5NDY1MDhiYjA1Mzc3NDRkMWIwMzI1YjBlZWVhMjczY2EwMTA0NmZjZTEzZjZmNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZlOjE3OTEwNDAzMjk3MzU6Y2RubGl2ZXR2LnR2OmVlZDg3NDRlYWY3ZDlhODIuZmU1ODg2OWI5MjNhZmM0ZTcxYzJhMjU5YTBlYjY1NTkxMDViMjJiMGQ5ZTYzODY4MjMzM2M3MjA0NDdlMTRiYQ
