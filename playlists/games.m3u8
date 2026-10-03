@@ -1,21 +1,45 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%202026%20Players%20Championship%2025%20-%20Players%20Championship%20-%20Board%201%207%2F28%20%5BPDC%20TV%5D&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a6872d82d4a99e073cbc593/playlist.m3u8?token=NmE2ODcyZDgyZDRhOTllMDczY2JjNTkzOjE3OTEwNTQ2NzExMjY6Y2RubGl2ZXR2LnR2OjM2ZDIzZTg3ODU4YmI0YmEuZjExZjhiZjRmNGVlZTczZmEyOGI4YzVmZTE5NWVjMDIwOThlNTc2MWE3ODY3NzJmOWIzMjczNzgwZTZiMDQyOA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Argentina vs Burkina Faso (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Argentina vs Burkina Faso (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telefe%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce8e7/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOGU3OjE3OTEwNTQ2Njk4MTY6Y2RubGl2ZXR2LnR2OmI2OTJjMDdjMGU1Y2IwNTMuY2NkNWY4YTc1NDQ0MWVjZWE1OGQzNTBjZjkxYWQ4NDkwMTM3ZjE1NDE0MGM5YWMwYjVkN2NkNmNjYTdmODk4YQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs América Mineiro (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNDAzMzAxMjk6Y2RubGl2ZXR2LnR2OmI1NDdhODllN2RiYTk3MjYuMWYyMmJmNWJmMDM4OTk3YTljZDgzZjRhYzEwNDFiY2VlNzUzOGY5ZjA3YzFjY2U4ZWI1OGY4M2IyMjg1OGY3Nw
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Botafogo-SP vs Vila Nova (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Botafogo-SP vs Vila Nova (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNTQ2Njk1MjQ6Y2RubGl2ZXR2LnR2OjY2YjdhZjgyMThjZTBjYzAuZTQ5MTJjMjBjZjY4MzdiODEwMjVmMWVlMWYxNDdlNDVmMmFlYjYwNGY5ZDgzOGY4YmZjZGIyNjlkN2MyMWJmMQ
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Botafogo-SP vs Vila Nova (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Botafogo-SP vs Vila Nova (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNDAzMzAzMjM6Y2RubGl2ZXR2LnR2OjViZjkzNWY0N2MxMWQ5MzguMTJlZmM0YzNlOGQ1OTRjODMwOGNkZTgxZDBlOTlmZmQ5ZWI4ODllYTE5MmMyMGM3N2QyZmQ1ZjkwNTA4YjkyYw
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Canada vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Canada vs Peru (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwNTQ2Njk2NzA6Y2RubGl2ZXR2LnR2OjgyMTY1ZmVhY2NmYTljZGEuOTNhYzUyMDU4YTcwMDRmZDBmNTc0MzRmODlhZmNjYzc5Y2RmZDI4NWE3MjVlMjQyMDUwMjEzM2RmYjQ4N2MwZQ
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Canada vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Canada vs Peru (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTEwNDAzMjk5MzY6Y2RubGl2ZXR2LnR2OjYzYjNmZDlkMmI1ZTNmZDEuNTMwOTZmYmUwMzY4YWI2OWZmYWVmNGM5MjIwZjk1MDMwYTc2ZGI0NGJkMjRjYTVlOTUxM2E0YzYxZjBhMzgwYg
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] India vs Brazil (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] India vs Brazil (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTEwNTQ2NjkzNDc6Y2RubGl2ZXR2LnR2OjhiMzk3NGI1YzgzMmY1NzUuZThkZDI5MGNhMzEwYWMyZDgxZmM0ZjNkMjMxNjhiZGZlNGRkMzlmNWIyYWRjYzUxNzRjMmI2ZTVhZjdmNmI2Nw
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] India vs Brazil (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] India vs Brazil (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwNDAzMjk1NDI6Y2RubGl2ZXR2LnR2OmZiMDA1ODllNTIwY2E3YTguNjQ2NWYxNjVlNDE4YzQ4YmEzOTY2OWI5N2ZiYmQ0YjM5MTBlNmJmMDFjYjI0ZDIyNGIzZGE2YjI5NjcxYWQ3NA
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Russia vs Namibia (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Russia vs Namibia (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwNTQ2NjkwNzk6Y2RubGl2ZXR2LnR2OmUxMjQyMTE4OThlNGQ3ZDEuN2M3Mjc5MzQyNDdmZDEzOTdhYTUyODE5OTMyYmMyNzMzYzM2ZWY5OTVhOTNkMjc3NDc0ZjU4MGQwMzM5YzViZg
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Russia vs Namibia (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Russia vs Namibia (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZlOjE3OTEwNDAzMjk3MzU6Y2RubGl2ZXR2LnR2OmVlZDg3NDRlYWY3ZDlhODIuZmU1ODg2OWI5MjNhZmM0ZTcxYzJhMjU5YTBlYjY1NTkxMDViMjJiMGQ5ZTYzODY4MjMzM2M3MjA0NDdlMTRiYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZlOjE3OTEwNTQ2NjkyMTk6Y2RubGl2ZXR2LnR2OjUyMmFiZGUxZjExY2Y4NDAuZTY5OTM0NjY0YTkxYTRlZGFmNDU5MGMzN2I5MjFjZTY1ZTFhMGVlNjMzYWEyN2M4YjQ5M2ZhNjM0MzBjMTFmOQ
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Mexico (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Mexico (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTEwNTQ2Njk5NDc6Y2RubGl2ZXR2LnR2OjZmNzA5ODExODE5MjUzNjYuNmE0M2M4YzQ3ZjdjNjBlNDljOWI5NzljZWNjNGJkZmMxNGNiZDliM2U0NTdmYWU5YmM1YWJmNDI4NDkzZjQ4MQ
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] India vs Brazil (TIMST)" tvg-logo="https://images2.minutemediacdn.com/image/upload/images/voltaxMediaLibrary/mmsport/si/01m3y9s1a8tywp2s3pyp.jpg" group-title="▷ Sukan 2",[Live Event] India vs Brazil (TIMST)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/umicawgj-6598
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/9c2397ba2433bdc6cfe197d8391991493040d70e4fbc2f12c4be82365478308c/1791049268/sonysportsnetwork2-in.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="10" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Charlotte 49ers vs Memphis Tigers (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="▷ Sukan 2",[NCAA - Football] Charlotte 49ers vs Memphis Tigers (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e0aeb25385ffda4bcd7f64585cea13f5f12a2fd3549064e999a1a5604b5b988b/1791049269/espn-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Finland vs Albania (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Finland vs Albania (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/p5562bwm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/84f0759102ff2afa58255b7d05998e906003f620525d5b951e7e0ba5aecca7aa/1791049268/fox-sports-2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
