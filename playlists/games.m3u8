@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Live Event] Braves @ Dodgers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401908014.png" group-title="▷ Sukan 2",[Live Event] Braves @ Dodgers (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/f4ijr4sl-8718
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Italy U21 vs Poland U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Italy U21 vs Poland U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/846bcc1668628ee75c750310cd2842c245f012c94b4e94ae05224b71594bc731/1791175383/fox-sports-1.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Calgary Flames @ Seattle Kraken (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401891824.png" group-title="▷ Sukan 2",[Live Event] Calgary Flames @ Seattle Kraken (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/89vwb35l-9603
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3OTEyMDY1NjU1NTk6Y2RubGl2ZXR2LnR2OjgyODM1NDMxMzU2ZDcwNmMuMGU0OTNiMmFlYjMzMThhYjU1MzdlNzAxNjRhY2Q1NTM3NDZhZTZlZGMyNjFlMGNkOGNlZWZhOGE1YTI1YzI1Mg
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Montenegro U21 vs Armenia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Montenegro U21 vs Armenia U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=17%3A00%20Monterrey%20Open%3A%20Day%202%208%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/58e66424bcf3a8eb76b70b265f25f2ea5dde16060184d4bd62888f0d0b619192/1791175383/nhl-401891824.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Lions @ Panthers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872978.png" group-title="▷ Sukan 2",[Live Event] Lions @ Panthers (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/bdl7my34-7396
+https://cdnlivetv.tv/secure/api/v1/6a8d21552d4a99e0730613d5/playlist.m3u8?token=NmE4ZDIxNTUyZDRhOTllMDczMDYxM2Q1OjE3OTEyMDY1NjUzNjg6Y2RubGl2ZXR2LnR2OjNkY2MwNTg4ZGJhMmQ2M2IuNTFmZjIwOTMxZWNiMTJiYWJlOWMyZDJiYTQ2NDQzMzczN2MwYTk1MzJhMjNiM2M1NDRiYmNjYThjYmIwZmEwMQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Serbia U21 vs Russian Federation U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Serbia U21 vs Russian Federation U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/b09fbf5f50baed2e99bd9e775b88c5e5b8ff6c4164a96a51aacc6dbf421f067f/1791175383/nbc-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] Vegas Golden Knights @ Vancouver Canucks (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892444.png" group-title="▷ Sukan 2",[Live Event] Vegas Golden Knights @ Vancouver Canucks (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/fiwk2313-8416
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZiOjE3OTEyMDY1NjU5NDU6Y2RubGl2ZXR2LnR2OjQ2MjE3N2FiN2E2YTE2MGUuNjIwMDg0MDZhZTk5ZDE4NGNkMzhkMzM5OTZiN2NhZmRkMjJiZTQ0MGFlOTJlNTk0MTJiNWEwZjI2ZGExMjA5MQ
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sweden U21 vs North Macedonia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sweden U21 vs North Macedonia U21 (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/baa308acdbcda1b381f73be87a66c08f09275977cdac8e6a6f116297b405133f/1791175383/nhl-401892444.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTEyMDY1NjU3NTE6Y2RubGl2ZXR2LnR2OjMyODVkZjFkYjc5NTRlODAuNWY0ZWFiMTM2YTI3YWUzN2RlZjc3NjAxZGRjNmUyNWFiMzBkYTFiOTk4N2I0Y2NhZTI2MDZiNDQyODY1OTNjYw
