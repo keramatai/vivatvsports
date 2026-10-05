@@ -1,29 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Live Event] Broncos @ 49ers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872975.png" group-title="▷ Sukan 2",[Live Event] Broncos @ 49ers (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/txvgorco-9488
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Live Event] Braves @ Dodgers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401908014.png" group-title="▷ Sukan 2",[Live Event] Braves @ Dodgers (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/f4ijr4sl-8718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/2258d21924541b92fc64a1674791fde9cb2f5cb03daa86af9e459a77bd17c491/1791165262/nfl-401872975.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Chargers @ Seahawks (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872977.png" group-title="▷ Sukan 2",[Live Event] Chargers @ Seahawks (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/02ebwu0b-5147
+https://justkidding.junksonus.party/main/secure/846bcc1668628ee75c750310cd2842c245f012c94b4e94ae05224b71594bc731/1791175383/fox-sports-1.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Calgary Flames @ Seattle Kraken (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401891824.png" group-title="▷ Sukan 2",[Live Event] Calgary Flames @ Seattle Kraken (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/89vwb35l-9603
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/f35097642ee274bd5c3620cb65eb06078f5541ae506b1c58ce2dedf70dd477c3/1791165262/nfl-401872977.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Chiefs @ Raiders (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872976.png" group-title="▷ Sukan 2",[Live Event] Chiefs @ Raiders (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/2n2pt70f-6058
+https://justkidding.junksonus.party/main/secure/58e66424bcf3a8eb76b70b265f25f2ea5dde16060184d4bd62888f0d0b619192/1791175383/nhl-401891824.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Lions @ Panthers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872978.png" group-title="▷ Sukan 2",[Live Event] Lions @ Panthers (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/bdl7my34-7396
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/43d19de0f1a292fc40ddfc856ae7a3f82da3cd02d7e6e1e5d294fab3ca01b5a1/1791165261/nfl-401872976.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] Denver Nuggets vs Utah Jazz (TIMST)" tvg-logo="https://i.imgur.com/iKBb5db.jpeg" group-title="▷ Sukan 2",[Live Event] Denver Nuggets vs Utah Jazz (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/jozpunwi-4686
+https://justkidding.junksonus.party/main/secure/b09fbf5f50baed2e99bd9e775b88c5e5b8ff6c4164a96a51aacc6dbf421f067f/1791175383/nbc-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] Vegas Golden Knights @ Vancouver Canucks (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892444.png" group-title="▷ Sukan 2",[Live Event] Vegas Golden Knights @ Vancouver Canucks (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/fiwk2313-8416
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/2a835b1a9701f5748fc29fe84da588fb4c095b0038c66572a359c98ea9d2c6c8/1791165261/nba-2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Live Event] Los Angeles Clippers vs. Golden State Warriors (TIMST)" tvg-logo="https://i.imgur.com/HLJmmDv.jpeg" group-title="▷ Sukan 2",[Live Event] Los Angeles Clippers vs. Golden State Warriors (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/z92md6eb-5897
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/0335e18fdf0a10ab2129fb562a76a669d21336b44f4eacb0c1f4ac332365f949/1791165261/nba-1.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Live Event] NASCAR Cup Series at Las Vegas - Race (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nascar-202610040787.png" group-title="▷ Sukan 2",[Live Event] NASCAR Cup Series at Las Vegas - Race (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/nloc37sc-4171
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/e635264847b120052c4f7c24ab8244973038de4a1c88960014dd0d402b612fdf/1791165262/usanetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Live Event] Utah Mammoth @ New York Rangers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892443.png" group-title="▷ Sukan 2",[Live Event] Utah Mammoth @ New York Rangers (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/q7z9z83p-3633
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/e33f54266e072d3347620b412d3ac4b54b696e05ce10f8e68857fd260a5f24a6/1791165262/nhl-401892443.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+https://justkidding.junksonus.party/main/secure/baa308acdbcda1b381f73be87a66c08f09275977cdac8e6a6f116297b405133f/1791175383/nhl-401892444.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
