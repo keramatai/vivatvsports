@@ -2,191 +2,13 @@
 <tv><channel id="plex.tv.Fubo.Sports.Network.plex">
     <display-name lang="en">Fubo Sports Network</display-name>
     <icon src="https://epg.iptvx.one/picons/fubo-sports-network-us.png" />
-    <icon src="https://metadata-static.plex.tv/1/gracenote/15934ac7d2fcf09923f53b34af279cf4.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/99c401229a103bbd9a156d575f4b153c.jpg" />
     </channel>
   <channel id="plex.tv.Women`s.Sports.Network.plex">
     <display-name lang="en">Women`s Sports Network</display-name>
     <icon src="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png" />
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLivePortrait.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5d9c538f-1543-4ed7-8652-1aa6073db14b/WSN_2000x3000.jpg" />
     </channel>
-  <programme start="20261004010000 +0000" stop="20261004050000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC Fight Night Australia</title>
-    <desc lang="en">Catch the primetime encore of BKFC's Australia event that took place earlier today featuring Hepi vs Shewmaker from the Eaton Hills Hotel in Queensland, Australia.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e3564744e1c02813e0d8d65a1a42be11.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261004050000 +0000" stop="20261004070000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bare Knuckle Fighting Championship</title>
-    <sub-title lang="en">BKFC 69: Richardson vs Larrimore</sub-title>
-    <desc lang="en">BKFC 69 featured a massive 12-fight card from Atlanta.</desc>
-    <date>2024</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
-    <episode-num system="onscreen">S1 E100</episode-num>
-  </programme>
-  <programme start="20261004070000 +0000" stop="20261004090000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bare Knuckle Fighting Championship</title>
-    <sub-title lang="en">BKFC Fight Night: Pechanga II</sub-title>
-    <desc lang="en">Evgeny Kurdanov vs. Elvin Brito, welterweight; Robbie Peralta vs. Jordan Christensen, lightweight; from Temecula, Calif.</desc>
-    <date>2025</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
-    <episode-num system="onscreen">S1 E101</episode-num>
-  </programme>
-  <programme start="20261004090000 +0000" stop="20261004100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Blood and Thunder</sub-title>
-    <desc lang="en">Joey Gambino and Kurtis Ellis open fire in a shootout where neither man takes a backward step, while Ramiro Figueroa and Dalvin Blair swing for the fences in a battle of pure knockout power.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S18 E4</episode-num>
-  </programme>
-  <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Football's Greatest Stage</title>
-    <sub-title lang="en">Johan Cruyff</sub-title>
-    <desc lang="en">Johan Cruyff is the godfather of modern football. He was the mastermind behind the Netherlands reaching the World Cup final in 1974.</desc>
-    <date>2025</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b4bcf47c943440de57518b9a476f964e.jpg" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20261004103000 +0000" stop="20261004113000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Kosovo vs. Republic of Ireland</sub-title>
-    <desc lang="en">From Sept. 24, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E80</episode-num>
-  </programme>
-  <programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Netherlands vs. Germany</sub-title>
-    <desc lang="en">From Sept. 24, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E81</episode-num>
-  </programme>
-  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Poland vs. Bosnia-Herzegovina</sub-title>
-    <desc lang="en">From Sept. 25, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E82</episode-num>
-  </programme>
-  <programme start="20261004133000 +0000" stop="20261004143000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Türkiye vs. France</sub-title>
-    <desc lang="en">From Sept. 25, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E83</episode-num>
-  </programme>
-  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Czechia vs. Croatia</sub-title>
-    <desc lang="en">From Sept. 26, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E84</episode-num>
-  </programme>
-  <programme start="20261004153000 +0000" stop="20261004154500 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Fubo Sports Network Presents</title>
-    <desc lang="en">Some of the best moments in sports talk on Fubo Sports Network.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/156ecf8489347db74c091ecc3b062f6f.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261004154500 +0000" stop="20261004180000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League Soccer</title>
-    <sub-title lang="en">Malta vs. Andorra</sub-title>
-    <desc lang="en">League D, Group 1.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Malta</category>
-    <category lang="en">Andorra</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0d3bb7c5667e4b8419e6654e07ac4038.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261004180000 +0000" stop="20261004183000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Football's Greatest Stage</title>
-    <sub-title lang="en">The One-Man Team</sub-title>
-    <desc lang="en">At the peak of his powers, Maradona dominated football's biggest stage like no individual before or since.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b4bcf47c943440de57518b9a476f964e.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261004183000 +0000" stop="20261004204500 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League Soccer</title>
-    <sub-title lang="en">Greece vs. Germany</sub-title>
-    <desc lang="en">League A, Group 2.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Greece</category>
-    <category lang="en">Germany</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5de0b91e937003f4cab64ed57755eca9.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261004204500 +0000" stop="20261004210000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Fubo Sports Network Presents</title>
-    <desc lang="en">Some of the best moments in sports talk on Fubo Sports Network.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/156ecf8489347db74c091ecc3b062f6f.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Denmark vs. Wales</sub-title>
-    <desc lang="en">From Sept. 27, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E85</episode-num>
-  </programme>
-  <programme start="20261004220000 +0000" stop="20261004230000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Legacy Fighting Alliance</title>
-    <sub-title lang="en">Bartling vs. Cleveland</sub-title>
-    <desc lang="en">Two of the top heavyweight prospects in the U.S. will take center stage as Nebraska's Nyle Bartling (9-2) takes on Charlie The Reaper Cleveland (5-1) out of Indiana.</desc>
-    <date>2026</date>
-    <category lang="en">Mixed martial arts</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/901b76f0e9dae9d0341e2dd2b54e04ba.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261004230000 +0000" stop="20261005020000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bellator Champions Series: Dublin</title>
-    <desc lang="en">Jason Jackson vs. Ramazan Kuramagomedov, welterweight; Paul Hughes vs. Bobby King, lightweight; Sinead Kavanagh vs. Arlene Blencowe, women's featherweight; Norbert Növényi Jr. vs. Dalton Rosta; Kasum Kasumov vs. Matheus Mattos. From 3Arena in Dublin.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6b4a8cb5764f6285f7ba1b076ef6733d.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
   <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">Bellator Champions Series 2: Paris</title>
     <desc lang="en">From Paris, featuring Umar Nurmagomedov vs. Alexander Shabily for lightweight title, plus Patchy Mix vs. Magomed Magomedov for bantamweight title.</desc>
@@ -585,6 +407,16 @@
     <icon src="https://metadata-static.plex.tv/2/gracenote/26fe95894684e6f381c516406255d5b5.jpg" />
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
+  <programme start="20261007030000 +0000" stop="20261007040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">SFT Combat</title>
+    <sub-title lang="en">SFT Combat Future Gladiators 8</sub-title>
+    <desc lang="en">The next generation of Brazilian MMA talent steps into the cage in SFT Future Gladiators 8. Featuring four exciting matchups, this action-packed event showcases rising fighters looking to make their mark in the sport. The card includes Leandro Ges...</desc>
+    <date>2026</date>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/201c22f7066b37ca1b93ed07e909641b.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
   <programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">United Fight Alliance</title>
     <sub-title lang="en">UFA's Baddest Babes 2</sub-title>
@@ -762,216 +594,179 @@
     <icon src="https://metadata-static.plex.tv/6/gracenote/6c571be98da3ea55fd8ed0ecb0aeecc9.jpg" />
     <episode-num system="onscreen">S1 E42</episode-num>
   </programme>
-  <programme start="20261004001500 +0000" stop="20261004023900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">2025 Red Bull Rampage</title>
-    <desc lang="en">2025 Red Bull Rampage Women's Competetion.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLiveLandscape.png" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20261008000000 +0000" stop="20261008023000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Invicta FC 57</title>
+    <desc lang="en">Featuring Elisandra Ferreira vs. Andressa Romero for the vacant Invicta FC Atomweight Championship. From Memorial Hall in Kansas City, Kan.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2f52d0871becb18ad09c1cc90120ee04.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
   </programme>
-  <programme start="20261004023900 +0000" stop="20261004031200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The SoccerGirl Podcast</title>
-    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
-    <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
+  <programme start="20261008043000 +0000" stop="20261008063000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Flex Fight Series</title>
+    <sub-title lang="en">Vol. 42</sub-title>
+    <desc lang="en">Replays and highlights from New York's largest MMA promotion.</desc>
+    <date>2025</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
-    <episode-num system="onscreen">S9 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e5ea13f1b8a68e6f1feda7d6fd91c15d.jpg" />
+    <episode-num system="onscreen">S1 E42</episode-num>
   </programme>
-  <programme start="20261004031200 +0000" stop="20261004045400 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">League One Volleyball</title>
-    <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
+  <programme start="20261008063000 +0000" stop="20261008083000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Flex Fight Series</title>
+    <sub-title lang="en">Vol 49: Critical Chaos</sub-title>
+    <desc lang="en">From Stereo Garden in Patchogue, N.Y.</desc>
+    <date>2025</date>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/26d277324e1975e996c2d7630be3934f.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
   </programme>
-  <programme start="20261004045400 +0000" stop="20261004071800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">2025 Red Bull Rampage</title>
-    <desc lang="en">2025 Red Bull Rampage Women's Competetion.</desc>
+  <programme start="20261008083000 +0000" stop="20261008100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Peak Fighting Championship</title>
+    <sub-title lang="en">PFC 41</sub-title>
+    <desc lang="en">Experience high level MMA that will have you captivated from start to finish. Peak Fighting brings you, The New Era of Combat Sports.</desc>
+    <date>2024</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLiveLandscape.png" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d3add7f769c5ed55fefb6c08e8bec68.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
-  <programme start="20261004071800 +0000" stop="20261004075300 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The SoccerGirl Podcast</title>
-    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
-    <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
+  <programme start="20261008100000 +0000" stop="20261008110000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Diggin' Deep</title>
+    <sub-title lang="en">Phil Nevin</sub-title>
+    <desc lang="en">Phil Nevin Untold Stories: Shohei Ohtani, Tony Gwynn, Aaron Judge and life in MLB.</desc>
+    <date>2023</date>
+    <category lang="en">Baseball</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
-    <episode-num system="onscreen">S9 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9403881190c15039af359baf24df07dc.jpg" />
+    <episode-num system="onscreen">S2023</episode-num>
   </programme>
-  <programme start="20261004075300 +0000" stop="20261004093200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">League One Volleyball</title>
-    <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
+  <programme start="20261008110000 +0000" stop="20261008130000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BIG3 Basketball</title>
+    <sub-title lang="en">Week 6</sub-title>
+    <desc lang="en">Week 6 action featuring Tri State vs. Triplets and Enemies vs. 3 Headed Monsters. From Moda Center in Portland, Ore.</desc>
+    <date>2024</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">3x3 basketball</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
+    <episode-num system="onscreen">S2024</episode-num>
   </programme>
-  <programme start="20261004093200 +0000" stop="20261004100200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The SoccerGirl Podcast</title>
-    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
-    <desc lang="en">This week, Duke soccer alum Casey Martinez explains her decision to NOT go pro, balancing soccer with being a student-athlete and her transition into sports medicine.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Football Report</title>
+    <desc lang="en">Top level coverage of the most relevant news from the world of soccer.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a66b6a01d823ddfacbfe134606047c80.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
   </programme>
-  <programme start="20261004100200 +0000" stop="20261004104200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Saint-Tropez 2022 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Fubo Sports News</title>
+    <desc lang="en">Keep up with the sports you love.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d65382a8a83bd85ab9a2b4ef639c1373.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20261004104200 +0000" stop="20261004120200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP San Francisco 2023 International Highlights.</desc>
+  <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">The Fantasy Life Show</title>
+    <desc lang="en">Join Ian Hartitz, Dwain McFarland and guests as they break down the world of fantasy football with sharp analysis, data-driven insights, and engaging discussions. From player rankings to weekly matchups, Ian and Dwain provide the necessary tools.</desc>
+    <date>2026</date>
+    <category lang="en">Football</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
-    <episode-num system="onscreen">S4 E13</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/28debb8dd769880693346fd687da608d.jpg" />
+    <episode-num system="onscreen">S3 E43</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20261004120200 +0000" stop="20261004131700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Bermuda 2023 International Highlights.</desc>
+  <programme start="20261008150000 +0000" stop="20261008153000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <date>2026</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c621016f2d4de74788c123027b86891d.jpg" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20261004131700 +0000" stop="20261004135600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <sub-title lang="en">Racing on the Edge</sub-title>
-    <desc lang="en">"Work In Progress" This episode is about the first female driving an F50 in SailGP representing her country Brazil.</desc>
+  <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <date>2026</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c621016f2d4de74788c123027b86891d.jpg" />
+    <episode-num system="onscreen">S1 E30</episode-num>
   </programme>
-  <programme start="20261004135600 +0000" stop="20261004164000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">League One Volleyball</title>
-    <desc lang="en">League One Volleyball - Atlanta v Austin.</desc>
+  <programme start="20261008160000 +0000" stop="20261008170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">UEFA Nations League in 60</title>
+    <sub-title lang="en">Kosovo vs. Republic of Ireland</sub-title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Soccer</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
+    <episode-num system="onscreen">S2026 E80</episode-num>
   </programme>
-  <programme start="20261004164000 +0000" stop="20261004174500 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">GAME ON: Spotlight</title>
-    <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
+  <programme start="20261008170000 +0000" stop="20261008180000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">UEFA Nations League in 60</title>
+    <sub-title lang="en">Netherlands vs. Germany</sub-title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Soccer</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
+    <episode-num system="onscreen">S2026 E81</episode-num>
   </programme>
-  <programme start="20261004174500 +0000" stop="20261004184600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">GAME ON: Spotlight</title>
-    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 11.</desc>
+  <programme start="20261008180000 +0000" stop="20261008200000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Pacquiao vs Barrera &amp; Garcia vs Campbell</sub-title>
+    <desc lang="en">Manny Pacquiao puts on a legendary performance against Marco Antonio Barrera. King Ryan Garcia takes on the tough Luke Campbell.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
+    <episode-num system="onscreen">S2026 E160</episode-num>
   </programme>
-  <programme start="20261004184600 +0000" stop="20261004191800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The World According to Sage</title>
-    <desc lang="en">Sage takes us to North, South, and Central America, including Kelly Slater's Surf Ranch in California.</desc>
+  <programme start="20261008200000 +0000" stop="20261008210000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">2026: Claressa Shields vs. Franchon Crews-Dezurn II</sub-title>
+    <desc lang="en">Heavyweight title bout from Little Cesars Arena in Detroit on Feb. 22, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WATSageLandscape.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
+    <episode-num system="onscreen">S2026 E537</episode-num>
   </programme>
-  <programme start="20261004191800 +0000" stop="20261004195000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The World According to Sage</title>
-    <desc lang="en">Sage takes us to Keramas in Bali, G-Land in East Java, and Tahiti's Teahupo'o.</desc>
+  <programme start="20261008210000 +0000" stop="20261008233000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">De La Hoya, Mayweather &amp; Hopkins</sub-title>
+    <desc lang="en">Floyd Mayweather vs. Marcos Maidana, Oscar De La Hoya vs. Julio Cesar Chavez 2 and Bernard Hopkins vs. Chad Dawson.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WATSageLandscape.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
+    <episode-num system="onscreen">S2026 E163</episode-num>
   </programme>
-  <programme start="20261004195000 +0000" stop="20261004202200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">The SoccerGirl Podcast</title>
-    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
-    <desc lang="en">American soccer player and coach Kim DeCesare speaks on her career, advice for parents of soccer hopefuls, and the steps of getting recruited to collegiate soccer.</desc>
+  <programme start="20261008233000 +0000" stop="20261009013000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Demetrius Hopkins vs. Jermell Charlo &amp; Billy Joe Saunders vs. David Lemieux</sub-title>
+    <desc lang="en">All the boxing action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261004202200 +0000" stop="20261004212500 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Game ON</title>
-    <desc lang="en">From the latest sports news and hottest topics to the most current in sports-adjacent pop culture, GAME ON has its finger on the pulse of the trends our audience craves.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Default_1920x1080.png" />
-    <episode-num system="onscreen">S103 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261004212500 +0000" stop="20261004222700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">2021 SLS Super Crown World Championship: Jacksonville – Women’s LCQ - Highlights</title>
-    <desc lang="en">Cutdown of the 2021 SLS Super Crown World Championship: Jacksonville – Women’s LCQ, including on-screen trivia and facts of the skaters at the event. Competing athletes include Pamela Rosa, Keet Oldenbeuving, Mariah Duran, Candy Jacobs, Samarria Brevard, and Marina Gabriela.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SLSSkateboardingLandscape.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261004222700 +0000" stop="20261004233000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">GAME ON: Spotlight</title>
-    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 20.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261004233000 +0000" stop="20261005003100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">2017 SLS Super Crown World Championship: Los Angeles – Women’s Final - Highlights</title>
-    <desc lang="en">Cutdown of the 2017 SLS Super Crown World Championship: Los Angeles, including on-screen trivia and facts of the skaters at the event.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SLSSkateboardingLandscape.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
+    <episode-num system="onscreen">S2026 E187</episode-num>
   </programme>
   <programme start="20261005003100 +0000" stop="20261005013400 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">GAME ON: Spotlight</title>
@@ -1531,6 +1326,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20261007154900 +0000" stop="20261007162200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The SoccerGirl Podcast</title>
+    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
+    <desc lang="en">This week, physical therapist Kate Sneddon joins to talk about ACL injury recovery and navigating the journey as a young soccer player.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20261007162200 +0000" stop="20261007171900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">Game ON</title>
     <sub-title lang="en">LPGA Chevron Championship</sub-title>
@@ -1616,6 +1422,193 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20261008002900 +0000" stop="20261008014600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">2020 LPGA Marathon Classic -</title>
+    <desc lang="en">Overcoming a 5 shot deficit with 6 holes to play, Danielle Kang wins the 2020 LPGA Marathon Classic by one shot over Lydia Ko.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008014600 +0000" stop="20261008030000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">2022 Gainbridge LPGA at Boca Rio.</title>
+    <sub-title lang="en">2022 Gainbridge LPGA at Boca Rio</sub-title>
+    <desc lang="en">Lydia Ko becomes the 2nd woman in LPGA history (Nancy Lopez) to win 17 titles before the age of 25 as she holds on down the stretch for the win.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008030000 +0000" stop="20261008033000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The SoccerGirl Podcast</title>
+    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
+    <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008033000 +0000" stop="20261008060100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Athlete's Unimited Softball</title>
+    <sub-title lang="en">Athletes Unlimited Softball</sub-title>
+    <desc lang="en">AUSL Softball: Blaze v Bandits.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/AUSLLandscape.png" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008060100 +0000" stop="20261008063100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The SoccerGirl Podcast</title>
+    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
+    <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008063100 +0000" stop="20261008090100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Athlete's Unimited Softball</title>
+    <sub-title lang="en">Athletes Unlimited Softball</sub-title>
+    <desc lang="en">AUSL Softball: Blaze v Bandits.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/AUSLLandscape.png" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008090100 +0000" stop="20261008092900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The INDIVISA Show</title>
+    <desc lang="en">Alyssa Thompson has been making waves in the NWSL with Angel City FC and showing out on the world stage with the USWNT.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Default_1920x1080.png" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008092900 +0000" stop="20261008100000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The SoccerGirl Podcast</title>
+    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
+    <desc lang="en">Former NWSL goalkeeper turned social media star Brittany Isenhour talks pivoting from soccer pro to content creation!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008100000 +0000" stop="20261008110200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <sub-title lang="en">Ep 8</sub-title>
+    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008110200 +0000" stop="20261008132600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">2025 Red Bull Rampage</title>
+    <desc lang="en">2025 Red Bull Rampage Women's Competetion.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLiveLandscape.png" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008132600 +0000" stop="20261008142700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 17.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008142700 +0000" stop="20261008153000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2014 Walmart NW Championship</sub-title>
+    <desc lang="en">Stacy Lewis wins in dramatic fashion, posting a final round 65, good enough for a 1 shot victory in her home state of Arkansas.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008180200 +0000" stop="20261008183400 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">The SoccerGirl Podcast</title>
+    <sub-title lang="en">The Soccer Girl Podcast</sub-title>
+    <desc lang="en">We sit down with David Murray, author of Soccer Dad, for an honest, insightful conversation about the youth soccer journey from the sidelines.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008183400 +0000" stop="20261008201600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">League One Volleyball</title>
+    <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008201600 +0000" stop="20261008221700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2016 International Crown -</sub-title>
+    <desc lang="en">The United States wins by 1 point over South Korea in the 2nd installment of the International Crown team event.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008221700 +0000" stop="20261008235700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">League One Volleyball</title>
+    <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261008235700 +0000" stop="20261009005700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 19.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <channel id="CBS.Sports.Golazo.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
+    <display-name lang="en">CBS Sports Golazo Network</display-name>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
   <channel id="Fox.Sports.4K.us2">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s141469_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s110839_h15_aa.png" />
@@ -1626,39 +1619,37 @@
     <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
     <display-name lang="en">FS2 HD</display-name>
   </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <display-name lang="en">FS1 HD</display-name>
-  </channel>
-  <channel id="CBS.Sports.Golazo.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
-    <display-name lang="en">CBS Sports Golazo Network</display-name>
-  </channel>
-  <programme channel="Fox.Sports.4K.us2" start="20261003053500 -0400" stop="20261003063500 -0400">
-    <title lang="en">Making It Home With Kortney &amp; Kenny</title>
-    <sub-title lang="en">Joven &amp; Sylvia</sub-title>
-    <desc lang="en">After putting others first, Joven &amp; Sylvia are finally ready to make their own reno dreams come true; Kortney and Kenny take the helm and pull out all the stops to give this deserving family everything on their wish list and more.</desc>
-    <category lang="en">Home</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20522625_b_v8_ae.jpg" />
-    <episode-num system="onscreen">E2018</episode-num>
+  <programme channel="Fox.Sports.4K.us2" start="20261004060000 -0400" stop="20261004063000 -0400">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
     <previously-shown />  <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003063500 -0400" stop="20261003073500 -0400">
-    <title lang="en">Tamron Hall</title>
-    <sub-title lang="en">My Time to Shine</sub-title>
-    <desc lang="en">Gail Bean, Isaiah John and Asante Blackk ("The Drop: A Snowfall Saga"); Miss USA competitor Amber Uhler; Daley (album "Strange Nature") performs.Guests: Gail Bean, Isaiah John, Asante Blackk..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_v12_ag.jpg" />
-    <episode-num system="onscreen">E8015</episode-num>
+  <programme channel="Fox.Sports.4K.us2" start="20261004063000 -0400" stop="20261004070000 -0400">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
     <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003073500 -0400" stop="20261003080000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004070000 -0400" stop="20261004073000 -0400">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004073000 -0400" stop="20261004080000 -0400">
     <title lang="en">Local Programming</title>
     <desc lang="en">Sign off.</desc>
     <category lang="en">Regular</category>
@@ -1668,7 +1659,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003080000 -0400" stop="20261003083000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004080000 -0400" stop="20261004083000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -1678,7 +1669,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003083000 -0400" stop="20261003090000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004083000 -0400" stop="20261004090000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -1688,19 +1679,19 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003090000 -0400" stop="20261003093000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004090000 -0400" stop="20261004093000 -0400">
     <title lang="en">Disaster DIY</title>
-    <sub-title lang="en">Kitchen Crash</sub-title>
-    <desc lang="en">A flight attendant puts off a kitchen renovation for two years.</desc>
+    <sub-title lang="en">Arrested Renovation</sub-title>
+    <desc lang="en">Renovating an over-shared bathroom and a basement family room.</desc>
     <category lang="en">Reality TV</category>
     <category lang="en">Home</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185798_b_v8_aa.jpg" />
-    <episode-num system="onscreen">E601</episode-num>
+    <episode-num system="onscreen">E3079</episode-num>
     <previously-shown />  <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003093000 -0400" stop="20261003100000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004093000 -0400" stop="20261004100000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -1710,27 +1701,27 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003100000 -0400" stop="20261003110000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004100000 -0400" stop="20261004110000 -0400">
     <title lang="en">Global News Morning</title>
     <desc lang="en">A look at the stories making local, national and international headlines, plus the latest weather impacting viewers throughout the region.</desc>
     <category lang="en">News</category>
     <category lang="en">Environmental</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33966786_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003110000 -0400" stop="20261003130000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004110000 -0400" stop="20261004130000 -0400">
     <title lang="en">Global News Morning</title>
     <desc lang="en">A look at the stories making local, national and international headlines, plus the latest weather impacting viewers throughout the region.</desc>
     <category lang="en">News</category>
     <category lang="en">Environmental</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33966786_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003130000 -0400" stop="20261003133000 -0400">
-    <title lang="en">Fish'n Canada</title>
-    <desc lang="en">Showcasing the best fishing spots in Canada.</desc>
-    <category lang="en">Regular</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8331888_b_v8_aa.jpg" />
+  <programme channel="Fox.Sports.4K.us2" start="20261004130000 -0400" stop="20261004133000 -0400">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8843295_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003133000 -0400" stop="20261003140000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004133000 -0400" stop="20261004140000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -1740,7 +1731,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003140000 -0400" stop="20261003143000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004140000 -0400" stop="20261004143000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -1750,62 +1741,74 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003143000 -0400" stop="20261003150000 -0400">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">News and features about performers, productions and the milieu.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184256_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E11755</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003150000 -0400" stop="20261003160000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004143000 -0400" stop="20261004150000 -0400">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004150000 -0400" stop="20261004160000 -0400">
     <title lang="en">Global News at Noon</title>
     <desc lang="en">A look at the stories making local, national and international headlines, plus the latest weather impacting viewers throughout the region.</desc>
     <category lang="en">News</category>
     <category lang="en">Environmental</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33966800_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003160000 -0400" stop="20261003163000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004160000 -0400" stop="20261004163000 -0400">
     <title lang="en">Disability Law Show</title>
     <desc lang="en">Explaining rights for individuals who are denied their long-term disability.</desc>
     <category lang="en">Legal</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29320941_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003163000 -0400" stop="20261003183000 -0400">
-    <title lang="en">The Cases of Mystery Lane: Death Is Listening</title>
-    <desc lang="en">As Birdie and Alden Case's relationship strengthens, they discover a mutual interest for true crime. When their favorite podcaster is found dead, it's up to them to listen to the clues.</desc>
-    <credits>
-      <actor>Aimee Garcia</actor>
-      <actor>Paul Campbell</actor>
-      <actor>Peter Benson</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28145870_k_h8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003183000 -0400" stop="20261003193000 -0400">
-    <title lang="en">Halloween Bakeshop</title>
-    <sub-title lang="en">GALA IN THE GRAVEYARD</sub-title>
-    <desc lang="en">Welcome to the most glamorous ghostly gathering of the season: The Gala in the Graveyard! The bakers must impress the judges with spooky sweets that scream opulent, glamorous horror.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31055703_b_v8_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003193000 -0400" stop="20261003203000 -0400">
-    <title lang="en">Pamela's Garden of Eden</title>
-    <sub-title lang="en">This Ain't Grandma's House</sub-title>
-    <desc lang="en">Pamela takes matters into her own hands when she worries her team isn't putting enough of a modern, sexy spin on the old roadhouse front room; things come to a head when the designs for the boathouse are far off from her grand vision.</desc>
+  <programme channel="Fox.Sports.4K.us2" start="20261004163000 -0400" stop="20261004173000 -0400">
+    <title lang="en">Property Brothers: Forever Home</title>
+    <sub-title lang="en">From the Big Apple to Vegas</sub-title>
+    <desc lang="en">After having a baby, two New Yorkers decide that they want a fresh start and more space in a Las Vegas home; Drew and Jonathan transform the main floor to give them their dream bar and kitchen for entertaining and a place for their child to play.</desc>
+    <category lang="en">Reality TV</category>
     <category lang="en">Home</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23182340_b_v12_an.jpg" />
-    <episode-num system="onscreen">E1003</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16607789_b_v12_bm.jpg" />
     <previously-shown />  <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003203000 -0400" stop="20261003205900 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004173000 -0400" stop="20261004183000 -0400">
+    <title lang="en">Gut Job</title>
+    <sub-title lang="en">Steph &amp; Fred</sub-title>
+    <desc lang="en">Steph and Fred's $450,000 three stories, four bedroom, three bath Gut Job is ready for its grand reveal and Seb and Ayanna are hoping it serves up exactly what a family of six needs.</desc>
+    <category lang="en">Home</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22092499_b_v12_ab.jpg" />
+    <episode-num system="onscreen">E1004</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004183000 -0400" stop="20261004193000 -0400">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184256_b_v12_aa.jpg" />
+    <episode-num system="onscreen">E2351</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004193000 -0400" stop="20261004200000 -0400">
+    <title lang="en">Crime Beat: Most Wanted</title>
+    <sub-title lang="en">Cristian Cuxum</sub-title>
+    <desc lang="en">Hosted by "Global News" anchor Tracy Tong; tracking Canada's most wanted criminals and the detectives dedicated to bringing them to justice.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25496674_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004200000 -0400" stop="20261004203000 -0400">
+    <title lang="en">Crime Beat: Most Wanted</title>
+    <sub-title lang="en">Rabil Alkhalil</sub-title>
+    <desc lang="en">Three public execution-style murders in 2012 leave police hunting for suspects as the cocaine-trafficking gang war continues to escalate; on-the-run kingpin Rabih Alkhalil escapes from prison in plain sight.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25496674_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004203000 -0400" stop="20261004205900 -0400">
     <title lang="en">Global National</title>
     <desc lang="en">The top stories from around the world.</desc>
     <category lang="en">News</category>
@@ -1814,86 +1817,63 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003205900 -0400" stop="20261003220000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261004205900 -0400" stop="20261004220000 -0400">
     <title lang="en">Global News Hour at 6</title>
     <desc lang="en">British Columbia's local news and information.</desc>
     <category lang="en">News</category>
     <category lang="en">Environmental</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p826947_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003220000 -0400" stop="20261003223000 -0400">
-    <title lang="en">Border Security: Canada's Front Line</title>
-    <desc lang="en">Two longboarders can't skate over their border exam; an American family's road trip essentials include an arsenal of weapons; a sailor's got more than pennies in his pockets; officers in Alberta come upon a half-baked scheme.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9994183_b_v8_ax.jpg" />
-    <episode-num system="onscreen">E3042</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003223000 -0400" stop="20261003230000 -0400">
-    <title lang="en">Border Security: Canada's Front Line</title>
-    <desc lang="en">Customs and immigration officials work to protect their borders.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9994183_b_v8_ax.jpg" />
-    <episode-num system="onscreen">E3043</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261003230000 -0400" stop="20261004000000 -0400">
-    <title lang="en">Private Eyes West Coast</title>
-    <sub-title lang="en">Changing Tides</sub-title>
-    <desc lang="en">When date night ends with a man dead and his girlfriend arrested, Shade and Angie get back to doing what they do best: solving cases.</desc>
+  <programme channel="Fox.Sports.4K.us2" start="20261004220000 -0400" stop="20261004230000 -0400">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Who Needs Humans?; The Thom Tillis Tightrope; Saint Francis in the Cloud</sub-title>
+    <desc lang="en">AI revolution and future work; Thom Tillis speaks about the ups and downs of his relationship with President Trump; art historians and software engineers are using technologies to restore the Basilica of Saint Francis of Assisi.Guests: Thom Tillis..</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184224_b_v12_ap.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261004230000 -0400" stop="20261005013000 -0400">
+    <title lang="en">Die Hard 2</title>
+    <desc lang="en">The sequel's police hero (Bruce Willis) spots military terrorists while waiting for his wife (Bonnie Bedelia) at a Washington, D.C., airport.</desc>
     <credits>
-      <actor>Jason Priestley</actor>
-      <actor>Cindy Sampson</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Bonnie Bedelia</actor>
+      <actor>William Atherton</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33743493_b_v12_ac.jpg" />
-    <episode-num system="onscreen">E101</episode-num>
+    <date>1990</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12600_p_v12_at.jpg" />
     <previously-shown />  <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261004000000 -0400" stop="20261004010000 -0400">
-    <title lang="en">Family Law</title>
-    <sub-title lang="en">Parenthood</sub-title>
-    <desc lang="en">A couple with Down syndrome is expecting a child; social services has threatened to take the baby away unless they can prove they are capable parents; Abigail and Daniel agree to represent them and try to come up with a workable parenting plan.</desc>
-    <credits>
-      <actor>Jewel Staite</actor>
-      <actor>Victor Garber</actor>
-      <actor>Brett Kelly</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20174129_b_v12_au.jpg" />
+  <programme channel="Fox.Sports.4K.us2" start="20261005013000 -0400" stop="20261005020000 -0400">
+    <title lang="en">Border Security: Canada's Front Line</title>
+    <sub-title lang="en">THC-Toting Traveler</sub-title>
+    <desc lang="en">Airport officers let the khat out of the bag; A repeat offender must prove he's learned his lesson.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9994183_b_v8_ax.jpg" />
+    <episode-num system="onscreen">E3044</episode-num>
     <previously-shown />  <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261004010000 -0400" stop="20261004020000 -0400">
-    <title lang="en">Murder in a Small Town</title>
-    <sub-title lang="en">A Chill Rain</sub-title>
-    <desc lang="en">Zoe Strachan, a resident of Gibson, is confronted by her estranged brother Benjamin, who claims to be in financial trouble; when a dead body that matches Benjamin's description is discovered, Alberg begins the search for the killer.</desc>
-    <credits>
-      <actor>Rossif Sutherland</actor>
-      <actor>Kristin Kreuk</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26329324_b_v12_ag.jpg" />
-    <episode-num system="onscreen">E103</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261004020000 -0400" stop="20261004023000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261005020000 -0400" stop="20261005023500 -0400">
     <title lang="en">Global News at 11</title>
     <desc lang="en">British Columbia's local news and information.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12812481_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261004023000 -0400" stop="20261004030000 -0400">
+  <programme channel="Fox.Sports.4K.us2" start="20261005023500 -0400" stop="20261005030500 -0400">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8843295_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.4K.us2" start="20261005030500 -0400" stop="20261005033500 -0400">
     <title lang="en">Global National</title>
     <desc lang="en">The top stories from around the world.</desc>
     <category lang="en">News</category>
@@ -1902,256 +1882,21 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="Fox.Sports.4K.us2" start="20261004030000 -0400" stop="20261004040000 -0400">
-    <title lang="en">Top Chef Canada</title>
-    <sub-title lang="en">Vegan Feast</sub-title>
-    <desc lang="en">In the Quickfire Challenge, the chefs are tasked with making as many dishes as possible in 30 minutes; in the Elimination Challenge, the competitors must push the boundaries of plant-based cuisine and impress the judges at a vegan feast.</desc>
-    <category lang="en">Food</category>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8563427_b_v8_aa.jpg" />
-    <episode-num system="onscreen">E10096</episode-num>
+  <programme channel="Fox.Sports.4K.us2" start="20261005033500 -0400" stop="20261005053500 -0400">
+    <title lang="en">The Plot to Kill My Mother</title>
+    <desc lang="en">A woman who unknowingly grew up under federal witness protection starts to question everything after her mother's murder. She decides to leave the program and find her mom's killer before he strikes again.</desc>
+    <credits>
+      <actor>Romy Weltman</actor>
+      <actor>Milton Barnes</actor>
+      <actor>Samantha Brown</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23643010_k_h8_aa.jpg" />
     <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003050000 +0000" stop="20261003060000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003060000 +0000" stop="20261003070000 +0000">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">News impacting global football and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003070000 +0000" stop="20261003080000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003080000 +0000" stop="20261003090000 +0000">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">News impacting global football and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003090000 +0000" stop="20261003100000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003100000 +0000" stop="20261003110000 +0000">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">News impacting global football and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003110000 +0000" stop="20261003120000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003120000 +0000" stop="20261003130000 +0000">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">News impacting global football and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003130000 +0000" stop="20261003133000 +0000">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">News impacting global football and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003133000 +0000" stop="20261003140000 +0000">
-    <title lang="en">CBS Sports Golazo Matchday</title>
-    <date>2024</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003140000 +0000" stop="20261003160000 +0000">
-    <title lang="de">Live: EFL League One</title>
-    <desc lang="en">From Pirelli Stadium in Burton-upon-Trent, Staffordshire, England.</desc>
-    <category lang="de">Sports</category>
-    <category lang="de">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00391TPV.jpg?w=960&amp;h=540" />
-    <premiere lang="de" />
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003160000 +0000" stop="20261003163000 +0000">
-    <title lang="en">CBS Sports Golazo Matchday</title>
-    <date>2024</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003163000 +0000" stop="20261003170000 +0000">
-    <title lang="en">Best UCL Goals from Americans</title>
-    <desc lang="en">The best UEFA Champions League goals scored by American players.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29042776_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003170000 +0000" stop="20261003180000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003180000 +0000" stop="20261003190000 +0000">
-    <title lang="en">90 in 60</title>
-    <desc lang="en">Best of the football match in 60 minutes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10191424_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E34</episode-num>
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003190000 +0000" stop="20261003194500 +0000">
-    <title lang="en">The Billion Dollar Goal</title>
-    <desc lang="en">Tracing the evolution of soccer in the United States, from its beginnings as an immigrant's game to the historic moment in 1989 when Paul Caligiuri's unforgettable goal ended a 40-year World Cup qualification drought.</desc>
-    <credits>
-      <actor>Grant Wahl</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26195936_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003194500 +0000" stop="20261003203000 +0000">
-    <title lang="en">The Billion Dollar Goal</title>
-    <desc lang="en">Tracing the evolution of soccer in the United States, from its beginnings as an immigrant's game to the historic moment in 1989 when Paul Caligiuri's unforgettable goal ended a 40-year World Cup qualification drought.</desc>
-    <credits>
-      <actor>Grant Wahl</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26195936_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003203000 +0000" stop="20261003210000 +0000">
-    <title lang="en">Best UCL Goals from Americans</title>
-    <desc lang="en">The best UEFA Champions League goals scored by American players.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29042776_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003210000 +0000" stop="20261003220000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003220000 +0000" stop="20261003230000 +0000">
-    <title lang="en">90 in 60</title>
-    <desc lang="en">Best of the football match in 60 minutes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10191424_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E34</episode-num>
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003230000 +0000" stop="20261003234500 +0000">
-    <title lang="en">The Billion Dollar Goal</title>
-    <desc lang="en">Tracing the evolution of soccer in the United States, from its beginnings as an immigrant's game to the historic moment in 1989 when Paul Caligiuri's unforgettable goal ended a 40-year World Cup qualification drought.</desc>
-    <credits>
-      <actor>Grant Wahl</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26195936_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261003234500 +0000" stop="20261004003000 +0000">
-    <title lang="en">The Billion Dollar Goal</title>
-    <desc lang="en">Tracing the evolution of soccer in the United States, from its beginnings as an immigrant's game to the historic moment in 1989 when Paul Caligiuri's unforgettable goal ended a 40-year World Cup qualification drought.</desc>
-    <credits>
-      <actor>Grant Wahl</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26195936_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004003000 +0000" stop="20261004010000 +0000">
-    <title lang="en">Best UCL Goals from Americans</title>
-    <desc lang="en">The best UEFA Champions League goals scored by American players.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29042776_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004010000 +0000" stop="20261004020000 +0000">
-    <title lang="en">90 in 60</title>
-    <desc lang="en">Best of the football match in 60 minutes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10191424_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E34</episode-num>
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004020000 +0000" stop="20261004023000 +0000">
-    <title lang="en">Best UCL Goals from Americans</title>
-    <desc lang="en">The best UEFA Champions League goals scored by American players.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29042776_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004023000 +0000" stop="20261004043000 +0000">
-    <title lang="en">Live: USL Championship Soccer</title>
-    <desc lang="en">From Cashman Field in Las Vegas.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002EZEFS.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004043000 +0000" stop="20261004050000 +0000">
-    <title lang="en">Call It What You Want</title>
-    <date>2023</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
   </programme>
   <programme channel="CBS.Sports.Golazo.Network.us2" start="20261004050000 +0000" stop="20261004060000 +0000">
     <title lang="en">Call It What You Want</title>
@@ -2843,167 +2588,223 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme channel="FS2.HD.us2" start="20261003050000 +0000" stop="20261003070000 +0000">
-    <title lang="en">Live: AFL Women's Premiership Football</title>
-    <desc lang="en">From Mars Stadium in Ballarat, Victoria, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Australian rules football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CC9EL.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003070000 +0000" stop="20261003090000 +0000">
-    <title lang="en">Live: AFL Women's Premiership Football</title>
-    <desc lang="en">From Brighton Homes Arena in Queensland, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Australian rules football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CC8C5.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003090000 +0000" stop="20261003110000 +0000">
-    <title lang="en">Live: AFL Women's Premiership Football</title>
-    <desc lang="en">From Alberton Oval in Adelaide, South Australia, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Australian rules football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CCDDD.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003110000 +0000" stop="20261003113000 +0000">
-    <title lang="en">SPEED With Harvick &amp; Buxton</title>
-    <desc lang="en">Maddi talks about her rookie drag racing season, Ron Capps and beating Stewart.</desc>
-    <credits>
-      <actor>Kevin Harvick</actor>
-      <actor>Will Buxton</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Auto racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32472189_b_h8_ab.jpg?w=960&amp;h=540" />
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007050000 +0000" stop="20261007060000 +0000">
+    <title lang="en">Call It What You Want</title>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007060000 +0000" stop="20261007070000 +0000">
+    <title lang="en">Pulisic</title>
+    <desc lang="en">Unprecedented access to Christian Pulisic's life, chronicling his rise from small-town prodigy to global soccer icon, his triumphs and challenges and the pressures of leading a nation's dreams.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28835993_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating>
   </programme>
-  <programme channel="FS2.HD.us2" start="20261003113000 +0000" stop="20261003120000 +0000">
-    <title lang="en">Kevin Harvick's Happy Hour</title>
-    <sub-title lang="en">Thomas Annunziata Interview</sub-title>
-    <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Auto racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27869670_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E106</episode-num>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007070000 +0000" stop="20261007080000 +0000">
+    <title lang="en">Call It What You Want</title>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007080000 +0000" stop="20261007090000 +0000">
+    <title lang="en">Pulisic</title>
+    <desc lang="en">Unprecedented access to Christian Pulisic's life, chronicling his rise from small-town prodigy to global soccer icon, his triumphs and challenges and the pressures of leading a nation's dreams.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28835993_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating>
   </programme>
-  <programme channel="FS2.HD.us2" start="20261003120000 +0000" stop="20261003123000 +0000">
-    <title lang="en">MotoGP Racing</title>
-    <desc lang="en">From Mobility Resort Motegi in Totigi, Japan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003R5XP8.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261003123000 +0000" stop="20261003135000 +0000">
-    <title lang="en">NHRA Drag Racing</title>
-    <desc lang="en">From World Wide Technology Raceway in Madison, Ill.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Drag racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NZV3H.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261003135000 +0000" stop="20261003155000 +0000">
-    <title lang="en">Live: UEFA Nations League Soccer</title>
-    <desc lang="en">League C, Group 1.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007090000 +0000" stop="20261007100000 +0000">
+    <title lang="en">Call It What You Want</title>
+    <date>2023</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBED9.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007100000 +0000" stop="20261007110000 +0000">
+    <title lang="en">Pulisic</title>
+    <desc lang="en">Unprecedented access to Christian Pulisic's life, chronicling his rise from small-town prodigy to global soccer icon, his triumphs and challenges and the pressures of leading a nation's dreams.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28835993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
   </programme>
-  <programme channel="FS2.HD.us2" start="20261003155000 +0000" stop="20261003180000 +0000">
-    <title lang="en">Live: UEFA Nations League Soccer</title>
-    <desc lang="en">League C, Group 4.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007110000 +0000" stop="20261007120000 +0000">
+    <title lang="en">Call It What You Want</title>
+    <date>2023</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBQE4.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003180000 +0000" stop="20261003183000 +0000">
-    <title lang="en">Football's Greatest Stage</title>
-    <sub-title lang="en">Ramos - The Last Line</sub-title>
-    <desc lang="en">Sergio Ramos leads Spain for a generation, Australia stuns in 2006, and Peter Shilton faces glory and heartbreak.</desc>
+    <icon src="http://dtil.tmsimg.com/assets/p26279857_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007120000 +0000" stop="20261007140000 +0000">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
     <credits>
-      <director>Matt Whitecross</director>
-      <director>Pete Wraith</director>
+      <actor>Susannah Collins</actor>
     </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
+    <date>2023</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15391652_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003183000 +0000" stop="20261003203000 +0000">
-    <title lang="en">Live: UEFA Nations League Soccer</title>
-    <desc lang="en">League A, Group 3.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBKLM.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="FS2.HD.us2" start="20261003203000 +0000" stop="20261003220000 +0000">
-    <title lang="en">Live: Horse Racing</title>
-    <desc lang="en">The best racehorses square off in the premiere races from across the country.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Horse racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24649635_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="FS2.HD.us2" start="20261003220000 +0000" stop="20261004000000 +0000">
-    <title lang="en">UEFA Nations League Soccer</title>
-    <desc lang="en">League A, Group 1.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007140000 +0000" stop="20261007160000 +0000">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <credits>
+      <actor>Susannah Collins</actor>
+    </credits>
+    <date>2023</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBGB5.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261004000000 +0000" stop="20261004015000 +0000">
-    <title lang="en">UEFA Nations League Soccer</title>
-    <desc lang="en">League A, Group 3.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007160000 +0000" stop="20261007180000 +0000">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <credits>
+      <actor>Susannah Collins</actor>
+    </credits>
+    <date>2023</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBKLM.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261004015000 +0000" stop="20261004040000 +0000">
-    <title lang="en">Live: CONCACAF Nations League Soccer</title>
-    <desc lang="en">From FFB Field in Belize.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007180000 +0000" stop="20261007190000 +0000">
+    <title lang="en">Best of Morning Footy</title>
+    <date>2024</date>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NHVHE.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27551675_b_h10_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007190000 +0000" stop="20261007200000 +0000">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Best of the football match in 60 minutes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10191424_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E107</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007200000 +0000" stop="20261007210000 +0000">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Best of the football match in 60 minutes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10191424_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E108</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007210000 +0000" stop="20261007220000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="FS2.HD.us2" start="20261004040000 +0000" stop="20261004043000 +0000">
-    <title lang="en">MotoGP Racing</title>
-    <desc lang="en">From Mobility Resort Motegi in Totigi, Japan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003R5XP8.jpg?w=960&amp;h=540" />
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007220000 +0000" stop="20261007230000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261007230000 +0000" stop="20261008000000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008000000 +0000" stop="20261008004500 +0000">
+    <title lang="en">Pulisic</title>
+    <desc lang="en">Unprecedented access to Christian Pulisic's life, chronicling his rise from small-town prodigy to global soccer icon, his triumphs and challenges and the pressures of leading a nation's dreams.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28835993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008004500 +0000" stop="20261008013000 +0000">
+    <title lang="en">Pulisic</title>
+    <desc lang="en">Unprecedented access to Christian Pulisic's life, chronicling his rise from small-town prodigy to global soccer icon, his triumphs and challenges and the pressures of leading a nation's dreams.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28835993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008013000 +0000" stop="20261008020000 +0000">
+    <title lang="en">Best UCL Goals from Americans</title>
+    <desc lang="en">The best UEFA Champions League goals scored by American players.</desc>
+    <date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29042776_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008020000 +0000" stop="20261008030000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008030000 +0000" stop="20261008040000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="CBS.Sports.Golazo.Network.us2" start="20261008040000 +0000" stop="20261008050000 +0000">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="FS2.HD.us2" start="20261004043000 +0000" stop="20261004060000 +0000">
     <title lang="en">Live: MotoGP Racing</title>
@@ -3053,25 +2854,12 @@
     <icon src="http://dtil.tmsimg.com/assets/p34014267_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E9</episode-num>
     <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261004110000 +0000" stop="20261004120000 +0000">
-    <title lang="en">NHRA Sportsman Series</title>
-    <sub-title lang="en">Michigan</sub-title>
-    <desc lang="en">Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Auto racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11680006_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E10</episode-num>
-    <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261004120000 +0000" stop="20261004123000 +0000">
-    <title lang="en">NHRA Pro Mod Series</title>
-    <sub-title lang="en">Indianapolis</sub-title>
-    <desc lang="en">Highlights and features from the drag-racing series.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Auto racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12180886_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E7</episode-num>
+  <programme channel="FS2.HD.us2" start="20261004110000 +0000" stop="20261004123000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <desc lang="en">From World Wide Technology Raceway in Madison, Ill.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Drag racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NZV3H.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="FS2.HD.us2" start="20261004123000 +0000" stop="20261004125000 +0000">
     <title lang="en">MotoGP Racing</title>
@@ -3307,7 +3095,7 @@
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NMWZM.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="FS2.HD.us2" start="20261006015000 +0000" stop="20261006043000 +0000">
+  <programme channel="FS2.HD.us2" start="20261006015000 +0000" stop="20261006040000 +0000">
     <title lang="en">Live: CONCACAF Nations League Soccer</title>
     <desc lang="en">From Estadio Nacional Chelato Uclés in Honduras.</desc>
     <category lang="en">Sports</category>
@@ -3315,6 +3103,14 @@
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NMD4W.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
+  <programme channel="FS2.HD.us2" start="20261006040000 +0000" stop="20261006043000 +0000">
+    <title lang="en">The Best of CONCACAF Nations League 2024-25</title>
+    <desc lang="en">Highlights from the year in CONCACAF Nations League soccer.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34272795_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
   <programme channel="FS2.HD.us2" start="20261006043000 +0000" stop="20261006063000 +0000">
     <title lang="en">UEFA Nations League Soccer</title>
     <desc lang="en">League A, Group 1.</desc>
@@ -3395,7 +3191,7 @@
     <category lang="en">Drag racing</category>
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NZLFB.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS2.HD.us2" start="20261006183000 +0000" stop="20261006205000 +0000">
+  <programme channel="FS2.HD.us2" start="20261006183000 +0000" stop="20261006203000 +0000">
     <title lang="en">Live: UEFA Nations League Soccer</title>
     <desc lang="en">League A, Group 3.</desc>
     <category lang="en">Sports</category>
@@ -3403,6 +3199,14 @@
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JCSM3.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
+  <programme channel="FS2.HD.us2" start="20261006203000 +0000" stop="20261006205000 +0000">
+    <title lang="en">The Best of CONCACAF Nations League 2024-25</title>
+    <desc lang="en">Highlights from the year in CONCACAF Nations League soccer.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34272795_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
   <programme channel="FS2.HD.us2" start="20261006205000 +0000" stop="20261006230000 +0000">
     <title lang="en">Live: CONCACAF Nations League Soccer</title>
     <desc lang="en">From FFB Field in Belize.</desc>
@@ -3449,124 +3253,77 @@
     <category lang="en">Soccer</category>
     <icon src="http://dtil.tmsimg.com/assets/p18774978_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003050000 +0000" stop="20261003053000 +0000">
-    <title lang="en">TMZ Sports</title>
-    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.</desc>
-    <date>2014</date>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10455655_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261003053000 +0000" stop="20261003055500 +0000">
-    <title lang="en">TMZ Sports Weekend</title>
-    <desc lang="en">Our news team constantly breaks exclusive stories featuring the biggest stars in sports.</desc>
-    <date>2015</date>
-    <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12343601_b_h8_ad.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261003055500 +0000" stop="20261003063000 +0000">
-    <title lang="en">Live: MotoGP Racing</title>
-    <desc lang="en">From Mobility Resort Motegi in Totigi, Japan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003R5XP8.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261003063000 +0000" stop="20261003093000 +0000">
-    <title lang="en">College Football</title>
-    <desc lang="en">Northwestern hosts Penn State in a Big Ten Week 5 matchup under the lights at Ryan Field. Northwestern enters after posting 325 total yards in a 29-23 loss at Indiana, while Penn State recorded 233 yards in a 24-20 home loss to Wisconsin on Sept. 26.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036LML0.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003093000 +0000" stop="20261003110000 +0000">
-    <title lang="en">NHRA Drag Racing</title>
-    <desc lang="en">From World Wide Technology Raceway in Madison, Ill.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Drag racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NZV3H.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003110000 +0000" stop="20261003130000 +0000">
+  <programme channel="FS2.HD.us2" start="20261007050000 +0000" stop="20261007070000 +0000">
     <title lang="en">UEFA Nations League Soccer</title>
-    <desc lang="en">League A, Group 1.</desc>
+    <desc lang="en">League A, Group 3.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JBGB5.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JCSM3.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003130000 +0000" stop="20261003133000 +0000">
-    <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
-    <sub-title lang="en">CFB Week 5 Guide</sub-title>
-    <desc lang="en">Betting expert Chris "The Bear" Fallica hosts the Big Noon Kickoff college football show.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
+  <programme channel="FS2.HD.us2" start="20261007070000 +0000" stop="20261007100000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Cincinnati Bearcats face the Arizona Wildcats in Week 5 of the NCAAF in a Big 12 game. The Bearcats hold a perfect record and won against Kansas State Wildcats, 31-26, in Week 4. Arizona defeated Washington State, 34-24, in their previous game.</desc>
+    <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28825311_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036ZW6T.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003133000 +0000" stop="20261003140000 +0000">
-    <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
-    <sub-title lang="en">Week 5 Preview</sub-title>
-    <desc lang="en">Joel Klatt breaks down the current topics in the world of college football.</desc>
+  <programme channel="FS2.HD.us2" start="20261007100000 +0000" stop="20261007130000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Minnesota Golden Gophers host the Michigan Wolverines. The Golden Gophers (3-1) beat the Huskies, 27-24, behind quarterback Drake Lindsey, while the Wolverines (3-1) lost 20-19 to the No. 14 Hawkeyes, leaving them 0-1 in Big Ten action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036K7S7.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="FS2.HD.us2" start="20261007130000 +0000" stop="20261007140000 +0000">
+    <title lang="en">SPEED With Harvick &amp; Buxton</title>
+    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
     <credits>
-      <actor>Joel Klatt</actor>
+      <actor>Kevin Harvick</actor>
+      <actor>Will Buxton</actor>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26575653_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E88</episode-num>
-    <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003140000 +0000" stop="20261003143000 +0000">
-    <title lang="en">MLB Epic Moments</title>
-    <sub-title lang="en">The Doctor Is On</sub-title>
-    <desc lang="en">2010 NLDS Game 1, the Reds went into Philadelphia where Roy Halladay had plans for his first career postseason start. Dominant through 8 and 2/3 innings, allowing one walk and no hits, Brandon Phillips stood at the plate.</desc>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10817344_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003143000 +0000" stop="20261003150000 +0000">
-    <title lang="en">MLB Epic Moments</title>
-    <sub-title lang="en">An Ace Arrives</sub-title>
-    <desc lang="en">After an in-season trade in 2008, CC Sabathia's strong arm helps lead the Milwaukee Brewers to the postseason.</desc>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10817344_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="FS1.HD.us2" start="20261003150000 +0000" stop="20261003160000 +0000">
-    <title lang="en">Walkoff Stories: Improbably Gibson</title>
-    <desc lang="en">A retrospective of Kirk Gibson's historic home run in Game 1 of the 1988 World Series. Featuring unique footage and interviews from players, coaches, broadcasters and fans who attended the game.</desc>
-    <date>2018</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15985143_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Talk</category>
+    <category lang="en">Auto racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32472189_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E1</episode-num>
     <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>14+</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="FS1.HD.us2" start="20261003160000 +0000" stop="20261003200000 +0000">
+  <programme channel="FS2.HD.us2" start="20261007140000 +0000" stop="20261007150000 +0000">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Las Vegas Recap</sub-title>
+    <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Auto racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27869670_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E107</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="FS2.HD.us2" start="20261007150000 +0000" stop="20261007170000 +0000">
+    <title lang="en">Live: Canadian Premier League Soccer</title>
+    <desc lang="en">From York Lions Stadium in Toronto.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CSMRW.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS2.HD.us2" start="20261007170000 +0000" stop="20261007220000 +0000">
     <title lang="en">Live: Horse Racing</title>
     <desc lang="en">The best racehorses square off in the premier races from across the country.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Horse racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33917912_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p727544_b_h8_bc.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="Australian Classification Board">
       <value>PG</value>
@@ -3581,57 +3338,68 @@
       <value>S</value>
     </rating>
   </programme>
-  <programme channel="FS1.HD.us2" start="20261003200000 +0000" stop="20261003233000 +0000">
-    <title lang="en">Live: College Football</title>
-    <desc lang="en">The Maryland Terrapins and the Nebraska Cornhuskers meet at Memorial Stadium for a Big Ten battle. Nebraska holds a four-game winning streak, including a 31-13 win against Michigan State. Maryland lost against UCLA, 54-3, in Week 4.</desc>
+  <programme channel="FS2.HD.us2" start="20261007220000 +0000" stop="20261007223000 +0000">
+    <title lang="en">The Gronk &amp; Jules Show</title>
+    <sub-title lang="en">NFL Week 4 Reaction</sub-title>
+    <desc lang="en">Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+    <credits>
+      <actor>Rob Gronkowski</actor>
+      <actor>Julian Edelman</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34014267_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown /></programme>
+  <programme channel="FS2.HD.us2" start="20261007223000 +0000" stop="20261007230000 +0000">
+    <title lang="en">CPL Matchday Live</title>
+    <desc lang="en">Previews, highlights, and studio analysis for the Canadian Premier League.</desc>
+    <date>2021</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20206500_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS2.HD.us2" start="20261007230000 +0000" stop="20261008010000 +0000">
+    <title lang="en">Live: Canadian Premier League Soccer</title>
+    <desc lang="en">From Hamilton Stadium in Hamilton, Ontario.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003FP3KJ.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS2.HD.us2" start="20261008010000 +0000" stop="20261008013000 +0000">
+    <title lang="en">CPL Matchday Live</title>
+    <desc lang="en">Previews, highlights, and studio analysis for the Canadian Premier League.</desc>
+    <date>2021</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20206500_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS2.HD.us2" start="20261008013000 +0000" stop="20261008020000 +0000">
+    <title lang="en">Women's Football Weekly</title>
+    <desc lang="en">Discover the best of the action from the top divisions of women's football in Italy, Germany and the Netherlands with this brand-new highlights show.</desc>
+    <credits>
+      <actor>Ben Haines</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23245355_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="FS2.HD.us2" start="20261008020000 +0000" stop="20261008040000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <desc lang="en">League A, Group 3.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JCSM3.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="FS2.HD.us2" start="20261008040000 +0000" stop="20261008070000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Cincinnati Bearcats face the Arizona Wildcats in Week 5 of the NCAAF in a Big 12 game. The Bearcats hold a perfect record and won against Kansas State Wildcats, 31-26, in Week 4. Arizona defeated Washington State, 34-24, in their previous game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036KXMX.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261003233000 +0000" stop="20261004000000 +0000">
-    <title lang="en">Live: FS1 College Football Extra</title>
-    <desc lang="en">Highlights of the day's college football action.</desc>
-    <credits>
-      <actor>Mike Hill</actor>
-      <actor>Chris Petersen</actor>
-      <actor>Bruce Feldman</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11000904_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261004000000 +0000" stop="20261004003000 +0000">
-    <title lang="en">Live: MLB on FS1 Pregame</title>
-    <desc lang="en">FS1 MLB co-hosts &amp; analysts preview today's upcoming baseball games from around the country and recap the previous day's action.</desc>
-    <credits>
-      <actor>Kevin Burkhardt</actor>
-      <actor>David Ortiz</actor>
-      <actor>Derek Jeter</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10690037_b_h8_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261004003000 +0000" stop="20261004033000 +0000">
-    <title lang="en">Live: MLB Baseball</title>
-    <desc lang="en">The Milwaukee Brewers host the San Diego Padres in Game 1 of the National League Division Series. Right-hander pitcher Jacob Misiorowski starts for Milwaukee against a San Diego lineup guided by third baseman Manny Machado in Wisconsin.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Playoff sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003R80HX.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="FS1.HD.us2" start="20261004033000 +0000" stop="20261004043000 +0000">
-    <title lang="en">Live: MLB on FS1 Postgame</title>
-    <desc lang="en">Highlights, analysis and a wrap-up of today's MLB action.</desc>
-    <date>2016</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12940771_b_h8_ad.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036ZW6T.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
   <programme channel="FS1.HD.us2" start="20261004043000 +0000" stop="20261004073000 +0000">
     <title lang="en">MLB Baseball</title>
     <desc lang="en">The Los Angeles Dodgers host the Atlanta Braves in Game 1 of the National League Division Series. Following a 6-2 victory over the Phillies, the Braves turn to slugger Matt Olson, while the Dodgers are led by First Baseman Freddie Freeman.</desc>
@@ -3733,7 +3501,7 @@
   </programme>
   <programme channel="FS1.HD.us2" start="20261004200000 +0000" stop="20261004230000 +0000">
     <title lang="en">Live: MLB Baseball</title>
-    <desc lang="en">National League Divisional Series, Game 2.</desc>
+    <desc lang="en">The Milwaukee Brewers host the San Diego Padres in Game 2 as the NL Division Series continues. Milwaukee leads the series 1-0 after Jacob Misiorowski touched 104.8 mph in a 3-2 Game 1 win, while William Contreras homered for the offense.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Baseball</category>
@@ -3755,7 +3523,7 @@
   </programme>
   <programme channel="FS1.HD.us2" start="20261005000000 +0000" stop="20261005030000 +0000">
     <title lang="en">Live: MLB Baseball</title>
-    <desc lang="en">National League Divisional Series, Game 2.</desc>
+    <desc lang="en">The Dodgers host the Braves in Game 2 of the NL Division Series. Los Angeles holds a 1-0 series lead following a 5-3 Game 1 victory, backed by Tarik Skubal's seven-strikeout performance, while Atlanta counters behind second baseman Ozzie Albies.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Baseball</category>
@@ -3772,7 +3540,7 @@
   </programme>
   <programme channel="FS1.HD.us2" start="20261005040000 +0000" stop="20261005070000 +0000">
     <title lang="en">MLB Baseball</title>
-    <desc lang="en">National League Divisional Series, Game 2.</desc>
+    <desc lang="en">The Dodgers host the Braves in Game 2 of the NL Division Series. Los Angeles holds a 1-0 series lead following a 5-3 Game 1 victory, backed by Tarik Skubal's seven-strikeout performance, while Atlanta counters behind second baseman Ozzie Albies.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Baseball</category>
@@ -3780,7 +3548,7 @@
     <previously-shown /></programme>
   <programme channel="FS1.HD.us2" start="20261005070000 +0000" stop="20261005100000 +0000">
     <title lang="en">MLB Baseball</title>
-    <desc lang="en">National League Divisional Series, Game 2.</desc>
+    <desc lang="en">The Milwaukee Brewers host the San Diego Padres in Game 2 as the NL Division Series continues. Milwaukee leads the series 1-0 after Jacob Misiorowski touched 104.8 mph in a 3-2 Game 1 win, while William Contreras homered for the offense.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Baseball</category>
@@ -4103,6 +3871,155 @@
     <date>2016</date>
     <category lang="en">Baseball</category>
     <icon src="http://dtil.tmsimg.com/assets/p12940771_b_h8_ad.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007053000 +0000" stop="20261007083000 +0000">
+    <title lang="en">MLB Baseball</title>
+    <desc lang="en">All the latest action from Major League Baseball.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p191273_b_h8_ae.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007083000 +0000" stop="20261007113000 +0000">
+    <title lang="en">MLB Baseball</title>
+    <desc lang="en">All the latest action from Major League Baseball.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p191273_b_h8_ae.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007113000 +0000" stop="20261007120000 +0000">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.</desc>
+    <date>2014</date>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10455655_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007120000 +0000" stop="20261007140000 +0000">
+    <title lang="en">Live: Wake Up Barstool</title>
+    <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
+    <credits>
+      <actor>Dave Portnoy</actor>
+      <actor>Dan Katz</actor>
+      <actor>Eric Sollenberger</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E199</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007140000 +0000" stop="20261007160000 +0000">
+    <title lang="en">Wake Up Barstool</title>
+    <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
+    <credits>
+      <actor>Dave Portnoy</actor>
+      <actor>Dan Katz</actor>
+      <actor>Eric Sollenberger</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E199</episode-num>
+    <previously-shown /></programme>
+  <programme channel="FS1.HD.us2" start="20261007160000 +0000" stop="20261007190000 +0000">
+    <title lang="en">Live: The Herd With Colin Cowherd</title>
+    <desc lang="en">A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.</desc>
+    <credits>
+      <actor>Colin Cowherd</actor>
+      <actor>Jason McIntyre</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299598_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E198</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007190000 +0000" stop="20261007210000 +0000">
+    <title lang="en">Live: First Things First</title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.</desc>
+    <credits>
+      <actor>Nick Wright</actor>
+      <actor>Chris Broussard</actor>
+      <actor>Kevin Wildes</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E193</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007210000 +0000" stop="20261007213000 +0000">
+    <title lang="en">Live: First Things First: OT</title>
+    <desc lang="en">Nick Wright, Chris Broussard, Kevin Wildes, and OT anchor Danny Parkins offer their opinions on the day's biggest sports stories.</desc>
+    <credits>
+      <actor>Nick Wright</actor>
+      <actor>Chris Broussard</actor>
+      <actor>Kevin Wildes</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31032409_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E181</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007213000 +0000" stop="20261007220000 +0000">
+    <title lang="en">Live: MLB on FS1 Pregame</title>
+    <desc lang="en">FS1 MLB co-hosts &amp; analysts preview today's upcoming baseball games from around the country and recap the previous day's action.</desc>
+    <credits>
+      <actor>Kevin Burkhardt</actor>
+      <actor>David Ortiz</actor>
+      <actor>Derek Jeter</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10690037_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261007220000 +0000" stop="20261008010000 +0000">
+    <title lang="en">Live: MLB Baseball</title>
+    <desc lang="en">National League Divisional Series, Game 4. (If necessary).</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003RC5MV.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261008010000 +0000" stop="20261008020000 +0000">
+    <title lang="en">Live: MLB on FS1 Postgame</title>
+    <desc lang="en">Highlights, analysis and a wrap-up of today's MLB action.</desc>
+    <date>2016</date>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12940771_b_h8_ad.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="FS1.HD.us2" start="20261008020000 +0000" stop="20261008050000 +0000">
+    <title lang="en">Live: MLB Baseball</title>
+    <desc lang="en">National League Divisional Series, Game 4. (If necessary).</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003R80Z2.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   </tv>
