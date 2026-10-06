@@ -1,17 +1,49 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Italy U21 vs Poland U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Italy U21 vs Poland U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlanta Falcons vs New Orleans Saints (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" group-title="▷ Sukan 2",[Football] Atlanta Falcons vs New Orleans Saints (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3OTEyMDY1NjU1NTk6Y2RubGl2ZXR2LnR2OjgyODM1NDMxMzU2ZDcwNmMuMGU0OTNiMmFlYjMzMThhYjU1MzdlNzAxNjRhY2Q1NTM3NDZhZTZlZGMyNjFlMGNkOGNlZWZhOGE1YTI1YzI1Mg
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Montenegro U21 vs Armenia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Montenegro U21 vs Armenia U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=17%3A00%20Monterrey%20Open%3A%20Day%202%208%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+https://xyzstreams.space/espn/mono.ts.m3u8?token=1a55efc1f7bc4df63426453bffb812ea
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] 10.5.26 | Oswego Speedway (TIMST)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/08/21/SDW_1-1787331329117.png?impolicy=resize&amp;amp;w=1920&amp;amp;h=1080" group-title="▷ Sukan 2",[Live Event] 10.5.26 | Oswego Speedway (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/hpecttjb-1506
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a8d21552d4a99e0730613d5/playlist.m3u8?token=NmE4ZDIxNTUyZDRhOTllMDczMDYxM2Q1OjE3OTEyMDY1NjUzNjg6Y2RubGl2ZXR2LnR2OjNkY2MwNTg4ZGJhMmQ2M2IuNTFmZjIwOTMxZWNiMTJiYWJlOWMyZDJiYTQ2NDQzMzczN2MwYTk1MzJhMjNiM2M1NDRiYmNjYThjYmIwZmEwMQ
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Serbia U21 vs Russian Federation U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Serbia U21 vs Russian Federation U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
+https://justkidding.junksonus.party/main/secure/4d26678e8b04429ca7993a5cf48833eb3fd1b100c946e611167067bad2f11e82/1791255732/dirtvision-10-5-26-oswego-speedway.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Falcons @ Saints (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872979.png" group-title="▷ Sukan 2",[Live Event] Falcons @ Saints (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/o9bl8cai-6171
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZiOjE3OTEyMDY1NjU5NDU6Y2RubGl2ZXR2LnR2OjQ2MjE3N2FiN2E2YTE2MGUuNjIwMDg0MDZhZTk5ZDE4NGNkMzhkMzM5OTZiN2NhZmRkMjJiZTQ0MGFlOTJlNTk0MTJiNWEwZjI2ZGExMjA5MQ
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sweden U21 vs North Macedonia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sweden U21 vs North Macedonia U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free
+https://justkidding.junksonus.party/main/secure/458ea880ad31f4141e0dcdd420fbf8bfcb48672776e3b974624fe6d047293fcd/1791255732/espn-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] Memphis Grizzlies @ Atlanta Hawks (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nba-401898388.png" group-title="▷ Sukan 2",[Live Event] Memphis Grizzlies @ Atlanta Hawks (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/rskuu203-4520
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTEyMDY1NjU3NTE6Y2RubGl2ZXR2LnR2OjMyODVkZjFkYjc5NTRlODAuNWY0ZWFiMTM2YTI3YWUzN2RlZjc3NjAxZGRjNmUyNWFiMzBkYTFiOTk4N2I0Y2NhZTI2MDZiNDQyODY1OTNjYw
+https://justkidding.junksonus.party/main/secure/76b0cbf04044b88d0cc89c3d4445e7d6495713af697b13ef411271fa1374d88b/1791255732/nba-401898388.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Live Event] Minnesota Timberwolves @ Milwaukee Bucks (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nba-401914102.png" group-title="▷ Sukan 2",[Live Event] Minnesota Timberwolves @ Milwaukee Bucks (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/tmcpxezh-6980
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/8814a9938ee445bd827d34a3c66a094e77063f0f89381b080c03911d1adff0e8/1791255733/nba-401914102.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Live Event] New York Knicks @ Philadelphia 76ers (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nba-401914101.png" group-title="▷ Sukan 2",[Live Event] New York Knicks @ Philadelphia 76ers (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/h2s2a1nh-7058
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/cf9d100962bb59dd69b5a73f2941cd0af0e596a8f790cbaa4971bb417e5ca625/1791255732/nba-401914101.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Live Event] Ottawa Senators @ Boston Bruins (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892446.png" group-title="▷ Sukan 2",[Live Event] Ottawa Senators @ Boston Bruins (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/117wxsvt-4695
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/8b40138da48433cabfb40effc1dbb9cb1358596375f6739875a309ec45d53456/1791255732/nhl-401892446.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Live Event] Philadelphia Flyers @ Tampa Bay Lightning (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892445.png" group-title="▷ Sukan 2",[Live Event] Philadelphia Flyers @ Tampa Bay Lightning (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/kelcwql2-9197
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/4a16dcb30751f5008334a51a885b618a1e02f31759d5f347b4ef61613edc514b/1791255732/nhlnetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] Phoenix Suns @ Detroit Pistons (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nba-401908947.png" group-title="▷ Sukan 2",[Live Event] Phoenix Suns @ Detroit Pistons (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/cfnvoa2e-9138
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/da7fac57694f7581acf7a56ba5d77daf4f44ff7640973efeedc232d6b3d55bf1/1791255732/nba-401908947.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Live Event] San Jose Sharks @ Dallas Stars (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892448.png" group-title="▷ Sukan 2",[Live Event] San Jose Sharks @ Dallas Stars (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/kg3y8ezg-9908
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/1d921eada51972c13f812b8f15d062fb1365ae16a4234e2631286d0e8457c50c/1791255732/nhl-401892448.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Live Event] Winnipeg Jets @ Pittsburgh Penguins (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nhl-401892447.png" group-title="▷ Sukan 2",[Live Event] Winnipeg Jets @ Pittsburgh Penguins (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/5br41ulc-4412
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/50071eaf44fada229eb8956dc1d12530d0a243543b63f4f2f2c42e1644f86878/1791255732/nhl-401892447.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Live Event] Yankees @ Rays (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907986.png" group-title="▷ Sukan 2",[Live Event] Yankees @ Rays (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/2rqv6c3g-2165
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/cd39e5f1d9ef2c766bceb797e56144f3bb16f0e5c7b384f7ac0a06927d9f1cc7/1791255732/tbs-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
