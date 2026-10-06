@@ -2,76 +2,92 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Argentina vs Benin (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Argentina vs Benin (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce9bf/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOWJmOjE3OTEzMTA3OTU0OTE6Y2RubGl2ZXR2LnR2OjE2ZTY2MGI4NmExYjU2NWIuOTYzMWE2YzZkNjI1MjNlYzBlYzA4MGZkOWJjYzMyNzI0ZjA4N2RkMjVmMWVjMGNjNWZkY2NlZjY5N2ZlZmE4Yw
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Azerbaijan U21 vs Gibraltar U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Azerbaijan U21 vs Gibraltar U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20Sport%20AZ&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce17b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTdiOjE3OTEzMTA3OTM3NjQ6Y2RubGl2ZXR2LnR2OmY5NmU4MjhlYWU4NGEzM2MuNDRkNjJhODkyNGRiYTBkMzJmMTIzNzJmZDRjNjBmZDRjNjAzODYyMjQ5ZDY3ODdmMDMxMTViNmE1MWM0M2VjMQ
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Colombia vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Colombia vs Peru (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce9bf/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOWJmOjE3OTEzMjk5Mzg3NTM6Y2RubGl2ZXR2LnR2OjUzNGFkYjhkOTE1YWU1MTMuMWU2NmI1ZDU1Y2I4Mjc4MTgxZTEzODkyNWJkY2Q0NDI5ZGUzOTdlMGYwN2IxYjk5N2IxMmFmNWY2MWM2YWVlOA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Colombia vs Peru (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Colombia vs Peru (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Caracol%20TV%20Internacional%20LAM&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce688/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNjg4OjE3OTEzMTA3OTU4MjE6Y2RubGl2ZXR2LnR2OmY1YmY5Mjk4MWFmZWQ4NWIuZjA5NThmYTQzNjRiOTgyMDc0OTdlYmYxNWIyYzQ0MWFjODQwNTQwZTU1M2EzMTEzYjA4OTJhNzE4MDNjNWZlNg
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Germany U21 vs Georgia U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Germany U21 vs Georgia U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ProSieben%20Maxx%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce688/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNjg4OjE3OTEzMjk5MzkwODM6Y2RubGl2ZXR2LnR2Ojg2YTc0OGI3MjQ2MTZkMzQuNWM2MjI3NzRhNjFjNWU2ZjMxNzM0Mzk5MTViNDI2MDkxMTIzMWM2Njc5OGQ4NTMyNGM5ZWQzODQ1YzQzMjNkOA
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Goiás vs Athletic Club-MG (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Goiás vs Athletic Club-MG (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc9ec/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjOWVjOjE3OTEzMTA3OTQ4NDc6Y2RubGl2ZXR2LnR2OjVlZmRhNGI5YzNiYmVkMDIuODk0MzZkYTNmMTVhM2Y3NTBhYWJkOTQyZmIzNDdmYzUxMjA0YTk3ZjgyNDBjZDc0MmQzZTA0MGRkM2NhNDNjZA
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Goiás vs Athletic Club-MG (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Goiás vs Athletic Club-MG (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEzMjk5Mzg5MDk6Y2RubGl2ZXR2LnR2OmU0OTk3YTkwZjc5N2NiZDIuMDgxOTAwN2RmOWQ1Yjk4YzJhM2FhMWU5NGI0MWIzNDE4OTUwMDk0MmY1MDMzZGQyNTIzOWVmZWJkZDZhOGViZA
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Mexico vs Chile (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Mexico vs Chile (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTEzMTA3OTU2NDc6Y2RubGl2ZXR2LnR2OjM5YjNmOTYwMjk1NTVkMGQuYjdiZDI1YzVlNDcyYTk1Y2ZlMGMxOTgxZDA1M2I2OTNjMjVjNDY1YWI5N2IwZGQyNGNjZTAyZDU0NzQ1ODk0Nw
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] India vs Uruguay (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] India vs Uruguay (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEzMTA3OTM2MTI6Y2RubGl2ZXR2LnR2OmY3NGM5OWE1NDUzOGUwMzAuYTVlZTk2MzdmZDg5NWRmNzU5NWJhZDcxYWUwNTEwYTk2MTllYmI0YTU1ODUyOGEwZTA3MWQ1NzI1YzgxMDQzNg
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Israel U21 vs Norway U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Israel U21 vs Norway U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%201%20HD%20NO&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd777/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzc3OjE3OTEzMTA3OTQyMzY6Y2RubGl2ZXR2LnR2OjM3YmI4ZTM1ODFmOTFkMjUuNjJiZjA5MDgyMDBmOWIyZTU3ZjA5YjFhZGMwZTEwY2JiODZhYTY1OGRhYTNlNDlkOWUzNTIwNjQ4Y2MwNWE1ZA
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Netherlands U21 vs Bosnia-Herzegovina U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Netherlands U21 vs Bosnia-Herzegovina U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce5a/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTVhOjE3OTEzMTA3OTQwODI6Y2RubGl2ZXR2LnR2OmI0NzdhY2QyMjcwMDYyZWYuNGUxNjU5NGNhN2YzZjk4M2MyNTQ2YzAyMmYwODk4NzJkNGQzYmM2NTlhMWQxZmVlYjc3MTkyYzEyNzBmZjgwOQ
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Northern Ireland U21 vs Greece U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Northern Ireland U21 vs Greece U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd626/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjI2OjE3OTEzMTA3OTQ2OTQ6Y2RubGl2ZXR2LnR2OjM3MjI2ZDdkMDMyOWRjZDkuZTY4YTkwZjg0MmEyMDAxYzVmMGQwYjczNjUxYzYxZmU5NDk2MGFmNmFhNDA0ZWYyOGNlNDZkYWM1NjkzM2U0MA
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ponte Preta vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ponte Preta vs Juventude (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTEzMTA3OTYxMjA6Y2RubGl2ZXR2LnR2OjU2ODJjOWM4OGYwYzc0NmEuMTI2NzdjYWVlODdiNmZiOTYyMzIzNzFkNTIzZmU2MjY2MzU2ZTU0ZGUzZTJiNzlhMzkxMmUyOTgzYWY5NGI2ZQ
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portugal U21 vs Czech Republic U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portugal U21 vs Czech Republic U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd441/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQxOjE3OTEzMTA3OTQzODk6Y2RubGl2ZXR2LnR2OjlhMzIxY2NiM2NkNjk1NzMuZDIxNDhmNDE1NWEzOTIwN2RmOTMxNjAxYmIyYzI3YTg3ZTZmNDc3ZDU1M2IzMWIxOGQ0YTk1YjRkNmYxOWM4MA
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Republic of Ireland U21 vs England U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Republic of Ireland U21 vs England U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc69a/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNjlhOjE3OTEzMTA3OTM5MTg6Y2RubGl2ZXR2LnR2Ojk4ODMxNWQ5YzVhZWNmZDMuNWMyNTBjNzQwNzYzOTFkOTk1Y2RiNDYwODRkNWQ0ZThlOTUzMmM2MTg0YWI3MjY1MmY2ZDU1NGQyYTc0ZjkwOA
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Russia vs Nigeria (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Russia vs Nigeria (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce16e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTZlOjE3OTEzMTA3OTUwMTc6Y2RubGl2ZXR2LnR2OmQ5MWU2YmRkY2ZiMDRjZWUuODFkNjFhZTNhZTMxZjAxNWE4MTYwOWRmMDM1NGRjODA5YTA3NzQ4MThiOWM0NTFlYWE3ZDVkOTEzZTBjYjRmMg
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Spain U21 vs Romania U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Spain U21 vs Romania U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc771/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzcxOjE3OTEzMTA3OTQ1Mzg6Y2RubGl2ZXR2LnR2OjFmMTdjNjkxODJjMDk0OWEuMGNjYjU5Yzc2NzBkYWJmNDk4ZTg1NDQyN2JjZjE4MGZhOTJiNmZhZTM4ZGYwZWI0NmI4ZTllMGIwYzFjM2QwMA
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sport Recife vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sport Recife vs São Bernardo (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTEzMTA3OTUzMzQ6Y2RubGl2ZXR2LnR2OjhjMDJlZDRkMmIwMmFkNjEuYTYyZTlhNWFmMWM3N2M0ZTVlOTRhZDljMzAyNzIxMjk5OTc0M2ZlYjMwZDFmYjViYjNiMjBkNGM3MTgzMDJkMQ
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Canada (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Canada (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf024/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI0OjE3OTEzMjk5Mzk0MTM6Y2RubGl2ZXR2LnR2OmQ2ZTM4MzE5MzljZTY5ZjQuZTVhZjVkOTU5OWEzNzM3MGMzOGZkZWNlMzdkNzVjMTljMTQ4ZGQ4NzQyMmZmM2VkYjVlNmM3YzBmNzJjOTNiYQ
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] USA vs Canada (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] USA vs Canada (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTEzMTA3OTU5NjY6Y2RubGl2ZXR2LnR2OjJmYTU1ODRkNjk2OTQxNWYuODYwMDhjMTc5YWMwMzc3OWIwNGNhMmE3YWIwYzZlMWZiZjI1NzE2YjdlYzYwYjE0NWM1NDI0Mzg3YWI1MmU3YQ
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Wales U21 vs Austria U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Wales U21 vs Austria U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%20Sport%2B%20HD%20AT&code=&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTEzMjk5MzkyMzM6Y2RubGl2ZXR2LnR2OjM3NDQyYmQwOTYwZjM4N2EuZGNkODA3NTU1N2IwODdmZThlMDE2OTg0MGMzZWY0ZmE1MjIxMjAzYmQ3NmUwOWE2YzU4YjEwZDFmMDNmMGI2ZQ
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Live Event] Bulgaria @ Luxembourg (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861141.png" group-title="▷ Sukan 2",[Live Event] Bulgaria @ Luxembourg (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/16lvabvx-449
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccb15/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE1OjE3OTEzMTA3OTUxNzg6Y2RubGl2ZXR2LnR2OmZiNGM1MDRlZGVmYjVhYjguNDIyNjc2YzkxZjQ5ZWZjNjVjMGYxZjUxNTJjMmJlMGI4NWJiODAwOWUwZmI5YjAyYmE3NTZkYjQ4ODMyNmE3YQ
-#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Live Event] Faroe Islands @ Kazakhstan (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861135.png" group-title="▷ Sukan 2",[Live Event] Faroe Islands @ Kazakhstan (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/c5nbe42h-5839
+https://justkidding.junksonus.party/main/secure/12ad9925ed73df10412e30a39bb3a5266c9cf7fc3beb6f735035830743220612/1791324538/unl-401861141.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Live Event] Czechia @ England (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861142.png" group-title="▷ Sukan 2",[Live Event] Czechia @ England (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/4fdwqkit-2360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/9e4e29ae42041d4121d7d2e448757b4603f190c07a59259cfc53297226447597/1791305393/unl-401861135.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Kazakhstan vs Faroe Islands (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Kazakhstan vs Faroe Islands (FLYEMBD)
+https://justkidding.junksonus.party/main/secure/81ac8f327a5029e2a68511b6aee60add413e5def5b22d5bc6fbd64f97f87af0b/1791324538/unl-401861142.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Live Event] Finland @ Belarus (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861138.png" group-title="▷ Sukan 2",[Live Event] Finland @ Belarus (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/kfw5s3zm-6041
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/73ebd48c2c1aff30044ce05ea18823127f94184f29046cced4708ecd5ffc57b9/1791324538/unl-401861138.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] Iceland @ Estonia (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861136.png" group-title="▷ Sukan 2",[Live Event] Iceland @ Estonia (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/wv7y1jdo-1896
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/c55cde45747ef70971a52ae11798837ca76f7a0d49dcaf708fa5ccb8eb26e424/1791324539/unl-401861136.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Live Event] North Macedonia @ Switzerland (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861139.png" group-title="▷ Sukan 2",[Live Event] North Macedonia @ Switzerland (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/y05f0z39-7645
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/b32a988fc81b52c003ae93b0063a87b65025f27a6a06496d29a4c4f850c1f9a9/1791324539/unl-401861139.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Live Event] San Marino @ Albania (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861140.png" group-title="▷ Sukan 2",[Live Event] San Marino @ Albania (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/7mwgv69j-1130
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/fe8078f40298754550bf5889f4cf35cd9024e3675572c1762f55d68ccafda460/1791324538/unl-401861140.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Live Event] Slovakia @ Moldova (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861144.png" group-title="▷ Sukan 2",[Live Event] Slovakia @ Moldova (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/pg3nqjoz-2925
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/0e7b98c67ed629bbb9e94a06f0305522c6cf404b2f99c1992e5807708bdd97ac/1791324539/unl-401861144.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Live Event] Slovenia @ Scotland (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861143.png" group-title="▷ Sukan 2",[Live Event] Slovenia @ Scotland (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/z56tkc9c-9737
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/404b2e6e9cf5a3f8d5da86d550f4fb6e6597cbacc7151d649ee28216688fb66e/1791324538/unl-401861143.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Live Event] Spain @ Croatia (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861137.png" group-title="▷ Sukan 2",[Live Event] Spain @ Croatia (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/dvwnmjx0-262
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/76d1fd67109514f15866b90f2688ac7742793551958a1f088adcb186bde3ad7d/1791324538/unl-401861137.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Albania vs San Marino (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Albania vs San Marino (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/7mwgv69j-7835
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/f8dbc519e4c6000943784ecffa8a26a2b6719435980062daf9e30f538577e5f0/1791324539/unl-401861140.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belarus vs Finland (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Belarus vs Finland (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kfw5s3zm-3473
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/fa557892508facafdc35601a27a3be1da716284bf79382ee8345f42672a39392/1791324539/unl-401861138.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Croatia vs Spain (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Croatia vs Spain (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/dvwnmjx0-29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e4bbd262087401e7bc968de0979c2d81f205afff7c23123befde55d07ca02539/1791324540/unl-401861137.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] England vs Czechia (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] England vs Czechia (FLYEMBD)
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/p5562bwm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/d10f2d34c841f913f516608b8b3098157712a6a044491307bec384b7ed6edfd6/1791305396/fox-sports-2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+https://justkidding.junksonus.party/main/secure/025b15b49f14f0c7707fdefd79ba4ef18b2a30ad9d7ee5b41d2702f40b04d44b/1791324540/fox-sports-2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Estonia vs Iceland (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Estonia vs Iceland (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/wv7y1jdo-8112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/596ff00bc13f84d224752385db075a96274e79ff05885b2c97c252ddfec26370/1791324541/unl-401861136.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Luxembourg vs Bulgaria (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Luxembourg vs Bulgaria (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/16lvabvx-4281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/a64d5a457ce2bf23dd192d0838257a82034bf999106462b7cb6ab3e481414785/1791324541/unl-401861141.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Moldova vs Slovakia (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Moldova vs Slovakia (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/pg3nqjoz-6708
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/c44b717f6aee1559b4ed789fc605323924c51aaf151e3f431dd74d78c4b9ffbb/1791324542/unl-401861144.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Scotland vs Slovenia (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Scotland vs Slovenia (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/z56tkc9c-8583
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/83d7232a214eeac310569ab7b903c7ee4ac801885b0ca2ea8d2852fcede253bf/1791324542/unl-401861143.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Switzerland vs North Macedonia (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="▷ Sukan 2",[UEFA Nations League] Switzerland vs North Macedonia (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/y05f0z39-3987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/c280063f602c215b216f4718ac51c0f3fef6982aa42d339b5203ca997fb432a1/1791324543/unl-401861139.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
