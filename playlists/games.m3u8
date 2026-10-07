@@ -2,4 +2,12 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] América Mineiro vs Fortaleza (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] América Mineiro vs Fortaleza (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTE0MDczOTYzMjk6Y2RubGl2ZXR2LnR2OjEyNDBjNTAyZWVjYzNiMmUuMWY5MGNhOTdmMmU4ZjBiYjBhNDY3ZTZjNjRkZTBkMmZmMDdlODIzY2M3ZjdiOGZiZDg2NWVlYjJjZWZkMGM5Nw
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTE0MjUzODE3MDc6Y2RubGl2ZXR2LnR2OjQ1Mzc1OWE4YmQ0NzhiMmEuNjc1NWZhOWZhOWExYzU4YmM1ZDY2MWY4ZWEwNmJmMTcyYzJlZTdmMzM1YmM3MTliNzY5YjdmMjZhYTJiNjkyOA
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Dodgers @ Braves (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401908016.png" group-title="▷ Sukan 2",[Live Event] Dodgers @ Braves (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/f4ijr4sl-3969
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/5ddc483e4828dd738981c43a192c6941ecd294453027df6a139f59e40c02101b/1791419981/fox-sports-1.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Guardians @ White Sox (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907992.png" group-title="▷ Sukan 2",[Live Event] Guardians @ White Sox (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/2rqv6c3g-840
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/0dae8c3b00b75263a500631ed13a2f64c3df9b0d08f85fc5555572dff6932822/1791419981/tbs-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
