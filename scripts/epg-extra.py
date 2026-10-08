@@ -25,6 +25,14 @@ CHANNELS = {
     "FS2.HD.us2": None,
     "CBS.Sports.Golazo.Network.us2": None,
     "plex.tv.Fubo.Sports.Network.plex": "https://epg.iptvx.one/picons/fubo-sports-network-us.png",
+    "SkySp.News.HD.uk": None,
+    "SkySpMainEvHD.uk": None,
+    "SkySp.PL.HD.uk": None,
+    "Sky.Sports.Football.HD.uk": None,
+    "SkySp.F1.HD.uk": None,
+    "SkySpCricket.HD.uk": None,
+    "SkySp.Mix.HD.uk": None,
+    "SkySp.Golf.HD.uk": None
 }
 
 
