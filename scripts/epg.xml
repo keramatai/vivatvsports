@@ -17986,233 +17986,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" />
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1321_f.png" />
     </channel>
-  <programme start="20261007013000 +0000" stop="20261007020000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Greats</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">Prominent sports personalities shed light on their careers, along with their best achievements.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Biography</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22673810~~2FEP012852210073,imi:080b92f01c189d0e18cd519ae7312ba3db844a5f/posterTile?imageVersion=w8G_Cg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20261007020000 +0000" stop="20261007040000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">LaLiga</title>
-    <sub-title lang="en">Villarreal CF v Levante UD</sub-title>
-    <desc lang="en">The Ceramica hosts this Valencian Community Derby as Villarreal take on Levante.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021337~~2FEP014069445417,imi:f6c5b38bcfb4e5d44a40dfe0575941d04730a47c/posterTile?imageVersion=NrPuKw&amp;w=200" />
-    <country lang="en">ES</country>
-    <episode-num system="onscreen">S2026 E91817</episode-num>
-  </programme>
-  <programme start="20261007040000 +0000" stop="20261007043000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Countdowns</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">Watch the latest episode in the Sporting Countdowns series.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Sports Talk</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22756689~~2FEP042518260011,imi:3aaee1eac4f5e2c7f52f0fc3678405bafc3dc1b8/posterTile?imageVersion=b5hj_w&amp;w=200" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20261007043000 +0000" stop="20261007050000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Countdowns</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en">Watch the latest episode in the Sporting Countdowns series.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Sports Talk</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22756695~~2FEP042518260013,imi:4e3c1752d16e6eaa2956f7e63f43915c76612506/posterTile?imageVersion=Q4qKEQ&amp;w=200" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Greats</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Watch the very best sportspeople look back over their careers.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Biography</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516357~~2FEP012852210067,imi:f3e87c1017e24cc9e12e3b5925af85188a0d6a3f/posterTile?imageVersion=m3Pbgw&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20261007053000 +0000" stop="20261007060000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Greats</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Watch the very best Sports people look back over their careers.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Biography</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516360~~2FEP012852210068,imi:769f77782196ef3aab4633e9f332bbb7fe6d515e/posterTile?imageVersion=5J0w_Q&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20261007060000 +0000" stop="20261007080000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">UEFA Champions League Football</title>
-    <sub-title lang="en">League Phase: Liverpool v Atlético Madrid</sub-title>
-    <desc lang="en">Liverpool and Atlético de Madrid face off in this blockbuster league phase clash in the UEFA Champions League with Anfield providing the backdrop.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33859310~~2FEP013081534411,imi:8b94b9bc39d42a15c8e9399d5189750107c6ec5b/posterTile?imageVersion=-Yoq4Q&amp;w=200" />
-    <country lang="en">DE</country>
-    <episode-num system="onscreen">S2026 E90811</episode-num>
-  </programme>
-  <programme start="20261007080000 +0000" stop="20261007100000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">NHL Hockey Florida Panthers at Los Angeles Kings</title>
-    <sub-title lang="en">Florida Panthers at Los Angeles Kings</sub-title>
-    <desc lang="en">The Los Angeles Kings and the Florida Panthers battle it out in this NHL regular season encounter at Crypto.com Arena.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34179875~~2FEP012830217475,imi:30b40004b42e039a70603465250683f17eba76d8/posterTile?imageVersion=lzrd-Q&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">E573</episode-num>
-  </programme>
-  <programme start="20261007100000 +0000" stop="20261007110000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">URC in 60</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Watch all the highlights of the last round of URC.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103481~~2FEP066049380002,imi:7d0dcbb0c7721179d53db351baa2c46fa7990870/posterTile?imageVersion=uMVDbA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100502</episode-num>
-  </programme>
-  <programme start="20261007110000 +0000" stop="20261007130000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">United Rugby Championship</title>
-    <sub-title lang="en">10bet Lions v Ospreys</sub-title>
-    <desc lang="en">Ellis Park Stadium hosts this URC fixture between the 10Bet Lions and Ospreys.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34102988~~2FEP015003242213,imi:d53eaad6ad59b027c43ef9d0a198ea19b221caf3/posterTile?imageVersion=Ps4cfw&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E100313</episode-num>
-  </programme>
-  <programme start="20261007130000 +0000" stop="20261007140000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">NHL On The Fly</title>
-    <sub-title lang="en">Episode 158</sub-title>
-    <desc lang="en">Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137634~~2FEP039622671093,imi:f13c422f67decb1d3d079771ff46575c182b5c56/posterTile?imageVersion=fyjfkg&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">E158</episode-num>
-  </programme>
-  <programme start="20261007140000 +0000" stop="20261007143000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Top 14 Highlights</title>
-    <sub-title lang="en">Round 5</sub-title>
-    <desc lang="en">Highlights of the latest round from the Top 14.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34194778~~2FEP020003000380,imi:9ddb19ff61d14449cf3ab013a847d5d0032fe3c2/posterTile?imageVersion=AnGpCg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E100680</episode-num>
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007153000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">URC in 60</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Watch all the highlights of the last round of URC.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103481~~2FEP066049380002,imi:6c20cf536615c8d89a00812ad5e3680c61bccbee/posterTile?imageVersion=uMVDbA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100502</episode-num>
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007173000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Top 14</title>
-    <sub-title lang="en">Montpellier Hérault Rugby v RC Toulon</sub-title>
-    <desc lang="en">Montpellier and Toulon go head-to-head in this TOP 14 clash from Septeo Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103058~~2FEP013807481103,imi:b6c1a46a0d9019116ceb058ceb769ba86314d6b7/posterTile?imageVersion=tctvDg&amp;w=200" />
-    <country lang="en">FR</country>
-    <episode-num system="onscreen">S2026 E100503</episode-num>
-  </programme>
-  <programme start="20261007173000 +0000" stop="20261007193000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">LaLiga</title>
-    <sub-title lang="en">Atlético Madrid v Real Madrid</sub-title>
-    <desc lang="en">The first Madrid Derby of the season comes from the Metropolitano as Atlético Madrid play host to Real Madrid.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34027353~~2FEP014069445419,imi:2b1e8674d7782fd4a6fcfd23f4eec94b61e7e329/posterTile?imageVersion=OD7WtQ&amp;w=200" />
-    <country lang="en">ES</country>
-    <episode-num system="onscreen">S2026 E92019</episode-num>
-  </programme>
-  <programme start="20261007193000 +0000" stop="20261007200000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">KOTV Boxing Weekly</title>
-    <sub-title lang="en">Episode 41</sub-title>
-    <desc lang="en">KOTV Weekly, the all-you-need boxing show with fights from around the world, the latest news, results and big fight previews. Plus we dig deep into our hundred-year-old archive of fights.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Boxing</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103436~~2FEP012810840596,imi:5d7f12c938c8f133d57da0dea0204dcd95fde2ec/posterTile?imageVersion=BT1GEg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">E41</episode-num>
-  </programme>
-  <programme start="20261007200000 +0000" stop="20261007203000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
-    <credits>
-      <producer>Nairn Salter</producer>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34065711~~2FEP012753330464,imi:7cc682db8baa4c0351179c414ca13eefde5f9476/posterTile?imageVersion=twvDhQ&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S26 E5</episode-num>
-  </programme>
-  <programme start="20261007203000 +0000" stop="20261007213000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">URC in 60</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Watch all the highlights of the last round of URC.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103481~~2FEP066049380002,imi:802560df42574761df8930d597f8136b528cd17e/posterTile?imageVersion=uMVDbA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100502</episode-num>
-  </programme>
-  <programme start="20261007213000 +0000" stop="20261007220000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Temples of Sport</title>
-    <sub-title lang="en">Camp Nou</sub-title>
-    <desc lang="en">Temples of Sport is a series focusing on iconic sporting venues around the globe.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30237292~~2FEP042563870024,imi:ef00a4113e0cf486c33ad8aeef2afea213eb574d/posterTile?imageVersion=8WQGiA&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E20</episode-num>
-  </programme>
-  <programme start="20261007220000 +0000" stop="20261007223000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Sporting Countdowns</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Watch the latest episode in the Sporting Countdowns series.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Sports Talk</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516352~~2FEP042518260005,imi:f9a3944dcedafede568cfed9189b242cfd3ba86d/posterTile?imageVersion=poRSYA&amp;w=200" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20261007223000 +0000" stop="20261008003000 +0000" channel="Premier.Sports.1.HD.ie">
-    <title lang="en">Liga Profesional de Fútbol</title>
-    <sub-title lang="en">Boca Juniors v Unión</sub-title>
-    <desc lang="en">Boca Juniors welcome Club Atletico Unión to La Bombonera in this Liga Profesional de Fútbol matchup.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103401~~2FEP018174120141,imi:7dab1cc6f8ca69600467d3f4c65cbf7e970bc9e9/posterTile?imageVersion=UfJGHQ&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100341</episode-num>
-  </programme>
   <programme start="20261008003000 +0000" stop="20261008010000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Champions League Magazine</title>
     <sub-title lang="en">Episode 5</sub-title>
@@ -18646,11 +18419,14 @@
   </programme>
   <programme start="20261009223000 +0000" stop="20261009233000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Europa and Conference League Magazine</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22797645~~2FSH044273040000~~2F551016900,imi:d75b8c47784acdcb9a641da73a0adf241e5edef3/posterTile?imageVersion=evrtcw&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34194904~~2FEP044273040119,imi:f8086b0064ff9fcb7660c60c5a4e05ebe0e288a3/posterTile?imageVersion=qQG5Nw&amp;w=200" />
     <country lang="en">DE</country>
+    <episode-num system="onscreen">S26 E2</episode-num>
   </programme>
   <programme start="20261009233000 +0000" stop="20261010013000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">LaLiga</title>
@@ -18667,7 +18443,7 @@
   <programme start="20261010013000 +0000" stop="20261010033000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">United Rugby Championship</title>
     <sub-title lang="en">Glasgow Warriors v Connacht</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Scotstoun Stadium is the venue for this URC clash between Glasgow Warriors and Connacht.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -18678,11 +18454,14 @@
   </programme>
   <programme start="20261010033000 +0000" stop="20261010043000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Europa and Conference League Magazine</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22797645~~2FSH044273040000~~2F551016905,imi:7d1c2536a26448220dd9540382f1320b421569ca/posterTile?imageVersion=qQG5Nw&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34194904~~2FEP044273040119,imi:117e0e284ea5743ba1eacada13b2973bf9c0e9ae/posterTile?imageVersion=qQG5Nw&amp;w=200" />
     <country lang="en">DE</country>
+    <episode-num system="onscreen">S26 E2</episode-num>
   </programme>
   <programme start="20261010043000 +0000" stop="20261010050000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Champions League Magazine</title>
@@ -18701,7 +18480,7 @@
   <programme start="20261010050000 +0000" stop="20261010070000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">NHL Hockey Anaheim Ducks at Winnipeg Jets</title>
     <sub-title lang="en">Anaheim Ducks at Winnipeg Jets</sub-title>
-    <desc lang="en">Coverage of the NHL season 2026/27.</desc>
+    <desc lang="en">The Winnipeg Jets host the Anaheim Ducks in this NHL regular season clash from Canada Life Centre.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Ice Hockey</category>
@@ -18711,11 +18490,14 @@
   </programme>
   <programme start="20261010070000 +0000" stop="20261010080000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Europa and Conference League Magazine</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22797645~~2FSH044273040000~~2F551016961,imi:bcded0124bdf8a7259b13a3b8f6a8ecedf68c2bf/posterTile?imageVersion=qQG5Nw&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34194904~~2FEP044273040119,imi:9ab5ecc522fd0b89fded3633ca00590867380135/posterTile?imageVersion=qQG5Nw&amp;w=200" />
     <country lang="en">DE</country>
+    <episode-num system="onscreen">S26 E2</episode-num>
   </programme>
   <programme start="20261010080000 +0000" stop="20261010083000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Champions League Magazine</title>
@@ -18744,7 +18526,7 @@
   <programme start="20261010093000 +0000" stop="20261010112500 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">United Rugby Championship</title>
     <sub-title lang="en">Glasgow Warriors v Connacht</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Scotstoun Stadium is the venue for this URC clash between Glasgow Warriors and Connacht.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -18766,11 +18548,14 @@
   </programme>
   <programme start="20261010120000 +0000" stop="20261010130000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">UEFA Europa and Conference League Magazine</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22797645~~2FSH044273040000~~2F557672452,imi:07ae416cbd05e604dd78178b8e57ba1483637552/posterTile?imageVersion=qQG5Nw&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34194904~~2FEP044273040119,imi:3f8173497150db343a0b617b6dadb37390915be7/posterTile?imageVersion=qQG5Nw&amp;w=200" />
     <country lang="en">DE</country>
+    <episode-num system="onscreen">S26 E2</episode-num>
   </programme>
   <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">NHL On The Fly</title>
@@ -18796,7 +18581,7 @@
   <programme start="20261010161500 +0000" stop="20261010183000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">Live: United Rugby Championship</title>
     <sub-title lang="en">Ulster v Munster</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Interprovincial rivals Ulster and Munster face off in this URC matchup from Affidea Stadium.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -18807,7 +18592,7 @@
   <programme start="20261010183000 +0000" stop="20261010211500 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">Live: United Rugby Championship</title>
     <sub-title lang="en">Leinster v Cardiff</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">The Laya Arena hosts this URC clash between Leinster and Cardiff.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -18843,7 +18628,7 @@
   <programme start="20261010220000 +0000" stop="20261011000000 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">United Rugby Championship</title>
     <sub-title lang="en">DHL Stormers v Hollywoodbets Sharks</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">The DHL Stormers and the Hollywoodbets Sharks go head-to-head in this all-South African URC clash from Cape Town Stadium.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -18852,212 +18637,234 @@
     <episode-num system="onscreen">S2026 E101016</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme start="20261007012000 +0000" stop="20261007013000 +0000" channel="Premier.Sports.2.HD.ie">
+  <programme start="20261011000000 +0000" stop="20261011020000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">United Rugby Championship</title>
+    <sub-title lang="en">Vodacom Bulls v 10bet Lions</sub-title>
+    <desc lang="en">Loftus Versfeld is the venue for this URC clash between the Vodacom Bulls and the 10Bet Lions.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34144962~~2FEP015003242222,imi:6daf638df09c9dcb6e1326700894b7883a8a846b/posterTile?imageVersion=D7Tpwg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E101022</episode-num>
+  </programme>
+  <programme start="20261011020000 +0000" stop="20261011040000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">FC Barcelona v Getafe CF</sub-title>
+    <desc lang="en">Barcelona and Getafe meet in this LALIGA clash from the Spotify Camp Nou.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103656~~2FEP014069445426,imi:5fec42b19105d7b1bc3d3c204d7b27dc252e49f1/posterTile?imageVersion=OD7WtQ&amp;w=200" />
+    <country lang="en">ES</country>
+    <episode-num system="onscreen">S2026 E101026</episode-num>
+  </programme>
+  <programme start="20261011040000 +0000" stop="20261011043000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <credits>
+      <producer>Nairn Salter</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34170573~~2FEP012753330465,imi:05400ccc32b89f7803434b987ac5cbed1d0ec767/posterTile?imageVersion=ffXyDw&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">S26 E6</episode-num>
+  </programme>
+  <programme start="20261011043000 +0000" stop="20261011050000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">KOTV Boxing Weekly</title>
+    <sub-title lang="en">Episode 41</sub-title>
+    <desc lang="en">KOTV Weekly, the all-you-need boxing show with fights from around the world, the latest news, results and big fight previews. Plus we dig deep into our hundred-year-old archive of fights.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103436~~2FEP012810840596,imi:2164096b89bc128e931ea4372ba19fffd45ccb4e/posterTile?imageVersion=BT1GEg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">UEFA Europa and Conference League Magazine</title>
+    <desc lang="en">A round-up of all the latest action and stories from the UEFA Europa League and Conference League.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22797645~~2FSH044273040000~~2F551016922,imi:a32d3bb9713b40135bf8d76bc209d37b997ce169/posterTile?imageVersion=Z0pSoA&amp;w=200" />
+    <country lang="en">DE</country>
+  </programme>
+  <programme start="20261011060000 +0000" stop="20261011063000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <credits>
+      <producer>Nairn Salter</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34170573~~2FEP012753330465,imi:e5a8ebb6171894c6407c2ce9ec4cf75ea81ce324/posterTile?imageVersion=ffXyDw&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">S26 E6</episode-num>
+  </programme>
+  <programme start="20261011063000 +0000" stop="20261011083000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Top 14</title>
+    <sub-title lang="en">Stade Français Paris v Montpellier Hérault Rugby</sub-title>
+    <desc lang="en">Stade Jean-Bouin sets the stage for this TOP 14 clash between Stade Français and Montpellier.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103064~~2FEP013807481104,imi:2855ce03b4204bf9c13e824ebfac46df7f807135/posterTile?imageVersion=AfJ4Vg&amp;w=200" />
+    <country lang="en">FR</country>
+    <episode-num system="onscreen">S2026 E101104</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011083000 +0000" stop="20261011103000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Top 14</title>
+    <sub-title lang="en">LOU Rugby v Stade Rochelais</sub-title>
+    <desc lang="en">Coverage of the Top 14, the top-tier league in French rugby.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103067~~2FEP013807481105,imi:29831938f4520ba63c93fe7aa23a4dcc3c5a6e00/posterTile?imageVersion=AfJ4Vg&amp;w=200" />
+    <country lang="en">FR</country>
+    <episode-num system="onscreen">S2026 E101105</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011103000 +0000" stop="20261011123000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Scottish Premiership Football</title>
+    <sub-title lang="en">Kilmarnock v Heart of Midlothian</sub-title>
+    <desc lang="en">Rugby Park is the venue for this Scottish Premiership fixture as Hearts travel to take on Kilmarnock.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34027139~~2FEP017811791688,imi:e550f6b1a2e5468a41e8d54ef4755cd44b793d4e/posterTile?imageVersion=5Z7RUA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E92088</episode-num>
+  </programme>
+  <programme start="20261011123000 +0000" stop="20261011153000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Live: Scottish Premiership Football</title>
+    <sub-title lang="en">Aberdeen v St. Johnstone</sub-title>
+    <desc lang="en">Aberdeen and St. Johnstone meet in this William Hill Premiership contest at Pittodrie Stadium.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103788~~2FEP017811761034,imi:267026d5a786ab3d06282909c6de389efa4044e2/posterTile?imageVersion=uKq1dQ&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101134</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011161500 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Live: LaLiga</title>
+    <sub-title lang="en">Real Sociedad v Real Club Deportivo de A Coruña</sub-title>
+    <desc lang="en">The Reale Arena hosts this LALIGA contest between Real Sociedad and Deportivo A Coruña.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103696~~2FEP014069514827,imi:2176385608a165140d2e2f8c69e185de6759339e/posterTile?imageVersion=x6fM9Q&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101127</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011161500 +0000" stop="20261011162500 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Valencia CF v Real Sociedad</sub-title>
+    <desc lang="en">LALIGA match highlights.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021248~~2FEP016246732641,imi:199818ed10b3ae62994b78553a385998dd7dbc46/posterTile?imageVersion=lUrVOg&amp;w=200" />
+    <country lang="en">QA</country>
+    <episode-num system="onscreen">S2026 E92241</episode-num>
+  </programme>
+  <programme start="20261011162500 +0000" stop="20261011183000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Live: LaLiga</title>
+    <sub-title lang="en">Real Betis v CA Osasuna</sub-title>
+    <desc lang="en">Real Betis host Osasuna in this Sunday night LALIGA clash from Estadio de La Cartuja.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103705~~2FEP014069514828,imi:2d609d81d6cfd4a0f44c0c5843d22935a75474c2/posterTile?imageVersion=g4OsJw&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101128</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011184000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Real Club Deportivo de A Coruña v Real Betis</sub-title>
+    <desc lang="en">LALIGA match highlights.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021230~~2FEP016246732639,imi:1456af29d75f34b289738c89e55c58339ce7923e/posterTile?imageVersion=lUrVOg&amp;w=200" />
+    <country lang="en">QA</country>
+    <episode-num system="onscreen">S2026 E92239</episode-num>
+  </programme>
+  <programme start="20261011184000 +0000" stop="20261011185500 +0000" channel="Premier.Sports.1.HD.ie">
     <title lang="en">LaLiga Highlights</title>
     <sub-title lang="en">Atlético Madrid v Real Madrid</sub-title>
     <desc lang="en">LALIGA match highlights.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021216~~2FEP016246732638,imi:a10baa7335652a213bf3b2637b00b7cd0ea66ce2/posterTile?imageVersion=lUrVOg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021216~~2FEP016246732638,imi:f33c873b8e91ac3b6e0bcb90ae4683b955d625a6/posterTile?imageVersion=lUrVOg&amp;w=200" />
     <country lang="en">QA</country>
     <episode-num system="onscreen">S2026 E92238</episode-num>
   </programme>
-  <programme start="20261007013000 +0000" stop="20261007020000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">This is Hockey</title>
-    <sub-title lang="en">Colombia</sub-title>
-    <desc lang="en">Starting from roller hockey with dreams of building an ice rink at home, the hockey community in Bogotá has enjoyed international tournament success.</desc>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F28800989~~2FEP054059450008,imi:26b6280555ae82f05e4018d938cfda2c738a86a5/posterTile?imageVersion=Ji_z-Q&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20261007020000 +0000" stop="20261007050000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Live: NHL Hockey</title>
-    <sub-title lang="en">Florida Panthers at Los Angeles Kings</sub-title>
-    <desc lang="en">The Los Angeles Kings and the Florida Panthers battle it out in this NHL regular season encounter at Crypto.com Arena.</desc>
+  <programme start="20261011185500 +0000" stop="20261011210000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Live: LaLiga</title>
+    <sub-title lang="en">Racing Santander v Valencia CF</sub-title>
+    <desc lang="en">Racing de Santander and Valencia go head-to-head in this LALIGA match from El Sardinero Stadium.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34181157~~2FEP013520127144,imi:69f3746c0a9c960efd16ecc9b9a6ecbe5d44392c/posterTile?imageVersion=gRyboA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100744</episode-num>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103719~~2FEP014069514829,imi:64d7fa14b28076eeb52e17d0c14bf1f94ce89899/posterTile?imageVersion=iGPmng&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101129</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Football's Greatest</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Watch the greatest players from past years talk about their careers.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516297~~2FEP012859490081,imi:6a85f37e7df45c2e2c2119014513811564fdb88b/posterTile?imageVersion=SXNGIA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20261007053000 +0000" stop="20261007073000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">International Friendly Football</title>
-    <sub-title lang="en">Argentina v Benin</sub-title>
-    <desc lang="en">Lionel Messi bids farewell to Argentina as they take on Benin in this international friendly at the Estadio Monumental.</desc>
+  <programme start="20261011210000 +0000" stop="20261011223000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Live: Campeonato Brasileiro</title>
+    <sub-title lang="en">Palmeiras v Corinthians</sub-title>
+    <desc lang="en">The Derby Paulista takes centre stage as Palmeiras and Corinthians battle it out in this Campeonato Brasileiro Série A meeting at Nubank Parque.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34202260~~2FEP015571620371,imi:6526f1ae3e2c60e66d63256f586b42243813b116/posterTile?imageVersion=TLWWtg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E100771</episode-num>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103569~~2FEP015725140225,imi:1cd8fd3c25ed1a53eebe0fff34783d885d840dbb/posterTile?imageVersion=Q4Mx0Q&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101125</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme start="20261007073000 +0000" stop="20261007093000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Scottish League Cup</title>
-    <sub-title lang="en">Quarter-Final: Rangers v Celtic</sub-title>
-    <desc lang="en">Rangers and Celtic face off for the first time this season in this Premier Sports Cup quarter-final derby clash from Ibrox Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33995122~~2FEP015937270225,imi:aaf890421a049f1f0ed1ad3273c3fc2f7e12b3d2/posterTile?imageVersion=IdL4UA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E91325</episode-num>
-  </programme>
-  <programme start="20261007093000 +0000" stop="20261007100000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Temples of Sport</title>
-    <sub-title lang="en">Wembley Stadium</sub-title>
-    <desc lang="en">A look at Wembley, the stadium that hosts domestic cup finals and the English national team home matches.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30237270~~2FEP042563870021,imi:722896d56334cc54cd301922f3ec2355a3c3c7d4/posterTile?imageVersion=ACrrfA&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E17</episode-num>
-  </programme>
-  <programme start="20261007100000 +0000" stop="20261007103000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Temples of Sport</title>
-    <sub-title lang="en">Anfield</sub-title>
-    <desc lang="en">A look at Anfield, one of football's most iconic venues and the home of Liverpool FC.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30237267~~2FEP042563870020,imi:81ee7650ca90d3a0107be8a0b3e130c3b85cf107/posterTile?imageVersion=5F6qcQ&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20261007103000 +0000" stop="20261007113000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Mass Participation</title>
-    <sub-title lang="en">UK Challenge</sub-title>
-    <desc lang="en">Mass Participation celebrates the energy, passion and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Triathlon</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33943644~~2FEP019863060127,imi:3af75aeb235e6b516c41d04b4892ab662ea55fda/posterTile?imageVersion=evGKKg&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007133000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">NHL Hockey Carolina Hurricanes at Montreal Canadiens</title>
-    <sub-title lang="en">Carolina Hurricanes at Montreal Canadiens</sub-title>
-    <desc lang="en">The Montreal Canadiens and the Carolina Hurricanes face off in this NHL regular season clash from Centre Bell.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34181811~~2FEP012830217493,imi:ddff1b23568df3f50b4cb596e9d91f07ca14c6eb/posterTile?imageVersion=lzrd-Q&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">E574</episode-num>
-  </programme>
-  <programme start="20261007133000 +0000" stop="20261007153000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Coppa Italia</title>
-    <sub-title lang="en">Second Round: Fiorentina v Pisa</sub-title>
-    <desc lang="en">Fiorentina and Pisa go toe to toe in this Coppa Italia Round of 32 clash from the Artemio Franchi.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33983207~~2FEP016448110371,imi:e74185498e5207221281a3da6236512ec3849511/posterTile?imageVersion=4drCyw&amp;w=200" />
-    <episode-num system="onscreen">S2026 E91671</episode-num>
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007160000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Football's Greatest</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Watch the greatest players from past years talk about their careers.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516299~~2FEP012859490083,imi:69920f256983d23cda41a9d485ccddd4d7ec77a9/posterTile?imageVersion=WmM_bQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20261007160000 +0000" stop="20261007163000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Football's Greatest</title>
+  <programme start="20261011223000 +0000" stop="20261011230000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Sporting Greats</title>
     <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Watch the greatest players from past years talk about their careers.</desc>
+    <desc lang="en">Watch the very best Sports people look back over their careers.</desc>
     <date>2022</date>
     <category lang="en">Sport</category>
+    <category lang="en">Biography</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22599658~~2FEP012852210070,imi:ba05b98d52749daaff0571533200b50e7b934166/posterTile?imageVersion=CDjHNA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20261011230000 +0000" stop="20261011233000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <credits>
+      <producer>Nairn Salter</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22599682~~2FEP012859490084,imi:6e6c384ee773e6a070694b82259b71ff6362785e/posterTile?imageVersion=2GOY_w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20261007163000 +0000" stop="20261007183000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Top 14</title>
-    <sub-title lang="en">Castres Olympique v Stade Toulousain</sub-title>
-    <desc lang="en">Castres Olympique and Toulouse face off in this TOP 14 clash at the Stade Pierre Fabre.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34050583~~2FEP013807481095,imi:9d065dec6f647cc6521b161c87c0a0f36394e843/posterTile?imageVersion=DKQLtA&amp;w=200" />
-    <country lang="en">FR</country>
-    <episode-num system="onscreen">S2026 E100395</episode-num>
-  </programme>
-  <programme start="20261007183000 +0000" stop="20261007203000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">United Rugby Championship</title>
-    <sub-title lang="en">Glasgow Warriors v Ulster</sub-title>
-    <desc lang="en">Glasgow Warriors and Ulster butt heads in this URC matchup from Scotstoun Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34054670~~2FEP015003242207,imi:459d9a77a2b6c4830c84f59e33b19ec05d6bae8e/posterTile?imageVersion=g1Ij8Q&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E100307</episode-num>
-  </programme>
-  <programme start="20261007203000 +0000" stop="20261007223000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Top 14</title>
-    <sub-title lang="en">Union Bordeaux-Bègles v LOU Rugby</sub-title>
-    <desc lang="en">Bordeaux-Bègles and Lyon meet in this TOP 14 clash from the Stade Jacques Chaban Delmas.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby Union</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34050563~~2FEP013807481093,imi:fc0aed00355b4c8ee74e39358c58d71ca7b30f98/posterTile?imageVersion=FXHjbg&amp;w=200" />
-    <country lang="en">FR</country>
-    <episode-num system="onscreen">S2026 E100393</episode-num>
-  </programme>
-  <programme start="20261007223000 +0000" stop="20261007230000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Temples of Sport</title>
-    <sub-title lang="en">Alpe D'Huez</sub-title>
-    <desc lang="en">Explore the epic history of France's Alpe d'Huez. From its gruelling 21-hairpin Tour de France cycling climb to its massive Olympic winter sports legacy, former stars explore what makes this peak a true sports temple.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30236301~~2FEP042563870016,imi:62ba9b84d9a54731687d39bdc08c1cd9994d4608/posterTile?imageVersion=OH9_Tg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34170573~~2FEP012753330465,imi:37b95b34e29da3eb283b4c4be92d24e0f9b9eef1/posterTile?imageVersion=ffXyDw&amp;w=200" />
     <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
+    <episode-num system="onscreen">S26 E6</episode-num>
   </programme>
-  <programme start="20261007230000 +0000" stop="20261007233000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Temples of Sport</title>
-    <sub-title lang="en">Royal Birkdale Golf Course</sub-title>
-    <desc lang="en">Temples of Sport is a series focusing on iconic sporting venues around the globe.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30237277~~2FEP042563870022,imi:800f33a44c526f97b4690e34b4ac205152e071ed/posterTile?imageVersion=CsmPKg&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20261007233000 +0000" stop="20261008023000 +0000" channel="Premier.Sports.2.HD.ie">
-    <title lang="en">Live: NHL Hockey</title>
-    <sub-title lang="en">Pittsburgh Penguins at Washington Capitals</sub-title>
-    <desc lang="en">The Washington Capitals welcome the Pittsburgh Penguins to Capital One Arena in this NHL regular season game.</desc>
+  <programme start="20261011233000 +0000" stop="20261012013000 +0000" channel="Premier.Sports.1.HD.ie">
+    <title lang="en">Top 14</title>
+    <sub-title lang="en">Stade Toulousain v Aviron Bayonnais</sub-title>
+    <desc lang="en">Toulouse and Bayonne face off in this TOP 14 clash from the Stade Ernest Wallon.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Ice Hockey</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34181161~~2FEP013520127145,imi:d1274724531fd18baca2955cb41c4e4e808d6619/posterTile?imageVersion=-YJEJA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E100845</episode-num>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103068~~2FEP013807481106,imi:76cfe0ea8cc5b41f8085c379f456910e87ef8e36/posterTile?imageVersion=AfJ4Vg&amp;w=200" />
+    <country lang="en">FR</country>
+    <episode-num system="onscreen">S2026 E101106</episode-num>
+    <premiere lang="en" />
   </programme>
   <programme start="20261008023000 +0000" stop="20261008030000 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">Football's Greatest</title>
@@ -19544,7 +19351,7 @@
   <programme start="20261010113000 +0000" stop="20261010133000 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">United Rugby Championship</title>
     <sub-title lang="en">Dragons v Ospreys</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Dragons and Ospreys meet in this all-Welsh URC clash from Rodney Parade.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -19555,7 +19362,7 @@
   <programme start="20261010133000 +0000" stop="20261010161500 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">Live: United Rugby Championship</title>
     <sub-title lang="en">Zebre Parma v Edinburgh</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Zebre Parma and Edinburgh meet in this URC contest at the Stadio Sergio Lanfranchi.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -19566,7 +19373,7 @@
   <programme start="20261010161500 +0000" stop="20261010190000 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">Live: United Rugby Championship</title>
     <sub-title lang="en">Scarlets v Benetton</sub-title>
-    <desc lang="en">Coverage of the URC season.</desc>
+    <desc lang="en">Scarlets and Benetton collide in this URC meeting from Parc y Scarlets.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby Union</category>
@@ -19605,7 +19412,7 @@
   <programme start="20261010200000 +0000" stop="20261010220000 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">LaLiga</title>
     <sub-title lang="en">Rayo Vallecano v Athletic Club</sub-title>
-    <desc lang="en">Coverage of the LALIGA season.</desc>
+    <desc lang="en">Rayo Vallecano and Athletic Club go head-to-head in this LALIGA contest from the Estadio de Vallecas.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Soccer</category>
@@ -19628,12 +19435,202 @@
   <programme start="20261010230000 +0000" stop="20261011020000 +0000" channel="Premier.Sports.2.HD.ie">
     <title lang="en">Live: NHL Hockey</title>
     <sub-title lang="en">Toronto Maple Leafs at Colorado Avalanche</sub-title>
-    <desc lang="en">Coverage of the NHL season 2026/27.</desc>
+    <desc lang="en">The Colorado Avalanche host the Toronto Maple Leafs in this NHL regular season fixture from Ball Arena.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Ice Hockey</category>
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34181452~~2FEP013520127151,imi:6920724ddcc2368bf6c0ee0d42071f60f9f6abca/posterTile?imageVersion=bBJZkg&amp;w=200" />
     <episode-num system="onscreen">S2026 E101151</episode-num>
+  </programme>
+  <programme start="20261011020000 +0000" stop="20261011023000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Bike World</title>
+    <sub-title lang="en">Episode 152</sub-title>
+    <desc lang="en">Bike World brings you the latest action from the high-octane world of two wheels, on-road, off-road or on track.</desc>
+    <credits>
+      <director>Alan Rawlings</director>
+      <producer>Kevin Andrews</producer>
+      <producer>Chris Abel</producer>
+      <producer>Nick Jones</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137399~~2FEP015312400351,imi:eac81533a2806e94088f4cdc0e188da79d743065/posterTile?imageVersion=vsZMXg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S9 E152</episode-num>
+  </programme>
+  <programme start="20261011023000 +0000" stop="20261011043000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">United Rugby Championship</title>
+    <sub-title lang="en">Scarlets v Benetton</sub-title>
+    <desc lang="en">Scarlets and Benetton collide in this URC meeting from Parc y Scarlets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34136987~~2FEP015003242221,imi:9e3d8426f0a012371958ce4fd10842a166cb973a/posterTile?imageVersion=D7Tpwg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E101121</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011043000 +0000" stop="20261011050000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Episode 9</sub-title>
+    <desc lang="en">Watch the greatest players from past years talk about their careers.</desc>
+    <date>2022</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22800964~~2FEP012859490089,imi:f864148223c7963f2093b1a14170e670e0115167/posterTile?imageVersion=54nBMw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Mass Participation</title>
+    <sub-title lang="en">UK Challenge</sub-title>
+    <desc lang="en">Mass Participation celebrates the energy, passion and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Triathlon</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33943644~~2FEP019863060127,imi:df14de49eb2aa81dd8d921aab1c94b2d523da4f9/posterTile?imageVersion=evGKKg&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20261011060000 +0000" stop="20261011080000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">NHL Hockey Philadelphia Flyers at Boston Bruins</title>
+    <sub-title lang="en">Philadelphia Flyers at Boston Bruins</sub-title>
+    <desc lang="en">The Boston Bruins and the Philadelphia Flyers take to the ice at TD Garden in this NHL regular season matchup.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Ice Hockey</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34181827~~2FEP012830217495,imi:979dd4d8d18f3bb0f29c39fb35dd06219d276f58/posterTile?imageVersion=DnQlzg&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">E584</episode-num>
+  </programme>
+  <programme start="20261011080000 +0000" stop="20261011100000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Top 14</title>
+    <sub-title lang="en">Clermont Auvergne v Union Bordeaux-Bègles</sub-title>
+    <desc lang="en">Bordeaux-Bègles are away to Clermont Auvergne in this TOP 14 encounter at the Stade Marcel Michelin.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby Union</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34136865~~2FEP013807481107,imi:936dcdfaade4a9fab3510ef7e62784d3ff5cb051/posterTile?imageVersion=AfJ4Vg&amp;w=200" />
+    <country lang="en">FR</country>
+    <episode-num system="onscreen">S2026 E101107</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011100000 +0000" stop="20261011115500 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Deportivo Alavés v Atlético Madrid</sub-title>
+    <desc lang="en">Deportivo Alavés and Atlético de Madrid battle it out in this LALIGA match from Mendizorroza.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137227~~2FEP014069445430,imi:d1de3269c9889f1b3081b08057e3cbdf5e83f6a1/posterTile?imageVersion=OD7WtQ&amp;w=200" />
+    <country lang="en">ES</country>
+    <episode-num system="onscreen">S2026 E101030</episode-num>
+  </programme>
+  <programme start="20261011115500 +0000" stop="20261011140000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Live: LaLiga</title>
+    <sub-title lang="en">Elche CF v RC Celta</sub-title>
+    <desc lang="en">Elche and Celta de Vigo meet in this LALIGA contest from the Estadio Manuel Martínez Valero.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137248~~2FEP014069514831,imi:af6ddae899f52eb9c79016d15ee7f52b9dee2d54/posterTile?imageVersion=pao2Dw&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101131</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011141000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Atlético Madrid v Real Madrid</sub-title>
+    <desc lang="en">LALIGA match highlights.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021216~~2FEP016246732638,imi:2fbc5889f2ea77fe6a18b3b1185581191c304d5b/posterTile?imageVersion=lUrVOg&amp;w=200" />
+    <country lang="en">QA</country>
+    <episode-num system="onscreen">S2026 E92238</episode-num>
+  </programme>
+  <programme start="20261011141000 +0000" stop="20261011161500 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Live: LaLiga</title>
+    <sub-title lang="en">Real Sociedad v Real Club Deportivo de A Coruña</sub-title>
+    <desc lang="en">The Reale Arena hosts this LALIGA contest between Real Sociedad and Deportivo A Coruña.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34103696~~2FEP014069514827,imi:3d5a2a777569db5be9817bfe900ce7086b9a25f1/posterTile?imageVersion=x6fM9Q&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101127</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011161500 +0000" stop="20261011163000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Athletic Club v Deportivo Alavés</sub-title>
+    <desc lang="en">LALIGA match highlights.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34021200~~2FEP016246732635,imi:7fffc61b7a0bafb978612a5c388e6d089d9e17a1/posterTile?imageVersion=lUrVOg&amp;w=200" />
+    <country lang="en">QA</country>
+    <episode-num system="onscreen">S2026 E92235</episode-num>
+  </programme>
+  <programme start="20261011163000 +0000" stop="20261011173000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">NHL On The Fly</title>
+    <sub-title lang="en">Episode 130</sub-title>
+    <desc lang="en">Catch up on all the latest NHL news.</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Ice Hockey</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F28464133~~2FEP039622670615,imi:41fb001c0de125f0676ef94194cb5a5ead56a8dc/posterTile?imageVersion=fyjfkg&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">E130</episode-num>
+  </programme>
+  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">NASCAR Cup Racing Series</title>
+    <sub-title lang="en">Las Vegas Motor Speedway</sub-title>
+    <desc lang="en">Highlights from the latest round of the 2026 NASCAR Cup Series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137137~~2FEP013998791219,imi:0e059e7241841f14e5402624f2cef06c776554a6/posterTile?imageVersion=cJ972w&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">E87</episode-num>
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011230000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Live: NASCAR Cup Series Motor Racing</title>
+    <sub-title lang="en">Charlotte Motor Speedway</sub-title>
+    <desc lang="en">Charlotte Motor Speedway is the track for this Bank of America 400 fixture in the NASCAR Cup Series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137101~~2FEP018175710536,imi:8e07e4b29314d02faf35816c36c47bc412d1be72/posterTile?imageVersion=qzRK_A&amp;w=200" />
+    <episode-num system="onscreen">S2026 E101136</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261011230000 +0000" stop="20261011233000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Bike World</title>
+    <sub-title lang="en">Episode 152</sub-title>
+    <desc lang="en">Bike World brings you the latest action from the high-octane world of two wheels, on-road, off-road or on track.</desc>
+    <credits>
+      <director>Alan Rawlings</director>
+      <producer>Kevin Andrews</producer>
+      <producer>Chris Abel</producer>
+      <producer>Nick Jones</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34137399~~2FEP015312400351,imi:64caf7441badb9aafcf18f1289c38f1698ccf715/posterTile?imageVersion=vsZMXg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S9 E152</episode-num>
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012000000 +0000" channel="Premier.Sports.2.HD.ie">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Watch the greatest players from past years talk about their careers.</desc>
+    <date>2022</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22516297~~2FEP012859490081,imi:fb7e1bc19e5a8e25b59f792937e981e0f52523c2/posterTile?imageVersion=SXNGIA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <channel id="plex.tv.NBC.Sports.NOW.plex">
     <display-name lang="en">NBC Sports NOW</display-name>
