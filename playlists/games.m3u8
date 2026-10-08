@@ -1,21 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc326/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI2OjE3OTE0OTIyMTEwMzc6Y2RubGl2ZXR2LnR2OmI0OTg1NWI3ZjhhYjk4MTMuZmU2OGVmM2YzMDgxYzNjZmExZmJjOWZkOThkNTMyNjZlMjI2MDVhYjkxNzdjMTM5YjViNWIwODRjZDQ4NGFhNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTE1MTAxODczNDY6Y2RubGl2ZXR2LnR2OjM3OWQ1MWYzY2Q1NjJiZGYuOTE2NWY0ODliNTYyZGRmNTdiYzllNTIyYTc2OGNmZTg2Zjg0MmMyZDA0NGMwMWIxN2I4MWM5Mjc3YzJhZWEzNw
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Criciúma (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Criciúma (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE0OTIyMTAyMDY6Y2RubGl2ZXR2LnR2OjBkYTJhZDIzMWQ2Y2NhMTYuMWZlN2FjMmY0NDg5NzJjNmU2ZDIzYjQ5NTBhMWU1OWU2YTI5ZjI0NDNlNzMwY2QxNjQ4NTUzMDMyMmQ4Mjg3Mw
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE1MTAxODU3NTU6Y2RubGl2ZXR2LnR2OmVmMzU5YjIxNzlhZWMwODIuZDZlNzY3NjI5NTIxYjk2MDJlYjQ1ZTU0NmU4NWRhZWQ1OTEwZmI0MGU0ZDA2YTQxZDQ2MzA2OGJkMzFhODMzYQ
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Náutico vs Novorizontino (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Náutico vs Novorizontino (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE0OTIyMTAzNDQ6Y2RubGl2ZXR2LnR2OjAzZTMwOGJjMzRkZDg3YzQuMzUwN2E4Y2VjOTEwM2IwYzMyYjJmNGYzNjYxMjM0ZDY3M2ZkNGY5ZDI4MzY5ODgwMGE2MWFkM2Q5MmZiZTFhNQ
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] 10.8.26 | Oswego Speedway (TIMST)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/08/21/SDW_3-1787331866488.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="▷ Sukan 2",[Live Event] 10.8.26 | Oswego Speedway (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/rr5wtqz0-6456
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE1MTAxODU5MDQ6Y2RubGl2ZXR2LnR2OjJmNWI0ZjM3OGQ4NDlmOTIuYTUzYmRkMTQ4YTg3YmY5ODRmNjMwYzU2M2VlYzhlYjJmZTc2YzM3MGU3OTJjMTFkODc0MTZmNDg5ZGEwM2M1Mg
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/166377f560a8db7902baf4794e6e3eb3cd702e7a4cf8b4d301112a0ff41c61da/1791486810/dirtvision-10-8-26-oswego-speedway.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a965bd32d4a99e073de5adb/playlist.m3u8?token=NmE5NjViZDMyZDRhOTllMDczZGU1YWRiOjE3OTE0OTIyMTA4OTQ6Y2RubGl2ZXR2LnR2OmM5NTQwODRiYTExMjI1ZTguN2UyYjg2ODEwM2RkZjVmMjRmNzIzNzc2MDI3ODMzMzBhN2VmMDlhZGM0MzI0ODE3MmRhNDY4ZmUwM2RmZGZhYg
+https://cdnlivetv.tv/secure/api/v1/6abf3a5b2d4a99e073c8a71c/playlist.m3u8?token=NmFiZjNhNWIyZDRhOTllMDczYzhhNzFjOjE3OTE1MTAxODcyMTE6Y2RubGl2ZXR2LnR2OmIyOThiMTRjOTU1YTY3NzQuNjhkMGU3YWYwMmNmODM0MDU1NWZiOWYyYzYwNGNjYmRlNWU2MmMzYjI2ZWI1NDU3N2U0ODE0YWNlNzU1Yzg1Ng
