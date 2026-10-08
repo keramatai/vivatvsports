@@ -15,6 +15,7 @@ EPG_URLS = [
     for EPG_ID in [
         "PLEX1",
         "US2",
+        "UK1",
     ]
 ]
 
@@ -32,7 +33,7 @@ CHANNELS = {
     "SkySp.F1.HD.uk": None,
     "SkySpCricket.HD.uk": None,
     "SkySp.Mix.HD.uk": None,
-    "SkySp.Golf.HD.uk": None
+    "SkySp.Golf.HD.uk": None,
 }
 
 
