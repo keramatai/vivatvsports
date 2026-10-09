@@ -1,13 +1,61 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTE1NzQwMTA4OTg6Y2RubGl2ZXR2LnR2OmRjYWQwMTkxNzNiZGQ4MDguZmUwMWI3MzY2MmY0Yjk4ZjcxNGFjMDM1OGE1NWMwNWFhYjFkY2VkMTM3ODVkYmM0MzYwNjljZWNmZDJlYTFjYg
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTE1OTEyMjU1ODU6Y2RubGl2ZXR2LnR2OmQ0YjczZjRmZjNjYmE0NWIuMTQ3OGQ2M2VhODk4NzI2NTVjYmQzMTQzMmZmMGJlNTA1YWY2MmUzN2NlMGU1NjY2N2QzYzFjY2E3MGE1MDYzZA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[German Bundesliga] Borussia Dortmund vs Werder Bremen (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="▷ Sukan 2",[German Bundesliga] Borussia Dortmund vs Werder Bremen (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/bsudwrf4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTE1NzQwMTA3NDY6Y2RubGl2ZXR2LnR2OmNiZTY3NDkwMzMyZDg3N2EuYmFlYTNiNTk5MjczMDQ3NzYyOGEzNzBiNzNhMGYzZjUzNjdhODliYzcxZDNkMjczODQ3NWRiMmZiNmY1MGVmZA
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Pro League] Al Fateh vs Al Ahli (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="▷ Sukan 2",[Saudi Pro League] Al Fateh vs Al Ahli (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/wv7y1jdo-8112
+https://justkidding.junksonus.party/main/secure/e0cdd2b0557ee9b0e3f68503680047c7565d9f3dab127b83f17ec377085e584a/1791585822/skysportbundesliga-de.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Málaga vs Espanyol (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="▷ Sukan 2",[Laliga] Málaga vs Espanyol (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6trsant7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/a6b0a63fa47d8b8ff2601b33b0b1200f644316392947337400e77a7eeecea166/1791568611/unl-401861136.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+https://justkidding.junksonus.party/main/secure/7ae4c377da7bf8dd09f6ce33301609805e052e10afabd08fd1e42aed085eb286/1791585822/espndeportes-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Lens vs Lyon (FLYEMBD)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="▷ Sukan 2",[Ligue 1] Lens vs Lyon (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/s0sxc65g-8857
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/65e8ef07b65eb7892820bb3e8603e3d621c59a1c48d9bbda259270954572ca3d/1791585823/beinconnect4-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Live Event] 10.9.26 | Oswego Speedway (TIMST)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/08/21/SDW_4-1787332329356.png?impolicy=resize&amp;amp;w=1920&amp;amp;h=1080" group-title="▷ Sukan 2",[Live Event] 10.9.26 | Oswego Speedway (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/ba3kto5x-3618
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e66fcdbbb90a023c5efb7782963bd6822365cae98428acc7dfee66a59adfca61/1791585821/dirtvision-10-9-26-oswego-speedway.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Live Event] Al Nassr vs Diriyah (TIMST)" tvg-logo="https://assets.khelnow.com/news/uploads/2026/08/Al-Diriyah-vs-Al-Nassr.jpg" group-title="▷ Sukan 2",[Live Event] Al Nassr vs Diriyah (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/h5flkzrq-3339
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e63db644badb68d4f4f43f02d072b2af17e94d3e11c13ed6003f4a4bf4675650/1791585821/foxsoccerplus-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Live Event] Canadian Super DIRT Weekend at Cornwall Motor Speedway (TIMST)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/60b96454e894f.png" group-title="▷ Sukan 2",[Live Event] Canadian Super DIRT Weekend at Cornwall Motor Speedway (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/7nfx6isy-1658
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e190a737e2dead939b33e29b6c74e12bab7dc74b9dcc0ad7b28221c332b36ccc/1791585822/flo-392902.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Live Event] Lens vs Olympique Lyonnais (TIMST)" tvg-logo="https://static.sportytrader.com/betting-tip-thumbnail/prod/377590.webp" group-title="▷ Sukan 2",[Live Event] Lens vs Olympique Lyonnais (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/s0sxc65g-8733
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/f8e710fa3dd659a7851f627030bf3c710395ed8001d787c6b6db5976ee30c854/1791585821/beinconnect4-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] Malaga vs Espanyol (TIMST)" tvg-logo="https://www.fubo.tv/news/wp-content/uploads/2026/10/Malaga_CF_vs_RCD_Espanyol_-_Where_to_Watch_Stream_Info_TV_Channel_and_Live_Updates_October_09_2026.webp" group-title="▷ Sukan 2",[Live Event] Malaga vs Espanyol (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/6trsant7-1421
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/085814b0edca12a61cc2a2ad3d4c5287c1401ee7dea84593a4913fb3b74280e3/1791585821/espndeportes-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Live Event] SMART Modified Tour at Tri-County Speedway (TIMST)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6230ab2a637e7.png" group-title="▷ Sukan 2",[Live Event] SMART Modified Tour at Tri-County Speedway (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/wkhjxrct-9549
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/503ce225a6af86b2142ea3dd1c873cdc6736820c7b06ca22ba7a2d670dc75993/1791585822/flo-344227.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Live Event] Werder Bremen @ Borussia Dortmund (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/bundesliga-401884781.png" group-title="▷ Sukan 2",[Live Event] Werder Bremen @ Borussia Dortmund (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/deb3npxs-6604
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/6a1da3effb40e0657921cb57e4986751f54413377fa822ca44785decfad9742a/1791585821/bundesliga-401884781.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a7bfdd62d4a99e073dd7c24/playlist.m3u8?token=NmE3YmZkZDYyZDRhOTllMDczZGQ3YzI0OjE3OTE1OTEyMjQ1MTU6Y2RubGl2ZXR2LnR2OmJmYTQ5MzQ3Y2RkZTZmZWQuMzk0OGI4MWFhMjAxNWJlZTdiZjFmNTMzYjM2NmZjZTAxZGY0OWZmZGMyMThiMTU1OThjZGZjNmE3OWQ3ZTgwMQ
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Portuguese Primeira Liga] Braga vs Sporting CP (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="▷ Sukan 2",[Portuguese Primeira Liga] Braga vs Sporting CP (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/uzitjx7g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/480da352f1f57b1bf3a5a8dd851d12059f72a52a4e30f7d02a55243f107c5275/1791585824/match3.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[Portuguese Primeira Liga] Moreirense vs Gil Vicente (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="▷ Sukan 2",[Portuguese Primeira Liga] Moreirense vs Gil Vicente (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/uzitjx7g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/480da352f1f57b1bf3a5a8dd851d12059f72a52a4e30f7d02a55243f107c5275/1791585824/match3.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Pro League] Al Nassr vs Al Diriyah (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="▷ Sukan 2",[Saudi Pro League] Al Nassr vs Al Diriyah (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/33xtbrhm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/3ea64aa33b2303647a30d08c4a301e854120e3fac00d46783d98a1ec7c513c0e/1791585823/foxsoccer.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
