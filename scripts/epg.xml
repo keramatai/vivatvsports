@@ -7964,11 +7964,13 @@
   </programme>
   <programme start="20261010133600 +0200" stop="20261010134500 +0200" channel="DAZN.2.de">
     <title lang="de">Bundesliga Features 26/27</title>
+    <sub-title lang="de">Königsblau - Wir leben dich I</sub-title>
     <desc lang="de">Große Erfolge, schmerzhafte Rückschläge und unvergessliche Momente - das alles ist der FC Schalke 04. Eine unterhaltsame Reise durch mehr als 120 Jahre königsblaue Vereinsgeschichte. AufBruch ist die erste Folge der Content-Serie "Königsblau - Wir leben dich" auf DAZN.</desc>
     <category lang="de">Magazin</category>
     <category lang="de">Fußballmagazin</category>
     <icon src="https://epg-image.hoerzu.de/780x468/359.jpg" />
     <country lang="de">D</country>
+    <episode-num system="onscreen">E1</episode-num>
     <star-rating system="Tipp">
       <value>0/1</value>
     </star-rating>
@@ -8059,6 +8061,7 @@
   </programme>
   <programme start="20261010202500 +0200" stop="20261010204500 +0200" channel="DAZN.2.de">
     <title lang="de">LALIGA Top Goals 26/27</title>
+    <sub-title lang="de">Episode 1</sub-title>
     <desc lang="de">Wir zeigen euch die besten Tore des Monats August aus LaLiga 26/27.</desc>
     <category lang="de">Magazin</category>
     <category lang="de">Fußballmagazin</category>
@@ -8106,11 +8109,13 @@
   </programme>
   <programme start="20261010230500 +0200" stop="20261010234000 +0200" channel="DAZN.2.de">
     <title lang="de">Bundesliga Features 26/27</title>
+    <sub-title lang="de">Königsblau - Wir leben dich I</sub-title>
     <desc lang="de">Große Erfolge, schmerzhafte Rückschläge und unvergessliche Momente - das alles ist der FC Schalke 04. Eine unterhaltsame Reise durch mehr als 120 Jahre königsblaue Vereinsgeschichte. AufBruch ist die erste Folge der Content-Serie "Königsblau - Wir leben dich" auf DAZN.</desc>
     <category lang="de">Magazin</category>
     <category lang="de">Fußballmagazin</category>
     <icon src="https://epg-image.hoerzu.de/780x468/359.jpg" />
     <country lang="de">D</country>
+    <episode-num system="onscreen">E1</episode-num>
     <star-rating system="Tipp">
       <value>0/1</value>
     </star-rating>
@@ -8129,6 +8134,7 @@
   </programme>
   <programme start="20261010234000 +0200" stop="20261010234500 +0200" channel="DAZN.2.de">
     <title lang="de">LALIGA Top Goals 26/27</title>
+    <sub-title lang="de">Episode 2</sub-title>
     <desc lang="de">Wir zeigen euch die besten Tore des Monats September aus LaLiga 26/27.</desc>
     <category lang="de">Magazin</category>
     <category lang="de">Fußballmagazin</category>
@@ -63802,340 +63808,6 @@
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <display-name lang="en">WLFG-DT</display-name>
   </channel>
-  <programme channel="WLFG-DT.us_locals1" start="20261009050000 +0000" stop="20261009060000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009060000 +0000" stop="20261009063000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009063000 +0000" stop="20261009070000 +0000">
-    <title lang="en">Holy Ghost Revival</title>
-    <desc lang="en">Evangelist Michael Tate.</desc>
-    <date>2019</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16699971_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009070000 +0000" stop="20261009073000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009073000 +0000" stop="20261009083000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009083000 +0000" stop="20261009090000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009090000 +0000" stop="20261009100000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009100000 +0000" stop="20261009103000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009103000 +0000" stop="20261009110000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009110000 +0000" stop="20261009113000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009113000 +0000" stop="20261009120000 +0000">
-    <title lang="en">Pickin' Time</title>
-    <date>2007</date>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p855158_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009120000 +0000" stop="20261009123000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009123000 +0000" stop="20261009130000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009130000 +0000" stop="20261009133000 +0000">
-    <title lang="en">Les Feldick</title>
-    <desc lang="en">Teaching the Bible.</desc>
-    <credits>
-      <actor>Les Feldick</actor>
-    </credits>
-    <date>1994</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p774906_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009133000 +0000" stop="20261009140000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009140000 +0000" stop="20261009150000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009150000 +0000" stop="20261009170000 +0000">
-    <title lang="en">LFTV Special Presentation</title>
-    <date>2022</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21872758_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009170000 +0000" stop="20261009180000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009180000 +0000" stop="20261009183000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009183000 +0000" stop="20261009190000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009190000 +0000" stop="20261009193000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009193000 +0000" stop="20261009200000 +0000">
-    <title lang="en">Pickin' Time With Bob Smallwood</title>
-    <date>2000</date>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p855159_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009200000 +0000" stop="20261009203000 +0000">
-    <title lang="en">Youth Bytes</title>
-    <date>2019</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17757782_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009203000 +0000" stop="20261009210000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009210000 +0000" stop="20261009220000 +0000">
-    <title lang="en">For Zion's Sake Prophecy Conference</title>
-    <date>2026</date>
-    <icon src="http://dtil.tmsimg.com/assets/p33915066_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009220000 +0000" stop="20261009230000 +0000">
-    <title lang="en">LFTV Special Presentation</title>
-    <date>2022</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21872758_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261009230000 +0000" stop="20261010000000 +0000">
-    <title lang="en">Feed My Sheep Ministries</title>
-    <date>2022</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23286651_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010000000 +0000" stop="20261010003000 +0000">
-    <title lang="en">Phil Kidd</title>
-    <date>2018</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15270096_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010003000 +0000" stop="20261010010000 +0000">
-    <title lang="en">Temple Baptist</title>
-    <date>1995</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p935172_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010010000 +0000" stop="20261010013000 +0000">
-    <title lang="en">Aubrey Jackson Ministries</title>
-    <date>2011</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8484492_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010013000 +0000" stop="20261010020000 +0000">
-    <title lang="en">Gateway Gospel</title>
-    <date>2000</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p699897_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010020000 +0000" stop="20261010023000 +0000">
-    <title lang="en">Ralph Sexton</title>
-    <date>2016</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12646478_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010023000 +0000" stop="20261010030000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010030000 +0000" stop="20261010033000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010033000 +0000" stop="20261010043000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261010043000 +0000" stop="20261010050000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
   <programme channel="WLFG-DT.us_locals1" start="20261010050000 +0000" stop="20261010060000 +0000">
     <title lang="en">Living Faith Now</title>
     <date>2007</date>
@@ -65281,5 +64953,354 @@
     <category lang="en">Gospel</category>
     <category lang="en">Religious</category>
     <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013050000 +0000" stop="20261013060000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013060000 +0000" stop="20261013063000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013063000 +0000" stop="20261013070000 +0000">
+    <title lang="en">Phil Kidd</title>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15270096_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013070000 +0000" stop="20261013073000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013073000 +0000" stop="20261013083000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013083000 +0000" stop="20261013090000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013090000 +0000" stop="20261013100000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013100000 +0000" stop="20261013103000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013103000 +0000" stop="20261013110000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013110000 +0000" stop="20261013113000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013113000 +0000" stop="20261013120000 +0000">
+    <title lang="en">Pickin' Time</title>
+    <date>2007</date>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p855158_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013120000 +0000" stop="20261013123000 +0000">
+    <title lang="en">Outdoor Faith</title>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21873014_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013123000 +0000" stop="20261013130000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013130000 +0000" stop="20261013133000 +0000">
+    <title lang="en">Les Feldick</title>
+    <desc lang="en">Teaching the Bible.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p774906_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013133000 +0000" stop="20261013140000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013140000 +0000" stop="20261013150000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013150000 +0000" stop="20261013153000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013153000 +0000" stop="20261013160000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013160000 +0000" stop="20261013163000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013163000 +0000" stop="20261013170000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013170000 +0000" stop="20261013180000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013180000 +0000" stop="20261013183000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013183000 +0000" stop="20261013190000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013190000 +0000" stop="20261013193000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013193000 +0000" stop="20261013200000 +0000">
+    <title lang="en">Pickin' Time With Bob Smallwood</title>
+    <date>2000</date>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p855159_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013200000 +0000" stop="20261013203000 +0000">
+    <title lang="en">Carlos Catepillar</title>
+    <date>2019</date>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17076155_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013203000 +0000" stop="20261013210000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013210000 +0000" stop="20261013213000 +0000">
+    <title lang="en">Back to Basics</title>
+    <date>2023</date>
+    <category lang="en">Special</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25554072_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013213000 +0000" stop="20261013220000 +0000">
+    <title lang="en">Gospel Music Arts</title>
+    <date>2012</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9069194_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013220000 +0000" stop="20261013230000 +0000">
+    <title lang="en">For Zion's Sake Prophecy Conference</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33915066_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261013230000 +0000" stop="20261014000000 +0000">
+    <title lang="en">Lifting Up Jesus</title>
+    <desc lang="en">Featuring messages of hope and faith.</desc>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p777615_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014000000 +0000" stop="20261014003000 +0000">
+    <title lang="en">Prophecy Now</title>
+    <desc lang="en">Pastor Bennie Westmoreland of the New Testament Church of God, Buchanan, GA.</desc>
+    <date>2007</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p866864_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014003000 +0000" stop="20261014010000 +0000">
+    <title lang="en">The Final Harvest</title>
+    <desc lang="en">Inspiring people to love God and as a result love themselves and love their neighbors.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25486587_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014010000 +0000" stop="20261014020000 +0000">
+    <title lang="en">Gateway Gospel Hour</title>
+    <desc lang="en">Gospel music, preaching from the Bible, and messages intended to encourage and teach the Word of God.</desc>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p699898_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014020000 +0000" stop="20261014023000 +0000">
+    <title lang="en">Bible Truths</title>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25486277_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014023000 +0000" stop="20261014030000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014030000 +0000" stop="20261014033000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014033000 +0000" stop="20261014043000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261014043000 +0000" stop="20261014050000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <channel id="Ice.Hockey.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">Ice Hockey</display-name></channel><programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009070000 +0000" stop="20261009080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009080000 +0000" stop="20261009090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009200000 +0000" stop="20261009210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009210000 +0000" stop="20261009220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261009230000 +0000" stop="20261009235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010000000 +0000" stop="20261010010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010010000 +0000" stop="20261010020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010070000 +0000" stop="20261010080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010110000 +0000" stop="20261010120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010120000 +0000" stop="20261010130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010130000 +0000" stop="20261010140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010160000 +0000" stop="20261010170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010170000 +0000" stop="20261010180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010180000 +0000" stop="20261010190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010190000 +0000" stop="20261010200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010200000 +0000" stop="20261010210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010210000 +0000" stop="20261010220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010220000 +0000" stop="20261010230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261010230000 +0000" stop="20261010235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011000000 +0000" stop="20261011010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011010000 +0000" stop="20261011020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011020000 +0000" stop="20261011030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011030000 +0000" stop="20261011040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011040000 +0000" stop="20261011050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011060000 +0000" stop="20261011070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011070000 +0000" stop="20261011080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011080000 +0000" stop="20261011090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011090000 +0000" stop="20261011100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011110000 +0000" stop="20261011120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011120000 +0000" stop="20261011130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011130000 +0000" stop="20261011140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011140000 +0000" stop="20261011150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011150000 +0000" stop="20261011160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011160000 +0000" stop="20261011170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011190000 +0000" stop="20261011200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011210000 +0000" stop="20261011220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011220000 +0000" stop="20261011230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261011230000 +0000" stop="20261011235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012000000 +0000" stop="20261012010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012010000 +0000" stop="20261012020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012020000 +0000" stop="20261012030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012030000 +0000" stop="20261012040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012040000 +0000" stop="20261012050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012050000 +0000" stop="20261012060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012060000 +0000" stop="20261012070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012070000 +0000" stop="20261012080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012100000 +0000" stop="20261012110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012110000 +0000" stop="20261012120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012120000 +0000" stop="20261012130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012130000 +0000" stop="20261012140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012140000 +0000" stop="20261012150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012150000 +0000" stop="20261012160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012160000 +0000" stop="20261012170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012180000 +0000" stop="20261012190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012190000 +0000" stop="20261012200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012200000 +0000" stop="20261012210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012220000 +0000" stop="20261012230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261012230000 +0000" stop="20261012235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><channel id="NCAA.Sports.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">NCAA Sports</display-name></channel><programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009070000 +0000" stop="20261009080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009080000 +0000" stop="20261009090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009200000 +0000" stop="20261009210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009210000 +0000" stop="20261009220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261009230000 +0000" stop="20261009235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010000000 +0000" stop="20261010010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010010000 +0000" stop="20261010020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010070000 +0000" stop="20261010080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010110000 +0000" stop="20261010120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010120000 +0000" stop="20261010130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010130000 +0000" stop="20261010140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010160000 +0000" stop="20261010170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010170000 +0000" stop="20261010180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010180000 +0000" stop="20261010190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010190000 +0000" stop="20261010200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010200000 +0000" stop="20261010210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010210000 +0000" stop="20261010220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010220000 +0000" stop="20261010230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261010230000 +0000" stop="20261010235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011000000 +0000" stop="20261011010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011010000 +0000" stop="20261011020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011020000 +0000" stop="20261011030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011030000 +0000" stop="20261011040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011040000 +0000" stop="20261011050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011060000 +0000" stop="20261011070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011070000 +0000" stop="20261011080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011080000 +0000" stop="20261011090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011090000 +0000" stop="20261011100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011110000 +0000" stop="20261011120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011120000 +0000" stop="20261011130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011130000 +0000" stop="20261011140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011140000 +0000" stop="20261011150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011150000 +0000" stop="20261011160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011160000 +0000" stop="20261011170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011190000 +0000" stop="20261011200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011210000 +0000" stop="20261011220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011220000 +0000" stop="20261011230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261011230000 +0000" stop="20261011235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012000000 +0000" stop="20261012010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012010000 +0000" stop="20261012020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012020000 +0000" stop="20261012030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012030000 +0000" stop="20261012040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012040000 +0000" stop="20261012050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012050000 +0000" stop="20261012060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012060000 +0000" stop="20261012070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012070000 +0000" stop="20261012080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012100000 +0000" stop="20261012110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012110000 +0000" stop="20261012120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012120000 +0000" stop="20261012130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012130000 +0000" stop="20261012140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012140000 +0000" stop="20261012150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012150000 +0000" stop="20261012160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012160000 +0000" stop="20261012170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012180000 +0000" stop="20261012190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012190000 +0000" stop="20261012200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012200000 +0000" stop="20261012210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012220000 +0000" stop="20261012230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261012230000 +0000" stop="20261012235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><channel id="UFC.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">UFC</display-name></channel><programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009070000 +0000" stop="20261009080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009080000 +0000" stop="20261009090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009200000 +0000" stop="20261009210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009210000 +0000" stop="20261009220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261009230000 +0000" stop="20261009235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010000000 +0000" stop="20261010010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010010000 +0000" stop="20261010020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010070000 +0000" stop="20261010080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010110000 +0000" stop="20261010120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010120000 +0000" stop="20261010130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010130000 +0000" stop="20261010140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010160000 +0000" stop="20261010170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010170000 +0000" stop="20261010180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010180000 +0000" stop="20261010190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010190000 +0000" stop="20261010200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010200000 +0000" stop="20261010210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010210000 +0000" stop="20261010220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010220000 +0000" stop="20261010230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261010230000 +0000" stop="20261010235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011000000 +0000" stop="20261011010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011010000 +0000" stop="20261011020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011020000 +0000" stop="20261011030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011030000 +0000" stop="20261011040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011040000 +0000" stop="20261011050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011060000 +0000" stop="20261011070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011070000 +0000" stop="20261011080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011080000 +0000" stop="20261011090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011090000 +0000" stop="20261011100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011110000 +0000" stop="20261011120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011120000 +0000" stop="20261011130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011130000 +0000" stop="20261011140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011140000 +0000" stop="20261011150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011150000 +0000" stop="20261011160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011160000 +0000" stop="20261011170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011190000 +0000" stop="20261011200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011210000 +0000" stop="20261011220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011220000 +0000" stop="20261011230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261011230000 +0000" stop="20261011235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012000000 +0000" stop="20261012010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012010000 +0000" stop="20261012020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012020000 +0000" stop="20261012030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012030000 +0000" stop="20261012040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012040000 +0000" stop="20261012050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012050000 +0000" stop="20261012060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012060000 +0000" stop="20261012070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012070000 +0000" stop="20261012080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012100000 +0000" stop="20261012110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012110000 +0000" stop="20261012120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012120000 +0000" stop="20261012130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012130000 +0000" stop="20261012140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012140000 +0000" stop="20261012150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012150000 +0000" stop="20261012160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012160000 +0000" stop="20261012170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012180000 +0000" stop="20261012190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012190000 +0000" stop="20261012200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012200000 +0000" stop="20261012210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012220000 +0000" stop="20261012230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261012230000 +0000" stop="20261012235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme></tv>
