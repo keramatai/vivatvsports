@@ -2,8 +2,12 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Chicago Fire vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Chicago Fire vs New York City FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE2MzQ5OTY5NjE6Y2RubGl2ZXR2LnR2OmVlNGM4ZTNkMDYyOTVmMDIuZjMxM2Q3NTVlY2Y2Yzg1NmJiZmJiNGM4YTQ1YWZmM2M4MDliMjZhZmQ5ODJlYmM3Y2QxNDgxZTU0NjZjYTk1Zg
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE2NDI0MDU4MDI6Y2RubGl2ZXR2LnR2OjdhZmVlZmJmNjlhMjg5YTIuODE1NWE1OTExNTNkYzg3NDAxODRiMjZlZjkwZWIyNTBhMDJjZmNiYWNlY2E2N2I5ZDFkNmFjMWExMWRiMGUyMA
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Singapore Airlines Singapore Grand Prix - SR (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/f1-401839115.png" group-title="▷ Sukan 2",[Live Event] Singapore Airlines Singapore Grand Prix - SR (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/f596f98r-974
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a362bef8467ad653a07b8819dc18493c97bdcd6caca29901c7dfba529f9d8c30/1791637005/skysportsf1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2MzQ5OTczNTI6Y2RubGl2ZXR2LnR2OmIxYzUyYTVhY2I4MzAwZjEuZmU0YWY0MTAyZGQ5MDIzNGRmNmZlMTY3MGNkM2Y1YzIxYTExMTNkZmIwZmM5NDJiNjAxZjAyNDRkYmQ0ZjNlMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2NDI0MDYxNjc6Y2RubGl2ZXR2LnR2OmQ4OTg4MDc5ZDE0OTQ2NzQuODQ2YmFhOWYxZWQ4ZDA1MDYyZjBmNTdhMjNmN2E4YzEyODg4M2U5YzA2YWJkMDdmNmMzYWQ5YTY3NzdhMjhmOQ
