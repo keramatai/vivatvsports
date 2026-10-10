@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Chicago Fire vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Chicago Fire vs New York City FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE2MzQ5OTY5NjE6Y2RubGl2ZXR2LnR2OmVlNGM4ZTNkMDYyOTVmMDIuZjMxM2Q3NTVlY2Y2Yzg1NmJiZmJiNGM4YTQ1YWZmM2M4MDliMjZhZmQ5ODJlYmM3Y2QxNDgxZTU0NjZjYTk1Zg
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2MjY5OTA0MDc6Y2RubGl2ZXR2LnR2OjQ2OGY2MGNiMzRkNGEyYmIuZWJiZWViMTU3OTUyNzY3N2VlNWZmYzllOGM0NDg5MzZmZTdiOTYzY2RiZTc1NzZlZWVmNGY1ZjVkNjdlOWI4ZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2MzQ5OTczNTI6Y2RubGl2ZXR2LnR2OmIxYzUyYTVhY2I4MzAwZjEuZmU0YWY0MTAyZGQ5MDIzNGRmNmZlMTY3MGNkM2Y1YzIxYTExMTNkZmIwZmM5NDJiNjAxZjAyNDRkYmQ0ZjNlMQ
