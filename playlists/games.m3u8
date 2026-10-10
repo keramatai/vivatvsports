@@ -1,13 +1,45 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Chicago Fire vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Chicago Fire vs New York City FC (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTE2NDg1MjQzNjY6Y2RubGl2ZXR2LnR2OjM4NGFmOTE4MDFlODkwOTYuZjc4N2FjZWViYWEwYzdlNzhlZWRlODY2ODIwNDhiYWYyY2U1ZTVkYzBkOWM5ZmZlNTk2ZjE1ZDZjODhhOGQxYw
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[England - Championship] Swansea City vs Norwich City (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="▷ Sukan 2",[England - Championship] Swansea City vs Norwich City (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9c2jwr40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/7d5689fae3c674500366116099c9fc8c06473fbfbf87bd4b295fcec4ec1ab4cd/1791643095/cbssn-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[England - Championship] West Bromwich Albion vs Birmingham City (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="▷ Sukan 2",[England - Championship] West Bromwich Albion vs Birmingham City (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/n58ajgfx-9862
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a2a35fbe23814368f319e7a6e7fc5bce3e5da7b13fdd0b43a34f18d31c4a78ce/1791643095/skysportsmainevent-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Arsenal vs Leeds United (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="▷ Sukan 2",[English Premier League] Arsenal vs Leeds United (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/nloc37sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/158b6dd3e3fda537e70c9fd407d6f3af3ccf374020e397ef63194a7f5d8bcca8/1791643094/usanetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Chicago Fire vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Chicago Fire vs New York City FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE2NDI0MDU4MDI6Y2RubGl2ZXR2LnR2OjdhZmVlZmJmNjlhMjg5YTIuODE1NWE1OTExNTNkYzg3NDAxODRiMjZlZjkwZWIyNTBhMDJjZmNiYWNlY2E2N2I5ZDFkNmFjMWExMWRiMGUyMA
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Live Event] Singapore Airlines Singapore Grand Prix - SR (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/f1-401839115.png" group-title="▷ Sukan 2",[Live Event] Singapore Airlines Singapore Grand Prix - SR (TIMST)
-#EXTVLCOPT:http-referrer=https://grandemx.org/f596f98r-974
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE2NDg0OTQ2OTU6Y2RubGl2ZXR2LnR2OjZiM2ZmNTMzYjZmOTA0NTkuYjRkN2ZjNDU3ZjFiZTI5OTk2MWY0NmViMzgzZTJmYWMwMGQ4ZGIwZWZlNmUzMjEwZjQxYmMxZWJmNDFlNzc3MA
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Orlando City vs Columbus Crew (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Orlando City vs Columbus Crew (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/a362bef8467ad653a07b8819dc18493c97bdcd6caca29901c7dfba529f9d8c30/1791637005/skysportsf1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTE2NDg0OTQ4MzQ6Y2RubGl2ZXR2LnR2OjRhNjMzODYwNGM2NjQ0YTMuNTkzYTQ2NjM2MDVjNGExOTAyNmJkYWViYjVmMDA4YmZjMmQ3ZjBkOWVjOTRmN2QwMTMwZWQ5NTg5NmU0MWZhOA
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Rayo Vallecano vs Athletic Club (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="▷ Sukan 2",[Laliga] Rayo Vallecano vs Athletic Club (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6trsant7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/85050b2a6fdda2968d531f67e58a5bce5a6f778200b4b7380ebeba4ce5b3834b/1791643094/espndeportes-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://exmxbxe.cfd/&Origin=https://exmxbxe.cfd
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Live Event] Athletic Club @ Rayo Vallecano (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882849.png" group-title="▷ Sukan 2",[Live Event] Athletic Club @ Rayo Vallecano (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/1dxk5sph-8798
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/1fd9b642cf329f3271345c5bab7d05773858867f118437ed6dffe55c391f3343/1791643094/laliga-401882849.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] Leeds United @ Arsenal (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/premierleague-401879268.png" group-title="▷ Sukan 2",[Live Event] Leeds United @ Arsenal (TIMST)
+#EXTVLCOPT:http-referrer=https://grandemx.org/e0lyrkhr-1411
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/d994aeb1411375dea4d0e132ce5483822c756a2ddec220d17912a6ac60e4bf35/1791643094/tntsports1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://grandemx.org/&Origin=https://grandemx.org
+#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2NDI0MDYxNjc6Y2RubGl2ZXR2LnR2OmQ4OTg4MDc5ZDE0OTQ2NzQuODQ2YmFhOWYxZWQ4ZDA1MDYyZjBmNTdhMjNmN2E4YzEyODg4M2U5YzA2YWJkMDdmNmMzYWQ5YTY3NzdhMjhmOQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbaba/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYWJhOjE3OTE2NDg1MjM0ODk6Y2RubGl2ZXR2LnR2OmRmMmFlOTFjYzcyMTlmYmUuYTdhY2RjYTdmNTJjMGI3ZDg3ZWQ0YzczMmNmZmRjNDkzNDU3NTUyZmUzMTg3OTM3YjIzYTYxMTYzMzYyYWZjZg
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Arsenal vs Leeds United, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Arsenal vs Leeds United, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/arsenal.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dravexia.s3.us-east-1.amazonaws.com/arsenal.m3u8
