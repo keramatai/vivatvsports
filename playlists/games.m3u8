@@ -1,5 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTE3MTMyMjkxNjE6Y2RubGl2ZXR2LnR2OjU4MWYxMmM4YmU1MTgyM2UuOWJiMTdiNjBiYTFmNDcwYWU3YTU2OTIyYjBmMWE2MGJhMDlmYTA3YTUwYzNkMGFjZDg3MjVkMDc3MzdjNzNjYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTE3MzI0ODcwNjA6Y2RubGl2ZXR2LnR2OjY1ODI5NTM4MjgxYzg4YWYuNWExOWFiYWU2Yzg1YTM4Mjc5OTMzODZmYzE3MmVlZDU3ZmFmYjE5NzQ0OWFjM2ZmOGJkZDM5NzcxNDY4OGYwZA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf4e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjRlOjE3OTE3MzI0ODcyMTQ6Y2RubGl2ZXR2LnR2OmNlZDNhMDE4ZmJmMTFjNzguZmVlY2FmYTA3ODllM2Q2NWI3YTlkZmFmMjFjMzhlNmFjYzc5NDE0ZTc5M2JhYWZmODY2MDQ4ZGYyZDRiZDMyMg
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTE3MzI0ODkwNTY6Y2RubGl2ZXR2LnR2OmI5MWE3YWNjNGYxYzhmYjkuY2EwYzdkNmI3NjEwZDllOWMxMmQzMDliYTQzOTlmNjQ5YTMwY2VkZTA5MTBhZjkyYjZlODJmMmQzNjEyYWFiNA
