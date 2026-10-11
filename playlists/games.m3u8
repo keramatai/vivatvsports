@@ -1,13 +1,117 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Crystal Palace vs Nottingham Forest (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="▷ Sukan 2",[English Premier League] Crystal Palace vs Nottingham Forest (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/nloc37sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTE3MzI0ODcwNjA6Y2RubGl2ZXR2LnR2OjY1ODI5NTM4MjgxYzg4YWYuNWExOWFiYWU2Yzg1YTM4Mjc5OTMzODZmYzE3MmVlZDU3ZmFmYjE5NzQ0OWFjM2ZmOGJkZDM5NzcxNDY4OGYwZA
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)
+https://judiaslevels.embeds.gay/main/secure/585a277c50133615adb78290e83b49ad6abacd4604eafc685ad5dd4a667bd3f0/1791736899/usanetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Hull City vs Everton (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="▷ Sukan 2",[English Premier League] Hull City vs Everton (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/kzd3hrqz-7932
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/9c3cab024c0b398bc29273e0f916800d5c2d7068aaf47b282625c199d9ef0f4b/1791736900/skysportspremierleague-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Sport Recife (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE3NDIyOTc5NDY6Y2RubGl2ZXR2LnR2OmU5MWYzMWIzOWRhNWU0NGMuN2FlMmI4ZGEwMmJjNWI5YzQ1YmRiOTU4YjMxNThhNmQ3MjA1NDA2NzFkODkwNzkzMTJlMmU0OWNmNTc4NjY3Nw
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cuiabá vs Avaí (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Cuiabá vs Avaí (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE3NDIyOTgyNjY6Y2RubGl2ZXR2LnR2OjRhNDFlYWJlNjc1ZDMyMDMuYmQwNTQwZjExMGQ2OTg0YmEyN2Q0ZjVmNzg1MjA4MjNkOGIwNDNmMDVkNTMwZWEyNTRiNzc4MWQyZjVmN2Y5Mg
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Juventude vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Juventude vs São Bernardo (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE3NDIyOTc3OTQ6Y2RubGl2ZXR2LnR2OmFmZWI4ZDU1MDYyYTlkZTAuOTRlYzA5MjM5YmRiODA2ZjVjZTMwYjc3YzhmODkyMTAwNWZjN2U1MmJhNjk0Y2RkOGMzM2IxODc1OTg1YmQ2NQ
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Náutico vs Vila Nova (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Náutico vs Vila Nova (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE3NDIyOTgxMDg6Y2RubGl2ZXR2LnR2OjJjYTdlZWQ1ZDJhMzYxZTcuZDQyYjBmNWE0Njg5YWQ3ZWNkNzIzYjAzOTczN2FkOTE5ZTQyN2Y5NDE3YzA1ZDE1NDQ5NDc4M2Y3NDEyYjRmNA
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Operário Ferroviário vs Goiá (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Operário Ferroviário vs Goiá (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTE3NDIyOTg0MTY6Y2RubGl2ZXR2LnR2OjhhOGEzMzM5OTIzYWIwZDAuYzkzMmZmZDkxMDhkNTdjNTllZGEzNWJkN2I5OWQ3NTQ5MWYxYjVmZTg3NDAwNjYyZjcxYTU3YTVlMTJiZWMwYQ
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] St. Louis City SC vs LA Galaxy (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf4e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjRlOjE3OTE3MzI0ODcyMTQ6Y2RubGl2ZXR2LnR2OmNlZDNhMDE4ZmJmMTFjNzguZmVlY2FmYTA3ODllM2Q2NWI3YTlkZmFmMjFjMzhlNmFjYzc5NDE0ZTc5M2JhYWZmODY2MDQ4ZGYyZDRiZDMyMg
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf4e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjRlOjE3OTE3NDIyOTg1ODE6Y2RubGl2ZXR2LnR2OjI2YzZmODFmZDc3ZWViM2MuMTM0YzczZTdlN2RiOGI5OWQ0MGFkNzcyNmZmZmUwOTZhZTFlMGIyZmJhZjAzNGUwY2FjYmI0ZjlkNGIyNTk5Mw
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[German Bundesliga] FC Cologne vs Borussia Mönchengladbach (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="▷ Sukan 2",[German Bundesliga] FC Cologne vs Borussia Mönchengladbach (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/3dk8rxui-9254
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTE3MzI0ODkwNTY6Y2RubGl2ZXR2LnR2OmI5MWE3YWNjNGYxYzhmYjkuY2EwYzdkNmI3NjEwZDllOWMxMmQzMDliYTQzOTlmNjQ5YTMwY2VkZTA5MTBhZjkyYjZlODJmMmQzNjEyYWFiNA
+https://judiaslevels.embeds.gay/main/secure/407cc7dd18f20b2da60124750cb65877e3e3e5c8cc7911c72c7ea2e387477c14/1791736902/dazn1-de.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Lazio vs Monza (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="▷ Sukan 2",[Italian Serie A] Lazio vs Monza (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/p7v0u6yc-8834
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/9914db3be417306f19f7d507693f676c0b771faf23b503b6c6e4049bf6605be8/1791736901/seriea-401874951.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Lecce vs Bologna (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="▷ Sukan 2",[Italian Serie A] Lecce vs Bologna (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/wowcdcob-9540
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/7fe2b40e3aa1f9ffe4e275fc22089fb82e1b6475042047bd63306a5d28220d6a/1791736901/seriea-401874776.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Elche vs Celta Vigo (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="▷ Sukan 2",[Laliga] Elche vs Celta Vigo (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/ue2959iw-8150
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/003716e37d585a6b8cb08971487eb201db4d3fbeddbe4f0c2fdf1ef2fe445ea5/1791736900/laliga-401882854.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Real Sociedad vs Deportivo (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="▷ Sukan 2",[Laliga] Real Sociedad vs Deportivo (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/fw2jrum9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/c3817d7f5c5fb979e8782bb421feaaa320fd1dbddc79307c8c88b235917e5596/1791736901/daznlaliga-es.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Nice vs Strasbourg (FLYEMBD)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="▷ Sukan 2",[Ligue 1] Nice vs Strasbourg (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/9shjacii
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/2de91f70b02878f1522473e70b8f050f7474f191787b76bdadf79d5b5848f79a/1791736902/beinsports-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[Live Event] Bologna @ Lecce (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874776.png" group-title="▷ Sukan 2",[Live Event] Bologna @ Lecce (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/wowcdcob-311
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a0c0a47896833204c81d7be869f0cc2970dab27b1abdbdafc131169d53346dba/1791736898/seriea-401874776.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Live Event] Borussia Mönchengladbach @ FC Cologne (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/bundesliga-401884774.png" group-title="▷ Sukan 2",[Live Event] Borussia Mönchengladbach @ FC Cologne (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/3dk8rxui-157
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/d42f41f9ea87c1580ff1670ec7711f96dbf028a35371c241138a116c492322ff/1791736898/dazn1-de.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Live Event] Celta Vigo @ Elche (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882854.png" group-title="▷ Sukan 2",[Live Event] Celta Vigo @ Elche (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/ue2959iw-1332
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/4a899dabd7b1767e330da5698cab1213a67507b2d33b436c303afa4c0f4b15e2/1791736897/laliga-401882854.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Live Event] Deportivo @ Real Sociedad (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882847.png" group-title="▷ Sukan 2",[Live Event] Deportivo @ Real Sociedad (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/x84gmjaj-4466
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/30f75ecd31dc61cf2be234b22feedf6a410e64277f1cb695bbb44606bb0983a9/1791736899/laliga-401882847.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Live Event] Eagles @ Jaguars (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872981.png" group-title="▷ Sukan 2",[Live Event] Eagles @ Jaguars (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/a40czx8e-4218
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/4479374cb7cd3920b3e6a6afaf676a50ea50f2b5bbea404f3ac1fc92306baaef/1791736899/nflnetwork-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Live Event] Everton @ Hull City (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/premierleague-401878774.png" group-title="▷ Sukan 2",[Live Event] Everton @ Hull City (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/kzd3hrqz-8358
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/6c75d6e65e372f6f04a121e2e19db62becb615ec7c60795088ea4bd04ba6c630/1791736897/skysportspremierleague-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Live Event] Monza @ Lazio (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874951.png" group-title="▷ Sukan 2",[Live Event] Monza @ Lazio (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/p7v0u6yc-4723
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/3243f10e20135eeeb74c665eb791027c1498102d38b39c1dd9c09827c4d2b888/1791736898/seriea-401874951.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Live Event] Nottingham Forest @ Crystal Palace (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/premierleague-401879266.png" group-title="▷ Sukan 2",[Live Event] Nottingham Forest @ Crystal Palace (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/n58ajgfx-1144
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/39641e762ba24761dc5ca261192d9c5106d5c01ab59262761640a346fff8abea/1791736897/skysportsmainevent-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Live Event] Singapore Airlines Singapore Grand Prix - Race (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/f1-401839117.png" group-title="▷ Sukan 2",[Live Event] Singapore Airlines Singapore Grand Prix - Race (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/hkpz5ivc-8826
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/b0f74c2425f068d0c63d59a8e3d7fe06594d4a533f35bbfa4384de3386a3fa19/1791736897/apple-tv.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Live Event] Strasbourg @ Nice (TIMST)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876443.png" group-title="▷ Sukan 2",[Live Event] Strasbourg @ Nice (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/s0sxc65g-5562
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/1b58d886268bceef2df42a7e6f11a4a99a4182f8a5319bdcdc6c7f51ab628f7c/1791736898/beinconnect4-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cba97/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYTk3OjE3OTE3NDIzMDA2OTM6Y2RubGl2ZXR2LnR2OmNhZjFjODI5ZjViNGU5MWUuNjFkMmE4OTY3MmJhZGMxNDFhMTQwYzM1YTgyOTdlMTc0ZDM4NDFmYjM2YjVjMTI1N2ZmMGQyMWRjYjRkYmFjNA
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[Portuguese Primeira Liga] Rio Ave vs C.D. Nacional (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="▷ Sukan 2",[Portuguese Primeira Liga] Rio Ave vs C.D. Nacional (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/oqq5c86g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/3573cde0874768b16083b042eca41e4716ed97507b54be1846f7f1d3cba40e02/1791736903/sporttv1-pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Premiership] Aberdeen vs St Johnstone (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="▷ Sukan 2",[Scottish Premiership] Aberdeen vs St Johnstone (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/9shjacii
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/2de91f70b02878f1522473e70b8f050f7474f191787b76bdadf79d5b5848f79a/1791736902/beinsports-usa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Crystal Palace vs Nottingham Forest, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Crystal Palace vs Nottingham Forest, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/crystal.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://castorvanta.s3.us-east-1.amazonaws.com/76ers.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Hull City vs Everton, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Hull City vs Everton, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/everton.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://castorvanta.s3.us-east-1.amazonaws.com/raptors.m3u8
