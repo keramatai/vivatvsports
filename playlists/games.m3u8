@@ -1,5 +1,109 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Athletic Club-MG vs Londrina (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Athletic Club-MG vs Londrina (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[England - Championship] Stoke City vs Middlesbrough (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="▷ Sukan 2",[England - Championship] Stoke City vs Middlesbrough (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/s3olxy90-3027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/38bd8532366aaaa2fde9a31e663810457dca5c229826f1e37712081947dd4958/1791928767/nhl-401892485.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Athletic Club-MG vs Londrina (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Athletic Club-MG vs Londrina (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce888/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg4OjE3OTE5MDkwNDUxMTI6Y2RubGl2ZXR2LnR2OjVkNjZmYzIwMjJhN2FiZTIuODViMjkxMTk3OTI0Nzc4MjAzZmVlMWY4YjE1NGI2M2ExMTMzNzk2YjQ2MmY3Yjc5MzU3YzNiY2IzZGRkYWI2Nw
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce888/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg4OjE3OTE5MzQxNjQ0MjE6Y2RubGl2ZXR2LnR2OjY0ZDE0NjExNjAzYjJiNjMuOWUwNTRkNDI3MDhlMTU3ZDIwNGI0YzkzOTk3ZWQ0NWIzMDNiZDUxNjRjOGMwZmQwNGZmNTIxMTAzZGVjNzgzYQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Live Event] Barcelona @ Galatasaray (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915435.png" group-title="▷ Sukan 2",[Live Event] Barcelona @ Galatasaray (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/it7aytqh-9643
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a0579dade373d7bead3124751cff9f701e3b4a5e7cb824466478b74955f33950/1791928763/tntsports2-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Live Event] Bayern Munich @ Viking FK (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915411.png" group-title="▷ Sukan 2",[Live Event] Bayern Munich @ Viking FK (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/3u2rfhmp-8814
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/c16a7480139984ae7fd590c8572c6f54b35c8d9dbf4928539a496bf79febd728/1791928764/tntsports4-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Live Event] Club Brugge @ Internazionale (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915413.png" group-title="▷ Sukan 2",[Live Event] Club Brugge @ Internazionale (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/wip1j7qr-2690
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/c9fe04bec1918e6d1e6408ce275438120c8d4da374dfa76ea4a5ba578ec42068/1791928764/ucl-401915413.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Live Event] Lille @ Arsenal (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915417.png" group-title="▷ Sukan 2",[Live Event] Lille @ Arsenal (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/e0lyrkhr-1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/b51431141e906494d3fd2dd40f385ced388c6fa5b889e28f4df0df071cc79678/1791928764/tntsports1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Live Event] Manchester United @ Atlético Madrid (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915412.png" group-title="▷ Sukan 2",[Live Event] Manchester United @ Atlético Madrid (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/x5cfu5i8-5884
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/1388379458f59fdd4bb910f7d0b1ee77e5932f1d685285b7bf08ae31985ef0e2/1791928763/ucl-401915412.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Live Event] Napoli @ Villarreal (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915410.png" group-title="▷ Sukan 2",[Live Event] Napoli @ Villarreal (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/fj9pmkof-7508
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/aabd4a4a3d55c400c04ff4221440dbbcd88d858c31b7862f5b35615bbd7fd1c7/1791928765/ucl-401915410.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Live Event] PSV Eindhoven @ RB Leipzig (TIMST)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/ucl-401915434.png" group-title="▷ Sukan 2",[Live Event] PSV Eindhoven @ RB Leipzig (TIMST)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/wz7e1bv5-6888
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a0966385c9b47532977180fef896a28732d1890a30889cef8caf6e1075b850d2/1791928764/ucl-401915434.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Arsenal vs Lille, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Arsenal vs Lille, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/arsenal.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/arsenal.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Atlético Madrid vs Manchester United, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Atlético Madrid vs Manchester United, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/manutd.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/manutd.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Galatasaray vs Barcelona, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Galatasaray vs Barcelona, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/barcelona.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/barcelona.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Internazionale vs Club Brugge, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Internazionale vs Club Brugge, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/inter.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/inter.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Viking FK vs Bayern Munich, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Viking FK vs Bayern Munich, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/bayern.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/bayern.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Villarreal vs Napoli, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Villarreal vs Napoli, 2026-27 UEFA Champions League, League Phase (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/napoli.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://ivorysignal.s3.us-east-1.amazonaws.com/napoli.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Arsenal vs Lille (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Arsenal vs Lille (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/e0lyrkhr-6100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/8fb6b76f67db635e1343220f6f171d7ce994630bc6edac7ab5ad92cb37ea46ee/1791928765/tntsports1-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Atlético Madrid vs Manchester United (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Atlético Madrid vs Manchester United (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/x5cfu5i8-6019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/a1ae3296592476011e3bc2679dfe4041fc304e15a37415e95521b782165c90b8/1791928765/ucl-401915412.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Galatasaray vs Barcelona (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Galatasaray vs Barcelona (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/it7aytqh-7107
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/40f861658da4929fa6c8954f6da77613da18bd32131f5e08ccdaabbe1899fb67/1791928765/tntsports2-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Internazionale vs Club Brugge (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Internazionale vs Club Brugge (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/wip1j7qr-9302
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/5ef8ec78a70d5cd64960863ee4afe1df03834ad294ee7c553a77ebad0e916d3b/1791928766/ucl-401915413.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Lens vs Sporting CP (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Lens vs Sporting CP (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/it7aytqh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/6d15d7961bd53f3247c619590d4e7ebf52bbf92a1818080535019b10b1c80f7c/1791928764/tntsports2-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] RB Leipzig vs PSV (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/R7-Lqc_SDxd97uWgoeUQ-g_500x500.png&logo2=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FylTPR72JXIGFzqwQocSAQ_500x500.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50&color1=DD0000&color2=ED1C24&q=65&w=100" group-title="▷ Sukan 2",[UEFA Champions League] RB Leipzig vs PSV (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-7.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://xyzstreams.space/psv/mono.ts.m3u8?token=11be261501a66b9820b4e9195a428d12
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] RB Leipzig vs PSV Eindhoven (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] RB Leipzig vs PSV Eindhoven (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/wz7e1bv5-8081
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/66277e4d101fa0bbae1fb274c5bc51433f76f0d2bec326fd568977c4e6940dbb/1791928766/ucl-401915434.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sabah FK vs Slavia Prague (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Sabah FK vs Slavia Prague (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/3u2rfhmp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/c16a7480139984ae7fd590c8572c6f54b35c8d9dbf4928539a496bf79febd728/1791928764/tntsports4-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Viking FK vs Bayern Munich (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Viking FK vs Bayern Munich (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/3u2rfhmp-9111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/9e18fe647d2cd17b5f95a0ac062e3441a5c2ac8ab208fe37224c0802aa171f8d/1791928766/tntsports4-uk.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Viking FK vs FC Bayern Munich (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1z47bdpzXrZK9K4wu-8MVw_500x500.png&logo2=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-_cmntP5q_pHL7g5LfkRiw_500x500.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50&color1=003399&color2=DC052D&q=65&w=100" group-title="▷ Sukan 2",[UEFA Champions League] Viking FK vs FC Bayern Munich (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-4.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://xyzstreams.space/tnt4/mono.ts.m3u8?token=11be261501a66b9820b4e9195a428d12
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Villarreal CF vs SSC Napoli (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/WKH7Ak5cYD6Qm1EEqXzmVw_500x500.png&logo2=https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ueX_32AIja-hLmJSHpUuFg_500x500.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50&color1=FEE600&color2=003399&q=65&w=100" group-title="▷ Sukan 2",[UEFA Champions League] Villarreal CF vs SSC Napoli (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-6.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://xyzstreams.space/villarreal/mono.ts.m3u8?token=11be261501a66b9820b4e9195a428d12
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Villarreal vs Napoli (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="▷ Sukan 2",[UEFA Champions League] Villarreal vs Napoli (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/fj9pmkof-3991
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/98f38f622360399bd2c680b4e2f55c2870e929893b33a0a52ffbc5972956a7f9/1791928767/ucl-401915410.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://ehgembxe.cfd/&Origin=https://ehgembxe.cfd
