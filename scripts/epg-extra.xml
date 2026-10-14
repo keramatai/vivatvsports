@@ -2,223 +2,13 @@
 <tv><channel id="plex.tv.Fubo.Sports.Network.plex">
     <display-name lang="en">Fubo Sports Network</display-name>
     <icon src="https://epg.iptvx.one/picons/fubo-sports-network-us.png" />
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0e2da2902096c1f8113de3cc140135d1.jpg" />
+    <icon src="https://metadata-static.plex.tv/0/gracenote/029dc7ac7286d3d87e58fb0ee206e128.jpg" />
     </channel>
   <channel id="plex.tv.Women`s.Sports.Network.plex">
     <display-name lang="en">Women`s Sports Network</display-name>
     <icon src="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png" />
     <icon src="https://provider-static.plex.tv/epg/cms/production/5d9c538f-1543-4ed7-8652-1aa6073db14b/WSN_2000x3000.jpg" />
     </channel>
-  <programme start="20261013000000 +0000" stop="20261013010000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Hammer Fists</sub-title>
-    <desc lang="en">Knuckle Up brings you four savage matchups - Mota vs. Schultz, Maness vs. Randall, VanCamp vs. Findley, and Henry vs. Stewart - where only the toughest walk away standing.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E1</episode-num>
-  </programme>
-  <programme start="20261013010000 +0000" stop="20261013020000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Warriors Collide</sub-title>
-    <desc lang="en">Witness three brutal battles where toughness meets technique: Itso Babulaidze vs. Bryan McDowell - A high-octane clash between rising contenders. Steven Banks vs. Joey Dawejko - Heavyweight Banks takes on boxing veteran Dawejko in a raw power show...</desc>
-    <date>2025</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S13 E5</episode-num>
-  </programme>
-  <programme start="20261013020000 +0000" stop="20261013030000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Street Legends</sub-title>
-    <desc lang="en">Knuckle Up delivers four battles you can't miss. Whitney vs. Brady, Angeloff vs. Smith, Evans vs. Ruelas, and Hauser vs. Valencia. Where every fighter came to finish!</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E2</episode-num>
-  </programme>
-  <programme start="20261013030000 +0000" stop="20261013040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">The Underground Circuit</sub-title>
-    <desc lang="en">Knuckle Up brings the heat with Trinidad Snake vs. Sweeney, Hala vs. Ricchi, and Sakara vs. Camozzi. Three fights, zero quit, and everything on the line.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E3</episode-num>
-  </programme>
-  <programme start="20261013040000 +0000" stop="20261013050000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Rise of the Underdogs</sub-title>
-    <desc lang="en">Knuckle Up throws down with Brown vs. Chapman, Gaffie vs. Zeegars, and Tenaglia vs. Bonner. Three fighters hungry for the win. Three fights that won't disappoint!</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E4</episode-num>
-  </programme>
-  <programme start="20261013050000 +0000" stop="20261013060000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Last Fighter Standing</sub-title>
-    <desc lang="en">Knuckle Up heats up with Papa vs. Sikking, Melis vs. Bicchi, Wisniewski vs. Hepi, and Pugliesi vs. Thompson. Four fights, four wars, and no easy nights.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E5</episode-num>
-  </programme>
-  <programme start="20261013060000 +0000" stop="20261013070000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Born to Brawl</sub-title>
-    <desc lang="en">Knuckle Up gets wild with Justin Street vs. AJ Craig, Nathan Rivera vs. Tommy Strydom, and Esteban Rodriguez vs. Zac Cavender. Three matchups where pride, heart, and fists do all the talking.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S17 E6</episode-num>
-  </programme>
-  <programme start="20261013070000 +0000" stop="20261013080000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Leo Perdomo vs Arnold Adams and more!</sub-title>
-    <desc lang="en">Paulo Games takes on Wayne Reid in a clash of skill and heart, while David Simpson squares off with Jeremy Smith in a fight where every strike counts. Edgard Plazaola battles Gary Fox in a showdown of raw power, and Leonardo Perdomo faces Arnold A...</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S16 E7</episode-num>
-  </programme>
-  <programme start="20261013080000 +0000" stop="20261013090000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Yoel Romero vs Theo Doukas and more!</sub-title>
-    <desc lang="en">Jancarlos Rivera collides with Isaiah Garcia in a clash of speed and power, while Chris Garcia takes on Austin Lewis in a battle where every punch matters. Bobby Henry meets Stash Kuykendall in a fight fueled by grit and determination.</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S16 E8</episode-num>
-  </programme>
-  <programme start="20261013090000 +0000" stop="20261013100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">United Kingdom of Chaos</sub-title>
-    <desc lang="en">The UK takes center stage. Dec Spelman squares off with Dawid Chylinski in a clash of power and precision, while Lewis Garside meets Jonno Chipchase in a battle that tests heart and toughness. Jonny Graham goes to war with Navid Mansouri in a figh...</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S16 E9</episode-num>
-  </programme>
-  <programme start="20261013100000 +0000" stop="20261013120000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">STIHL Timbersports</title>
-    <sub-title lang="en">2024 British Women's Championship</sub-title>
-    <desc lang="en">Showcasing the world's best lumberjacks competing across six events.</desc>
-    <date>2026</date>
-    <category lang="en">Action sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1fa52ac89d63a9b154390f9580975e27.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261013120000 +0000" stop="20261013140000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">STIHL Timbersports</title>
-    <sub-title lang="en">Canada Women's Championship 2024</sub-title>
-    <desc lang="en">Canada's strongest women go head-to-head in thrilling Stihl Timbersports battles for glory!</desc>
-    <date>2024</date>
-    <category lang="en">Action sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1fa52ac89d63a9b154390f9580975e27.jpg" />
-    <episode-num system="onscreen">S2024</episode-num>
-  </programme>
-  <programme start="20261013140000 +0000" stop="20261013150000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">The Fantasy Life Show</title>
-    <desc lang="en">Join Ian Hartitz, Dwain McFarland and guests as they break down the world of fantasy football with sharp analysis, data-driven insights, and engaging discussions. From player rankings to weekly matchups, Ian and Dwain provide the necessary tools.</desc>
-    <date>2026</date>
-    <category lang="en">Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/28debb8dd769880693346fd687da608d.jpg" />
-    <episode-num system="onscreen">S3 E46</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261013150000 +0000" stop="20261013160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">The Fantasy Life Show</title>
-    <desc lang="en">Join Ian Hartitz, Dwain McFarland and guests as they break down the world of fantasy football with sharp analysis, data-driven insights, and engaging discussions. From player rankings to weekly matchups, Ian and Dwain provide the necessary tools.</desc>
-    <date>2026</date>
-    <category lang="en">Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/28debb8dd769880693346fd687da608d.jpg" />
-    <episode-num system="onscreen">S3 E46</episode-num>
-  </programme>
-  <programme start="20261013160000 +0000" stop="20261013170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Denmark vs. Wales</sub-title>
-    <desc lang="en">From Sept. 27, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E85</episode-num>
-  </programme>
-  <programme start="20261013170000 +0000" stop="20261013180000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Norway vs. Portugal</sub-title>
-    <desc lang="en">From Sept. 27, 2026.</desc>
-    <date>2026</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2026 E86</episode-num>
-  </programme>
-  <programme start="20261013180000 +0000" stop="20261013190000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">United Fight Alliance</title>
-    <sub-title lang="en">UFA's Baddest Babes 7</sub-title>
-    <desc lang="en">UFA's Baddest Babes episode 7 features Jessica Slavit facing Steph Mendez from Arena Wars with BTC's Jasmine Jasudavicius facing Christina Ricker. Also from Brazil, SFT MMA's Jenny Gotti and Mayra Cantuaria take to the cage. Don't miss Red Canvas...</desc>
-    <date>2026</date>
-    <category lang="en">Martial arts</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/38037af50220a53295a0829d40ebb006.jpg" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20261013190000 +0000" stop="20261013200000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">United Fight Alliance</title>
-    <sub-title lang="en">UFA's Baddest Babes 8</sub-title>
-    <desc lang="en">Features Andreina China versus Patty Borges and Andreia Serafim versus Karen Thalit from Brazil's SFT; watch as Caged Fury's Stephanie Frausto faces Ashley Cummins and Breakthrough MMA's Jenn Conaway takes on Hannah Goldy.</desc>
-    <date>2026</date>
-    <category lang="en">Martial arts</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/38037af50220a53295a0829d40ebb006.jpg" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20261013200000 +0000" stop="20261013210000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">United Fight Alliance</title>
-    <sub-title lang="en">UFA's Baddest Babes 9</sub-title>
-    <desc lang="en">UFA's Baddest Babes episode 9 features SFT MMA's Thalita Diniz versus Taty Zika, Blackeye MMA's Angelica Brotherton versus Glena Avila and Blackeye's Ediane Gomes versus Leslie Smith.</desc>
-    <date>2026</date>
-    <category lang="en">Martial arts</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/38037af50220a53295a0829d40ebb006.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20261013210000 +0000" stop="20261013220000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">KOTC Cage Girls: Destruction</title>
-    <desc lang="en">The main event of the night features Cynthia Arceo vs. Cassie Robb of the Strawweight Division.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2fc54d5f8915a60c080c7c0687e4d7c6.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261013220000 +0000" stop="20261013230000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">KOTC Cage Girls: Cage Killas</title>
-    <desc lang="en">KOTC Cage Girls - Cage Killas delivers the most intense female MMA bouts; the main event of the night features Loveth Young vs. Valerie Wong of the Strawweight Division.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1296c90f9299ece71e9a72f575ff3836.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261013230000 +0000" stop="20261014020000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">SFT Combat 63</title>
-    <desc lang="en">Champion Elismar Carrasco defends featherweight gold against former champion Marcos Marajó.</desc>
-    <date>2026</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/ceaff5a0ff9a023690d82c9ff6799c6c.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
   <programme start="20261014020000 +0000" stop="20261014040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">Legacy Fighting Alliance</title>
     <sub-title lang="en">Martins vs. Gonçalves</sub-title>
@@ -309,7 +99,7 @@
     <date>2026</date>
     <category lang="en">Football</category>
     <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e30a5fa64be907f5614b47599b755222.jpg" />
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bf865b8fe99fac7a013c21583ebcd492.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <premiere lang="en" />
   </programme>
@@ -704,6 +494,13 @@
     <icon src="https://metadata-static.plex.tv/6/gracenote/668b7769fadb7d63886bebaa2e20a133.jpg" />
     <episode-num system="onscreen">S4</episode-num>
   </programme>
+  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c621016f2d4de74788c123027b86891d.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
   <programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">UEFA Nations League in 60</title>
     <sub-title lang="en">Germany vs. Serbia</sub-title>
@@ -754,151 +551,148 @@
     <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
     <episode-num system="onscreen">S1 E152</episode-num>
   </programme>
-  <programme start="20261013000100 +0000" stop="20261013021000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Football</title>
-    <desc lang="en">Chelsea FC take on Auckland FC in a women's football friendly.</desc>
+  <programme start="20261017000000 +0000" stop="20261017020000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC 90: Birmingham</sub-title>
+    <desc lang="en">Featuring Tierney vs. Franco live from Birmingham!</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2b3080f0f712944f/ChelseaAukland_Landscape.jpg" />
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E155</episode-num>
+  </programme>
+  <programme start="20261017020000 +0000" stop="20261017040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Hollywood</sub-title>
+    <desc lang="en">Featuring Julian Lane vs. Bryce Henry live from the Hard Rock Hotel &amp; Casino in Hollywood, Florida!</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E156</episode-num>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017060000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Nashville</sub-title>
+    <desc lang="en">Featuring Julian Lane vs. Bryce Henry live from the Hard Rock Hotel &amp; Casino in Hollywood, Florida!</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E157</episode-num>
+  </programme>
+  <programme start="20261017060000 +0000" stop="20261017080000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Naples</sub-title>
+    <desc lang="en">Featuring Hunt vs. Pugliese live from Arena Flegrea in Naples, Italy.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E160</episode-num>
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Uruguay</sub-title>
+    <desc lang="en">Featuring Reyno vs. Krejci live from Montevideo, Uruguay.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E161</episode-num>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017113000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BIG3 Basketball</title>
+    <sub-title lang="en">Week 4</sub-title>
+    <desc lang="en">Week 4 action from Prudential Center in Newark, N.J.</desc>
+    <date>2024</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">3x3 basketball</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
+    <episode-num system="onscreen">S2024</episode-num>
+  </programme>
+  <programme start="20261017113000 +0000" stop="20261017130000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BIG3 Basketball</title>
+    <sub-title lang="en">Week 4</sub-title>
+    <desc lang="en">Week 4 action from Prudential Center in Newark, N.J.</desc>
+    <date>2024</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">3x3 basketball</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
+    <episode-num system="onscreen">S2024</episode-num>
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017133000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">All Elite Wrestling: Collision</title>
+    <sub-title lang="en">Countdown to WrestleDream 2026</sub-title>
+    <desc lang="en">The all new matches, more stories and more action, featuring the world-class All Elite Wrestling roster.</desc>
+    <date>2026</date>
+    <category lang="en">Pro wrestling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/668b7769fadb7d63886bebaa2e20a133.jpg" />
+    <episode-num system="onscreen">S4</episode-num>
     <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
   </programme>
-  <programme start="20261013021000 +0000" stop="20261013034100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">NWSL Soccer</title>
-    <sub-title lang="en">NWSL Teal Rising Cup</sub-title>
-    <desc lang="en">Third Place (Palmeiras vs CHI).</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/eb4bc05540720d8b/WSNNWSL.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Fubo Sports News</title>
+    <desc lang="en">Keep up with the sports you love.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d65382a8a83bd85ab9a2b4ef639c1373.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
     <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
   </programme>
-  <programme start="20261013034100 +0000" stop="20261013051900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">NWSL Soccer</title>
-    <sub-title lang="en">NWSL Teal Rising Cup</sub-title>
-    <desc lang="en">Championship (KC vs Corinthians).</desc>
+  <programme start="20261017140000 +0000" stop="20261017150000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">The Fantasy Life Show</title>
+    <desc lang="en">Join Ian Hartitz, Dwain McFarland and guests as they break down the world of fantasy football with sharp analysis, data-driven insights, and engaging discussions. From player rankings to weekly matchups, Ian and Dwain provide the necessary tools.</desc>
+    <date>2026</date>
+    <category lang="en">Football</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/eb4bc05540720d8b/WSNNWSL.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/28debb8dd769880693346fd687da608d.jpg" />
+    <episode-num system="onscreen">S3 E48</episode-num>
     <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
   </programme>
-  <programme start="20261013051900 +0000" stop="20261013072800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Football</title>
-    <desc lang="en">Chelsea FC take on Auckland FC in a women's football friendly.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2b3080f0f712944f/ChelseaAukland_Landscape.jpg" />
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+  <programme start="20261017160000 +0000" stop="20261017170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BKFC: Knuckle Up</title>
+    <sub-title lang="en">Warriors Collide</sub-title>
+    <desc lang="en">Witness three brutal battles where toughness meets technique: Itso Babulaidze vs. Bryan McDowell - A high-octane clash between rising contenders. Steven Banks vs. Joey Dawejko - Heavyweight Banks takes on boxing veteran Dawejko in a raw power show...</desc>
+    <date>2025</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
+    <episode-num system="onscreen">S13 E5</episode-num>
   </programme>
-  <programme start="20261013072800 +0000" stop="20261013095900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">NWSL Soccer</title>
-    <sub-title lang="en">NWSL Teal Rising Cup</sub-title>
-    <desc lang="en">Third Place (Palmeiras vs CHI).</desc>
+  <programme start="20261017170000 +0000" stop="20261017190000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC 75: Albuquerque</sub-title>
+    <desc lang="en">BKFC 75 features David Mundell vs Donald Sanchez live from Albuquerque!</desc>
+    <date>2025</date>
+    <category lang="en">Boxing</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/eb4bc05540720d8b/WSNNWSL.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E117</episode-num>
   </programme>
-  <programme start="20261013095900 +0000" stop="20261013105900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+  <programme start="20261017190000 +0000" stop="20261017210000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Mohegan Sun</sub-title>
+    <desc lang="en">Featuring a massive 11-fight card from Mohegan Sun Arena.</desc>
+    <date>2025</date>
+    <category lang="en">Boxing</category>
     <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2eb0f452a9c066dd25f330a827ad0c71.jpg" />
+    <episode-num system="onscreen">S1 E118</episode-num>
   </programme>
-  <programme start="20261013105900 +0000" stop="20261013115900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+  <programme start="20261017210000 +0000" stop="20261018000000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC 58: Markulev vs Kolev</sub-title>
+    <desc lang="en">BKFC 58 features a stacked card from Sofia, Bulgaria.</desc>
+    <date>2024</date>
+    <category lang="en">Boxing</category>
     <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013115900 +0000" stop="20261013125900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013125900 +0000" stop="20261013135900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013135900 +0000" stop="20261013145900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013145900 +0000" stop="20261013155900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013155900 +0000" stop="20261013165900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013165900 +0000" stop="20261013175900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013175900 +0000" stop="20261013185900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013185900 +0000" stop="20261013195900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013195900 +0000" stop="20261013205900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013205900 +0000" stop="20261013215900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013215900 +0000" stop="20261013225900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013225900 +0000" stop="20261013235900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
-  </programme>
-  <programme start="20261013235900 +0000" stop="20261014005900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Women's Sports Network</title>
-    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8b53b1ddf8552370e2f05fc0d32b122b.jpg" />
+    <episode-num system="onscreen">S1 E66</episode-num>
   </programme>
   <programme start="20261014005900 +0000" stop="20261014015900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">Women's Sports Network</title>
@@ -1183,6 +977,150 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
   </programme>
   <programme start="20261015235900 +0000" stop="20261016005900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016005900 +0000" stop="20261016015900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016015900 +0000" stop="20261016025900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016025900 +0000" stop="20261016035900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016035900 +0000" stop="20261016045900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016045900 +0000" stop="20261016055900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016055900 +0000" stop="20261016065900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016065900 +0000" stop="20261016075900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016075900 +0000" stop="20261016085900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016085900 +0000" stop="20261016095900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016095900 +0000" stop="20261016105900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016105900 +0000" stop="20261016115900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016115900 +0000" stop="20261016125900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016125900 +0000" stop="20261016135900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016135900 +0000" stop="20261016145900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016145900 +0000" stop="20261016155900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016155900 +0000" stop="20261016165900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016165900 +0000" stop="20261016175900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016175900 +0000" stop="20261016185900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016185900 +0000" stop="20261016195900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016195900 +0000" stop="20261016205900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016205900 +0000" stop="20261016215900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016215900 +0000" stop="20261016225900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016225900 +0000" stop="20261016235900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Women's Sports Network</title>
+    <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/765b8674-4aed-455a-8d12-75462506be45/WSN_1920x1080.jpg" />
+  </programme>
+  <programme start="20261016235900 +0000" stop="20261017005900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">Women's Sports Network</title>
     <desc lang="en">We connect fans of women’s sports to the athletes and games they can’t miss. All in one place, for the first time ever. Game on!</desc>
     <category lang="en">Sports</category>
