@@ -1,2 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Juventude (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTIyNTE4MDYyODc6Y2RubGl2ZXR2LnR2OjE5NTc1OTgxOWU5MWMxMDMuYTgyMjNmMWYwYTNjOTJiYTA5YmJiNjU4NDc3NGIzZjkxZDU2MzFmMWQ3MTdhODA0ZmYxMWFiM2E0OThlM2M5Mw
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota United vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Minnesota United vs St. Louis City SC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTIyNTE4MDY0NTQ6Y2RubGl2ZXR2LnR2OmNmYWNlZTg0MzNhYWE3ZTUuMjRkZDllZTM0ZmNiYzlmNTk4YTkzZjk0YTQ5MjkyMGIwMTk4NWQ1ZTU4MmFiYWQ2M2Y1ODU5ODJhNGY2MzJhNw
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Toronto FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNTE4MDY2NDI6Y2RubGl2ZXR2LnR2OmMyYzFhY2RiOTk5OGM3ODkuOWZhMzQzYjU0NDQwNmY1ZTY5ZjdjZWU1MDY3NjNjZGUyMzNjYjEwMTEwZWY1ZDI4NDczNzdlYjNiMjgyZTBhMQ
