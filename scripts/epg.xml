@@ -68847,585 +68847,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <channel id="WLFG-DT.us_locals1">
-    <icon src="https://i.gyazo.com/8e5d917941c538a7f1a7b056dffeb455.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <display-name lang="en">WLFG-DT</display-name>
-  </channel>
   <channel id="WFXT-DT.us_locals1">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" />
     <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <display-name lang="en">WFXT-DT</display-name>
+  </channel>
+  <channel id="WLFG-DT.us_locals1">
+    <icon src="https://i.gyazo.com/8e5d917941c538a7f1a7b056dffeb455.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <display-name lang="en">WLFG-DT</display-name>
   </channel>
   <channel id="WGN-DT.us_locals1">
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53098_dark_360w_270h.png" />
     <icon src="http://dtil.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&amp;h=270" />
     <display-name lang="en">WGN-DT</display-name>
   </channel>
-  <programme channel="WGN-DT.us_locals1" start="20261016050000 +0000" stop="20261016053000 +0000">
-    <title lang="en">Two and a Half Men</title>
-    <sub-title lang="en">Bad News From the Clinic</sub-title>
-    <desc lang="en">Charlie meets his match when he falls for a woman who is better at playing hard to get than he is.</desc>
-    <credits>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-      <director>Pamela Fryman</director>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016053000 +0000" stop="20261016060000 +0000">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">A Bedtime Story</sub-title>
-    <desc lang="en">Mike tries to avoid hurting Vanessa's feelings due to her snoring; Mandy goes overboard preparing for the arrival of Kristin and Ryan's new baby.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Héctor Elizondo</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8679132_b_h8_ax.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016060000 +0000" stop="20261016063000 +0000">
-    <title lang="en">The Goldbergs</title>
-    <sub-title lang="en">Dana's Back</sub-title>
-    <desc lang="en">Adam gets a surprise from his past -- his first love Dana; Barry and Erica are off to college, but realize they have nowhere on campus to live.</desc>
-    <credits>
-      <actor>Wendi McLendon-Covey</actor>
-      <actor>Patton Oswalt</actor>
-      <actor>Sean Giambrone</actor>
-      <director>Jay Chandrasekhar</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016063000 +0000" stop="20261016070000 +0000">
-    <title lang="en">Secret to More Energy, Better Focus &amp; Restful Sleep</title>
-    <desc lang="en">MyMagnesiumTM ProClinical delivers 350 mg of highly absorbable magnesium plus clinically studied Shoden® Ashwagandha, vitamin D, Zinc, Boron, and antioxidant-rich organic blueberries—designed to support calm focus, steady energy, and deeper sleep.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32937561_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016070000 +0000" stop="20261016080000 +0000">
-    <title lang="en">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
-    <desc lang="en">Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33753564_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016080000 +0000" stop="20261016083000 +0000">
-    <title lang="en">Emma: Natural Relief for Bloating, Constipation &amp; Gut Imbalance</title>
-    <desc lang="en">Tired of bloating or gut issues that won't go away?; discovering the root cause-and how Emma can help eliminate methane-producing archaea, reset digestion and restore balance naturally.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30347164_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016083000 +0000" stop="20261016090000 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With the Jam</sub-title>
-    <desc lang="en">Phoebe dates a man who thinks he's stalking her twin sister, Ursula; Ross and Rachel give Chandler "boyfriend" lessons.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892577_b_h11_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016090000 +0000" stop="20261016100000 +0000">
-    <title lang="en">Live: WGN Early Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13972283_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016100000 +0000" stop="20261016110000 +0000">
-    <title lang="en">Live: WGN Early Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13972283_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016110000 +0000" stop="20261016120000 +0000">
-    <title lang="en">Live: WGN Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016120000 +0000" stop="20261016130000 +0000">
-    <title lang="en">Live: WGN Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016130000 +0000" stop="20261016140000 +0000">
-    <title lang="en">Live: WGN Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016140000 +0000" stop="20261016150000 +0000">
-    <title lang="en">Live: WGN Morning News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016150000 +0000" stop="20261016160000 +0000">
-    <title lang="en">Daytime Chicago</title>
-    <desc lang="en">The latest trends in food, entertainment, fashion, events, culture, health and wellness; Amy Rutledge and Tonya Francisco host.</desc>
-    <credits>
-      <actor>Amy Rutledge</actor>
-      <actor>Tonya Francisco</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20375198_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016160000 +0000" stop="20261016170000 +0000">
-    <title lang="en">Live: WGN Midday News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984857_b_h8_am.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016170000 +0000" stop="20261016180000 +0000">
-    <title lang="en">Live: WGN Midday News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984857_b_h8_am.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016180000 +0000" stop="20261016190000 +0000">
-    <title lang="en">Spotlight Chicago</title>
-    <desc lang="en">Upbeat local stories with hosts Ji Suk Yi and Sarah Jindra, featuring hidden gems, iconic spots, events, and people contributing and giving back to Chicagoland.</desc>
-    <date>2023</date>
-    <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25280286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016190000 +0000" stop="20261016200000 +0000">
-    <title lang="en">WGN Take Two</title>
-    <desc lang="en">Highlights and memorable moments from WGN's newscasts and programming.</desc>
-    <date>2025</date>
-    <icon src="http://dtil.tmsimg.com/assets/p31113888_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016200000 +0000" stop="20261016203000 +0000">
-    <title lang="en">Judy Justice</title>
-    <sub-title lang="en">A Father's Fight for Justice (Part 1)</sub-title>
-    <desc lang="en">A young father sues his ex-fiancée for the $10,000 court maximum, claiming false assault charges led to a sweeping restraining order preventing him from seeing their children for two years.</desc>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-      <director>Randy Douthit</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E48</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016203000 +0000" stop="20261016210000 +0000">
-    <title lang="en">Judy Justice</title>
-    <sub-title lang="en">A Father's Fight for Justice (Part 2)</sub-title>
-    <desc lang="en">A former couple tells conflicting stories of violence, highlighting a chaotic Valentine's Day dispute that ends with a hospital visit and competing police reports.</desc>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-      <director>Randy Douthit</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E49</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016210000 +0000" stop="20261016220000 +0000">
-    <title lang="en">Live: WGN Early Evening News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13905215_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016220000 +0000" stop="20261016230000 +0000">
-    <title lang="en">Live: WGN Evening News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984856_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016230000 +0000" stop="20261016234500 +0000">
-    <title lang="en">Live: WGN Evening News</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984856_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261016234500 +0000" stop="20261017000000 +0000">
-    <title lang="en">The Point</title>
-    <desc lang="en">WGN News Political Editor Tahman Bradley interviews top elected officials and provides in-depth reports on local, state and national politics.</desc>
-    <date>2026</date>
-    <category lang="en">Politics</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32254443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017000000 +0000" stop="20261017010000 +0000">
-    <title lang="en">Penn &amp; Teller: Fool Us</title>
-    <sub-title lang="en">It Takes Balls to Be a Magician</sub-title>
-    <desc lang="en">Featured magicians include Javi Rufo, Emma Olson, Sean Ridgeway and Jim Vines.</desc>
-    <credits>
-      <actor>Brooke Burke</actor>
-      <actor>Penn Jillette</actor>
-      <actor>Teller</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8449504_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S10 E17</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017010000 +0000" stop="20261017013000 +0000">
-    <title lang="en">Totally Funny Animals</title>
-    <sub-title lang="en">Jump For Joy</sub-title>
-    <desc lang="en">Caught-on-camera videos that highlight the outrageous and wacky world of animals, hosted by comic Andy Woodhull.</desc>
-    <credits>
-      <actor>Andy Woodhull</actor>
-      <director>Rick de Oliveira</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33014038_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017013000 +0000" stop="20261017020000 +0000">
-    <title lang="en">Totally Funny Animals</title>
-    <sub-title lang="en">Road Rage</sub-title>
-    <desc lang="en">Caught-on-camera videos that highlight the outrageous and wacky world of animals, hosted by comic Andy Woodhull.</desc>
-    <credits>
-      <actor>Andy Woodhull</actor>
-      <director>Rick de Oliveira</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33014038_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E26</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017020000 +0000" stop="20261017030000 +0000">
-    <title lang="en">Live: WGN News at Nine</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2000</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p984866_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017030000 +0000" stop="20261017033000 +0000">
-    <title lang="en">Live: WGN News at Ten</title>
-    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
-    <date>2015</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12178029_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017033000 +0000" stop="20261017040000 +0000">
-    <title lang="en">Live: GN Sports</title>
-    <desc lang="en">The latest sports news, highlights and analysis from Kaitlin Sharkey and Josh Frydman.</desc>
-    <date>2020</date>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17854962_b_h10_af.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017040000 +0000" stop="20261017043000 +0000">
-    <title lang="en">Young Sheldon</title>
-    <sub-title lang="en">A Patch, a Modem, and a Zantac</sub-title>
-    <desc lang="en">Sheldon is shocked when a NASA representative at school dismisses his science; he becomes determined to prove him wrong.</desc>
-    <credits>
-      <actor>Iain Armitage</actor>
-      <actor>Zoe Perry</actor>
-      <actor>Lance Barber</actor>
-      <director>Don Scardino</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="WGN-DT.us_locals1" start="20261017043000 +0000" stop="20261017050000 +0000">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Citation Negation</sub-title>
-    <desc lang="en">Sheldon and Amy are devastated after learning from a Russian paper that Super Asymmetry has already been discovered and disproved; Bernadette wants to beat Howard in a popular video game.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <director>Kristy Cecil</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S12 E9</episode-num>
-    <previously-shown />  <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
   <programme channel="WGN-DT.us_locals1" start="20261017050000 +0000" stop="20261017053000 +0000">
     <title lang="en">Two and a Half Men</title>
     <sub-title lang="en">The Price of Healthy Gums Is Eternal Vigilance</sub-title>
@@ -69865,10 +69301,10 @@
     <icon src="http://dtil.tmsimg.com/assets/p30347164_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="WGN-DT.us_locals1" start="20261018083000 +0000" stop="20261018090000 +0000">
-    <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
-    <desc lang="en">Prosvent is a doctor-formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
+    <title lang="en">Relieve your foot pain with WalkFit!</title>
+    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12448618_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30042336_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="WGN-DT.us_locals1" start="20261018090000 +0000" stop="20261018100000 +0000">
     <title lang="en">The Aging Brain</title>
@@ -69918,7 +69354,7 @@
     <date>1989</date>
     <category lang="en">Music</category>
     <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p488407_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p488407_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />  <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating>
@@ -70083,8 +69519,8 @@
   </programme>
   <programme channel="WGN-DT.us_locals1" start="20261018230000 +0000" stop="20261018233000 +0000">
     <title lang="en">Police 24/7: On the Beat</title>
-    <sub-title lang="en">Her Lips Are Blue</sub-title>
-    <desc lang="en">Officers race to save a potential overdose victim; a Tesla smashes into a dentist's office; an officer plays a careful game of cat and mouse with a familiar repeat offender.</desc>
+    <sub-title lang="en">Back Away From the Door</sub-title>
+    <desc lang="en">Helicopters help bring an end to a lengthy pursuit; officers get lucky in the search for a shooter; an elderly woman needs help finding her way home.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
@@ -70941,242 +70377,534 @@
       <value>ATP</value>
     </rating>
   </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016043500 +0000" stop="20261016053000 +0000">
-    <title lang="en">Boston 25 News at 10PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016053000 +0000" stop="20261016060000 +0000">
-    <title lang="en">Boston 25 News at 11PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016060000 +0000" stop="20261016070000 +0000">
-    <title lang="en">Boston 25 News at 10PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016070000 +0000" stop="20261016073000 +0000">
-    <title lang="en">Boston 25 News at 11PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016073000 +0000" stop="20261016083000 +0000">
-    <title lang="en">Boston 25 News at 10PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016083000 +0000" stop="20261016090000 +0000">
-    <title lang="en">Boston 25 News at 11PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016090000 +0000" stop="20261016100000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 5AM</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045408_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016100000 +0000" stop="20261016110000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 6AM</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045449_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016110000 +0000" stop="20261016130000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 7AM</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045458_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016130000 +0000" stop="20261016140000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 9AM</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016140000 +0000" stop="20261016150000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 10AM</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18215317_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016150000 +0000" stop="20261016160000 +0000">
-    <title lang="en">Live: Boston 25 Morning News at 11AM</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28134515_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016160000 +0000" stop="20261016170000 +0000">
-    <title lang="en">Live: Boston 25 News at Noon</title>
-    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15012123_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016170000 +0000" stop="20261016180000 +0000">
-    <title lang="en">Live: Boston 25 News</title>
-    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15176431_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016180000 +0000" stop="20261016183000 +0000">
-    <title lang="en">Second Chance Pets</title>
-    <desc lang="en">A dog named Leo needs a front leg brace to be able to walk; a champion show dog named Sergio needs a knee brace.</desc>
-    <date>2021</date>
+  <programme channel="WGN-DT.us_locals1" start="20261020050000 +0000" stop="20261020053000 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">A Kosher Slaughterhouse Out in Fontana</sub-title>
+    <desc lang="en">Charlie and Alan hire Berta's sister (Camryn Manheim) to cater a party their mother has conned them into throwing for her.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Pamela Fryman</director>
+    </credits>
+    <date>2004</date>
     <category lang="en">Series</category>
-    <category lang="en">Animals</category>
-    <category lang="en">Pets</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20326979_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020053000 +0000" stop="20261020060000 +0000">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Student Doubt</sub-title>
+    <desc lang="en">When Mandy worries about Kyle passing his first college exam, she secretly enlists Vanessa, Jen and Ryan to help tutor him; Mike learns of Ed and Chuck's superstition involving their decision-making.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Héctor Elizondo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8679132_b_h8_ax.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E13</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020060000 +0000" stop="20261020063000 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">WrestleMania</sub-title>
+    <desc lang="en">Murray buys WrestleMania tickets to spend time with Barry and Adam, but he buys fake tickets, and they can't get in; Beverly forms her own neighborhood watch group when the Frentas decide neighbor Jane Bales will be the watch captain.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020063000 +0000" stop="20261020070000 +0000">
+    <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc lang="en">Prosvent is a doctor-formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12448618_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020070000 +0000" stop="20261020073000 +0000">
+    <title lang="en">H2O X5 - Super Powerful 5-In-1 Multi-Use Steam Cleaner</title>
+    <desc lang="en">Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18861032_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020073000 +0000" stop="20261020080000 +0000">
+    <title lang="en">Secret to More Energy, Better Focus &amp; Restful Sleep</title>
+    <desc lang="en">MyMagnesiumTM ProClinical delivers 350 mg of highly absorbable magnesium plus clinically studied Shoden® Ashwagandha, vitamin D, Zinc, Boron, and antioxidant-rich organic blueberries—designed to support calm focus, steady energy, and deeper sleep.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32937561_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020080000 +0000" stop="20261020083000 +0000">
+    <title lang="en">Going To The Bathroom Too Much?</title>
+    <desc lang="en">Better Bladder is a new safe and natural alternative to drugs, surgery and adult diapers. 90 percent see fewer bathroom visits, leaks &amp; accidents. Tune in for a special TV offer!</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18365876_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020083000 +0000" stop="20261020090000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Frank Jr</sub-title>
+    <desc lang="en">Phoebe tries to bond with her half brother, Frank Jr., by offering to buy a massage; Ross spots Isabella Rossellini; Joey tries to build an entertainment center.</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892577_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020090000 +0000" stop="20261020100000 +0000">
+    <title lang="en">Live: WGN Early Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13972283_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020100000 +0000" stop="20261020110000 +0000">
+    <title lang="en">Live: WGN Early Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13972283_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020110000 +0000" stop="20261020120000 +0000">
+    <title lang="en">Live: WGN Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020120000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Live: WGN Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020130000 +0000" stop="20261020140000 +0000">
+    <title lang="en">Live: WGN Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020140000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Live: WGN Morning News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984858_b_h8_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020150000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Daytime Chicago</title>
+    <desc lang="en">The latest trends in food, entertainment, fashion, events, culture, health and wellness; Amy Rutledge and Tonya Francisco host.</desc>
+    <credits>
+      <actor>Amy Rutledge</actor>
+      <actor>Tonya Francisco</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20375198_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020160000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Live: WGN Midday News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984857_b_h8_am.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">Live: WGN Midday News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984857_b_h8_am.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020180000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Spotlight Chicago</title>
+    <desc lang="en">Upbeat local stories with hosts Ji Suk Yi and Sarah Jindra, featuring hidden gems, iconic spots, events, and people contributing and giving back to Chicagoland.</desc>
+    <date>2023</date>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25280286_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020190000 +0000" stop="20261020200000 +0000">
+    <title lang="en">WGN Take Two</title>
+    <desc lang="en">Highlights and memorable moments from WGN's newscasts and programming.</desc>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p31113888_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Tire-Slashing Nuptials</sub-title>
+    <desc lang="en">Tensions escalate as a woman accuses her future stepdaughter of tire slashing and social media slander; the stepdaughter counters with claims of an eviction, illegal lockout and theft of her property.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+      <actor>Kevin Rasco</actor>
+      <actor>Whitney Kumar</actor>
+      <director>Randy Douthit</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E52</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020203000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Assault, Corgis, and Emotional Support Fraud</sub-title>
+    <desc lang="en">Former partners battle over competing assault allegations and the custody of their two beloved corgis, one of whom makes an appearance and charms the entire courtroom.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+      <actor>Kevin Rasco</actor>
+      <actor>Whitney Kumar</actor>
+      <director>Randy Douthit</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E60</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020210000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Live: WGN Early Evening News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13905215_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020220000 +0000" stop="20261020230000 +0000">
+    <title lang="en">Live: WGN Evening News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984856_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020230000 +0000" stop="20261020234500 +0000">
+    <title lang="en">Live: WGN Evening News</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984856_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261020234500 +0000" stop="20261021000000 +0000">
+    <title lang="en">The Point</title>
+    <desc lang="en">WGN News Political Editor Tahman Bradley interviews top elected officials and provides in-depth reports on local, state and national politics.</desc>
+    <date>2026</date>
+    <category lang="en">Politics</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32254443_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021000000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Live: WWE NXT</title>
+    <sub-title lang="en">October 20th 2026</sub-title>
+    <desc lang="en">Cruz Montana seeks payback against Dion Lennox following a backstage beatdown; The Dusty Rhodes Tag Team Classic Quarterfinals continue.</desc>
+    <credits>
+      <actor>Vic Joseph</actor>
+      <actor>Booker T</actor>
+      <actor>Corey Graves</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Pro wrestling</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32104953_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E42</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021020000 +0000" stop="20261021030000 +0000">
+    <title lang="en">Live: WGN News at Nine</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2000</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p984866_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021030000 +0000" stop="20261021033000 +0000">
+    <title lang="en">Live: WGN News at Ten</title>
+    <desc lang="en">The latest from Chicago's Very Own WGN News team.</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12178029_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021033000 +0000" stop="20261021040000 +0000">
+    <title lang="en">Live: GN Sports</title>
+    <desc lang="en">The latest sports news, highlights and analysis from Kaitlin Sharkey and Josh Frydman.</desc>
+    <date>2020</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17854962_b_h10_af.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021040000 +0000" stop="20261021043000 +0000">
+    <title lang="en">Young Sheldon</title>
+    <sub-title lang="en">Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair</sub-title>
+    <desc lang="en">George Sr. takes the boys on a road trip to see a space shuttle launch; Mary, Missy, and Meemaw have a girls weekend at the salon.</desc>
+    <credits>
+      <actor>Iain Armitage</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Lance Barber</actor>
+      <director>Howie Deutch</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
     <previously-shown />  <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016183000 +0000" stop="20261016190000 +0000">
-    <title lang="en">Super Animals</title>
-    <desc lang="en">Critters that have unique quirks - and superpowers; hedgehogs; mandrills; spoonbills.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Educational</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25199238_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <premiere lang="en" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016190000 +0000" stop="20261016200000 +0000">
-    <title lang="en">Live: Boston 25 News</title>
-    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15176431_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016200000 +0000" stop="20261016210000 +0000">
-    <title lang="en">Live: Boston 25 News at 4PM</title>
-    <desc lang="en">Get caught up on the day's news and find out what's happening now. Local news and breaking stories.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045479_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016210000 +0000" stop="20261016220000 +0000">
-    <title lang="en">Live: Boston 25 News at 5PM</title>
-    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045488_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016220000 +0000" stop="20261016230000 +0000">
-    <title lang="en">Live: Boston 25 News at 6PM</title>
-    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045496_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016230000 +0000" stop="20261016233000 +0000">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">News and features about performers, productions and the milieu.</desc>
-    <credits>
-      <actor>Kevin Frazier</actor>
-      <actor>Nischelle Turner</actor>
-      <actor>Cassie DiLaura</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S46 E29</episode-num>
-    <premiere lang="en" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261016233000 +0000" stop="20261017000000 +0000">
-    <title lang="en">TMZ</title>
-    <desc lang="en">TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
-    <credits>
-      <actor>Harvey Levin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p185886_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S20 E35</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="WGN-DT.us_locals1" start="20261021043000 +0000" stop="20261021050000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Paintball Scattering</sub-title>
+    <desc lang="en">Penny and Leonard organize a paintball game, which results in mayhem when Sheldon becomes jealous of Amy; Koothrappali catches Anu with her ex-boyfriend; Stuart doesn't want to move in with Denise.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E11</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261017000000 +0000" stop="20261017033000 +0000">
-    <title lang="en">Live: College Football</title>
-    <desc lang="en">The Washington Huskies visit the Purdue Boilermakers. Washington lost 41-24 to No. 17 Iowa, extending their losing streak to three games. Elijah Brown threw three touchdowns. Purdue beat Minnesota 41-13, with Fame Ijeboi rushing for 195 yards.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036Y5RB.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261017033000 +0000" stop="20261017040500 +0000">
-    <title lang="en">Live: Boston 25 News at 11PM</title>
-    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WFXT-DT.us_locals1" start="20261017040500 +0000" stop="20261017043500 +0000">
-    <title lang="en">National News Tonight</title>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18319367_b_h10_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
   </programme>
   <programme channel="WFXT-DT.us_locals1" start="20261017043500 +0000" stop="20261017050500 +0000">
     <title lang="en">InvestigateTV+</title>
@@ -72276,339 +72004,316 @@
     <category lang="en">News</category>
     <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016050000 +0000" stop="20261016060000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261020053000 +0000" stop="20261020060000 +0000">
+    <title lang="en">Boston 25 News at 11PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016060000 +0000" stop="20261016063000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261020060000 +0000" stop="20261020070000 +0000">
+    <title lang="en">Boston 25 News at 10PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016063000 +0000" stop="20261016070000 +0000">
-    <title lang="en">Holy Ghost Revival</title>
-    <desc lang="en">Evangelist Michael Tate.</desc>
-    <date>2019</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16699971_b_h8_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261020070000 +0000" stop="20261020073000 +0000">
+    <title lang="en">Boston 25 News at 11PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016070000 +0000" stop="20261016073000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261020073000 +0000" stop="20261020083000 +0000">
+    <title lang="en">Boston 25 News at 10PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016073000 +0000" stop="20261016083000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261020083000 +0000" stop="20261020090000 +0000">
+    <title lang="en">Boston 25 News at 11PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016083000 +0000" stop="20261016090000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016090000 +0000" stop="20261016100000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016100000 +0000" stop="20261016103000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
+  <programme channel="WFXT-DT.us_locals1" start="20261020090000 +0000" stop="20261020100000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 5AM</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045408_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
   </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016103000 +0000" stop="20261016110000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
+  <programme channel="WFXT-DT.us_locals1" start="20261020100000 +0000" stop="20261020110000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 6AM</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045449_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
   </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016110000 +0000" stop="20261016113000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016113000 +0000" stop="20261016120000 +0000">
-    <title lang="en">Pickin' Time</title>
-    <date>2007</date>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p855158_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016120000 +0000" stop="20261016123000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
+  <programme channel="WFXT-DT.us_locals1" start="20261020110000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 7AM</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045458_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
   </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016123000 +0000" stop="20261016130000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016130000 +0000" stop="20261016133000 +0000">
-    <title lang="en">Les Feldick</title>
-    <desc lang="en">Teaching the Bible.</desc>
+  <programme channel="WFXT-DT.us_locals1" start="20261020130000 +0000" stop="20261020140000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 9AM</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045469_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020140000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 10AM</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18215317_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020150000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Live: Boston 25 Morning News at 11AM</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28134515_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020160000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Live: Boston 25 News at Noon</title>
+    <desc lang="en">Major local news stories, breaking news and overnight news, along with weather and traffic.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15012123_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">Live: Boston 25 News</title>
+    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15176431_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020180000 +0000" stop="20261020190000 +0000">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.</desc>
     <credits>
-      <actor>Les Feldick</actor>
+      <actor>Harvey Levin</actor>
     </credits>
-    <date>1994</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p774906_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S15 E32</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020190000 +0000" stop="20261020200000 +0000">
+    <title lang="en">Live: Boston 25 News</title>
+    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15176431_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020200000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Live: Boston 25 News at 4PM</title>
+    <desc lang="en">Get caught up on the day's news and find out what's happening now. Local news and breaking stories.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045479_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020210000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Live: Boston 25 News at 5PM</title>
+    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045488_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020220000 +0000" stop="20261020230000 +0000">
+    <title lang="en">Live: Boston 25 News at 6PM</title>
+    <desc lang="en">The Boston 25 News Team delivers coverage of major local news stories, breaking news and a forecast.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045496_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020230000 +0000" stop="20261020233000 +0000">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <credits>
+      <actor>Kevin Frazier</actor>
+      <actor>Nischelle Turner</actor>
+      <actor>Cassie DiLaura</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S46 E32</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261020233000 +0000" stop="20261021000000 +0000">
+    <title lang="en">TMZ</title>
+    <desc lang="en">TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <credits>
+      <actor>Harvey Levin</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185886_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E38</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021000000 +0000" stop="20261021010000 +0000">
+    <title lang="en">Best Medicine</title>
+    <sub-title lang="en">Hare Today, Gone Tomorrow</sub-title>
+    <desc lang="en">When the wife of a traveling magician duo dies at the Salty Breeze, Martin must help the husband who is unable to grasp that she is gone; Martin gets a new male medical monitor who has an instant connection to Louisa.</desc>
+    <credits>
+      <actor>Josh Charles</actor>
+      <actor>Abigail Spencer</actor>
+      <actor>Annie Potts</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Medical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33611027_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021010000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Doc</title>
+    <sub-title lang="en">S.O.S</sub-title>
+    <desc lang="en">Amy must help a family process the news that their daughter's sudden illness could be fatal, while enduring a barrage of intrusive memory seizures; TJ and Sonya are forced to work together to treat a man whose injuries appear to be self-inflicted.</desc>
+    <credits>
+      <actor>Molly Parker</actor>
+      <actor>Omar Metwally</actor>
+      <actor>Amirah Vann</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Medical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33611039_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021020000 +0000" stop="20261021030000 +0000">
+    <title lang="en">Live: Boston 25 News at 10PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021030000 +0000" stop="20261021033500 +0000">
+    <title lang="en">Live: Boston 25 News at 11PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045513_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021033500 +0000" stop="20261021040500 +0000">
+    <title lang="en">National News Tonight</title>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18319367_b_h10_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WFXT-DT.us_locals1" start="20261021040500 +0000" stop="20261021043500 +0000">
+    <title lang="en">InvestigateTV+</title>
+    <desc lang="en">The weekday news magazine takes an in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.</desc>
+    <credits>
+      <actor>Lee Zurik</actor>
+      <actor>Tisha Powell</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E27</episode-num>
+    <premiere lang="en" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>G</value>
     </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016133000 +0000" stop="20261016140000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016140000 +0000" stop="20261016150000 +0000">
-    <title lang="en">Living Faith Now</title>
-    <date>2007</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016150000 +0000" stop="20261016170000 +0000">
-    <title lang="en">LFTV Special Presentation</title>
-    <date>2022</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21872758_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016170000 +0000" stop="20261016180000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016180000 +0000" stop="20261016183000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016183000 +0000" stop="20261016190000 +0000">
-    <title lang="en">Sing Time</title>
-    <desc lang="en">Gospel singing.</desc>
-    <date>1997</date>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016190000 +0000" stop="20261016193000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016193000 +0000" stop="20261016200000 +0000">
-    <title lang="en">Pickin' Time With Bob Smallwood</title>
-    <date>2000</date>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p855159_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016200000 +0000" stop="20261016203000 +0000">
-    <title lang="en">Youth Bytes</title>
-    <date>2019</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17757782_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016203000 +0000" stop="20261016210000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016210000 +0000" stop="20261016220000 +0000">
-    <title lang="en">For Zion's Sake Prophecy Conference</title>
-    <date>2026</date>
-    <icon src="http://dtil.tmsimg.com/assets/p33915066_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016220000 +0000" stop="20261016230000 +0000">
-    <title lang="en">LFTV Special Presentation</title>
-    <date>2022</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21872758_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261016230000 +0000" stop="20261017000000 +0000">
-    <title lang="en">Feed My Sheep Ministries</title>
-    <date>2022</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23286651_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017000000 +0000" stop="20261017003000 +0000">
-    <title lang="en">Phil Kidd</title>
-    <date>2018</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15270096_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017003000 +0000" stop="20261017010000 +0000">
-    <title lang="en">Temple Baptist</title>
-    <date>1995</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p935172_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017010000 +0000" stop="20261017013000 +0000">
-    <title lang="en">Aubrey Jackson Ministries</title>
-    <date>2011</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8484492_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017013000 +0000" stop="20261017020000 +0000">
-    <title lang="en">Gateway Gospel</title>
-    <date>2000</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p699897_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017020000 +0000" stop="20261017023000 +0000">
-    <title lang="en">Ralph Sexton</title>
-    <date>2016</date>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12646478_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017023000 +0000" stop="20261017030000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017030000 +0000" stop="20261017033000 +0000">
-    <title lang="en">Everyday Manna With Lisa Smith</title>
-    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017033000 +0000" stop="20261017043000 +0000">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <date>2014</date>
-    <category lang="en">Special</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLFG-DT.us_locals1" start="20261017043000 +0000" stop="20261017050000 +0000">
-    <title lang="en">The Gaithers</title>
-    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
-    <date>2006</date>
-    <category lang="en">Music</category>
-    <category lang="en">Gospel</category>
-    <category lang="en">Religious</category>
-    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WFXT-DT.us_locals1" start="20261021043500 +0000" stop="20261021053000 +0000">
+    <title lang="en">Boston 25 News at 10PM</title>
+    <desc lang="en">Coverage of major local news stories, breaking news and investigations you can't see anywhere else.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14045507_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="WLFG-DT.us_locals1" start="20261017050000 +0000" stop="20261017060000 +0000">
     <title lang="en">Living Faith Now</title>
@@ -73755,5 +73460,354 @@
     <category lang="en">Gospel</category>
     <category lang="en">Religious</category>
     <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020050000 +0000" stop="20261020060000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020060000 +0000" stop="20261020063000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020063000 +0000" stop="20261020070000 +0000">
+    <title lang="en">Phil Kidd</title>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15270096_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020070000 +0000" stop="20261020073000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020073000 +0000" stop="20261020083000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020083000 +0000" stop="20261020090000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020090000 +0000" stop="20261020100000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020100000 +0000" stop="20261020103000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020103000 +0000" stop="20261020110000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020110000 +0000" stop="20261020113000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020113000 +0000" stop="20261020120000 +0000">
+    <title lang="en">Pickin' Time</title>
+    <date>2007</date>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p855158_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020120000 +0000" stop="20261020123000 +0000">
+    <title lang="en">Outdoor Faith</title>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21873014_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020123000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020130000 +0000" stop="20261020133000 +0000">
+    <title lang="en">Les Feldick</title>
+    <desc lang="en">Teaching the Bible.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p774906_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020133000 +0000" stop="20261020140000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020140000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Living Faith Now</title>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p780477_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020150000 +0000" stop="20261020153000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020153000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020160000 +0000" stop="20261020163000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020163000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020180000 +0000" stop="20261020183000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020183000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020190000 +0000" stop="20261020193000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020193000 +0000" stop="20261020200000 +0000">
+    <title lang="en">Pickin' Time With Bob Smallwood</title>
+    <date>2000</date>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p855159_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="en">Carlos Catepillar</title>
+    <date>2019</date>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17076155_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020203000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020210000 +0000" stop="20261020213000 +0000">
+    <title lang="en">Back to Basics</title>
+    <date>2023</date>
+    <category lang="en">Special</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25554072_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020213000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Gospel Music Arts</title>
+    <date>2012</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9069194_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020220000 +0000" stop="20261020230000 +0000">
+    <title lang="en">For Zion's Sake Prophecy Conference</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33915066_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261020230000 +0000" stop="20261021000000 +0000">
+    <title lang="en">Lifting Up Jesus</title>
+    <desc lang="en">Featuring messages of hope and faith.</desc>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p777615_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021000000 +0000" stop="20261021003000 +0000">
+    <title lang="en">Prophecy Now</title>
+    <desc lang="en">Pastor Bennie Westmoreland of the New Testament Church of God, Buchanan, GA.</desc>
+    <date>2007</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p866864_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021003000 +0000" stop="20261021010000 +0000">
+    <title lang="en">The Final Harvest</title>
+    <desc lang="en">Inspiring people to love God and as a result love themselves and love their neighbors.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25486587_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021010000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Gateway Gospel Hour</title>
+    <desc lang="en">Gospel music, preaching from the Bible, and messages intended to encourage and teach the Word of God.</desc>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p699898_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021020000 +0000" stop="20261021023000 +0000">
+    <title lang="en">Bible Truths</title>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25486277_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021023000 +0000" stop="20261021030000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021030000 +0000" stop="20261021033000 +0000">
+    <title lang="en">Everyday Manna With Lisa Smith</title>
+    <desc lang="en">Lisa Smith hosts this unique Christian cooking program that blends food with faith as she provides you with a variety of new fast and easy recipes and delicious freshly prepared meal ideas, while also feeding you and your family spiritually.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20814761_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021033000 +0000" stop="20261021043000 +0000">
+    <title lang="en">The Gaithers</title>
+    <desc lang="en">Gospel music with stars from yesterday and today.</desc>
+    <date>2006</date>
+    <category lang="en">Music</category>
+    <category lang="en">Gospel</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p299079_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="WLFG-DT.us_locals1" start="20261021043000 +0000" stop="20261021050000 +0000">
+    <title lang="en">Sing Time</title>
+    <desc lang="en">Gospel singing.</desc>
+    <date>1997</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p905822_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <channel id="Ice.Hockey.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">Ice Hockey</display-name></channel><programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016020000 +0000" stop="20261016030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016040000 +0000" stop="20261016050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016050000 +0000" stop="20261016060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016060000 +0000" stop="20261016070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016070000 +0000" stop="20261016080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016080000 +0000" stop="20261016090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016090000 +0000" stop="20261016100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016150000 +0000" stop="20261016160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016210000 +0000" stop="20261016220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261016230000 +0000" stop="20261016235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017000000 +0000" stop="20261017010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017010000 +0000" stop="20261017020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017020000 +0000" stop="20261017030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017030000 +0000" stop="20261017040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017050000 +0000" stop="20261017060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017060000 +0000" stop="20261017070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017070000 +0000" stop="20261017080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017110000 +0000" stop="20261017120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017120000 +0000" stop="20261017130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017130000 +0000" stop="20261017140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017140000 +0000" stop="20261017150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017150000 +0000" stop="20261017160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017160000 +0000" stop="20261017170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017170000 +0000" stop="20261017180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017190000 +0000" stop="20261017200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017220000 +0000" stop="20261017230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261017230000 +0000" stop="20261017235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018000000 +0000" stop="20261018010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018190000 +0000" stop="20261018200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018210000 +0000" stop="20261018220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018220000 +0000" stop="20261018230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261018230000 +0000" stop="20261018235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019010000 +0000" stop="20261019020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019020000 +0000" stop="20261019030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019030000 +0000" stop="20261019040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019060000 +0000" stop="20261019070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019080000 +0000" stop="20261019090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019090000 +0000" stop="20261019100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019110000 +0000" stop="20261019120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019120000 +0000" stop="20261019130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019130000 +0000" stop="20261019140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019210000 +0000" stop="20261019220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20261019230000 +0000" stop="20261019235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><channel id="NCAA.Sports.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">NCAA Sports</display-name></channel><programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016020000 +0000" stop="20261016030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016040000 +0000" stop="20261016050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016050000 +0000" stop="20261016060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016060000 +0000" stop="20261016070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016070000 +0000" stop="20261016080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016080000 +0000" stop="20261016090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016090000 +0000" stop="20261016100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016150000 +0000" stop="20261016160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016210000 +0000" stop="20261016220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261016230000 +0000" stop="20261016235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017000000 +0000" stop="20261017010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017010000 +0000" stop="20261017020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017020000 +0000" stop="20261017030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017030000 +0000" stop="20261017040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017050000 +0000" stop="20261017060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017060000 +0000" stop="20261017070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017070000 +0000" stop="20261017080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017110000 +0000" stop="20261017120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017120000 +0000" stop="20261017130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017130000 +0000" stop="20261017140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017140000 +0000" stop="20261017150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017150000 +0000" stop="20261017160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017160000 +0000" stop="20261017170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017170000 +0000" stop="20261017180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017190000 +0000" stop="20261017200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017220000 +0000" stop="20261017230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261017230000 +0000" stop="20261017235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018000000 +0000" stop="20261018010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018190000 +0000" stop="20261018200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018210000 +0000" stop="20261018220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018220000 +0000" stop="20261018230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261018230000 +0000" stop="20261018235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019010000 +0000" stop="20261019020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019020000 +0000" stop="20261019030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019030000 +0000" stop="20261019040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019060000 +0000" stop="20261019070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019080000 +0000" stop="20261019090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019090000 +0000" stop="20261019100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019110000 +0000" stop="20261019120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019120000 +0000" stop="20261019130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019130000 +0000" stop="20261019140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019210000 +0000" stop="20261019220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20261019230000 +0000" stop="20261019235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><channel id="UFC.Dummy.us"><icon src="https://files.catbox.moe/jd3pxq.png" /><display-name lang="en">UFC</display-name></channel><programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016020000 +0000" stop="20261016030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016040000 +0000" stop="20261016050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016050000 +0000" stop="20261016060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016060000 +0000" stop="20261016070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016070000 +0000" stop="20261016080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016080000 +0000" stop="20261016090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016090000 +0000" stop="20261016100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016150000 +0000" stop="20261016160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016210000 +0000" stop="20261016220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261016230000 +0000" stop="20261016235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017000000 +0000" stop="20261017010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017010000 +0000" stop="20261017020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017020000 +0000" stop="20261017030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017030000 +0000" stop="20261017040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017050000 +0000" stop="20261017060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017060000 +0000" stop="20261017070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017070000 +0000" stop="20261017080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017110000 +0000" stop="20261017120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017120000 +0000" stop="20261017130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017130000 +0000" stop="20261017140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017140000 +0000" stop="20261017150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017150000 +0000" stop="20261017160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017160000 +0000" stop="20261017170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017170000 +0000" stop="20261017180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017190000 +0000" stop="20261017200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017220000 +0000" stop="20261017230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261017230000 +0000" stop="20261017235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018000000 +0000" stop="20261018010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018190000 +0000" stop="20261018200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018210000 +0000" stop="20261018220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018220000 +0000" stop="20261018230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261018230000 +0000" stop="20261018235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019010000 +0000" stop="20261019020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019020000 +0000" stop="20261019030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019030000 +0000" stop="20261019040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019060000 +0000" stop="20261019070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019080000 +0000" stop="20261019090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019090000 +0000" stop="20261019100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019110000 +0000" stop="20261019120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019120000 +0000" stop="20261019130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019130000 +0000" stop="20261019140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019210000 +0000" stop="20261019220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20261019230000 +0000" stop="20261019235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme></tv>
