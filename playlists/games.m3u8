@@ -1,13 +1,41 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Juventude (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTIyNTE4MDYyODc6Y2RubGl2ZXR2LnR2OjE5NTc1OTgxOWU5MWMxMDMuYTgyMjNmMWYwYTNjOTJiYTA5YmJiNjU4NDc3NGIzZjkxZDU2MzFmMWQ3MTdhODA0ZmYxMWFiM2E0OThlM2M5Mw
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota United vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Minnesota United vs St. Louis City SC (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTIyNjI5NTI4MzU6Y2RubGl2ZXR2LnR2OmQwMTA1NmFkZThiMTMxYjkuODRkY2UzZTQ2M2I5NWE0M2Q5YjQ5NjJkYTY1ZjRmMDg1MGNkMDdmZDgwZDhkMjIwM2RhZmQxYjFkZjJiYTQ2NA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] América Mineiro vs Operário Ferroviário (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] América Mineiro vs Operário Ferroviário (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce75f/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzVmOjE3OTIyNjI5MTM3MTU6Y2RubGl2ZXR2LnR2OjJjZDdlOTYzM2QyNzM3ZjguZmFkYzYzZTM5MDhhMTE1YTNkZWQ5ZGNjYWIyOTJmOTIyZGEyNjJlODA4NWYxOTM2MmJjNWM2OTUyMWZiZjc1Mw
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Juventude (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce75f/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzVmOjE3OTIyNjI5MTMzMjA6Y2RubGl2ZXR2LnR2OjYyNDNhZGJiYTgyZTE0MDEuZGM0ODgyNzJhYjM0YzhjYzFkM2MwYzY4YmZhNDNkN2JlZjA2ZmFhZDA2ZmIyZTg2N2I4OTVmNjRhNzkyYWM4OA
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota United vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Minnesota United vs St. Louis City SC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTIyNTE4MDY0NTQ6Y2RubGl2ZXR2LnR2OmNmYWNlZTg0MzNhYWE3ZTUuMjRkZDllZTM0ZmNiYzlmNTk4YTkzZjk0YTQ5MjkyMGIwMTk4NWQ1ZTU4MmFiYWQ2M2Y1ODU5ODJhNGY2MzJhNw
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Toronto FC (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTIyNjI5MTM1MTA6Y2RubGl2ZXR2LnR2OmM1YTYwOTc2ZDVkMDU5ZjkuMjdlMDJmOWExOTFiNzJmMDI3OGIyNDc5OTU3ZDBlZDI0M2JlMTM0NTdjNzkwNmRiYTllNmQwMDRhMjg3OGI3OQ
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Toronto FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNTE4MDY2NDI6Y2RubGl2ZXR2LnR2OmMyYzFhY2RiOTk5OGM3ODkuOWZhMzQzYjU0NDQwNmY1ZTY5ZjdjZWU1MDY3NjNjZGUyMzNjYjEwMTEwZWY1ZDI4NDczNzdlYjNiMjgyZTBhMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNjI5MTM5MDk6Y2RubGl2ZXR2LnR2OmIxMTljNTdhYjJjMTMwZWIuOTEzNmI4ZjY4ZmU3MDNmYjgwYWM2MTk5MWU2ZWQ1MjcxODM1OTA5ZmNiNGMyMDg5ZGI1ZTEzZmJhYmQ5MGU3ZA
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Seattle Sounders vs CF Montréal (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Seattle Sounders vs CF Montréal (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNjI5MTQxMDc6Y2RubGl2ZXR2LnR2Ojc5ODlkYzViZmVkOGM5OTguYTcwNmRhMzdjZWQ4NTUxYTNjN2ExMGU4YWU0YzNmZmVjZmMyYTllNDQ3MjljZTA1MWQ1ZmZjYzViYjAyMGI1Mw
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Brentford vs Liverpool, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Brentford vs Liverpool, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/liverpool.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://silvertundra.s3.us-east-1.amazonaws.com/liverpool.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Everton vs Chelsea, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Everton vs Chelsea, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/chelsea.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://silvertundra.s3.us-east-1.amazonaws.com/chelsea.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Fulham vs Hull City, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Fulham vs Hull City, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/fulham.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://silvertundra.s3.us-east-1.amazonaws.com/newcastle.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Manchester City vs Ipswich Town, 2026-27 English Premier League (SPRTSPASS)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Soccer] Manchester City vs Ipswich Town, 2026-27 English Premier League (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/soccer/mancity.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://silvertundra.s3.us-east-1.amazonaws.com/mancity.m3u8
