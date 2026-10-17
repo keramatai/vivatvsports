@@ -1,21 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTIyNzMzODk0Nzg6Y2RubGl2ZXR2LnR2OjdkNmFlMTY5MzU5MjMzNWEuMWIwNDM0OWY2ODMxZjI5MTYxZTUzMzk5NDFlNTk4MjRhMjlmNzU1NGYyZWU1ZTYyNWM2MDY2ZjY3NGNmMDliNA
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Juventude (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTIyODE1MTY5MzE6Y2RubGl2ZXR2LnR2OmQ5ZTVmYmY1ZmU0ZDA0Y2UuYmE1MDVlNDcyN2YyOWQ0NjM0MDIxNWIwOWQ1NjZkYWM5ODEyZDUxZDc5MTNjM2U5NWEwN2FlMzkzM2JkYWM3YQ
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] América Mineiro vs Operário Ferroviário (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] América Mineiro vs Operário Ferroviário (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTIyNzMzNTMyNDE6Y2RubGl2ZXR2LnR2OjRkODNlNDU4NzU2YmEyNTkuNjUwMjkwMjQ3OTFjOTBkOGQ1ZWVkNTUwMThjNWQ1ZGJhNjBlMzdmZTlmZDFlZmVkNGRiYzg3NDQxNjc2ODJlYg
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota United vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Minnesota United vs St. Louis City SC (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTIyODE0ODg0NjY6Y2RubGl2ZXR2LnR2OmZiNDE5Zjk4MTM0MTdjMzIuYmEwOGIwYjMwYjUxOTdlZTU3MjllZDVlNGFiZDZmMTZlYzk2YmUyODViNDgyYzdhOGQxNGViMGYyZWZiNTg0OQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs Juventude (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs Juventude (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTIyODE0ODgxMTk6Y2RubGl2ZXR2LnR2OjhlNTkwZTczZDJhNzE1OGIuNWRhZWI2MjkzNmUyODA5ODkwNTliMDk0OWQzYTc0NTIyMzQ1YjNiOWVlMDllMjIyN2NlMDljNzgzZjZiZWZkZQ
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota United vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Minnesota United vs St. Louis City SC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTIyNzMzNTMzNzY6Y2RubGl2ZXR2LnR2OmZjMjBkZTIzOGU4NzQ4ZmMuODE0NzdlMWRhMzk4NGQyMjkwODQ3OGM1NjYxNGMyODQzZWE0ZWE1N2Y3MzJhMzE4YzMyNTE2ZDUwYzYzYTFhZg
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Toronto FC (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTIyODE0ODgyNzk6Y2RubGl2ZXR2LnR2OjdiNGI3MzY0MzU5MDI4YjAuODYwOWUyMDgzOGExZThjNTIzZWM4YWY2N2Q4OTY4NDAyNzNjZmE1MDkxYWFmMjY5MTRiZWUzYjhkYTBiNTVmZA
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Toronto FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNzMzNTM1MDU6Y2RubGl2ZXR2LnR2Ojk1M2FjNzExZTkwOWVjNTIuODg5ZWMxMWViZmRmZGExNTk5NTk4YzgzYmRhNTRkZDI4NGM0YWNiYmYyMDM3MDM0MzQ3ODY1YWU1NDEyMTk4Nw
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Seattle Sounders vs CF Montréal (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Seattle Sounders vs CF Montréal (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyODE0ODg2NDM6Y2RubGl2ZXR2LnR2OjgzYmRjNjFlNTdiYzRiYTkuOGFjNDVjZmZiZWFmNTEzMDJlODI2MGFiZDg3NzJhYzhiODIwYjExYjdiOTc2MGNmMDgyZmMwOGQ2ODhkYWExNw
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Seattle Sounders vs CF Montréal (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Seattle Sounders vs CF Montréal (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyNzMzNTM2MzU6Y2RubGl2ZXR2LnR2OmQwOTFhNjc1ODk1MmM2ZmYuZTViMmYzMWYyMjcxMTc0MWUzNmU1ZTljZjcxOGQ1YjlhMDk2NjdiMDQyYmZhOWQxMjUwMDA3N2RhNzA5M2VkMw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTIyODE0ODg3OTc6Y2RubGl2ZXR2LnR2OmY3NWY5OThjYjE2YmY5YWIuMmMzNDM4ZWI2OGRiMTE3ZTg1YjAxOGM1MzNkMmM0ZWExN2ZmNzIzMjIzZGE0NjIyY2Y5MTY3ZjhhMGMyODljOQ
