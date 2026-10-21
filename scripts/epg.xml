@@ -26818,6 +26818,11 @@
     <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
     <display-name lang="en">CBS Sports Golazo Network</display-name>
   </channel>
+  <channel id="Bravo.(Pacific).us2">
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" />
+    <icon src="http://dtil.tmsimg.com/assets/s10057_ll_h15_ab.png?w=360&amp;h=270" />
+    <display-name lang="en">Bravo (Pacific)</display-name>
+  </channel>
   <channel id="SEC.Network.HD.us2">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" />
@@ -32299,6 +32304,3032 @@
     </rating>
     <rating system="Canadian Parental Rating">
       <value>C</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020041500 +0000" stop="20261020051500 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">In Thickness and in Health</sub-title>
+    <desc lang="en">Jeff starts a diet with pharmaceutical help; a major home remodel in Malibu challenges the Jeff Lewis Design team; Jeff and Shane plan their condo renovation, but when it comes to their arrangement, Shane needs his skeptical boyfriend's approval.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020051500 +0000" stop="20261020054500 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Rainbeau De Roos and Arden Myrin</sub-title>
+    <desc lang="en">Andy Cohen interviews Rainbeau De Rood and Arden Myrin.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+      <actor>Arden Myrin</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32002777_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E168</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020054500 +0000" stop="20261020064500 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">For Goodness Sake</sub-title>
+    <desc lang="en">Old wounds resurface when Tamra Judge confronts Vicki Gunvalson about comments involving her daughter and parenting.</desc>
+    <credits>
+      <actor>Shannon Beador</actor>
+      <actor>Gina Kirschenheiter</actor>
+      <actor>Emily Simpson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020064500 +0000" stop="20261020074500 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">In Thickness and in Health</sub-title>
+    <desc lang="en">Jeff starts a diet with pharmaceutical help; a major home remodel in Malibu challenges the Jeff Lewis Design team; Jeff and Shane plan their condo renovation, but when it comes to their arrangement, Shane needs his skeptical boyfriend's approval.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020074500 +0000" stop="20261020093000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Pier Pressure</sub-title>
+    <desc lang="en">A new crew faces power struggles and setbacks before the first charter.</desc>
+    <credits>
+      <actor>Kerry Titheradge</actor>
+      <actor>Fraser Olender</actor>
+      <actor>Ben Willoughby</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34174580_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020093000 +0000" stop="20261020103000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">Moskito Madness</sub-title>
+    <desc lang="en">Still reeling from the news of her divorce filing, Sai grills Carole, which upsets Daisy; Jessel learns of a rumor from Sai, dragging her into the middle of Sai's argument with Erin.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020103000 +0000" stop="20261020110000 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Craig Conover and Daisy Tove</sub-title>
+    <desc lang="en">Andy Cohen interviews Craig Conover and Daisy Toye.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+      <actor>Craig Conover</actor>
+      <actor>Daisy Toye</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32002777_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E164</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020110000 +0000" stop="20261020120000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Storm's a Comin'</sub-title>
+    <desc lang="en">Emile is irked when Rocky publicizes the status of their relationship; the charter guests request a multi-course tasting menu; Leon's failure to order provisions puts the meal in jeopardy as well as the crew's tip; Dane's issues alarm his crew mates.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020120000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Boom Boom in the Laundry Room</sub-title>
+    <desc lang="en">The crew enjoys a day off at an island hideaway, where Dane's drunken behavior leads to a confrontation; the charter guests, founders of an apparel company, challenge Leon on his meal choices; Captain Lee issues a stern warning to the crew.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020130000 +0000" stop="20261020140000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">New Blood</sub-title>
+    <desc lang="en">Lisa Vanderpump brings new blood into SUR's shark-infested waters; Kristen must decide whom to believe after hearing that James has been unfaithful; Jax brings in a new girlfriend; Scheana feels the heat over her friendship with Kristen.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020140000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Pretty Little Lies</sub-title>
+    <desc lang="en">Scheana and Katie bust new employee Lala for lying about a modeling job in Italy; Jax and James compete for Lala's attentions; Scheana discovers her husband has been keeping secrets; Tom Schwartz takes a big step in the direction of commitment.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020150000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Happily Never After</sub-title>
+    <desc lang="en">The crew forces Scheana to reassess her marriage in light of Shay's secret life; Jax lobbies to get his new flame a job at SUR; Kristen and James seek couples therapy; Tom Schwartz and Tom Sandoval pitch a business plan to Lisa.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020160000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Cock of the Walk</sub-title>
+    <desc lang="en">Convinced Kristen is cheating on him, James hooks up with Lala; Lisa teaches her staff about fine wine; Jax schemes to attract Lala away from James and recruits Kristen to help him.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Love Bites</sub-title>
+    <desc lang="en">Lisa throws two huge parties for Gay Pride; James flaunts fresh love bites, and everyone wants to know who was responsible; Tom Sandoval and Tom Schwartz kick-start Shay's makeover; Jax seizes an opportunity to move in on Lala.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020180000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Spit Take</sub-title>
+    <desc lang="en">Lisa invites a group of underprivileged children to SUR, which includes a serving of bad behavior on the part of her staff; Jax stands up for Kristen after her breakup turns ugly; Tom Schwartz and Tom Sandoval's business plan fails to impress.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020190000 +0000" stop="20261020200000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Dirty Thirty</sub-title>
+    <desc lang="en">Lisa advises the women to get back at their boyfriends for going to Las Vegas, so Lala, Katie and Ariana get cozy at Scheana's slumber party; Jax, Schwartz and Sandoval strive to remain loyal to their girlfriends while in Sin City.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020200000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">What Happened in Vegas</sub-title>
+    <desc lang="en">Tom Sandoval and Tom Schwartz divulge shocking news about their trip to Las Vegas; Kristen returns to SUR, but Ariana is not ready to forgive; Tom Sandoval and Ariana take the stage at the Improv; James tries to sabotage Jax's love life.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020210000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">No Strings Attached</sub-title>
+    <desc lang="en">Tom Schwartz plans on going down on one knee to propose to Katie, but Lisa frets that his complicated scheme will end in disaster; Brittany moves in with Jax; Kristen and James get left out in the cold when the SUR crew plans a tropical vacation.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020220000 +0000" stop="20261020230000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Fully Engaged</sub-title>
+    <desc lang="en">Lisa Vanderpump holds Stassi at arm's length; Scheana and Ariana realize their friendship is damaged; James schemes to get an invitation to Hawaii with the others; Katie shows off her engagement ring at SUR; Faith and Lala go skinny-dipping.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261020230000 +0000" stop="20261021000000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Leis, Liquor and Lies</sub-title>
+    <desc lang="en">The gang heads to Hawaii to celebrate Jax and Tom's birthdays; Tom learns Scheana sent derogatory text messages about him to Ariana's mother; Katie lashes out when Lala swims naked in front of Schwartz.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021000000 +0000" stop="20261021010000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">The Bitch Is Back</sub-title>
+    <desc lang="en">When Stassi visits Kristen, she reveals the truth about her sex tape; Ariana refuses to accept Scheana's apologies; Lala kicks James out of bed; Jax winds up in jail.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021010000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Sex, Lies and Stassi's Videotape</sub-title>
+    <desc lang="en">Accused of shoplifting, Jax must answer to the law, to his girlfriend and to Lisa Vanderpump; Stassi returns to SUR to repay Lisa for keeping the sex tape from leaking; James and Lala cannot keep their hands off each other during a photo shoot.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Jax Taylor</actor>
+      <actor>Katie Maloney</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021020000 +0000" stop="20261021030000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">Moskito Madness</sub-title>
+    <desc lang="en">Still reeling from the news of her divorce filing, Sai grills Carole, which upsets Daisy; Jessel learns of a rumor from Sai, dragging her into the middle of Sai's argument with Erin.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021030000 +0000" stop="20261021040000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Cameras capture the lives of some busy, influential, rich and ambitious Manhattan women and their families.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021040000 +0000" stop="20261021060000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Vegas? That's Epic, Baby!</sub-title>
+    <desc lang="en">Lisa Vanderpump gets the chance to open up her very own hotel on the Las Vegas strip, but she and her team feel the pressure as they attempt to check everything off their never-ending to-do list.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021060000 +0000" stop="20261021063000 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Lisa Vanderpump and Blake Griffin</sub-title>
+    <desc lang="en">Andy Cohen interviews Lisa Vanderpump and Blake Griffin.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32002777_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E169</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021063000 +0000" stop="20261021073000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Vegas? That's Epic, Baby!</sub-title>
+    <desc lang="en">Lisa Vanderpump gets the chance to open up her very own hotel on the Las Vegas strip, but she and her team feel the pressure as they attempt to check everything off their never-ending to-do list.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021073000 +0000" stop="20261021083000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">If It Was Easy, Everyone Would Do It</sub-title>
+    <desc lang="en">With time running out, Lisa and her team rush to put the finishing touches on the hotel; late deliveries, holes in the ceiling and complaining guests threaten to derail the hotel's opening.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021083000 +0000" stop="20261021093000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Cameras capture the lives of some busy, influential, rich and ambitious Manhattan women and their families.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021093000 +0000" stop="20261021103000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Hypocrisy and Bull..</sub-title>
+    <desc lang="en">As the San Francisco trip comes to a close, Whitney and Bronwyn reflect on their marriages and the group sets sail on a boat ride.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021103000 +0000" stop="20261021110000 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Lisa Vanderpump and Blake Griffin</sub-title>
+    <desc lang="en">Andy Cohen interviews Lisa Vanderpump and Blake Griffin.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32002777_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E169</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021110000 +0000" stop="20261021120000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Fire!</sub-title>
+    <desc lang="en">The crew welcomes a family of charter guests, who are celebrating their father's 50th birthday; Leon ignores a guest's request not to serve rabbit at dinner; Connie's deckhand skills impress Eddie and Captain Lee; a fire breaks out in the galley.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021120000 +0000" stop="20261021130000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">What Took You So Long?</sub-title>
+    <desc lang="en">Captain Lee grills the crew to find out the cause of the galley fire, and his inquiry leads to a dismissal; Rocky dives off the boat in a fit of rebellion; the crew bands together to create a special birthday celebration for a charter guest.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021130000 +0000" stop="20261021140000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Crash Out Queens</sub-title>
+    <desc lang="en">Lisa organizes the annual SUR photoshoot where hostess Angelica catches Jason's eye; Venus confronts Marcus and Kim about their on-again/off-again relationship; Natalie and Shayne go on their first date, but things go awry at Angelica's pool party.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021140000 +0000" stop="20261021150000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Pour Decisions</sub-title>
+    <desc lang="en">Kim plans a girls' night that descends into madness when Natalie refuses to ignore their problems. Chris helps Audrey move into her new apartment. Jason attempts to reconnect with Angelica after an awkward situation.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021150000 +0000" stop="20261021160000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Seeing Red (Flags)</sub-title>
+    <desc lang="en">Lisa gives Marcus an opportunity to DJ a party at SUR; Venus attempts to mend his friendship with Kim; Shayne dates two girls at the same time; Audrey tells Angelica about Chris and Jason's other job, which leads to explosive consequences.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021160000 +0000" stop="20261021170000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Pump Fiction</sub-title>
+    <desc lang="en">Lisa enlists the SURvers to work a photoshoot at TomTom, but things go downhill when Angelica reveals what was found in Jason's shower; Demy decides to move on from her friendship with Natalie; Shayne celebrates the premiere of his short film.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021170000 +0000" stop="20261021180000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Paso Aggressive</sub-title>
+    <desc lang="en">Lisa throws an intimate 20th anniversary party to celebrate the founding of SUR; Angelica and Shayne grow closer, despite Shayne's transparent feelings about monogamy.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021180000 +0000" stop="20261021190000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Speakerphone Suckerpunch</sub-title>
+    <desc lang="en">In Paso Robles, Audrey overhears a phone call that makes her rethink her relationship with Chris. Shayne convinces Angelica to keep quiet about Chris and Jason's video.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E8</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021190000 +0000" stop="20261021200000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Rosé All Day</sub-title>
+    <desc lang="en">The group rents a party bus for a day of wine tasting in the vineyards; Angelica exposes Chris and Jason's video to the group, causing Shayne to have second thoughts about his relationship with her.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021200000 +0000" stop="20261021210000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Threesome's a Crowd</sub-title>
+    <desc lang="en">Back in Los Angeles, Audrey finds herself second-guessing her relationship with Chris; Venus opens up to Lisa; Jason continues to pursue Natalie; Marcus and Kim make a surprising decision about their future.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E10</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021210000 +0000" stop="20261021220000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Back Alley Betrayals</sub-title>
+    <desc lang="en">Angelica returns to work with a new look and a new relationship. Chris has second thoughts about getting back together with Audrey. Shayne makes another move on Natalie. Audrey roasts her friends during a stand-up comedy performance, but one particular member of the group becomes the butt of the joke.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E11</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021220000 +0000" stop="20261021230000 +0000">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Pride and Joy</sub-title>
+    <desc lang="en">Angelica finally moves out of the apartment she shared with her ex; Chris plans a romantic gesture for Audrey; Venus hosts SUR's annual Pride celebration; Angelica confronts Audrey for the jokes made at her comedy show.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30833837_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E12</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261021230000 +0000" stop="20261022000000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Vegas? That's Epic, Baby!</sub-title>
+    <desc lang="en">Lisa Vanderpump gets the chance to open up her very own hotel on the Las Vegas strip, but she and her team feel the pressure as they attempt to check everything off their never-ending to-do list.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022000000 +0000" stop="20261022010000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">If It Was Easy, Everyone Would Do It</sub-title>
+    <desc lang="en">With time running out, Lisa and her team rush to put the finishing touches on the hotel; late deliveries, holes in the ceiling and complaining guests threaten to derail the hotel's opening.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022010000 +0000" stop="20261022020000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Fortune and Misfortune</sub-title>
+    <desc lang="en">The ladies continue with good vibrations in San Francisco, but Whitney's relationship with Quai is put to the test; the women have questions for Bronwyn after Britani digs up receipts; Angie confides in Heather with a shocking secret.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022020000 +0000" stop="20261022030000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Hypocrisy and Bull..</sub-title>
+    <desc lang="en">As the San Francisco trip comes to a close, Whitney and Bronwyn reflect on their marriages and the group sets sail on a boat ride.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022030000 +0000" stop="20261022040000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Boss Up or Shut Up</sub-title>
+    <desc lang="en">The ladies return to Salt Lake City where Whitney and Quai continue to not see eye-to-eye; Quai makes a surprising admission to Meredith; Mary steps out in an attempt to bring all the ladies together for resolution at a Boss Lady Brunch.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022040000 +0000" stop="20261022050000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Misbehave Accordingly</sub-title>
+    <desc lang="en">Lisa Vanderpump has opened 39 restaurants and now finally, her very own hotel; with celebrity guests arriving in droves to celebrate the grand opening party, Lisa and her family are on top of the world and on top of the Las Vegas Strip!</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022050000 +0000" stop="20261022053000 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Whitney Rose and Britani Bateman</sub-title>
+    <desc lang="en">Andy Cohen interviews Whitney Rose and Britani Bateman.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3592417_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E170</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022053000 +0000" stop="20261022063000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Vegas? That's Epic, Baby!</sub-title>
+    <desc lang="en">Lisa Vanderpump gets the chance to open up her very own hotel on the Las Vegas strip, but she and her team feel the pressure as they attempt to check everything off their never-ending to-do list.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022063000 +0000" stop="20261022073000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">If It Was Easy, Everyone Would Do It</sub-title>
+    <desc lang="en">With time running out, Lisa and her team rush to put the finishing touches on the hotel; late deliveries, holes in the ceiling and complaining guests threaten to derail the hotel's opening.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022073000 +0000" stop="20261022083000 +0000">
+    <title lang="en">Vanderpump Rules: Lisa Las Vegas</title>
+    <sub-title lang="en">Misbehave Accordingly</sub-title>
+    <desc lang="en">Lisa Vanderpump has opened 39 restaurants and now finally, her very own hotel; with celebrity guests arriving in droves to celebrate the grand opening party, Lisa and her family are on top of the world and on top of the Las Vegas Strip!</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33989003_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022083000 +0000" stop="20261022100000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Boss Up or Shut Up</sub-title>
+    <desc lang="en">The ladies return to Salt Lake City where Whitney and Quai continue to not see eye-to-eye; Quai makes a surprising admission to Meredith; Mary steps out in an attempt to bring all the ladies together for resolution at a Boss Lady Brunch.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022100000 +0000" stop="20261022110000 +0000">
+    <title lang="en">The Real Housewives of Potomac</title>
+    <sub-title lang="en">Sofia Home!</sub-title>
+    <desc lang="en">Karen celebrates her return home with a party theme that no one can decode; Gizelle tries to restore her friendship with Tia; Stacey restores her romance with Thiemo; a former green-eyed ally peeps Gizelle's messy antics.</desc>
+    <credits>
+      <actor>Gizelle Bryant</actor>
+      <actor>Karen Huger</actor>
+      <actor>Ashley Darby</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34140648_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022110000 +0000" stop="20261022120000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">The Real Housewives of Atlanta</sub-title>
+    <desc lang="en">"The Real Housewives of Atlanta's" Cynthia Bailey and Claudia Jordan board the yacht; while veteran deckhand Dave joins the boat, Emile proves to be a favorite with the guests; Rocky overhears Eddie making derogatory comments about her.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022120000 +0000" stop="20261022130000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Dirty Laundry</sub-title>
+    <desc lang="en">Rocky struggles to maintain her composure as her frustrations mounts; Ben impresses the charter guests with a steakhouse-style dinner; Rocky reveals details about her secret affair with Eddie to Amy and Emile.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022130000 +0000" stop="20261022140000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Amped Blondes and Evil Eyes</sub-title>
+    <desc lang="en">Tamra throws a shopping party and invites all the ladies.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022140000 +0000" stop="20261022150000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Shameless in Seattle</sub-title>
+    <desc lang="en">Gretchen doesn't know if she is ready for marriage again; Alexis spends time at the park with Peggy and their daughters.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022150000 +0000" stop="20261022160000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">A New Lease On Life</sub-title>
+    <desc lang="en">Alexis, Gretchen and Peggy get together for shopping and socializing.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022160000 +0000" stop="20261022170000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Body Shots</sub-title>
+    <desc lang="en">Tamara and Vicki visit Cabo San Lucas; Gretchen meets Alexis to get advice; Peggy reveals a serious health issue.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022170000 +0000" stop="20261022180000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">No Hate</sub-title>
+    <desc lang="en">Peggy consults with a plastic surgeon; Donn makes Vicki feel guilty; Fernanda celebrates her citizenship; Alexis hosts a party.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022180000 +0000" stop="20261022190000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">What a Difference a Year Makes</sub-title>
+    <desc lang="en">Tamra and her boyfriend head to Spain; Gretchen surprises her parents; Peggy is having surgery; Vicki is planing a family excursion.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022190000 +0000" stop="20261022200000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Riches to Rags</sub-title>
+    <desc lang="en">Vicki visits Tamra at her hew house; Gretchen is upset that all the men in her life are fat; Vicki and Donn try to spend some quality time together.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022200000 +0000" stop="20261022210000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Kiss and Tell</sub-title>
+    <desc lang="en">Slade surprises Gretchen for her birthday; Peggy and Tamra are excited to model; Fernanda shares a shocking secret.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022210000 +0000" stop="20261022220000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Whine Pairings</sub-title>
+    <desc lang="en">Peggy and Micah throw their annual dinner party; Eddie meets the ladies; Alexis causes a scene.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022220000 +0000" stop="20261022230000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">It's Not a Competition</sub-title>
+    <desc lang="en">Peggy and Alexis meet; Slade's mom comes to visit; Tamra, Vicki and Peggy head off to Temecula for a day.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261022230000 +0000" stop="20261023000000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Cutting Loose</sub-title>
+    <desc lang="en">A girls-only trip to San Antonio; Tamra's court case against her ex Simon heats up.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Fashion Victim</sub-title>
+    <desc lang="en">Peggy surprises her husband with a trip to Vegas; Gretchen and Slade have a heart-to-heart; Vicki has been rushed to the emergency room.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023010000 +0000" stop="20261023020000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Girl Fight</sub-title>
+    <desc lang="en">Drama ensues at Vicki's annual party.</desc>
+    <credits>
+      <actor>Vicki Gunvalson</actor>
+      <actor>Tamra Barney</actor>
+      <actor>Gretchen Rossi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023020000 +0000" stop="20261023030000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">For Goodness Sake</sub-title>
+    <desc lang="en">Old wounds resurface when Tamra Judge confronts Vicki Gunvalson about comments involving her daughter and parenting.</desc>
+    <credits>
+      <actor>Shannon Beador</actor>
+      <actor>Gina Kirschenheiter</actor>
+      <actor>Emily Simpson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023030000 +0000" stop="20261023043000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Mad Money</sub-title>
+    <desc lang="en">Heather and Shannon reunite and instantly find themselves at odds over loyalty and betrayal; Heather also introduces a friend of hers to the group only to find out a shocking truth behind who she really is.</desc>
+    <credits>
+      <actor>Shannon Beador</actor>
+      <actor>Gina Kirschenheiter</actor>
+      <actor>Emily Simpson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E16</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023043000 +0000" stop="20261023053000 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">In Thickness and in Health</sub-title>
+    <desc lang="en">Jeff starts a diet with pharmaceutical help; a major home remodel in Malibu challenges the Jeff Lewis Design team; Jeff and Shane plan their condo renovation, but when it comes to their arrangement, Shane needs his skeptical boyfriend's approval.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023053000 +0000" stop="20261023063000 +0000">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <sub-title lang="en">Mad Money</sub-title>
+    <desc lang="en">Heather and Shannon reunite and instantly find themselves at odds over loyalty and betrayal; Heather also introduces a friend of hers to the group only to find out a shocking truth behind who she really is.</desc>
+    <credits>
+      <actor>Shannon Beador</actor>
+      <actor>Gina Kirschenheiter</actor>
+      <actor>Emily Simpson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185445_b_h8_bf.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E16</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023063000 +0000" stop="20261023073000 +0000">
+    <title lang="en">The Real Housewives of Salt Lake City</title>
+    <sub-title lang="en">Boss Up or Shut Up</sub-title>
+    <desc lang="en">The ladies return to Salt Lake City where Whitney and Quai continue to not see eye-to-eye; Quai makes a surprising admission to Meredith; Mary steps out in an attempt to bring all the ladies together for resolution at a Boss Lady Brunch.</desc>
+    <credits>
+      <actor>Whitney Rose</actor>
+      <actor>Heather Gay</actor>
+      <actor>Lisa Barlow</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18737696_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023073000 +0000" stop="20261023083000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Cameras capture the lives of some busy, influential, rich and ambitious Manhattan women and their families.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023083000 +0000" stop="20261023093000 +0000">
+    <title lang="en">The Real Housewives of Potomac</title>
+    <sub-title lang="en">Sofia Home!</sub-title>
+    <desc lang="en">Karen celebrates her return home with a party theme that no one can decode; Gizelle tries to restore her friendship with Tia; Stacey restores her romance with Thiemo; a former green-eyed ally peeps Gizelle's messy antics.</desc>
+    <credits>
+      <actor>Gizelle Bryant</actor>
+      <actor>Karen Huger</actor>
+      <actor>Ashley Darby</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34140648_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023093000 +0000" stop="20261023103000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Pier Pressure</sub-title>
+    <desc lang="en">A new crew faces power struggles and setbacks before the first charter.</desc>
+    <credits>
+      <actor>Kerry Titheradge</actor>
+      <actor>Fraser Olender</actor>
+      <actor>Ben Willoughby</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34174580_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <sub-title lang="en">Jennifer Pedranti and Heather Mcmahan</sub-title>
+    <desc lang="en">Andy Cohen interviews Jennifer Pedranti and Heather Mcmahan.</desc>
+    <credits>
+      <actor>Andy Cohen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Fashion</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32002777_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S23 E171</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023110000 +0000" stop="20261023120000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Loose Lips Sink Ships</sub-title>
+    <desc lang="en">The final dinner of the charter season is put in jeopardy after Ben suffers an injury and is forced to rely on Rocky for help; the captain talks to Connie about her yachting future; Eddie and Rocky confront each other at a celebratory bonfire.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Reunion Part 1</sub-title>
+    <desc lang="en">Kate and Amy attack Rocky's work ethic; Eddie divulges his personal drama; Emile reveals how he handled Rocky's rejection; Deckhand Don returns; Captain Lee explains why he let Chef Leon go; Kate's accused of drinking on the job.</desc>
+    <credits>
+      <actor>Lee Rosbach</actor>
+      <actor>Kate Chastain</actor>
+      <actor>Amy Johnson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_cc.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E14 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">Did You Miss Me?</sub-title>
+    <desc lang="en">Jeff Lewis and Annie Sharp weigh in on Justin's growing hair, sparking a hilarious debate about whether his signature look should stay or go.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023140000 +0000" stop="20261023150000 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">Sick of the Shtick</sub-title>
+    <desc lang="en">Jeff gives Joey some consequences and an ultimatum: shape up or ship out; while battling the flu, Jeff takes on a new design project for Kym Whitley, but the construction proves bigger than anticipated.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">Chumped and Dumped</sub-title>
+    <desc lang="en">The Jeff Lewis Live radio team plans for a special Valentine's Day; Aurora loses her keys; Jeff loses a client and Joey loses a lot more.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="en">Still Flipping Out</title>
+    <sub-title lang="en">In Thickness and in Health</sub-title>
+    <desc lang="en">Jeff starts a diet with pharmaceutical help; a major home remodel in Malibu challenges the Jeff Lewis Design team; Jeff and Shane plan their condo renovation, but when it comes to their arrangement, Shane needs his skeptical boyfriend's approval.</desc>
+    <credits>
+      <actor>Jeff Lewis</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33823156_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">A Seder in Brooklyn</sub-title>
+    <desc lang="en">Daisy hosts a Seder for the group that ends up being a less-than-festive affair; Hailey divulges the trauma of her past; Erika takes a step towards growing her family; Erin and Jessel duke it out over coffee.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">Gloves Off at the Gala</sub-title>
+    <desc lang="en">Daisy's Passover Seder concludes with Erika's invitation to her private island for a girls' trip. Hailey and Erin cause a scene at Carole's Gala. Jessel grows increasingly frustrated with Pavit's career choice.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">Trouble in Paradise</sub-title>
+    <desc lang="en">The ladies escape New York for a luxurious getaway to Moskito Island but paradise isn't always perfect; Erin is shocked when Daisy reveals that Jessel and Erika gossiped about her flooded Hamptons house; Sai's marriage issues become public knowledge.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <sub-title lang="en">Moskito Madness</sub-title>
+    <desc lang="en">Still reeling from the news of her divorce filing, Sai grills Carole, which upsets Daisy; Jessel learns of a rumor from Sai, dragging her into the middle of Sai's argument with Erin.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023210000 +0000" stop="20261023220000 +0000">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Cameras capture the lives of some busy, influential, rich and ambitious Manhattan women and their families.</desc>
+    <credits>
+      <actor>Sai De Silva</actor>
+      <actor>Ubah Hassan</actor>
+      <actor>Erin Lichy</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33905188_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023220000 +0000" stop="20261023230000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Welcome to Rhode Island</sub-title>
+    <desc lang="en">Jo-Ellen and Rosie clash over rumors about Kelsey's unconventional relationship; new to Rhode Island, Ashley learns to fit in with a group of friends whose history runs deep; small town secrets come to the surface at Jo-Ellen's Fourth of July party.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Ocean State of Affairs</sub-title>
+    <desc lang="en">Business pressure and affair rumors send the girls to Newport for a tense wine-fueled face-off.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261024000000 +0000" stop="20261024010000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Saturday Night Fever Dream</sub-title>
+    <desc lang="en">Set against the shores of the Ocean State, The Real Housewives franchise expands into the world of a tight-knit circle of Rhode Islanders who have deep community roots and families that go back generations.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">De-railed Divas</sub-title>
+    <desc lang="en">After their explosive fight, Kelsey and Liz are forced to confront issues in their friendship; Alicia's aunts have a few wise words for Rulla regarding her marriage; the ladies go on a railroad excursion that ends with another friendship possibly being derailed.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Schooner or Later</sub-title>
+    <desc lang="en">Tensions hit open water as truces are tested and polo antics ignite confrontation.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Newport, New Problems</sub-title>
+    <desc lang="en">The group spends the weekend in Newport mansion; Alicia plans a tea party with some unusual guests that leave the women with a lot of questions; Liz hosts a masquerade dinner where truths are revealed; Kelsey shocks the ladies with news about her relationship and confronts Rosie about some rumors.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="Bravo.(Pacific).us2" start="20261024040000 +0000" stop="20261024050000 +0000">
+    <title lang="en">The Real Housewives of Rhode Island</title>
+    <sub-title lang="en">Boats, Lies &amp; Videotape</sub-title>
+    <desc lang="en">Hard truths surface as a tense one-on-one leads to shocking news in Newport.</desc>
+    <credits>
+      <actor>Alicia Carmody</actor>
+      <actor>Rosie DiMare</actor>
+      <actor>Ashley Iaconetti</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32181963_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
   </programme>
   <programme channel="Altitude.Sports.us2" start="20261020024500 +0000" stop="20261020051500 +0000">
