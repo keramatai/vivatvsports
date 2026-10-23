@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6abf3a5b2d4a99e073c8a71c/playlist.m3u8?token=NmFiZjNhNWIyZDRhOTllMDczYzhhNzFjOjE3OTI3NTc0ODk3MzE6Y2RubGl2ZXR2LnR2OmM3NmZhZGVjMmUwY2U4ZmYuZmFlM2Q2Nzg3YjVjODhkMWU0YWI3NWFlODQ1NzMzNTJiYWE3ODA3YWEyMGE3YWRjYjE4NzJlMDNlZjVkNGM0NA
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTI3NzcyNzI1MjU6Y2RubGl2ZXR2LnR2OmI1OWIyZWIwYzRkNTRjYmYuNGU0ZmU1NzE0MzhiYzYzNmYyMGY3NDBiZTE2ZDNmNDI4ZTczMzVjNTQ1NThkODJiYjk2NmQxNzk5OGY5MmYzMA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Operário Ferroviário vs Athletic Club-MG (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Operário Ferroviário vs Athletic Club-MG (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTI3NzcyNjkzOTU6Y2RubGl2ZXR2LnR2OmFlZWI4ZTc1NjVlODQ5YzMuOWU5ZWM2MzJiZjE5YjI2NTE4MDQ5N2YyMTFiNjYwZjU5ZTllYTQ1MmQ3ZWU0MDE1ZDFlMWEyZjVlMzJhZDc1OA
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sport Recife vs Criciúma (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sport Recife vs Criciúma (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTI3NzcyNjk1NTQ6Y2RubGl2ZXR2LnR2OjIyMTA3ZGRkNWEwY2U0MTAuMWQwYWI3NGExYjA1ZjkzZDdjMzRlMWI0ZDdlMmNmZGQ1NWZkZjg4ZGJlZDRlOWE1OTBiMWIxODdmZjkzNmMxYw
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a7bfdd62d4a99e073dd7c24/playlist.m3u8?token=NmE3YmZkZDYyZDRhOTllMDczZGQ3YzI0OjE3OTI3NzcyNzIyMTc6Y2RubGl2ZXR2LnR2OjFkNGFiZTgwNTRiN2JjMjEuMzc5ZmFmZjYwOTZkZGRkODQ4ZWNiNDkxNjU4ODU4NTlhYjA1MDUyNGQ0NDMzZjlkODI2ZDdmMjlmYWIzZGFiNg
