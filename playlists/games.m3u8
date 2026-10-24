@@ -1,13 +1,45 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Novorizontino (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Novorizontino (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlanta United vs Chicago Fire (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlanta United vs Chicago Fire (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTI4NDc3NDEzNjE6Y2RubGl2ZXR2LnR2OmI2MmI2YWFmZjJkOGUxNTIuMzVlNzhjMGFlNDliNDA4MjVhMTU0OTAwODAyOTNmYTIyMzBlZWQ3ZGQ3NWVmOTNmZmVhODU0MTUzN2UxZjQ0Ng
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] CF Montréal vs Nashville SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] CF Montréal vs Nashville SC (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzY2MTM6Y2RubGl2ZXR2LnR2OjVlMDUyNjM5NTc1MDM1YjAuYWE1YTYzZDk1NjVkYjMyZGJlZjQxYzEzMDgxODcxOTBkY2QzY2Y2MjkwNzE1NTMyMjM2ZTU1ZmU4Y2ZhYzA2NQ
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Novorizontino (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Novorizontino (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTI4NDc3NDExODM6Y2RubGl2ZXR2LnR2OmJiMWEwMTQ3ODhkYzE0YjMuMTE5MTI1ZTNjNjQ3YWYxMTAxNjlkMGYyMWQ2M2YxYzVjNDllYzA3ZmVmZjhmYWZhYzZjNGM5Y2ZmYTE1MjZlOQ
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6adcae612d4a99e073bc5f45/playlist.m3u8?token=NmFkY2FlNjEyZDRhOTllMDczYmM1ZjQ1OjE3OTI4NjI4NzU2ODM6Y2RubGl2ZXR2LnR2OmVlYWNiYjc0YjA0YzJmNzQuNjM5NzAwOWNhOGIwNjA3ZWFmZWM2YmM4MDgwNmJhZDA4YjYxMjY2Mzk5MWZmYmE5MTQwNzU3YjEwM2MxNTdiYQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] CF Montréal vs Nashville SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] CF Montréal vs Nashville SC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1fa/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWZhOjE3OTI4NDc3NDIwMjk6Y2RubGl2ZXR2LnR2OjgzMjIwMWYyM2YyNDdiMjcuMzlkZDI5Y2ZiYjVlYTU5MDI1ZWVlODNhNDg4NDY1MWNjZGE5YmM4YWU1YmQ2YjcyZDRiYTBiZjYxZmFhNzM0ZQ
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzUzNjI6Y2RubGl2ZXR2LnR2OmVlZGUyOTQxMjM2NDViZmQuZGMwY2Q2ZWU0Nzk1Njk4YTJhMDQ5M2Y0NTZhNGMzM2MyNjE4ZWJiYWNhM2IwNjllYzY4NzhmNjM2ZjBhZjg5Mg
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Columbus Crew vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Columbus Crew vs Toronto FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzU1MTY6Y2RubGl2ZXR2LnR2OmE0YjdkZGQ3YTNjZDU5NGIuODJiY2U4N2FhZWE2ODBiNGY5ZjNjMzc3MTkxMDQxNmM0OTM5NGJiNDVhMDNlN2FlM2ZhYWMyOGZlZjZiNzU4ZA
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] DC United vs FC Cincinnati (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] DC United vs FC Cincinnati (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzYzMTU6Y2RubGl2ZXR2LnR2OmQzMmE5ODJlODllZTBhZWUuYzU0MjI1YjkyMzRjYmFhYjliOTZlMjAyOWQ3ODFlMjI0ZWE2MjEzMGZiNmJiZjIyOTQ0NTc2YmRiMTY4OWU5ZA
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Houston Dynamo vs Minnesota United (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Houston Dynamo vs Minnesota United (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzY3Njg6Y2RubGl2ZXR2LnR2Ojg5YWVkOTdmOTk3OTVmODUuNDk2ODhkNzVlN2Y3Y2M3NGZjZDhkMDUxYzdkMWRiZTYyNGFjZDU2YWUzNTM1ODRkZjUyOTIwYzIwMTY3YThmNA
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Inter Miami (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Inter Miami (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzU4MzM6Y2RubGl2ZXR2LnR2OmRkNGU1NzE5MjE1ZWQ1MjQuNmRjNGM2ZTM4OTJkYTJjOWQzMzljYzk4N2RiMDg0NjllNGQyNzJjZmMwMjYzYzA0ZmNiOTkzZjg4YTczOGJmZA
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Orlando City vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Orlando City vs New York City FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzYxNjM6Y2RubGl2ZXR2LnR2OjAxNDQ5NzExYzM5MzQ4OWYuMWMwMGRhNGJmYmMxMjM1NzAyOTU5ZDdlNjEzOGI0YjcwZjdmMGRiODkyMDU5OWM3NTY1ZmFjMDBhYzE4YWZlYw
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Union vs New England Revolution (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Philadelphia Union vs New England Revolution (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae5f2d4a99e073bc33e9/playlist.m3u8?token=NmFkY2FlNWYyZDRhOTllMDczYmMzM2U5OjE3OTI4NjI4NzY0NjU6Y2RubGl2ZXR2LnR2OjRhOWZlZmJjMzY1NjQzNDIuMDg1NDUzNTcyY2E0YzViNGI2NGNiNWEwMWU3MTc2OWZlMWQwNmRmM2Q5ZjhkMzQyZjVlNzE4NDk2ZTVkYzMzMQ
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ponte Preta vs Fortaleza (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ponte Preta vs Fortaleza (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae612d4a99e073bc5f45/playlist.m3u8?token=NmFkY2FlNjEyZDRhOTllMDczYmM1ZjQ1OjE3OTI4NjI4NzYwMDY6Y2RubGl2ZXR2LnR2OjY1NDQ3ZTE5MjZhOWExNzAuYTI3MzUzMmU0ODA2N2ZhNTA2ODAyNThjNGJiYzcyZDA0ZWUwN2E1MjNjMmNlZWVhY2U2MTczZTY2NDAyZTM1Mw
+#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6adcae602d4a99e073bc4ecd/playlist.m3u8?token=NmFkY2FlNjAyZDRhOTllMDczYmM0ZWNkOjE3OTI4NjI4Nzc1NTI6Y2RubGl2ZXR2LnR2Ojg1NzU3NjkwOGY4ZWRhM2IuNDJiZmE5ZGNlNzUyMWNiMWM1NjMxZTkwOGEzYzRiNzA2ODI1N2E2NmYwYTgwNmY0ZWFlMzNmNmJkM2FhZmY5Mw
