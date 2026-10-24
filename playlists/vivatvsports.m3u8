@@ -197,3 +197,51 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 
 
+#EXTINF:-1 tvg-chno="133" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlanta United vs Chicago Fire (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlanta United vs Chicago Fire (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODA1Nzc6Y2RubGl2ZXR2LnR2OmRjMzJhYTA2ZmEzYWM4YzkuNGZkOGRjMTg5MTcxYzE0ZDg0ZDJhNDQ4MTM0MDU0ZWE5ZjE1MWI4Y2E4YjEyNGI5ZjYyN2ExMzE5YjBjNjNmMA
+#EXTINF:-1 tvg-chno="134" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Colorado Rapids vs Vancouver Whitecap (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Colorado Rapids vs Vancouver Whitecap (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODA5MjA6Y2RubGl2ZXR2LnR2OmJiYzNlOTI4Njc0Yzk4M2QuODcwMWMxY2E2YTVhNzcwYjViYmJjN2Y5Njk2YjgxOTA4ZGFhZGI5MDEwM2NmMzExMGM1M2E0ZDFiZjlkMDQzOA
+#EXTINF:-1 tvg-chno="135" tvg-id="Soccer.Dummy.us" tvg-name="[Football] DC United vs FC Cincinnati (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] DC United vs FC Cincinnati (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODAyMjk6Y2RubGl2ZXR2LnR2OjZlMDk2NzJmYWE4Y2U3MTcuYWZkYTE0MTZhMTIyYTNmNjZkZTBjM2U2YzU2MTU0NmVkNzg5NjlhNTRjOTM0NTgyZTljNTYxMzhlODg3ZTFkNA
+#EXTINF:-1 tvg-chno="136" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Houston Dynamo vs Minnesota United (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Houston Dynamo vs Minnesota United (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODA3NTI6Y2RubGl2ZXR2LnR2OjVkMTcwYTE4M2RiOWI3YmMuNThiNTE3YjlhMWFhZjE1ODk2MjgxNGUwMjBlYWEzYTMyMmEwN2Q5NjY4M2MzMmVhODg1N2Y0MzQ5ODhjNDU3Mw
+#EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New York Red Bulls vs Inter Miami (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New York Red Bulls vs Inter Miami (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1Nzk4Nzk6Y2RubGl2ZXR2LnR2Ojk5YzMxMWQ3MWU2ZmQxMzIuNGVkODhmMTQ2ZWI4MDlmMDcyNWM5NGM2ZTlmMGFhMzMwNGJkNjZkNjE5Zjg5ZTM4MjhhZGUyNjMwZWIzNDcxNg
+#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Orlando City vs New York City FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Orlando City vs New York City FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODAwNTk6Y2RubGl2ZXR2LnR2OjJjMmU0OGI2NjQxNmI3MTQuNjA0M2JiYWI4MTgyYTVkMjA3YmYyMjEzNTU5MWU1ZDQwYzJlZTFlYzQ4ZGVhMmNlNzg3NDEzNTc4ZjkyZTY3NA
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Union vs New England Revolution (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Philadelphia Union vs New England Revolution (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODAzOTk6Y2RubGl2ZXR2LnR2OmQxMDgwOTVkN2EyMDExZmMuOTU1ODM0OGNhM2E5Yjk0N2Q0MWU3MmEzMmRmMjBkZDQ1NDI2YzQ0YTRmM2M2NjQ0NGE0NGMyYTRmY2M2MmQ0Yg
+#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ponte Preta vs Fortaleza (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ponte Preta vs Fortaleza (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364058b/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNThiOjE3OTI5MDA1Nzk3MTU6Y2RubGl2ZXR2LnR2OjdiYWFjYTQxNDY3Y2Y3ZWMuNjdlNTc3ZjlhZDFlYjVkNTBhMWNlMzRkZTUxZTk2NTA3OThmMmNhNWFlZDNjZjY4MzU5ZTU3YmZjNzAxNzdjMg
+#EXTINF:-1 tvg-chno="141" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portland Timbers vs Charlotte FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portland Timbers vs Charlotte FC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODE0Mjk6Y2RubGl2ZXR2LnR2OmY4M2ViYTc5ODU0MDZiZjMuMWFiYmJkOGRkMzhmMDUwMGQyNzA3YzgzZDZlN2Y4MTA2MTU1OGZmNGRhYjU0ZGU3MWViMWE1NDgwZmM5YWMzOQ
+#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Real Salt Lake vs St. Louis City SC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Real Salt Lake vs St. Louis City SC (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODEwODc6Y2RubGl2ZXR2LnR2OjAzOWQzODUxNjUyMjY0MjEuNDQ3YmMzYmNiZDZiYmRiMjc5OTY4MDEzMDNlMDAyNjVhMzZlMjhiZmVlNTU4OThjMjgyYjUwZjk4ZDFkZGRhMg
+#EXTINF:-1 tvg-chno="143" tvg-id="Soccer.Dummy.us" tvg-name="[Football] San Diego FC vs Seattle Sounder (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] San Diego FC vs Seattle Sounder (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d7f6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkN2Y2OjE3OTI5MDA1ODEyNTM6Y2RubGl2ZXR2LnR2OjhkMzA0MTM1YzAxNmI0MDMuNzg1ODQ0MzFmMDliN2NhZjRiNmFkZjg2ZWViMmNhOTkxNTFmMThkNTMzNjA3NmNlNzljNGY4NDEwMzU1NGZiOA
+#EXTINF:-1 tvg-chno="144" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f413/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmNDEzOjE3OTI5MDA1ODE3NjY6Y2RubGl2ZXR2LnR2OjdiNmI2MGVhYmY4NTNiN2EuNDFhYWQxNmQ5YmMwYWM4ZTBkZWRmNWRjNzYxYmM5MjY5YTExMGY5YmVkYzNlMDU1OTNjMTk3Y2IwYWE1MWUyMw
