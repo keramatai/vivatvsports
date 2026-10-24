@@ -1,17 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Darts.Dummy.us" tvg-name="[Darts]  (CDNLIVE)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="▷ Sukan 2",[Darts]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc323/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIzOjE3OTI4MTUwNjgyNjU6Y2RubGl2ZXR2LnR2OjUxMGYzNDRkYTk4NGNlYzMuMTM2YTNhMjYxZmRhMTJjYjcxMGYwZTM0YzViMWM4MDNiM2E0YmY4YWU0NDlhZTUwNzk4OWY3YjRiN2IyZmI2MQ
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Operário Ferroviário vs Athletic Club-MG (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Operário Ferroviário vs Athletic Club-MG (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTI4MTUwNjUyMDE6Y2RubGl2ZXR2LnR2Ojk1YTRjOGIyNjU5ZmMxNzEuMmMzOTYzNTU3NTdjN2NlM2ZmMDcyY2UyMGRiYTdhM2ZhNDkyZmJhNzM5MTQyZTQ2ODQ0N2ZhNDI0NDZmMWE1Yg
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sport Recife vs Criciúma (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sport Recife vs Criciúma (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3OTI4MTUwNjUzNzc6Y2RubGl2ZXR2LnR2OjNlZjM0ZGY0ZThmZmIzZjQuOWJhYzVlNjYwNTI3ODI4MmZmYWZkMWM1MjU3NDEyOTdjMjQ3OTBhZjkxZjMwOTU1ZTkwMTQ4YzQ1MDVjZmIzNg
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a7bfdd62d4a99e073dd7c24/playlist.m3u8?token=NmE3YmZkZDYyZDRhOTllMDczZGQ3YzI0OjE3OTI4MTUwNjc4NDU6Y2RubGl2ZXR2LnR2OjBjZjZiNzg0MTIwODQ3N2UuZWFhZjI1NWU3OTU1ZmRlZmM5NjU5MGM1OWIwOWFmNzZkNTM5ZjhjYjhlZDY3ZWNkMmViZmQ1MjIyNzc1NjE5NA
+https://cdnlivetv.tv/secure/api/v1/6a7bfdd62d4a99e073dd7c24/playlist.m3u8?token=NmE3YmZkZDYyZDRhOTllMDczZGQ3YzI0OjE3OTI4MzE5NzQ5NTc6Y2RubGl2ZXR2LnR2OmM5ZDJhZDg5Y2ZjMmI3ZjEuMmUwNDEzZmJlMDljM2QzZGM3ZmQ1YTA2OWQxNTUyYzJjMGU5NTA5YmFkZDVmOWIzZDgyMjlhZGM5Y2ZhMjMwMQ
