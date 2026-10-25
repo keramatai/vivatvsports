@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Los Angeles FC vs LA Galaxy (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Los Angeles FC vs LA Galaxy (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c85c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODVjOjE3OTI5Mjk2ODAxNjc6Y2RubGl2ZXR2LnR2OjNiMmNhMjdmNTdhN2RjMjIuNjc0MmQ1NTk1MDZmMmM3MGIyZjk1NDEwODc1YjQ0OGQxZWRiMzI3MTljYTY2ZjBkMTIyOTc5Mzk3MTJlNDIwOA
+https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e0736411e0/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMWUwOjE3OTI5NDg2NzI1ODU6Y2RubGl2ZXR2LnR2OmY0N2M1OGY3MDNkNTQzNmIuMDA2ODgyYWEwOTU1Nzk0ZjlhOGIwMDA2Y2U3Y2Y2YTBlMTFiNzBmMGM5YmJiMDMzM2Q1ZjNlZjJlOTFhNzJjZA
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTI5NDg2NzU0NDU6Y2RubGl2ZXR2LnR2OjViZWFiZjQzMDQ4N2RjZDIuNjJjMjI1YmE2YjRkZTVkNzhiZmE4NTMxZTA2NmM5Yjg0NmZlMTFlOTA4OWMxNzFhZWNmZWQ0YmMzMWJkMDMwMg
