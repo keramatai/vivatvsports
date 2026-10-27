@@ -7,175 +7,8 @@
   <channel id="plex.tv.Women`s.Sports.Network.plex">
     <display-name lang="en">Women`s Sports Network</display-name>
     <icon src="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png" />
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/1e0a242ecb139309/GameOnSpotlightPortrait.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/f94ff2fa8f9d40e5/GameOnSpotlightPortrait.png" />
     </channel>
-  <programme start="20261026010000 +0000" stop="20261026040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bellator MMA</title>
-    <sub-title lang="en">285: Henderson vs. Queally</sub-title>
-    <desc lang="en">BELLATOR returns to Dublin as Irish star Peter Queally takes on Benson Henderson. Plus, Yoel Romero vs. Melvin Manhoef. From Sept. 23, 2022.</desc>
-    <date>2022</date>
-    <category lang="en">Mixed martial arts</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c6e3ec554b5f4bf1833b7587e8079f8e.jpg" />
-    <episode-num system="onscreen">S2022 E159</episode-num>
-  </programme>
-  <programme start="20261026040000 +0000" stop="20261026063000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bellator MMA</title>
-    <sub-title lang="en">286: Pitbull vs. Borics</sub-title>
-    <desc lang="en">Patricio Pitbull takes on Adam Borics in the main event from Oct. 1, 2022 in Long Beach, Calif.</desc>
-    <date>2022</date>
-    <category lang="en">Mixed martial arts</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/204acccb8743b697b23f2909b0cb4e4f.jpg" />
-    <episode-num system="onscreen">S2022 E162</episode-num>
-  </programme>
-  <programme start="20261026063000 +0000" stop="20261026083000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bellator MMA</title>
-    <sub-title lang="en">287: Piccolotti vs. Barnaoui</sub-title>
-    <desc lang="en">From Oct. 29, 2022 in Milan, Italy.</desc>
-    <date>2022</date>
-    <category lang="en">Mixed martial arts</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5552b4354db74219115b7dbd4520c9f0.jpg" />
-    <episode-num system="onscreen">S2022 E169</episode-num>
-  </programme>
-  <programme start="20261026083000 +0000" stop="20261026100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">Bellator MMA</title>
-    <sub-title lang="en">Bellator 292: Nurmagomedov vs. Henderson</sub-title>
-    <desc lang="en">From March 10, 2023, at SAP Center in San Jose, Calif.</desc>
-    <date>2023</date>
-    <category lang="en">Mixed martial arts</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c6e3ec554b5f4bf1833b7587e8079f8e.jpg" />
-    <episode-num system="onscreen">S2023 E26</episode-num>
-  </programme>
-  <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BIG3 Basketball</title>
-    <sub-title lang="en">Houston Rig Hands at DMV Trilogy</sub-title>
-    <desc lang="en">From Amerant Bank Arena in Sunrise, Fla.</desc>
-    <date>2026</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">3x3 basketball</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Houston Rig Hands</category>
-    <category lang="en">DMV Trilogy</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/ca7088246cb2acc3fbf30406f13b5405.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261026120000 +0000" stop="20261026140000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BIG3 Basketball</title>
-    <sub-title lang="en">Week 4: Los Angeles</sub-title>
-    <desc lang="en">Los Angeles hosts this week's stop of the BIG3 Basketball season.</desc>
-    <date>2026</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">3x3 basketball</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">The Fantasy Life Show</title>
-    <sub-title lang="en">Week 2 Stock Up, Stock Down</sub-title>
-    <desc lang="en">Kendall, Dwain &amp; Pete break down Week 1 usage, buy-lows, sell-highs &amp; 3 must-adds.</desc>
-    <date>2026</date>
-    <category lang="en">Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/274a10790e8ea15578982c6b4a29eae1.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">The Fantasy Life Show</title>
-    <sub-title lang="en">Week 2 Stock Up, Stock Down</sub-title>
-    <desc lang="en">Kendall, Dwain &amp; Pete break down Week 1 usage, buy-lows, sell-highs &amp; 3 must-adds.</desc>
-    <date>2026</date>
-    <category lang="en">Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/274a10790e8ea15578982c6b4a29eae1.jpg" />
-    <episode-num system="onscreen">S2026</episode-num>
-  </programme>
-  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Germany vs. Bosnia-Herzegovina</sub-title>
-    <desc lang="en">From 11/16/2024.</desc>
-    <date>2024</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2024 E43</episode-num>
-  </programme>
-  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">UEFA Nations League in 60</title>
-    <sub-title lang="en">Hungary vs. Germany</sub-title>
-    <desc lang="en">From 11/19/2024.</desc>
-    <date>2024</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
-    <episode-num system="onscreen">S2024 E47</episode-num>
-  </programme>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Warriors Collide</sub-title>
-    <desc lang="en">Witness three brutal battles where toughness meets technique: Itso Babulaidze vs. Bryan McDowell - A high-octane clash between rising contenders. Steven Banks vs. Joey Dawejko - Heavyweight Banks takes on boxing veteran Dawejko in a raw power show...</desc>
-    <date>2025</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S13 E5</episode-num>
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Squared Circle Savagery</sub-title>
-    <desc lang="en">Dec Spelman and John Redmond kick off the carnage in a relentless exchange of raw power, while Jack Cullen puts his rangy striking to the test against the hard-charging Marley Churcher. Joe Lister and Danny Wall throw down in a gritty scrap with n...</desc>
-    <date>2026</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S18 E7</episode-num>
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Sarro vs Burns &amp; More</sub-title>
-    <desc lang="en">Featuring exciting bare knuckle fight action as Chris Sarro takes on Josh Burns, Tyler Goodjohn fights Charles Bennett, and Sam Shewmaker tries to best Bobo O'Bannon.</desc>
-    <date>2022</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Ruggeri vs Diaz &amp; More</sub-title>
-    <desc lang="en">The best of bare knuckle fight action with Spencer Ruggeri vs David Diaz, Arnold Adams vs Bobo O'Bannon and Joe Elmore takes on Leonard Garcia.</desc>
-    <date>2022</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Hart vs VanZant &amp; More</sub-title>
-    <desc lang="en">Exceptional bare knuckle fights between MMA superstar Chris Leben vs Quentin Henry, Dat Nguyen vs Johnny Bedford, and Britain Hart battles Paige VanZant.</desc>
-    <date>2022</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
-    <title lang="en">BKFC: Knuckle Up</title>
-    <sub-title lang="en">Mike Richman vs Marcel Stamps &amp; More</sub-title>
-    <desc lang="en">Mike 'The Marine' Richman battles it out with Marcel Stamps in this popular fight. Also featuring the classic heavyweight bout Frank Tate vs Josh Burns.</desc>
-    <date>2022</date>
-    <category lang="en">Boxing</category>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/71e29a30c6ec897392fdf808cfa05223.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
   <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">BKFC: Knuckle Up</title>
     <sub-title lang="en">Beltran vs Shewmaker &amp; More</sub-title>
@@ -690,6 +523,13 @@
     <episode-num system="onscreen">S2026</episode-num>
     <premiere lang="en" />
   </programme>
+  <programme start="20261029153000 +0000" stop="20261029160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c621016f2d4de74788c123027b86891d.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
   <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
     <title lang="en">FIFA World Cup Qualifiers in 60</title>
     <sub-title lang="en">Iceland vs. France</sub-title>
@@ -746,196 +586,174 @@
     <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
     <episode-num system="onscreen">S2026 E187</episode-num>
   </programme>
-  <programme start="20261026003100 +0000" stop="20261026013400 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">GAME ON: Spotlight</title>
-    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 18.</desc>
+  <programme start="20261030003000 +0000" stop="20261030023000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Oscar De La Hoya vs. Manny Pacquiao &amp; Floyd Mayweather</sub-title>
+    <desc lang="en">Oscar De La Hoya takes on two of the greatest boxers in history in Floyd Mayweather and Manny Pacquiao.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/60f51f0b1adcd93baa33bc36e3e4fe62.jpg" />
+    <episode-num system="onscreen">S2026 E190</episode-num>
   </programme>
-  <programme start="20261026013400 +0000" stop="20261026021000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Dubai 2022 International Highlights.</desc>
+  <programme start="20261030023000 +0000" stop="20261030040000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Lights Out Xtreme Fighting</title>
+    <sub-title lang="en">LXF 8</sub-title>
+    <desc lang="en">The next great stars of MMA compete.</desc>
+    <date>2023</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eec80d1009147dc32393b3275273595a.jpg" />
+    <episode-num system="onscreen">S2023</episode-num>
   </programme>
-  <programme start="20261026021000 +0000" stop="20261026025100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Plymouth 2022 International Highlights.</desc>
+  <programme start="20261030040000 +0000" stop="20261030060000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Lights Out Xtreme Fighting</title>
+    <sub-title lang="en">LXF 9</sub-title>
+    <desc lang="en">LXF 9 live fights are back with the return of Shawne Merriman's Lights Out Xtreme Fighting.</desc>
+    <date>2023</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eec80d1009147dc32393b3275273595a.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20261026025100 +0000" stop="20261026032900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Saint-Tropez 2022 International Highlights.</desc>
+  <programme start="20261030060000 +0000" stop="20261030080000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Lights Out Xtreme Fighting</title>
+    <desc lang="en">From Aug. 26, 2023 at Casino Pauma in Pauma Valley, Calif.</desc>
+    <date>2023</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026032900 +0000" stop="20261026041000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP San Francisco 2023 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026041000 +0000" stop="20261026045100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Singapore 2023 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026045100 +0000" stop="20261026053200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Sydney 2023 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026053200 +0000" stop="20261026064700 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Sydney 2023 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026064700 +0000" stop="20261026080200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Sail GP</title>
-    <desc lang="en">Sail GP Christchurch 2023 International Highlights.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026080200 +0000" stop="20261026090200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Redefined Podcast</title>
-    <desc lang="en">From building Angel City FC to the Golden State Valkyries, Jess Smith has been at the forefront revolutionizing women's sports.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/937359109dbc8dc0/RedefinedLandscape.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026090200 +0000" stop="20261026100000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Redefined Podcast</title>
-    <desc lang="en">Peloton Tread Specialist Becs Gentry talks running 7 marathons on 7 continents in just 7 days with the Great World Race.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/937359109dbc8dc0/RedefinedLandscape.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026100000 +0000" stop="20261026115900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">GAME ON: Spotlight</title>
-    <sub-title lang="en">Ep 10</sub-title>
-    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eec80d1009147dc32393b3275273595a.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
   </programme>
-  <programme start="20261026115900 +0000" stop="20261026125900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Grip It and Rip It</title>
-    <sub-title lang="en">with Brittany Lincicome: 2018 LPGA CME Group Tour</sub-title>
-    <desc lang="en">Eight-time LPGA Tournament winner Brittany Lincicome discusses life on Tour, competition, and behind-the-scenes insight about competing in the 2018 CME Group Tour Championship.</desc>
+  <programme start="20261030080000 +0000" stop="20261030100000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Lights Out Xtreme Fighting</title>
+    <sub-title lang="en">LXF 11</sub-title>
+    <desc lang="en">From Oct. 7, 2023 in Long Beach, Calif.</desc>
+    <date>2023</date>
+    <category lang="en">Mixed martial arts</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/edac64f01da656dc/LPGAGolfLandscape.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eec80d1009147dc32393b3275273595a.jpg" />
+    <episode-num system="onscreen">S2023</episode-num>
   </programme>
-  <programme start="20261026125900 +0000" stop="20261026142800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">NWSL Soccer</title>
-    <sub-title lang="en">NWSL Teal Rising Cup</sub-title>
-    <desc lang="en">Third Place (Palmeiras vs CHI).</desc>
+  <programme start="20261030100000 +0000" stop="20261030113000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BIG3 Basketball</title>
+    <sub-title lang="en">Ghost Ballers vs Enemies &amp; 3s Company vs Bivouac</sub-title>
+    <desc lang="en">Three Headed Monsters vs Triplets and Killer 3s vs. Power. Trilogy vs Tri State and Aliens vs. Ball Hogs. From the Yuengling Center in Tampa, Fla.</desc>
+    <date>2024</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">3x3 basketball</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/eb4bc05540720d8b/WSNNWSL.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
+    <episode-num system="onscreen">S2024</episode-num>
   </programme>
-  <programme start="20261026142800 +0000" stop="20261026170600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">NWSL Soccer</title>
-    <sub-title lang="en">NWSL Teal Rising Cup</sub-title>
-    <desc lang="en">Championship (KC vs Corinthians).</desc>
+  <programme start="20261030113000 +0000" stop="20261030130000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">BIG3 Basketball</title>
+    <sub-title lang="en">Week 5</sub-title>
+    <desc lang="en">Week 5 action featuring: Bivouac vs. Ballhogs; Triplets vs. 3's Company; Killer 3s vs. Enemies. From Honda Center in Anaheim, Calif.</desc>
+    <date>2024</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">3x3 basketball</category>
+    <category lang="en">Sports event</category>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/eb4bc05540720d8b/WSNNWSL.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7be488e14add5c1a2887759e67de4f5d.jpg" />
+    <episode-num system="onscreen">S2024</episode-num>
   </programme>
-  <programme start="20261026170600 +0000" stop="20261026200900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">League One Volleyball</title>
-    <desc lang="en">League One Volleyball - Atlanta v Houston.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/dd00bbdd6ba3c275/LeagueOneVolleyballLandscape.png" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+  <programme start="20261030130000 +0000" stop="20261030133000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Fubo Sports News</title>
+    <desc lang="en">Keep up with the sports you love.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d65382a8a83bd85ab9a2b4ef639c1373.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
   </programme>
-  <programme start="20261026200900 +0000" stop="20261027000200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
-    <title lang="en">Redefined Podcast</title>
-    <desc lang="en">Brandi Chastain chats the redefining moments of being an athlete and owner, plus USWNT's most iconic victory.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/937359109dbc8dc0/RedefinedLandscape.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20261030133000 +0000" stop="20261030140000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Football Report</title>
+    <desc lang="en">Top level coverage of the most relevant news from the world of soccer.</desc>
+    <date>2026</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a66b6a01d823ddfacbfe134606047c80.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
     <premiere lang="en" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030153000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">The Hoops HQ Show</title>
+    <desc lang="en">Veteran reporters Seth Davis and Andy Katz break down the latest news in men's and women's college basketball, providing their expert analysis and insights, along with exclusive interviews with players, coaches and newsmakers.</desc>
+    <date>2026</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b71bbf0d1bf90dec18be269ab8a84510.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20261030153000 +0000" stop="20261030160000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">The Hoops HQ Show</title>
+    <desc lang="en">Veteran reporters Seth Davis and Andy Katz break down the latest news in men's and women's college basketball, providing their expert analysis and insights, along with exclusive interviews with players, coaches and newsmakers.</desc>
+    <date>2026</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b71bbf0d1bf90dec18be269ab8a84510.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030170000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">FIFA World Cup Qualifiers in 60</title>
+    <sub-title lang="en">England vs. Albania</sub-title>
+    <desc lang="en">From March 21, 2025.</desc>
+    <date>2025</date>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0d6e47cae143c6259da0e9dbd8a4335b.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">UEFA Nations League in 60</title>
+    <sub-title lang="en">England vs. Senegal</sub-title>
+    <desc lang="en">From June 10, 2025.</desc>
+    <date>2025</date>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c7716caf6fb9153ae4b18754cb31f12e.jpg" />
+    <episode-num system="onscreen">S2025 E60</episode-num>
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030193000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night Sturgis: Acheson vs. Jones</sub-title>
+    <desc lang="en">Bryant Acheson (5-0) vs. Mike Jones (3-1), cruiserweight; Bear Hill (2-1) vs. Brady Meister (2-2), heavyweight; Shyanna Bintliff (1-1) vs. Crystal Pittman (3-4), women's bantamweight. From Sturgis Buffalo Chip in Sturgis, S.D.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E163</episode-num>
+  </programme>
+  <programme start="20261030193000 +0000" stop="20261030213000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Derby</sub-title>
+    <desc lang="en">Featuring Conor Cooke vs Anthony Holmes live from Derby, UK!</desc>
+    <date>2025</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E138</episode-num>
+  </programme>
+  <programme start="20261030213000 +0000" stop="20261030233000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Fight Night: Mohegan Sun</sub-title>
+    <desc lang="en">Featuring a heavyweight clash between Parker Porter and Josh Copeland live from Mohegan Sun!</desc>
+    <date>2025</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E139</episode-num>
+  </programme>
+  <programme start="20261030233000 +0000" stop="20261031020000 +0000" channel="plex.tv.Fubo.Sports.Network.plex">
+    <title lang="en">Bare Knuckle Fighting Championship</title>
+    <sub-title lang="en">BKFC Knucklemania VI</sub-title>
+    <desc lang="en">From the Xfinity Mobile Arena in Philadelphia, featuring a heavyweight title fight between champion Ben Rothwell and Andrei Arlovski, and a co-main event with Lorenzo Hunt vs. Yoel Romero. Also, a rematch between Jade Masson-Wong and Crystal Pittman.</desc>
+    <date>2026</date>
+    <category lang="en">Boxing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/77390dcb9a81df2a9eb62f626a8dda46.jpg" />
+    <episode-num system="onscreen">S1 E141</episode-num>
   </programme>
   <programme start="20261027000200 +0000" stop="20261027023000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">2025 Red Bull Rampage</title>
@@ -952,7 +770,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">This week, Duke soccer alum Casey Martinez explains her decision to NOT go pro, balancing soccer with being a student-athlete and her transition into sports medicine.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -988,7 +806,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">This week, Duke soccer alum Casey Martinez explains her decision to NOT go pro, balancing soccer with being a student-athlete and her transition into sports medicine.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1023,7 +841,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E21</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1055,7 +873,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">This week, Duke soccer alum Casey Martinez explains her decision to NOT go pro, balancing soccer with being a student-athlete and her transition into sports medicine.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1066,7 +884,7 @@
     <title lang="en">League One Volleyball</title>
     <desc lang="en">League One Volleyball - Atlanta v Nebraska.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/dd00bbdd6ba3c275/LeagueOneVolleyballLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/129cf8a5e096b62a/LeagueOneVolleyballLandscape.png" />
     <episode-num system="onscreen">S2 E24</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1113,7 +931,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">Former NWSL goalkeeper turned social media star Brittany Isenhour talks pivoting from soccer pro to content creation!</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1124,7 +942,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 17.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E17</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1145,7 +963,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 17.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E17</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1177,7 +995,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">This week, Duke soccer alum Casey Martinez explains her decision to NOT go pro, balancing soccer with being a student-athlete and her transition into sports medicine.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1189,7 +1007,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S9 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1210,7 +1028,7 @@
     <title lang="en">Sail GP</title>
     <desc lang="en">Sail GP San Francisco 2023 International Highlights.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2684993bd4d91388/SailGPLandscape.png" />
     <episode-num system="onscreen">S3 E9</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1221,7 +1039,7 @@
     <title lang="en">Sail GP</title>
     <desc lang="en">Sail GP Dubai 2022 International Highlights.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2684993bd4d91388/SailGPLandscape.png" />
     <episode-num system="onscreen">S3 E6</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1267,7 +1085,7 @@
     <title lang="en">Sail GP</title>
     <desc lang="en">Sail GP San Francisco 2023 International Highlights.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/4e5f9020816d016e/SailGPLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2684993bd4d91388/SailGPLandscape.png" />
     <episode-num system="onscreen">S3 E9</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1279,7 +1097,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">This week, physical therapist Kate Sneddon joins to talk about ACL injury recovery and navigating the journey as a young soccer player.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E7</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1290,7 +1108,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 20.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E20</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1301,7 +1119,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 18.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E18</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1312,7 +1130,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 19.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E19</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1336,7 +1154,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S9 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1371,7 +1189,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S9 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1395,7 +1213,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">San Diego Wave star and five year NWSL veteran Kiki Pickettt talks about her career and the unknown of signing with a new team.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S9 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1430,7 +1248,7 @@
     <sub-title lang="en">The Soccer Girl Podcast</sub-title>
     <desc lang="en">Former NWSL goalkeeper turned social media star Brittany Isenhour talks pivoting from soccer pro to content creation!</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/d78dbc3dd25d9209/SoccerGirlLandscape.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/73e3de2fc77a90e3/SoccerGirlLandscape.jpg" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1442,7 +1260,7 @@
     <sub-title lang="en">Ep 8</sub-title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1463,7 +1281,7 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 17.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E17</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -1516,6 +1334,18 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20261029201800 +0000" stop="20261029221900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2016 International Crown -</sub-title>
+    <desc lang="en">The United States wins by 1 point over South Korea in the 2nd installment of the International Crown team event.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20261029221900 +0000" stop="20261029235800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
     <title lang="en">League One Volleyball</title>
     <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
@@ -1530,8 +1360,176 @@
     <title lang="en">GAME ON: Spotlight</title>
     <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/04519d069c6266d8/GameOnSpotlightLandscape.png" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
     <episode-num system="onscreen">S1 E21</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030031200 +0000" stop="20261030041900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030041900 +0000" stop="20261030062300 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2021 Solheim Cup</sub-title>
+    <desc lang="en">A nail biter played in Ohio, Europe squeaked by the United States to capture only their 2nd road win in Solheim Cup history.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030062300 +0000" stop="20261030073100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030073100 +0000" stop="20261030091200 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">League One Volleyball</title>
+    <desc lang="en">League One Volleyball - Houston v Salt Lake City.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/6d2c7c5a94714f33/LeagueOneVolleyballLandscape.png" />
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030091200 +0000" stop="20261030100000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030100000 +0000" stop="20261030120100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 7.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030120100 +0000" stop="20261030130100 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">GAME ON: Spotlight</title>
+    <sub-title lang="en">Ep 8</sub-title>
+    <desc lang="en">GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/fd651efa767615f4/GameOnSpotlightLandscape.png" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030130100 +0000" stop="20261030150800 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Northwoods Softball</title>
+    <desc lang="en">Short Description.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/6b99526dca9c815f/La-Crosse-Steam-v-Wausau-Ignite-20250610233000999_384x216.png" />
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030150800 +0000" stop="20261030170600 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Northwoods Softball</title>
+    <desc lang="en">Short Description.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/3f3a2f7ab9e6df96/Mankato-Habaneros-v-La-Crosse-Steam-20250617233000999_96x54.png" />
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030170600 +0000" stop="20261030191000 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2021 ANA Inspiration</sub-title>
+    <desc lang="en">With her wire-to-wire victory, Patty Tavatanakit becomes the first rookie to win the ANA Inspiration since Juli Inkster in 1984.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030191000 +0000" stop="20261030201300 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2015 KPMG Women's PGA Championship -</sub-title>
+    <desc lang="en">Inbee Park becomes only the 2nd player in LPGA history to win 3 straight KPMG Women's PGA Championships, her 6th career major.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030201300 +0000" stop="20261030211500 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2018 CME Group Tour Championship -</sub-title>
+    <desc lang="en">Lexi Thompson wins the 2018 CME Group Tour Championship by 4 strokes, clinching the 2018 "Race to the CME Globe" and a $1,000,000 bonus.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030211500 +0000" stop="20261030224400 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">LPGA Golf</title>
+    <sub-title lang="en">2014 LPGA Lotte Championship -</sub-title>
+    <desc lang="en">Overcoming a final round deficit of 4 strokes, Michelle Wie wins her third LPGA Tour event and her first in the United States) at the 2014 LPGA Lotte Championship.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/72a2804f67526740/LPGAGolfLandscape.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030224400 +0000" stop="20261030235900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">Sail GP</title>
+    <desc lang="en">Sail GP Halifax 2023 International Highlights.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/2684993bd4d91388/SailGPLandscape.png" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030235900 +0000" stop="20261031030900 +0000" channel="plex.tv.Women`s.Sports.Network.plex">
+    <title lang="en">League One Volleyball</title>
+    <desc lang="en">League One Volleyball - 2026 Championship Match 1 - Salt Lake City vs Atlanta.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01416/asset_artifacts/image/fetch_media/129cf8a5e096b62a/LeagueOneVolleyballLandscape.png" />
+    <episode-num system="onscreen">S2 E27</episode-num>
     <premiere lang="en" />
     <rating system="US">
       <value>PG</value>
