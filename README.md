@@ -1,4 +1,4 @@
-- **Total Checked:** 68
-- **Online:** 63
-- **Offline / Failed:** 5
-- **Last Checked:** 2026-11-01 23:43:20 UTC
+- **Total Checked:** 63
+- **Online:** 61
+- **Offline / Failed:** 2
+- **Last Checked:** 2026-11-02 09:43:49 UTC
