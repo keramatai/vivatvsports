@@ -1,29 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlanta United vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlanta United vs Toronto FC (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3d/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNkOjE3OTM1ODIzNDc1NjQ6Y2RubGl2ZXR2LnR2OjQ5Y2Y2NWE0YjFkZTY5NjUuMjFmOTViNjdmNDhhZGE0MzEzYjA1NWQ0MDgzODBmNjU2OGVlZGZjNzRmMzM0MGQ2NjllMzlhNTRlMzVlMmNmOQ
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cuiabá vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Cuiabá vs São Bernardo (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM1ODIzNDc3NzY6Y2RubGl2ZXR2LnR2OjEyMTRiMzdjYTk1YTI2Y2EuZmZiMGRiMGVhODkzMWNjNjRjMGM4NDFjNzJjZDhmOTZkOGYxMTg3MjM4MjFkNzQ2MmM3MjM2NjcyMmYwZDc2Yw
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Londrina vs América Mineiro (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Londrina vs América Mineiro (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM1ODIzNDc0MzE6Y2RubGl2ZXR2LnR2OjI2MDA3MWRlZTE4MzRlZTkuNDM5OGEwZTM0MWY3NGU5ZjM4YmVhZWM0OTk0NTU2Yjg0ZDQwZjM2NjFjYmNhODQ3ZmE0MTk1NGMxNzFmOGU0OQ
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New England Revolution vs Inter Miami (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New England Revolution vs Inter Miami (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] New England Revolution vs Inter Miami (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] New England Revolution vs Inter Miami (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e0736411e0/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMWUwOjE3OTM1ODIzNDgwNzk6Y2RubGl2ZXR2LnR2OjM0OTM3ZTM0MjAzNTFlOGQuMWU5YWQ0Y2M3Y2VmODAwYmZiOWMzOTA4YzFmNjY5ZmIxYTNiZmRmYWU4NmEwZGEyOGRkNGM0MjVhMTMxZDYzYw
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Novorizontino vs Operário Ferroviário (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Novorizontino vs Operário Ferroviário (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM1ODIzNDc5MTQ6Y2RubGl2ZXR2LnR2OjRkZTNkNGI2NDliMjQ4ZmIuMGE0ZWU0MzE4MGM2MTU0NzYzMjFhYmYxMTBmOTZkMDk2ZjczYzdjOGU2ZjZiMmMwNjBiNGJiZDc3OGI2OTkyNg
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portland Timbers vs Houston Dynamo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portland Timbers vs Houston Dynamo (CDNLIVE)
+https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e0736411e0/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMWUwOjE3OTM1OTU0Mjg4MTE6Y2RubGl2ZXR2LnR2OmZiOTgzN2Q1YWI0MDk1MjEuMWU2ZGY4YmIwZTFiNGU3NTFlYTM4YTIzYTk4NzU1ZjEzNjEwMWZlMTFkNjQwMWM5OTdiMjkyYWQxZmYxNmM4ZA
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Portland Timbers vs Houston Dynamo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Portland Timbers vs Houston Dynamo (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf23/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIzOjE3OTM1ODIzNDgyMjc6Y2RubGl2ZXR2LnR2OjBlNDA1YzVjOGMwZjY4NDEuMjA0YjA2NjU0NDllYWVlYWQyOTBlZTBlMzI3Nzk1N2I1MmYxMGVlMjViZGNmNDhjYTM0YTI5ZmVjMTMxOGY0NA
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTM1ODIzNTA4MzA6Y2RubGl2ZXR2LnR2OmI0ZjJiNGY0OWU0Yzg2NmEuMDU4N2JkYzM0NmE4YmRlNmUwOGVjZDQwOGEwZWIwOWVlZTYwODMzMzVjNzkxNDk3N2RiZTgwZDY2NzllNjA0OQ
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf23/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIzOjE3OTM1OTU0Mjg5MzI6Y2RubGl2ZXR2LnR2OmU4MWI4OTMzNTBhNWJmZjUuYzBjMmQ5NTQwYTM2NDM3NjZmMWExN2FlYmYzYjMzZTNhZTNlYzYyZmIzNWUwYWEzYzEwZDM2MGJkNjA2ODIzYg
