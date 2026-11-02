@@ -1,13 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Athletic Club-MG vs Ceará (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Athletic Club-MG vs Ceará (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM2NTQzMzc1NjI6Y2RubGl2ZXR2LnR2OjhkODI0MGRjNzE1MTg5ZDguMWU4ZmJiMjJjOWE3ZmQ2NzE5OWI5MzdlNDFiYmYxNjkxMzNmM2MzM2VjYTM0MDgzOTliYjc4MDM3NzZjNTc5NQ
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Fortaleza vs Atlético Goianiense (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Fortaleza vs Atlético Goianiense (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM2NTQzMzc0Mjg6Y2RubGl2ZXR2LnR2OjAwMjdiOTc3MzY4M2MzOTMuMThiZTNkYWI2MGFjYzk0OWRmOWE1ZTBjMzNjZmViMDAzNDdkNzc5MDk0M2RjYWRjMTNlNDUyNzcwYjQyMmJkZA
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Goiás vs CRB (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Goiás vs CRB (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTM2NTQzMzc2OTg6Y2RubGl2ZXR2LnR2OmYwZmNlZGE5YThhZTJjNDQuZjVlYzc1YTkxMDJiNTU3YzAzZjk4NzYzYWNkZWQwYzM2MDVlNjlhODg0OWNlYmQ4YTNjZDlhMDkxN2RiMTRjZA
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364058b/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNThiOjE3OTM2NzgzMTc0MDY6Y2RubGl2ZXR2LnR2OmU2MzQwOWU1ZmY4MmMwOWUuMzBjODNlOTRhMTgzMTg4ZDdlOGFhMzIwNTcwNzZlZTY1NTA0Zjg4NGFlYmZmZDcxNjEwNDIxMDhmMjhiNDU4Nw
