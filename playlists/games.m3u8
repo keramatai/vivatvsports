@@ -1,21 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Avaí vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Avaí vs São Bernardo (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODcxNTI6Y2RubGl2ZXR2LnR2OjRkMzFiZDhiODEzNGNlMDYuZmVjZTY4YTQ4NGMyODI0Nzc2MjA0NmJiMjcyYTE2N2RiMTkxNDc5ZDFhOTljNGJhMGI1OWU5MDBmNDlmNTVlZg
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Novorizontino vs Fortaleza (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Novorizontino vs Fortaleza (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODczNTk6Y2RubGl2ZXR2LnR2OjUyYmRmYTQyMjVjMWY2ZjUuYzM1ODEwZTMwYmEwM2MyODhlNmZhMzMxYzJkZDI4ZjlkZDVkNWM0NWYzYzFjZTIzZDFiOWJjZmZlNDQ0NDAxNA
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Náutico vs CRB (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Náutico vs CRB (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODc3NjA6Y2RubGl2ZXR2LnR2OmFiYWNmODg3YzgwNWNlMjEuYWQ1ZGEwNjRjZTRhOTY5NjhmOWQ2Yzk3N2M5MWU4ZDQ2Y2NkZDQ2ZGIzYTQ3YzZhMmJkMmE3OWZkZWMyNmY3OA
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Union vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Philadelphia Union vs Toronto FC (CDNLIVE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Union vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Philadelphia Union vs Toronto FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTQwOTczODc1NTI6Y2RubGl2ZXR2LnR2OjZlNzM5MjNlMTQ5MzUwMzcuNWE0Y2FiZDhhMGE2MWI2NWNkOGM1NDM5NDkzYWVjMzk3YTFiYTQwMWI2OTQ4NWYyZDA3MDE0MGNiOGZmMGZlZQ
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTQwOTc0MDcxOTE6Y2RubGl2ZXR2LnR2OjUxNWYxNTg0ZTYxNDA5OTMuOGNkNjA2YWQzN2YxYzFjNGQ0ODJhOTVjMWQyMzhjYjc1M2EwMmNmY2YzNWU1MDRhZTlkMTljMmU5N2E0ZmRjOA
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTQxMDk1ODAzNzU6Y2RubGl2ZXR2LnR2OmI2YWIxZjUzOGJkNDJkMDQuYTFhMjdkOWE4YWFhOTY0YjgzZTlhMDdmZjJlMTE5MDM4MGM5ZjlhMTgxODhhNmU2ZDc0ZGVhY2M5YmFmY2ZkZQ
