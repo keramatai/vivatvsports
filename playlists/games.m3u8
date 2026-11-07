@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Avaí vs São Bernardo (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Avaí vs São Bernardo (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQwODE3MzI2NDE6Y2RubGl2ZXR2LnR2OjA5NjcyMWY2NDlkZGVjZjkuZDgyZjcyZWUzMWRiMmEzMDJmMDJmZDcxMWQ3YWU3NjYyYjhhOGQwMzUxODk0ZjY4MGNmOTA1ODBkYmM2ZTBmYw
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODcxNTI6Y2RubGl2ZXR2LnR2OjRkMzFiZDhiODEzNGNlMDYuZmVjZTY4YTQ4NGMyODI0Nzc2MjA0NmJiMjcyYTE2N2RiMTkxNDc5ZDFhOTljNGJhMGI1OWU5MDBmNDlmNTVlZg
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Novorizontino vs Fortaleza (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Novorizontino vs Fortaleza (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQwODE3MzI4MDU6Y2RubGl2ZXR2LnR2OmQwM2FlNmFlZThmYWQ2OWQuZTBiZmNkMTE2OTY4NDdmZGYzYmIzMTYyNDRjYmYwYTA5YjMyNzQ5ZTdlNzRjMDgxMWMwZTQxMGM2ZmE4YmU5NA
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODczNTk6Y2RubGl2ZXR2LnR2OjUyYmRmYTQyMjVjMWY2ZjUuYzM1ODEwZTMwYmEwM2MyODhlNmZhMzMxYzJkZDI4ZjlkZDVkNWM0NWYzYzFjZTIzZDFiOWJjZmZlNDQ0NDAxNA
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Náutico vs CRB (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Náutico vs CRB (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQwODE3MzMxNjA6Y2RubGl2ZXR2LnR2OmI2YmM5ODQ5ZTdmZWVlYjQuOTNlNDFjM2U3NTFkOWZjMGVmYWU2NzVlZTIzNWUwN2I4NjI3MTgxNDNjYjkxZTA2MDk3NGRkNjgzMDMyNWEzZg
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e073640598/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTk4OjE3OTQwOTczODc3NjA6Y2RubGl2ZXR2LnR2OmFiYWNmODg3YzgwNWNlMjEuYWQ1ZGEwNjRjZTRhOTY5NjhmOWQ2Yzk3N2M5MWU4ZDQ2Y2NkZDQ2ZGIzYTQ3YzZhMmJkMmE3OWZkZWMyNmY3OA
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Philadelphia Union vs Toronto FC (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Philadelphia Union vs Toronto FC (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTQwODE3MzI5NjE6Y2RubGl2ZXR2LnR2OmRhZDM2YTNmNjZjYjliZDYuODljNjZmZDJkNThmNjY3OTRiMWFjNGQxNTZlYzg2NWU1ZTFkZmFiMWM1OTQzZmQ1YTc3NmUzNWU4YjRmNTc5ZQ
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTQwOTczODc1NTI6Y2RubGl2ZXR2LnR2OjZlNzM5MjNlMTQ5MzUwMzcuNWE0Y2FiZDhhMGE2MWI2NWNkOGM1NDM5NDkzYWVjMzk3YTFiYTQwMWI2OTQ4NWYyZDA3MDE0MGNiOGZmMGZlZQ
 #EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTQwODE3NTkyMjQ6Y2RubGl2ZXR2LnR2OjRkZTk3MTEzNzM1OGI2MmIuYjU3YjIyZWJiYTQzZGY3ODY2N2U3YTVjYzE4OTcwY2UxOTkwYjhmN2ZlOGI3YzJkZTM3ZDhmN2IxZjcwZDVhNg
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTQwOTc0MDcxOTE6Y2RubGl2ZXR2LnR2OjUxNWYxNTg0ZTYxNDA5OTMuOGNkNjA2YWQzN2YxYzFjNGQ0ODJhOTVjMWQyMzhjYjc1M2EwMmNmY2YzNWU1MDRhZTlkMTljMmU5N2E0ZmRjOA
