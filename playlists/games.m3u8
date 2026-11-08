@@ -1,2 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Athletic Club-MG vs Atlético Goianiense (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Athletic Club-MG vs Atlético Goianiense (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQxNDk5NDU5NDI6Y2RubGl2ZXR2LnR2Ojg5NjZmODgwNTk1YWQ0NjIuMTQxYTJmODUzMTI3M2M4NGMzZjFlZDRjMzUwNTY0MTUzNjQwNTRjN2I1ZTgzNmVmZWY5YmNiYmY1YjUzOGQ1OQ
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ceará vs América Mineiro (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ceará vs América Mineiro (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQxNDk5NDYxMjg6Y2RubGl2ZXR2LnR2OjQ0M2IyODcxNGRjMTU1ZTIuNzgwOTEyNGRkOGM3ZjhlMGIwOGU1YTI1MDk3MmJhYWQ0ZmMzNzYwNDJlMWI3MDk3ZTQyZGQ5ZmE2NDJjMWRiYQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Goiás vs Ponte Preta (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Goiás vs Ponte Preta (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQxNDk5NDYzMTk6Y2RubGl2ZXR2LnR2OjhkMTZkNTE4NjFlMGY4N2IuOWExY2RjY2ZlMGE5YmNhYjQ4YmUwZDgyMmU0ZTg2OTI1OWE5MWRkMjYyYjA3NDIzYzg3OGYzYWQ5MTI0YWE0Nw
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQxNDk5NDgzMDY6Y2RubGl2ZXR2LnR2OmVhN2FhMGZjYzY0ODZkOGMuZmFlZGY3N2ZiNmYwZDk4ZjJlMTJiZDM0YjQyYWUzOTI5NWI1YjJlMGYyZTM0YWRjMDA2ZDgwNTEzOTQ4Y2ZjZQ
