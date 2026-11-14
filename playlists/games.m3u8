@@ -1,13 +1,2 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Argentina vs Uruguay (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Argentina vs Uruguay (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e0736406a4/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNmE0OjE3OTQ2MjQ0MDM1Mjc6Y2RubGl2ZXR2LnR2OmMwMWIzOGI1YmFkZDZhNTYuYzc5OWU1N2VlYWNmODRjODkxODc1MzkzMWZiMTFhMzE4MjY0MmVjYzZjMGM3Njg0NzI2OGNjNDBjZjI3ZWZiMA
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Colombia vs Chile (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Colombia vs Chile (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641357/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMzU3OjE3OTQ2MjQ0MDMzOTI6Y2RubGl2ZXR2LnR2OmFlOTQ1ZWUwMGIyYTdjNTUuM2EzMTIwZmUxMWQ0YjA2NmVkZmU2Yjk4OGNmYTk5NDQzODZjMjliMGM3M2UxYzk2NmFhN2RhMmYxMzdjYjViNw
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ecuador vs Costa Rica (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ecuador vs Costa Rica (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%203%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641356/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMzU2OjE3OTQ2MjQ0MDM2Njc6Y2RubGl2ZXR2LnR2OjcwYWUwYmZlZGM1MmFlZDYuMTQ0OGM1NGY2YTBhZDc0NTMyZTMyZDQ5ZWNmNjNiOGUyNGMyMTgzY2MyNWIwNTQxMTBiZjgyZjU2ZTdhMDFjOA
+
