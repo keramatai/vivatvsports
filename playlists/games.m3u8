@@ -1,2 +1,41 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] América Mineiro vs Avaí (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] América Mineiro vs Avaí (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDkwMjk6Y2RubGl2ZXR2LnR2OjhmNmEwMjczNzI2YWE5ZWMuZTliNDg5ZTVkZjEzMjQ0NTQ1NzZkNWZmNzQ2ZWExMjVlMDE2MDA5NWRjNTYzMDkyYzM0MzM1ZGQ1MjBjNzFkNg
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlético Goianiense vs Cuiabá (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Atlético Goianiense vs Cuiabá (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDkxNzY6Y2RubGl2ZXR2LnR2OjQwODM2OWMzOTI5MTEwOTguN2Q5YjgxN2Y5OGJkNWE0OTZmODI1NWU2ZTI5N2YxM2U4NzI1OWM4ZDg1OTUxMzhlOWZiNzVkOTU3MTdmZmY1NQ
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Football] CRB vs Ceará (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] CRB vs Ceará (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDkzMDk6Y2RubGl2ZXR2LnR2OjhhM2EyNzRhNTQ5ODg1MWQuZTZjNzQ3ZGUxOGM2MjFmODczMjMxZTY1ODBkYzdkZTFkODUyMGUzYTMzODM1ZTg5NTk2MTk5NTU3MDQ5N2FmNg
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Criciúma vs Novorizontino (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Criciúma vs Novorizontino (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDk0NTA6Y2RubGl2ZXR2LnR2OjMyYjdmMWUxY2MwY2RiMDguMjIxNjc4MTgwY2Y3ODI5OGNkNDk0YzE0MmIxNTA1YmU3MGUyNjM3ZTEzZGE4MmE0MjdlOThiZjQ3NmVjMmVhOQ
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Fortaleza vs Vila Nova (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Fortaleza vs Vila Nova (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDk1OTg6Y2RubGl2ZXR2LnR2OjEzM2Q0ZjJlOWMwOGFkMTUuOTRhNTJiNmFkYzg5ZjQyYWE3ZTRiYzRjYjMzYTllNGE3Yjg4NDJhMTQ2Zjk5ODVmN2E0YzE2ZmM2ODU4ZTQ3YQ
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Juventude vs Botafogo-SP (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Juventude vs Botafogo-SP (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDk3Mjk6Y2RubGl2ZXR2LnR2OjFkMjU3ZDJmOGNkYzMwOWMuZWRjNDIxOTU1M2Y5MGExNWZlYTdjNGVmMWEyN2FlODg2YmRmYzgwY2M5MzQ4NmY4ZTQzZTUwYzdmYTk0NWMzOQ
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Londrina vs Náutico (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Londrina vs Náutico (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NDk4Njg6Y2RubGl2ZXR2LnR2OmZiMzczNDY4NDlkZTY3Y2MuYTY3NGMxYTYxMzcwZTE1YzMxNjM0MTBjZDMyMWY2ODRkMDFjODc0YTU4ODQwNDc1NTg5ZDEzZDE3MzU5ZGRiZA
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ponte Preta vs Operário Ferroviário (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Ponte Preta vs Operário Ferroviário (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NTAwMDg6Y2RubGl2ZXR2LnR2OjRlZDZiN2ZkYjc2NTUwYzUuNGUzNGQwNGNkZTQ4OWE2ZDQ3MjVlNWNlMWRkNzUwMzg4MjU5YWI3YmZmOTk1NTFlZTliZDY1MjY4M2UxYjNkNw
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Sport Recife vs Goiá (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Sport Recife vs Goiá (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NTAzMDU6Y2RubGl2ZXR2LnR2Ojc2MWYzNjY2MTY3MmY0NjkuY2RhZThmNzJkOGUzMmJjZTVjZGNmMjA0ZmMxZjJlYTNlMWUxMzY3ZGY3ZmZhMWY5MjQyYWRhNGU2MzQ0M2Y3ZQ
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Football] São Bernardo vs Athletic Club-MG (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] São Bernardo vs Athletic Club-MG (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e07364059f/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNTlmOjE3OTQ2NjM4NTAxNTk6Y2RubGl2ZXR2LnR2OjY3YmFmYzMwMTA3MmUzY2MuZGZmNDkxZGY4ZDY2OGIwNWUzN2JjNjk1YmZjMTk0ZWRhZGZhYzNkN2E2YjQyMzg2ODMwNmY5YWFiODE2ODc4NQ
