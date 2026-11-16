@@ -1,2 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Andorra vs Azerbaijan (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Andorra vs Azerbaijan (CDNLIVE)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c9b4/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjOWI0OjE3OTQ4MjY3NzU1Mzg6Y2RubGl2ZXR2LnR2OjI2MzkyNzAyZjRmMjU1MTYuYTdkYjhlOTI5MjUwOTgyNDE1ODQxNjNhYmRlZDEzMGYwYmEwNjMwODJmM2FhMDY4MDYxMDg5YTUzMzcwYzg5YQ
