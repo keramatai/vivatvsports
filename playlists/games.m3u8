@@ -1,9 +1,2 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Argentina vs Costa Rica (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Argentina vs Costa Rica (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b22d4a99e0736406a4/playlist.m3u8?token=NmFkZDQwYjIyZDRhOTllMDczNjQwNmE0OjE3OTQ5NTI5OTMzMjY6Y2RubGl2ZXR2LnR2OmFhYjY1NGQ2ZGE2ZTk1NzYuZmE3ODEzODhhZmY3ODdjOWU2ZGNhZGNkNWYzNmUwODgyZmQzMTExMjdhZjM1N2U1YmJmOWNiMTFkZjI0Nzg3YQ
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Croatia U21 vs Germany U21 (CDNLIVE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="▷ Sukan 2",[Football] Croatia U21 vs Germany U21 (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ProSieben%20Maxx%20FHD%20DE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c699/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNjk5OjE3OTQ5NTI5OTMxNTI6Y2RubGl2ZXR2LnR2OmE2NTA1MDgwMGVmODdiOTkuM2YxMzFmOWI1YThjZDkyMTlhYTk0OTgzNTg5YmQ4Y2VhMjVmMDUyM2FkZTUwZWY1OTkwM2IzOTE5NGJhYzI1OQ
+
