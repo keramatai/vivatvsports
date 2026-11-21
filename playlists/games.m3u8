@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/keramatai/vivatvsports/refs/heads/default/scripts/epg.xml"
 #EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Motorsport]  (CDNLIVE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="▷ Sukan 2",[Motorsport]  (CDNLIVE)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTUyNjYyNDcxMTA6Y2RubGl2ZXR2LnR2OmNmODI1NmEzYWU0MjliNjAuZGJhMjQzMTBlYjYzNmQ0YmE0N2JkNmU2ZjE1MGFlYjhhMzI2MTNmMTkyMDkwMTkxOWQ5Y2E3Nzk0YWU4NjA0Mw
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c770/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjNzcwOjE3OTUyOTQ0MTQ1ODE6Y2RubGl2ZXR2LnR2OjkxN2Y4MzkwM2U5YjY4YTUuYmFhNWQ4ZjM4ZTE1NmE0M2JjY2U0ZDE4MDIxM2UwYWNlNDFmYzdkYjJmMjg4NzlkZjRiODE2NjM0NTQ3ODUyYQ
